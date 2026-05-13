@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -169,4 +170,177 @@ setInterval(loadDashboard, refreshInterval);
 </script>
 
 </body>
+=======
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Daily Email Dashboard</title>
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+    }
+
+    .status-present {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .status-missing {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+
+    .card {
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+
+<body class="bg-gray-50 text-gray-900 p-6">
+
+  <!-- HEADER -->
+  <div class="text-center mb-6">
+    <h1 class="text-3xl font-bold text-blue-700">📧 Daily Email Dashboard</h1>
+    <p id="date" class="text-gray-500"></p>
+  </div>
+
+  <!-- SUMMARY -->
+  <div class="grid grid-cols-3 gap-4 max-w-5xl mx-auto mb-6 text-center">
+
+    <div class="card bg-white p-4 rounded-xl">
+      <p class="text-sm text-gray-500">Total</p>
+      <p id="total" class="text-2xl font-bold">0</p>
+    </div>
+
+    <div class="card bg-white p-4 rounded-xl">
+      <p class="text-sm text-gray-500">Present</p>
+      <p id="present" class="text-2xl font-bold text-green-600">0</p>
+    </div>
+
+    <div class="card bg-white p-4 rounded-xl">
+      <p class="text-sm text-gray-500">Missing</p>
+      <p id="missing" class="text-2xl font-bold text-red-600">0</p>
+    </div>
+
+  </div>
+
+  <!-- SEARCH -->
+  <div class="max-w-5xl mx-auto mb-4">
+    <input id="searchBox"
+      type="text"
+      placeholder="Search subject..."
+      class="w-full p-2 border rounded-lg"/>
+  </div>
+
+  <!-- TABLE -->
+  <div class="max-w-5xl mx-auto bg-white rounded-xl card overflow-x-auto">
+
+    <table class="w-full text-sm">
+      <thead class="bg-blue-100">
+        <tr>
+          <th class="p-2">#</th>
+          <th class="p-2">Subject</th>
+          <th class="p-2">Expected Time</th>
+          <th class="p-2">Received Time</th>
+          <th class="p-2">Status</th>
+        </tr>
+      </thead>
+
+      <tbody id="emailTable"></tbody>
+
+    </table>
+
+  </div>
+
+<script>
+
+const emailFile = "data.json";
+let allEmails = [];
+const refreshInterval = 10000;
+
+// LOAD DASHBOARD
+async function loadDashboard() {
+
+  document.getElementById("date").innerText =
+    new Date().toLocaleString();
+
+  try {
+
+    const res = await fetch(emailFile + "?t=" + Date.now());
+
+    const data = await res.json();
+
+    allEmails = data;
+
+    // COUNTS
+    const present = data.filter(e => e.Status === "Present").length;
+    const missing = data.filter(e => e.Status === "Missing").length;
+
+    document.getElementById("total").innerText = data.length;
+    document.getElementById("present").innerText = present;
+    document.getElementById("missing").innerText = missing;
+
+    renderTable(data);
+
+  } catch (err) {
+    console.log("Error loading JSON:", err);
+  }
+}
+
+
+// RENDER TABLE
+function renderTable(data) {
+
+  const table = document.getElementById("emailTable");
+  table.innerHTML = "";
+
+  data.forEach((email, index) => {
+
+    let statusClass =
+      email.Status === "Missing"
+        ? "status-missing"
+        : "status-present";
+
+    table.innerHTML += `
+      <tr class="border-b hover:bg-gray-100">
+        <td class="p-2">${index + 1}</td>
+        <td class="p-2">${email.Subject}</td>
+        <td class="p-2">${email.ExpectedTime}</td>
+        <td class="p-2">${email.ReceivedTime || "-"}</td>
+        <td class="p-2 ${statusClass}">
+          ${email.Status}
+        </td>
+      </tr>
+    `;
+  });
+}
+
+
+// SEARCH
+document.getElementById("searchBox")
+.addEventListener("input", function(e){
+
+  const value = e.target.value.toLowerCase();
+
+  const filtered = allEmails.filter(x =>
+    x.Subject.toLowerCase().includes(value)
+  );
+
+  renderTable(filtered);
+});
+
+
+// START
+loadDashboard();
+setInterval(loadDashboard, refreshInterval);
+
+</script>
+
+</body>
+>>>>>>> dc3788fa52fb3ea15c18b855ad3a9840b83dbe53
 </html>
