@@ -252,14 +252,14 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/13/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/13/2026 5:00 AM",
         "Status":  "Present",
@@ -421,14 +421,14 @@
     },
     {
         "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:07 AM",
+        "ExpectedTime":  "12:07 PM",
         "ReceivedTime":  "5/13/2026 6:07 AM",
         "Status":  "Present",
         "SortTime":  367.98333333333335
     },
     {
         "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:07 AM",
+        "ExpectedTime":  "12:07 PM",
         "ReceivedTime":  "5/13/2026 6:08 AM",
         "Status":  "Present",
         "SortTime":  368.03333333333336
@@ -484,14 +484,14 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "9:06 AM",
+        "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "5/13/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.2
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "9:10 AM",
+        "ExpectedTime":  "2:10 PM",
         "ReceivedTime":  "5/13/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.31666666666666
@@ -547,14 +547,14 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "9:06 AM",
+        "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "5/13/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.11666666666667
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "9:10 AM",
+        "ExpectedTime":  "2:10 PM",
         "ReceivedTime":  "5/13/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.15000000000003
@@ -596,14 +596,14 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "9:06 AM",
+        "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "5/13/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.16666666666663
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "9:10 AM",
+        "ExpectedTime":  "2:10 PM",
         "ReceivedTime":  "5/13/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.2166666666667
@@ -621,5 +621,117 @@
         "ReceivedTime":  "5/13/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.66666666666663
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "5/13/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.6
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:06 PM",
+        "ReceivedTime":  "5/13/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.11666666666667
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/13/2026 10:10 AM",
+        "Status":  "Present",
+        "SortTime":  610.2
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "5/13/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.81666666666672
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:06 PM",
+        "ReceivedTime":  "5/13/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.16666666666663
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/13/2026 11:10 AM",
+        "Status":  "Present",
+        "SortTime":  670.30000000000007
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "5/13/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.38333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:06 PM",
+        "ReceivedTime":  "5/13/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:07 PM",
+        "ReceivedTime":  "5/13/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.15
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:07 PM",
+        "ReceivedTime":  "5/13/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.38333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/13/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.2
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "5/13/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.26666666666665
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:06 PM",
+        "ReceivedTime":  "5/13/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/13/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.18333333333339
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:06 PM",
+        "ReceivedTime":  "5/13/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.2
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/13/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.30000000000007
     }
 ]
