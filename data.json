@@ -231,14 +231,14 @@
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/14/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/14/2026 5:00 AM",
         "Status":  "Present",
@@ -260,7 +260,7 @@
     },
     {
         "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/14/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
@@ -322,14 +322,14 @@
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "5/14/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "5/14/2026 5:45 AM",
         "Status":  "Present",
@@ -341,5 +341,82 @@
         "ReceivedTime":  "5/14/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.75
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.43333333333334
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.4666666666667
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.55
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.6
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.61666666666667
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.9666666666667
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "5/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.9666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:05 AM",
+        "ReceivedTime":  "5/14/2026 6:05 AM",
+        "Status":  "Present",
+        "SortTime":  365.91666666666669
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:05 AM",
+        "ReceivedTime":  "5/14/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.2
     }
 ]
