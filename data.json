@@ -470,7 +470,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "8:06 AM",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "5/14/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.13333333333333
@@ -533,7 +533,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "8:06 AM",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "5/14/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.13333333333333
@@ -565,5 +565,26 @@
         "ReceivedTime":  "5/14/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.65
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/14/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.23333333333335
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/14/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.4
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "5/14/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.30000000000007
     }
 ]
