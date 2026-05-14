@@ -701,7 +701,7 @@
     },
     {
         "Subject":  "Ambrus Executions",
-        "ExpectedTime":  "12:40 PM",
+        "ExpectedTime":  "4:00 PM",
         "ReceivedTime":  "5/13/2026 12:40 PM",
         "Status":  "Present",
         "SortTime":  760.26666666666665
@@ -761,5 +761,61 @@
         "ReceivedTime":  "5/13/2026 3:25 PM",
         "Status":  "Present",
         "SortTime":  925.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "5/13/2026 3:40 PM",
+        "Status":  "Present",
+        "SortTime":  940.33333333333337
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "4:00 PM",
+        "ReceivedTime":  "5/13/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.25
+    },
+    {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "5/13/2026 4:50 PM",
+        "Status":  "Present",
+        "SortTime":  1010.2333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "5/13/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.25
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "5/13/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.9333333333334
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "5/13/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.3833333333334
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "5/13/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2166666666667
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "11:18 PM",
+        "ReceivedTime":  "5/13/2026 11:18 PM",
+        "Status":  "Present",
+        "SortTime":  1398.2333333333333
     }
 ]
