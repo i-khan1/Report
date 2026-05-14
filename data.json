@@ -470,14 +470,14 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
+        "ExpectedTime":  "8:06 AM",
         "ReceivedTime":  "5/14/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.13333333333333
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
+        "ExpectedTime":  "8:10 AM",
         "ReceivedTime":  "5/14/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.3
@@ -516,5 +516,33 @@
         "ReceivedTime":  "5/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.5
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "5/14/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.93333333333334
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "5/14/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.28333333333336
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "8:06 AM",
+        "ReceivedTime":  "5/14/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "8:10 AM",
+        "ReceivedTime":  "5/14/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.31666666666666
     }
 ]
