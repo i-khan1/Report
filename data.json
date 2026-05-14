@@ -56,6 +56,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily cash acct sd report",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily position file",
         "ExpectedTime":  "2:58 AM",
         "ReceivedTime":  "",
@@ -63,8 +70,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily ptp block list",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "daily portfolio margin snapshot vcbb str p",
+        "ExpectedTime":  "4:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -84,6 +91,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily otc file to gtn america",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -91,21 +105,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily cash acct sd report",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "daily ptp block list",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
         "Subject":  "reconciliation portfolio margin",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily otc file",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
