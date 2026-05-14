@@ -1,12 +1,5 @@
 ﻿[
     {
-        "Subject":  "daily sod etb file to gtn america",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily sod files mmcd",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -14,21 +7,21 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily sod etb file to gtn america",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "when issued report for",
+        "ExpectedTime":  "3:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily vcps position to ambrus",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files for bull markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod to itg bahamas inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -42,15 +35,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod etb trade file to gtn middle east",
+        "Subject":  "daily sod to itg bahamas inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "when issued report for",
-        "ExpectedTime":  "3:10 AM",
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily sod etb trade file to gtn middle east",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -63,8 +63,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files to andes investments group",
-        "ExpectedTime":  "2:33 AM",
+        "Subject":  "daily ptp block list",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -77,7 +77,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "reconciliation portfolio margin",
+        "Subject":  "daily sod files to andes investments group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily otc file to gtn america",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -91,7 +98,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily otc file to gtn america",
+        "Subject":  "reconciliation portfolio margin",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
