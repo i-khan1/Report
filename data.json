@@ -630,6 +630,13 @@
         "SortTime":  559.5333333333333
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "5/15/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.66666666666663
+    },
+    {
         "Subject":  "inteliclear new accounts daily",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
