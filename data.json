@@ -497,6 +497,13 @@
         "SortTime":  392.58333333333331
     },
     {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "5/15/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.35
+    },
+    {
         "Subject":  "weekly bmsy account profile reports",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
