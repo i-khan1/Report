@@ -413,8 +413,85 @@
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "daily activity file to ambrus",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/15/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.88333333333333
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/15/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "5/15/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.06666666666666
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/15/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.6
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:05 PM",
+        "ReceivedTime":  "5/15/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.03333333333336
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:05 PM",
+        "ReceivedTime":  "5/15/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.16666666666669
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.26666666666665
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.28333333333336
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "weekly bmsy account profile reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "inteliclear new accounts daily",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -422,6 +499,13 @@
     {
         "Subject":  "daily portfolio margin snapshot vcbb str p",
         "ExpectedTime":  "4:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily activity file to ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
