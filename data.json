@@ -714,15 +714,15 @@
         "SortTime":  786.15
     },
     {
-        "Subject":  "daily antilles activity file",
-        "ExpectedTime":  "9:15 PM",
+        "Subject":  "daily dreyfus rate",
+        "ExpectedTime":  "9:56 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily etb file to eduardo",
-        "ExpectedTime":  "5:30 PM",
+        "Subject":  "daily antilles activity file",
+        "ExpectedTime":  "9:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -744,6 +744,13 @@
     {
         "Subject":  "Daily ETB File to Trading",
         "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily etb file to eduardo",
+        "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
