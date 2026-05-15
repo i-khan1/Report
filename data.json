@@ -560,22 +560,22 @@
         "SortTime":  487.11666666666667
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/15/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.25
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/15/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.41666666666669
+    },
+    {
         "Subject":  "finra short report for vcapital",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "finra short report for vclearing",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "inteliclear new accounts daily",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -588,6 +588,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "inteliclear new accounts daily",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "finra short report for vclearing",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily sod to choice equities",
         "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
@@ -595,8 +609,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily c report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "daily portfolio margin snapshot vcbb str p",
+        "ExpectedTime":  "4:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -604,13 +618,6 @@
     {
         "Subject":  "daily activity file to ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily portfolio margin snapshot vcbb str p",
-        "ExpectedTime":  "4:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
