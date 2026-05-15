@@ -603,7 +603,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/15/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.65
@@ -645,7 +645,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/15/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.15
@@ -694,7 +694,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/15/2026 12:10 PM",
         "Status":  "Present",
         "SortTime":  730.13333333333333
@@ -714,6 +714,20 @@
         "SortTime":  786.15
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "1:10 PM",
+        "ReceivedTime":  "5/15/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.26666666666665
+    },
+    {
+        "Subject":  "daily activity to tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily dreyfus rate",
         "ExpectedTime":  "9:56 PM",
         "ReceivedTime":  "",
@@ -723,13 +737,6 @@
     {
         "Subject":  "daily antilles activity file",
         "ExpectedTime":  "9:15 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "inteliclear new accounts daily",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -749,8 +756,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily etb file to eduardo",
-        "ExpectedTime":  "5:30 PM",
+        "Subject":  "inteliclear new accounts daily",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -770,8 +784,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:15 PM",
+        "Subject":  "daily etb file to eduardo",
+        "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
