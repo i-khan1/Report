@@ -700,15 +700,15 @@
         "SortTime":  730.13333333333333
     },
     {
-        "Subject":  "daily etb file to eduardo",
-        "ExpectedTime":  "5:30 PM",
+        "Subject":  "daily antilles activity file",
+        "ExpectedTime":  "9:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily etb file to augustus",
-        "ExpectedTime":  "5:31 PM",
+        "Subject":  "daily etb file to eduardo",
+        "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -730,6 +730,13 @@
     {
         "Subject":  "Daily ETB File to Trading",
         "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily etb file to augustus",
+        "ExpectedTime":  "5:31 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
