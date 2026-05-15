@@ -504,6 +504,13 @@
         "SortTime":  420.35
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:56 PM",
+        "ReceivedTime":  "5/15/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.2
+    },
+    {
         "Subject":  "weekly bmsy account profile reports",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -518,15 +525,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily portfolio margin snapshot vcbb str p",
-        "ExpectedTime":  "4:15 AM",
+        "Subject":  "daily activity file to ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily activity file to ambrus",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "daily sod to choice equities",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily portfolio margin snapshot vcbb str p",
+        "ExpectedTime":  "4:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
