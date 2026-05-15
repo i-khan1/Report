@@ -603,7 +603,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "10:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/15/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.65
@@ -645,7 +645,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "10:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/15/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.15
@@ -691,6 +691,13 @@
         "ReceivedTime":  "5/15/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.15
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "12:10 PM",
+        "ReceivedTime":  "5/15/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.13333333333333
     },
     {
         "Subject":  "daily etb file to eduardo",
