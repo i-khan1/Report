@@ -7,6 +7,13 @@
         "SortTime":  315.5
     },
     {
+        "Subject":  "Weekly DWRE Reports to",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "5/17/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.5
+    },
+    {
         "Subject":  "finra short report for vcapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
