@@ -1,5 +1,12 @@
 ﻿[
     {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "5/17/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.5
+    },
+    {
         "Subject":  "finra short report for vcapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -9,13 +16,6 @@
     {
         "Subject":  "finra short report for vclearing",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short file to evergreen capital management llc and greenle partners llc",
-        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
