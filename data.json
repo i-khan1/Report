@@ -1,28 +1,63 @@
 ﻿[
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "5/17/2026 5:15 AM",
-        "Status":  "Present",
-        "SortTime":  315.5
-    },
-    {
-        "Subject":  "Weekly DWRE Reports to",
-        "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "5/17/2026 6:02 AM",
-        "Status":  "Present",
-        "SortTime":  362.5
-    },
-    {
-        "Subject":  "finra short report for vcapital",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "daily sod to hexstone capital llc",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "finra short report for vclearing",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:34 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily sod to itg bahamas inc",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily sod files mmcd",
+        "ExpectedTime":  "3:34 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily sod files to andes investments group",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily sod files to asb bank corp",
+        "ExpectedTime":  "3:36 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily vcps position to ambrus",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily position file",
+        "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
