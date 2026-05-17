@@ -7,6 +7,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily sod etb file to gtn america",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily sod files mmcd",
         "ExpectedTime":  "3:34 AM",
         "ReceivedTime":  "",
@@ -16,6 +23,13 @@
     {
         "Subject":  "daily sod to hexstone capital llc",
         "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -35,6 +49,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily position file",
+        "ExpectedTime":  "3:37 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily sod files to andes investments group",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
@@ -49,8 +70,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily position file",
-        "ExpectedTime":  "3:37 AM",
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -65,6 +86,13 @@
     {
         "Subject":  "daily cash acct sd report",
         "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily otc file to gtn america",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
