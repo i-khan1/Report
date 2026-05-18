@@ -1,5 +1,12 @@
 ﻿[
     {
+        "Subject":  "reconciliation portfolio margin COB",
+        "ExpectedTime":  "4:54 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily ptp block list",
         "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
@@ -14,15 +21,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "seaman sre and iclear daily reconciliation",
-        "ExpectedTime":  "4:55 AM",
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "reconciliation portfolio margin COB",
-        "ExpectedTime":  "4:54 AM",
+        "Subject":  "daily vcps position to ambrus",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -42,8 +49,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily otc file",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "daily sod vcps files for navcon",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -63,15 +70,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily cust short file to evergreen capital management llc and greenle partners llc",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "daily sod vcty cash file",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod vcps files for navcon",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "seaman sre and iclear daily reconciliation",
+        "ExpectedTime":  "4:55 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -91,15 +98,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod vcty cash file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily vcps position to ambrus",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "daily sod files mmcd",
+        "ExpectedTime":  "3:34 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -154,6 +154,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily sod to hexstone capital llc",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily sod files for bull markets",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
@@ -168,15 +175,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files mmcd",
-        "ExpectedTime":  "3:34 AM",
+        "Subject":  "daily sod to itg bahamas inc",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod to hexstone capital llc",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -196,8 +203,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod to itg bahamas inc",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "daily cust short file to evergreen capital management llc and greenle partners llc",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
