@@ -511,11 +511,18 @@
         "SortTime":  556.66666666666663
     },
     {
-        "Subject":  "daily etb file to eduardo",
-        "ExpectedTime":  "5:30 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "5/18/2026 9:29 AM",
+        "Status":  "Present",
+        "SortTime":  569.30000000000007
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "5/18/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.58333333333337
     },
     {
         "Subject":  "daily etb file to augustus",
@@ -525,8 +532,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily AVSC Lifecycle File of Succession",
-        "ExpectedTime":  "9:30 AM",
+        "Subject":  "daily activity report for kallpa sab sa",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily etb file to eduardo",
+        "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -541,13 +555,6 @@
     {
         "Subject":  "Daily ETB File to Trading",
         "ExpectedTime":  "6:10 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily activity report for kallpa sab sa",
-        "ExpectedTime":  "4:50 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
