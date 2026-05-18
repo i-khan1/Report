@@ -1,7 +1,16 @@
-﻿{
-    "Subject":  "daily position file",
-    "ExpectedTime":  "2:19 AM",
-    "ReceivedTime":  "",
-    "Status":  "Missing",
-    "SortTime":  999999
-}
+﻿[
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily position file",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    }
+]
