@@ -399,8 +399,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily unaffirm report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -443,6 +443,13 @@
     {
         "Subject":  "PM Reports V Horizon Notifications",
         "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily unaffirm report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
