@@ -406,15 +406,36 @@
         "SortTime":  441.7166666666667
     },
     {
-        "Subject":  "Moneyline Report",
-        "ExpectedTime":  "8:01 AM",
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/18/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.25
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/18/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.40000000000003
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/18/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.43333333333334
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to BitDelta Limited",
-        "ExpectedTime":  "8:05 AM",
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -427,15 +448,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily AVSC Lifecycle File of Succession",
-        "ExpectedTime":  "9:30 AM",
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -448,8 +462,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "PM Reports V Horizon Notifications",
-        "ExpectedTime":  "9:10 AM",
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -462,15 +476,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:15 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod to acumen global",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "avsc journal file",
+        "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -483,22 +490,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily c report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "daily sod to acumen global",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "tradeblazer reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "ambrus executions",
-        "ExpectedTime":  "12:40 PM",
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -511,15 +518,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "avsc journal file",
-        "ExpectedTime":  "8:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily rms audit history file",
-        "ExpectedTime":  "9:00 AM",
+        "Subject":  "ambrus executions",
+        "ExpectedTime":  "12:40 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
