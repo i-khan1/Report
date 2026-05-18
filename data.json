@@ -1,5 +1,12 @@
 ﻿[
     {
+        "Subject":  "daily sod etb file to gtn america",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily sod files for bull markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -7,15 +14,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod to hexstone capital llc",
+        "Subject":  "daily sod files mmcd",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod etb file to gtn america",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "daily cash acct sd report",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -28,7 +35,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files mmcd",
+        "Subject":  "daily sod to hexstone capital llc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -70,13 +77,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily cash acct sd report",
-        "ExpectedTime":  "3:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily bmsy activity file",
         "ExpectedTime":  "3:27 AM",
         "ReceivedTime":  "",
@@ -84,8 +84,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily portfolio margin snapshot vcbb str p",
-        "ExpectedTime":  "4:15 AM",
+        "Subject":  "seaman sre and iclear daily reconciliation",
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -107,6 +107,13 @@
     {
         "Subject":  "daily sod files to andes investments group",
         "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily portfolio margin snapshot vcbb str p",
+        "ExpectedTime":  "4:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
