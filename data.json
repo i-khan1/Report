@@ -147,11 +147,11 @@
         "SortTime":  240.61666666666667
     },
     {
-        "Subject":  "daily expired options assignments velocity file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "5/18/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.18333333333334
     },
     {
         "Subject":  "daily option exercise assignments file to valuable",
@@ -168,8 +168,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily ptp block list",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "daily sod vcps files for navcon",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -189,8 +189,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily cust short file to evergreen capital management llc and greenle partners llc",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "daily expired options assignments velocity file",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -210,8 +210,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod vcps files for navcon",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "succession daily audit trail report",
+        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -226,6 +226,13 @@
     {
         "Subject":  "daily exercise and assignment file vcps",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily cust short file to evergreen capital management llc and greenle partners llc",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -310,13 +317,6 @@
     {
         "Subject":  "ambrus executions",
         "ExpectedTime":  "12:40 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "succession daily audit trail report",
-        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
