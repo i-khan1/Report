@@ -469,8 +469,15 @@
         "SortTime":  510.5
     },
     {
-        "Subject":  "PM Reports V Horizon Notifications",
-        "ExpectedTime":  "9:10 AM",
+        "Subject":  "daily etb file to eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily etb file to augustus",
+        "ExpectedTime":  "5:31 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -483,8 +490,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:15 PM",
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -532,6 +539,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:15 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily unaffirm report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
@@ -541,13 +562,6 @@
     {
         "Subject":  "ambrus executions",
         "ExpectedTime":  "12:40 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily rms audit history file",
-        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
