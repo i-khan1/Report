@@ -21,11 +21,11 @@
         "SortTime":  160.53333333333333
     },
     {
-        "Subject":  "daily cash acct sd report",
-        "ExpectedTime":  "3:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "5/18/2026 2:47 AM",
+        "Status":  "Present",
+        "SortTime":  167.8
     },
     {
         "Subject":  "daily otc file to gtn america",
@@ -42,15 +42,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vcps position to ambrus",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "reconciliation portfolio margin COB",
+        "ExpectedTime":  "4:54 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files for bull markets",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "daily cash acct sd report",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -70,15 +70,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "reconciliation portfolio margin COB",
-        "ExpectedTime":  "4:54 AM",
+        "Subject":  "daily vcps position to ambrus",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily option exercise assignments file to valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "daily ptp block list",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -98,15 +98,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily expired options assignments velocity file",
+        "Subject":  "bony posision file",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily ptp block list",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "daily option exercise assignments file to valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -121,6 +121,13 @@
     {
         "Subject":  "seaman sre and iclear daily reconciliation",
         "ExpectedTime":  "4:55 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily expired options assignments velocity file",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -182,13 +189,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "weekly bmsy account profile reports",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily sod to itg bahamas inc",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
@@ -203,15 +203,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "avsc journal file",
-        "ExpectedTime":  "8:45 AM",
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "5:02 AM",
+        "Subject":  "weekly bmsy account profile reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -231,8 +231,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "bony posision file",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "avsc journal file",
+        "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
