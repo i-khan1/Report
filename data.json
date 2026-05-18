@@ -1,5 +1,19 @@
 ﻿[
     {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "5/18/2026 2:19 AM",
+        "Status":  "Present",
+        "SortTime":  139.25
+    },
+    {
+        "Subject":  "daily cash acct sd report",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily otc file to gtn america",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -14,15 +28,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "reconciliation portfolio margin COB",
-        "ExpectedTime":  "4:54 AM",
+        "Subject":  "daily vcps position to ambrus",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily cash acct sd report",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -42,15 +56,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vcps position to ambrus",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "reconciliation portfolio margin COB",
+        "ExpectedTime":  "4:54 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily ptp block list",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "daily option exercise assignments file to valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -70,15 +84,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "bony posision file",
+        "Subject":  "daily expired options assignments velocity file",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily option exercise assignments file to valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "daily ptp block list",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -93,20 +107,6 @@
     {
         "Subject":  "seaman sre and iclear daily reconciliation",
         "ExpectedTime":  "4:55 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily expired options assignments velocity file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files for bull markets",
-        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -217,6 +217,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "bony posision file",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "velocity fixed income net cap repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "velocity fixed income repo daily p l",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
@@ -231,15 +245,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "marks what we owe",
-        "ExpectedTime":  "6:30 AM",
+        "Subject":  "equity margin report",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "velocity fixed income net cap repo",
-        "ExpectedTime":  "6:15 AM",
+        "Subject":  "daily opexp file vcps",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -259,22 +273,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "equity margin report",
-        "ExpectedTime":  "6:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "marks what we owe",
-        "ExpectedTime":  "6:32 AM",
+        "ExpectedTime":  "6:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily position file",
-        "ExpectedTime":  "3:37 AM",
+        "Subject":  "daily c report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -294,8 +301,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily c report",
+        "Subject":  "tradeblazer reports",
         "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "marks what we owe",
+        "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -310,20 +324,6 @@
     {
         "Subject":  "exercise and assignment file for vclt",
         "ExpectedTime":  "7:21 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "tradeblazer reports",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily opexp file vcps",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
