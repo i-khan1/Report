@@ -469,6 +469,20 @@
         "SortTime":  510.5
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "5/18/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily etb file to eduardo",
         "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
@@ -478,20 +492,6 @@
     {
         "Subject":  "daily etb file to augustus",
         "ExpectedTime":  "5:31 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily activity report for kallpa sab sa",
-        "ExpectedTime":  "4:50 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "PM Reports V Horizon Notifications",
-        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -518,8 +518,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "avsc journal file",
-        "ExpectedTime":  "8:45 AM",
+        "Subject":  "daily activity report for kallpa sab sa",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -534,13 +541,6 @@
     {
         "Subject":  "daily sod to acumen global",
         "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily rms audit history file",
-        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
