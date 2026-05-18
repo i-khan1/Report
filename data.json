@@ -203,14 +203,14 @@
         "SortTime":  300.75
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/18/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/18/2026 5:15 AM",
         "Status":  "Present",
@@ -453,6 +453,20 @@
         "ReceivedTime":  "5/18/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.11666666666667
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/18/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.25
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/18/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.5
     },
     {
         "Subject":  "PM Reports V Horizon Notifications",
