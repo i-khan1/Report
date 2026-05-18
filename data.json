@@ -84,6 +84,27 @@
         "SortTime":  226.03333333333333
     },
     {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "3:36 AM",
+        "ReceivedTime":  "5/18/2026 3:47 AM",
+        "Status":  "Present",
+        "SortTime":  227.26666666666668
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "5/18/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.21666666666667
+    },
+    {
+        "Subject":  "daily ptp block list",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily portfolio margin snapshot vcbb str p",
         "ExpectedTime":  "4:15 AM",
         "ReceivedTime":  "",
@@ -98,14 +119,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily expired options assignments velocity file",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "daily sod etb file to gtn america",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily otc file",
+        "Subject":  "daily otc file to gtn america",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -119,14 +140,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily ptp block list",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "daily expired options assignments velocity file",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily option exercise assignments file to valuable",
+        "Subject":  "bony posision file",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -147,8 +168,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily cust short file to hexstone capital llc",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "daily option exercise assignments file to valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -163,20 +184,6 @@
     {
         "Subject":  "daily sod vcps files for navcon",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "bony posision file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily otc file to gtn america",
-        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -231,6 +238,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "avsc journal file",
         "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
@@ -240,13 +254,6 @@
     {
         "Subject":  "weekly bmsy account profile reports",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod etb file to gtn america",
-        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -266,8 +273,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily rms audit history file",
-        "ExpectedTime":  "9:00 AM",
+        "Subject":  "ambrus executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily cust short file to hexstone capital llc",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily vclt reports",
+        "ExpectedTime":  "12:05 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -287,8 +308,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "velocity fixed income risk and credit daily report",
-        "ExpectedTime":  "6:15 AM",
+        "Subject":  "daily vclt bmsy buys reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -308,15 +329,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vclt reports",
-        "ExpectedTime":  "12:05 PM",
+        "Subject":  "velocity fixed income risk and credit daily report",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "marks what we owe",
-        "ExpectedTime":  "6:30 AM",
+        "Subject":  "exercise and assignment file for vclt",
+        "ExpectedTime":  "7:21 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -336,8 +357,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files to asb bank corp",
-        "ExpectedTime":  "3:36 AM",
+        "Subject":  "marks what we owe",
+        "ExpectedTime":  "6:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -352,20 +373,6 @@
     {
         "Subject":  "daily sod to acumen global",
         "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "exercise and assignment file for vclt",
-        "ExpectedTime":  "7:21 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily vclt bmsy buys reports",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
