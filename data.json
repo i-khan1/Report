@@ -436,13 +436,20 @@
     {
         "Subject":  "Daily SOD to BitDelta Limited",
         "ExpectedTime":  "8:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/18/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.26666666666665
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "2:56 PM",
+        "ExpectedTime":  "8:06 AM",
+        "ReceivedTime":  "5/18/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.13333333333333
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -455,8 +462,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "PM Reports V Horizon Notifications",
-        "ExpectedTime":  "9:10 AM",
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -504,20 +511,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily rms audit history file",
-        "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:15 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily unaffirm report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
@@ -527,6 +520,13 @@
     {
         "Subject":  "ambrus executions",
         "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
