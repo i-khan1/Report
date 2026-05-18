@@ -42,6 +42,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily sod files mmcd",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily position file",
         "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "",
@@ -63,15 +70,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files mmcd",
+        "Subject":  "daily vcps position to ambrus",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vcps position to ambrus",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "daily cash acct sd report",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
