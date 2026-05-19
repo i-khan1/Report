@@ -259,14 +259,14 @@
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
@@ -565,6 +565,20 @@
         "ReceivedTime":  "5/19/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.2
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/19/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.25
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/19/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.6
     },
     {
         "Subject":  "tradeblazer reports",
