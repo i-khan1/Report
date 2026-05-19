@@ -714,6 +714,13 @@
         "SortTime":  726.2833333333333
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/19/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.23333333333335
+    },
+    {
         "Subject":  "daily etb file to augustus",
         "ExpectedTime":  "5:31 PM",
         "ReceivedTime":  "",
