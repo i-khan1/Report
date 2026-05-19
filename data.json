@@ -259,14 +259,14 @@
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
@@ -516,5 +516,26 @@
         "ReceivedTime":  "5/19/2026 7:22 AM",
         "Status":  "Present",
         "SortTime":  442.15000000000003
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.2166666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.7166666666667
     }
 ]
