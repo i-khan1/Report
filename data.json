@@ -259,14 +259,14 @@
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
@@ -488,6 +488,13 @@
         "ReceivedTime":  "5/19/2026 6:32 AM",
         "Status":  "Present",
         "SortTime":  392.61666666666667
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "5/19/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.61666666666667
     },
     {
         "Subject":  "inteliclear new accounts daily",
