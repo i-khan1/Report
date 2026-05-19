@@ -735,13 +735,6 @@
         "SortTime":  786.31666666666672
     },
     {
-        "Subject":  "daily etb file to augustus",
-        "ExpectedTime":  "5:31 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily etb file to eduardo",
         "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
@@ -749,8 +742,22 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "daily dreyfus rate",
+        "ExpectedTime":  "9:56 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily ETB File to Trading",
         "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily etb file to augustus",
+        "ExpectedTime":  "5:31 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
