@@ -1,7 +1,23 @@
-﻿{
-    "Subject":  "GATO File Log Report",
-    "ExpectedTime":  "2:40 AM",
-    "ReceivedTime":  "5/19/2026 2:40 AM",
-    "Status":  "Present",
-    "SortTime":  160.48333333333335
-}
+﻿[
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "5/19/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.48333333333335
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:27 AM",
+        "ReceivedTime":  "5/19/2026 2:50 AM",
+        "Status":  "Present",
+        "SortTime":  170.18333333333334
+    },
+    {
+        "Subject":  "daily position file",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    }
+]
