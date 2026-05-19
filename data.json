@@ -749,6 +749,13 @@
         "SortTime":  846.2166666666667
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "ReceivedTime":  "5/19/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.41666666666663
+    },
+    {
         "Subject":  "daily dreyfus rate",
         "ExpectedTime":  "9:56 PM",
         "ReceivedTime":  "",
