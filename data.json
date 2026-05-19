@@ -259,14 +259,14 @@
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/19/2026 5:00 AM",
         "Status":  "Present",
@@ -686,22 +686,36 @@
         "SortTime":  710.65
     },
     {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "5/19/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.30000000000007
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "5/19/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.93333333333339
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:56 PM",
+        "ReceivedTime":  "5/19/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "5/19/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2833333333333
+    },
+    {
         "Subject":  "daily etb file to augustus",
         "ExpectedTime":  "5:31 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily activity report for kallpa sab sa",
-        "ExpectedTime":  "4:50 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB File to Trading",
-        "ExpectedTime":  "6:10 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -714,8 +728,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "ambrus executions",
-        "ExpectedTime":  "12:40 PM",
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily activity report for kallpa sab sa",
+        "ExpectedTime":  "4:50 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -728,15 +749,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:15 PM",
+        "Subject":  "ambrus executions",
+        "ExpectedTime":  "12:40 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily unaffirm report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:15 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
