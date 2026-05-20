@@ -743,9 +743,9 @@
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
-        "ExpectedTime":  "10:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "5/20/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.73333333333335
     }
 ]
