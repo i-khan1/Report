@@ -308,14 +308,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/20/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/20/2026 5:00 AM",
         "Status":  "Present",
@@ -554,7 +554,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "9:06 AM",
+        "ExpectedTime":  "10:06 AM",
         "ReceivedTime":  "5/20/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.2166666666667
@@ -617,7 +617,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "9:06 AM",
+        "ExpectedTime":  "10:06 AM",
         "ReceivedTime":  "5/20/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.26666666666665
@@ -666,7 +666,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "9:06 AM",
+        "ExpectedTime":  "10:06 AM",
         "ReceivedTime":  "5/20/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.15
@@ -705,5 +705,12 @@
         "ReceivedTime":  "5/20/2026 9:32 AM",
         "Status":  "Present",
         "SortTime":  572.5
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "10:06 AM",
+        "ReceivedTime":  "5/20/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.18333333333339
     }
 ]
