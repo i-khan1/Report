@@ -693,10 +693,17 @@
         "SortTime":  556.7166666666667
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "5/20/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.4666666666667
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "9:32 AM",
+        "ReceivedTime":  "5/20/2026 9:32 AM",
+        "Status":  "Present",
+        "SortTime":  572.5
     }
 ]
