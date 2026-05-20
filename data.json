@@ -784,11 +784,11 @@
         "SortTime":  730.36666666666667
     },
     {
-        "Subject":  "Daily ETB File to Eduardo",
-        "ExpectedTime":  "5:30 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "5/20/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.2833333333333
     },
     {
         "Subject":  "Daily ETB File to Augustus",
@@ -805,8 +805,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Ambrus Executions",
-        "ExpectedTime":  "12:40 PM",
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
