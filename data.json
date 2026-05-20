@@ -1,5 +1,12 @@
 ﻿[
     {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:08 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:08 AM",
         "ReceivedTime":  "",
@@ -14,15 +21,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:07 AM",
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "3:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:08 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -42,8 +49,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "3:10 AM",
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:07 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
