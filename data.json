@@ -561,7 +561,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "8:10 AM",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "5/20/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.3
@@ -624,7 +624,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "8:10 AM",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "5/20/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.11666666666667
@@ -670,6 +670,27 @@
         "ReceivedTime":  "5/20/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.15
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "5/20/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.2
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "5/20/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.80000000000007
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "5/20/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7166666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
