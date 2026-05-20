@@ -378,6 +378,55 @@
         "SortTime":  315.43333333333334
     },
     {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "5/20/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.81666666666666
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "5/20/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.88333333333333
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/20/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.36666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/20/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.66666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/20/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.68333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/20/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.7166666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/20/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.73333333333335
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
