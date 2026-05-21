@@ -315,14 +315,14 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
@@ -498,7 +498,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.13333333333333
@@ -568,7 +568,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.15000000000003
@@ -624,7 +624,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.18333333333339
@@ -659,7 +659,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.13333333333333
@@ -680,7 +680,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.26666666666665
@@ -700,22 +700,22 @@
         "SortTime":  710.7166666666667
     },
     {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "5/21/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.31666666666672
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "5/21/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2833333333333
+    },
+    {
         "Subject":  "Daily ETB File to Eduardo",
         "ExpectedTime":  "5:30 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity Report for Kallpa SAB SA",
-        "ExpectedTime":  "4:50 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB File to Trading",
-        "ExpectedTime":  "6:10 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -728,6 +728,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Ambrus Executions",
         "ExpectedTime":  "12:40 PM",
         "ReceivedTime":  "",
@@ -735,8 +749,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily UNAFFIRM Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -744,13 +758,6 @@
     {
         "Subject":  "AllFunds Symbol Validation Report",
         "ExpectedTime":  "3:42 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Settlement Report csv",
-        "ExpectedTime":  "3:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
