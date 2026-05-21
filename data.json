@@ -315,14 +315,14 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
@@ -600,5 +600,12 @@
         "ReceivedTime":  "5/21/2026 8:39 AM",
         "Status":  "Present",
         "SortTime":  519.2
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "5/21/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7
     }
 ]
