@@ -434,6 +434,48 @@
         "SortTime":  361.1
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:06 AM",
+        "ReceivedTime":  "5/21/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.73333333333335
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:06 AM",
+        "ReceivedTime":  "5/21/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.88333333333333
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/21/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/21/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.26666666666665
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/21/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "5/21/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
