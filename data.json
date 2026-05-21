@@ -385,14 +385,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/21/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.61666666666667
     },
     {
-        "Subject":  "QDB Server DB Date",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/21/2026 6:00 AM",
         "Status":  "Present",
@@ -488,6 +488,13 @@
         "ReceivedTime":  "5/21/2026 6:33 AM",
         "Status":  "Present",
         "SortTime":  393.58333333333331
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "5/21/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.28333333333336
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
