@@ -315,14 +315,14 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
@@ -498,7 +498,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "8:06 AM",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "5/21/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.13333333333333
@@ -568,7 +568,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "8:06 AM",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "5/21/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.15000000000003
@@ -607,5 +607,26 @@
         "ReceivedTime":  "5/21/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.7
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/21/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.33333333333337
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/21/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.41666666666663
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "5/21/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.18333333333339
     }
 ]
