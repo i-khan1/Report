@@ -336,8 +336,50 @@
         "SortTime":  330.41666666666669
     },
     {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.51666666666665
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.75
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.8
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.83333333333331
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "5/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.85
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
