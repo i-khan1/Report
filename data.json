@@ -315,14 +315,14 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
@@ -579,6 +579,20 @@
         "ReceivedTime":  "5/21/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.15000000000003
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/21/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.35
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/21/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.65000000000003
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
