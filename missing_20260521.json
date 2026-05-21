@@ -1,0 +1,440 @@
+﻿[
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "3:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "3:10 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "3:36 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:01 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:01 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "5:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:06 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:30 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "2:56 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "2:10 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:22 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:42 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:15 PM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "9:32 AM",
+        "MissingDate":  "20260521",
+        "Status":  "Missing"
+    }
+]
