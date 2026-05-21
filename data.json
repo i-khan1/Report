@@ -315,14 +315,14 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "5/21/2026 5:15 AM",
         "Status":  "Present",
@@ -435,14 +435,14 @@
     },
     {
         "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.73333333333335
     },
     {
         "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/21/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.88333333333333
@@ -505,7 +505,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "11:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/21/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.31666666666666
@@ -575,7 +575,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "11:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/21/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.15000000000003
@@ -631,7 +631,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "11:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/21/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.2
@@ -666,7 +666,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "11:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/21/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.26666666666665
@@ -687,7 +687,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "11:10 AM",
+        "ExpectedTime":  "12:10 PM",
         "ReceivedTime":  "5/21/2026 11:10 AM",
         "Status":  "Present",
         "SortTime":  670.2833333333333
@@ -712,6 +712,27 @@
         "ReceivedTime":  "5/21/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.2833333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "5/21/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.80000000000007
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "5/21/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.9
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "12:10 PM",
+        "ReceivedTime":  "5/21/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.26666666666665
     },
     {
         "Subject":  "Daily ETB File to Eduardo",
