@@ -526,7 +526,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "8:10 AM",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "5/22/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.23333333333335
@@ -589,7 +589,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "8:10 AM",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "5/22/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.33333333333337
@@ -623,6 +623,13 @@
         "SortTime":  513.56666666666672
     },
     {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.6
+    },
+    {
         "Subject":  "Risk Reports",
         "ExpectedTime":  "8:33 AM",
         "ReceivedTime":  "5/22/2026 8:33 AM",
@@ -631,13 +638,6 @@
     },
     {
         "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "8:33 AM",
-        "ReceivedTime":  "5/22/2026 8:33 AM",
-        "Status":  "Present",
-        "SortTime":  513.6
-    },
-    {
-        "Subject":  "Options Reports",
         "ExpectedTime":  "8:33 AM",
         "ReceivedTime":  "5/22/2026 8:33 AM",
         "Status":  "Present",
@@ -686,11 +686,18 @@
         "SortTime":  546.18333333333339
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "5/22/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.18333333333339
+    },
+    {
         "Subject":  "PM Reports V Horizon Notifications",
         "ExpectedTime":  "9:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/22/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.86666666666667
     },
     {
         "Subject":  "TradeBlazer Reports",
