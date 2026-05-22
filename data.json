@@ -595,64 +595,71 @@
         "SortTime":  490.33333333333337
     },
     {
-        "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/22/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.2
     },
     {
-        "Subject":  "Options Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/22/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.51666666666665
     },
     {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.51666666666665
     },
     {
         "Subject":  "New Account Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.56666666666672
     },
     {
-        "Subject":  "Fixed Income Inteliclear Trial Balance",
-        "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.6
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.6
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.6
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.7166666666667
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "8:33 AM",
+        "ReceivedTime":  "5/22/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.73333333333335
     },
     {
         "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Risk Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Finance Reports",
-        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
