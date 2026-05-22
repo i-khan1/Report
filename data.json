@@ -849,6 +849,13 @@
     {
         "Subject":  "Daily Settlement Report csv",
         "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "5/22/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.30000000000007
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:22 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
