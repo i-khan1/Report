@@ -1,7 +1,7 @@
 ﻿{
-    "Subject":  "No data available for current date",
-    "ExpectedTime":  "",
-    "ReceivedTime":  "",
-    "Status":  "NoData",
-    "SortTime":  999999
+    "Subject":  "GATO File Log Report",
+    "ExpectedTime":  "2:10 PM",
+    "ReceivedTime":  "5/22/2026 2:41 AM",
+    "Status":  "Present",
+    "SortTime":  161.26666666666668
 }
