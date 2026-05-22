@@ -273,14 +273,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/22/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/22/2026 5:00 AM",
         "Status":  "Present",
@@ -567,6 +567,13 @@
         "SortTime":  480.51666666666665
     },
     {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "5/22/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.43333333333334
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -595,8 +602,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -609,14 +623,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
