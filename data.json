@@ -175,42 +175,70 @@
         "SortTime":  230.20000000000002
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "5/22/2026 3:55 AM",
+        "Status":  "Present",
+        "SortTime":  235.21666666666667
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "5/22/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.38333333333333
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "5/22/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.45000000000002
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:46 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "5/22/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.51666666666668
     },
     {
         "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/22/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.63333333333333
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "5/22/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.78333333333333
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "5/22/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.18333333333334
+    },
+    {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:46 AM",
+        "ReceivedTime":  "5/22/2026 4:03 AM",
+        "Status":  "Present",
+        "SortTime":  243.21666666666667
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "5/22/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.21666666666667
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
