@@ -8,7 +8,7 @@
     },
     {
         "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "3:33 AM",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/23/2026 3:50 AM",
         "Status":  "Present",
         "SortTime":  230.45000000000002
@@ -28,11 +28,18 @@
         "SortTime":  266.86666666666667
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/23/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.16666666666669
+    },
+    {
         "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/23/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.18333333333334
     },
     {
         "Subject":  "When Issued Report for",
