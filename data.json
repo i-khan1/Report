@@ -288,7 +288,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "9:10 AM",
+        "ExpectedTime":  "10:10 AM",
         "ReceivedTime":  "5/25/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.23333333333335
@@ -344,7 +344,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "9:10 AM",
+        "ExpectedTime":  "10:10 AM",
         "ReceivedTime":  "5/25/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.13333333333333
@@ -372,7 +372,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "9:10 AM",
+        "ExpectedTime":  "10:10 AM",
         "ReceivedTime":  "5/25/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.15
@@ -404,6 +404,13 @@
         "ReceivedTime":  "5/25/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "10:10 AM",
+        "ReceivedTime":  "5/25/2026 10:10 AM",
+        "Status":  "Present",
+        "SortTime":  610.15
     },
     {
         "Subject":  "Daily Cust Short Int file for VCBY",
