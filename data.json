@@ -288,7 +288,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
+        "ExpectedTime":  "8:10 AM",
         "ReceivedTime":  "5/25/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.23333333333335
@@ -341,6 +341,13 @@
         "ReceivedTime":  "5/25/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "8:10 AM",
+        "ReceivedTime":  "5/25/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.13333333333333
     },
     {
         "Subject":  "Daily Cash Account and Reg SHO Report",
