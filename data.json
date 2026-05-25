@@ -42,6 +42,13 @@
         "SortTime":  180.48333333333335
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:46 AM",
+        "ReceivedTime":  "5/25/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.91666666666666
+    },
+    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:05 AM",
         "ReceivedTime":  "",
