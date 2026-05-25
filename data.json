@@ -175,14 +175,14 @@
         "SortTime":  360.63333333333333
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/25/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/25/2026 6:00 AM",
         "Status":  "Present",
@@ -497,6 +497,13 @@
         "SortTime":  910.1
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "5/25/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.38333333333333
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
@@ -546,13 +553,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AVSC Journal File",
-        "ExpectedTime":  "8:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily RMS Audit History File",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
@@ -567,8 +567,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Settlement Report csv",
-        "ExpectedTime":  "3:17 PM",
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:22 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
