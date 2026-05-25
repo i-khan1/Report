@@ -21,15 +21,15 @@
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:06 AM",
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:04 AM",
         "ReceivedTime":  "5/25/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.41666666666666
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:04 AM",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:06 AM",
         "ReceivedTime":  "5/25/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.41666666666666
@@ -49,8 +49,15 @@
         "SortTime":  225.91666666666666
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:05 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "5/25/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.41666666666669
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -63,8 +70,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "3:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -77,8 +98,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "3:18 AM",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
