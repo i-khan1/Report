@@ -1,16 +1,7 @@
-﻿[
-    {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "5/24/2026 5:15 AM",
-        "Status":  "Present",
-        "SortTime":  315.43333333333334
-    },
-    {
-        "Subject":  "Weekly DWRE Reports to",
-        "ExpectedTime":  "6:03 AM",
-        "ReceivedTime":  "5/24/2026 6:03 AM",
-        "Status":  "Present",
-        "SortTime":  363.31666666666666
-    }
-]
+﻿{
+    "Subject":  "GATO File Log Report",
+    "ExpectedTime":  "2:41 AM",
+    "ReceivedTime":  "5/25/2026 2:40 AM",
+    "Status":  "Present",
+    "SortTime":  160.48333333333335
+}
