@@ -504,6 +504,13 @@
         "SortTime":  917.38333333333333
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "5/25/2026 3:25 PM",
+        "Status":  "Present",
+        "SortTime":  925.11666666666667
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
