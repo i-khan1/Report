@@ -224,6 +224,27 @@
         "SortTime":  361.1
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:05 AM",
+        "ReceivedTime":  "5/25/2026 6:05 AM",
+        "Status":  "Present",
+        "SortTime":  365.11666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:05 AM",
+        "ReceivedTime":  "5/25/2026 6:05 AM",
+        "Status":  "Present",
+        "SortTime":  365.36666666666667
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
@@ -231,15 +252,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for VCBY",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -254,6 +268,13 @@
     {
         "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -294,13 +315,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
-        "ExpectedTime":  "4:20 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:05 AM",
         "ReceivedTime":  "",
@@ -336,8 +350,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily PTP Block List",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -350,21 +364,28 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
         "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
