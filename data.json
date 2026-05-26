@@ -103,5 +103,19 @@
         "ReceivedTime":  "5/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.91666666666666
+    },
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:41 AM",
+        "ReceivedTime":  "5/26/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.43333333333334
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "3:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
