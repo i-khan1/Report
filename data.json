@@ -560,6 +560,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "3:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
@@ -567,15 +574,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "4:26 AM",
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "3:10 AM",
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "4:26 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
