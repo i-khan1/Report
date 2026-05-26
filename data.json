@@ -778,7 +778,7 @@
     },
     {
         "Subject":  "Ambrus Executions",
-        "ExpectedTime":  "12:40 PM",
+        "ExpectedTime":  "4:00 PM",
         "ReceivedTime":  "5/26/2026 12:40 PM",
         "Status":  "Present",
         "SortTime":  760.33333333333337
@@ -845,6 +845,13 @@
         "ReceivedTime":  "5/26/2026 3:40 PM",
         "Status":  "Present",
         "SortTime":  940.2166666666667
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "4:00 PM",
+        "ReceivedTime":  "5/26/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.25
     },
     {
         "Subject":  "Daily OCC LOPR Files",
