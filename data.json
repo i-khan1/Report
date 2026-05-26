@@ -533,7 +533,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
+        "ExpectedTime":  "8:10 AM",
         "ReceivedTime":  "5/26/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.1
@@ -614,6 +614,13 @@
         "ReceivedTime":  "5/26/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.15000000000003
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "8:10 AM",
+        "ReceivedTime":  "5/26/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.31666666666666
     },
     {
         "Subject":  "Daily OCC LOPR Files",
