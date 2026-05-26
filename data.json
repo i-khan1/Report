@@ -714,6 +714,13 @@
         "SortTime":  610.16666666666663
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "5/26/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.73333333333335
+    },
+    {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -721,8 +728,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily LATAM Margin Report",
-        "ExpectedTime":  "10:29 AM",
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "4:26 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -730,13 +737,6 @@
     {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "4:26 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
