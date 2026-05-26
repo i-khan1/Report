@@ -533,7 +533,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/26/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.1
@@ -617,7 +617,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/26/2026 8:10 AM",
         "Status":  "Present",
         "SortTime":  490.31666666666666
@@ -708,7 +708,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/26/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.16666666666663
@@ -729,7 +729,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/26/2026 11:10 AM",
         "Status":  "Present",
         "SortTime":  670.18333333333339
@@ -771,7 +771,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "12:10 PM",
+        "ExpectedTime":  "1:10 PM",
         "ReceivedTime":  "5/26/2026 12:10 PM",
         "Status":  "Present",
         "SortTime":  730.16666666666663
@@ -789,6 +789,13 @@
         "ReceivedTime":  "5/26/2026 1:06 PM",
         "Status":  "Present",
         "SortTime":  786.2
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "1:10 PM",
+        "ReceivedTime":  "5/26/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.15
     },
     {
         "Subject":  "Daily OCC LOPR Files",
