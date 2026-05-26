@@ -238,14 +238,14 @@
         "SortTime":  300.6
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/26/2026 5:00 AM",
         "Status":  "Present",
@@ -642,6 +642,20 @@
         "ReceivedTime":  "5/26/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.68333333333339
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/26/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.3
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/26/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.31666666666672
     },
     {
         "Subject":  "Daily OCC LOPR Files",
