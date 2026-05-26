@@ -44,8 +44,15 @@
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/26/2026 2:51 AM",
+        "Status":  "Present",
+        "SortTime":  171.28333333333333
+    },
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:41 AM",
+        "ReceivedTime":  "5/26/2026 2:53 AM",
+        "Status":  "Present",
+        "SortTime":  173.63333333333333
     }
 ]
