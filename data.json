@@ -455,6 +455,20 @@
         "SortTime":  361.18333333333334
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:04 AM",
+        "ReceivedTime":  "5/26/2026 6:04 AM",
+        "Status":  "Present",
+        "SortTime":  364.58333333333331
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:04 AM",
+        "ReceivedTime":  "5/26/2026 6:04 AM",
+        "Status":  "Present",
+        "SortTime":  364.81666666666666
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
