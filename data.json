@@ -623,6 +623,20 @@
         "SortTime":  490.31666666666666
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/26/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.28333333333336
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/26/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.45
+    },
+    {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
