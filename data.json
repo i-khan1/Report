@@ -826,15 +826,22 @@
         "SortTime":  910.18333333333339
     },
     {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "4:26 AM",
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "5/26/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.4
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:22 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -847,8 +854,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Settlement Report csv",
-        "ExpectedTime":  "3:17 PM",
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "4:26 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
