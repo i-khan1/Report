@@ -532,6 +532,13 @@
         "SortTime":  426.15000000000003
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "5/26/2026 7:10 AM",
+        "Status":  "Present",
+        "SortTime":  430.1
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
