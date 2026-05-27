@@ -882,15 +882,15 @@
         "SortTime":  910.18333333333339
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "9:57 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Settlement Report csv",
         "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "5/27/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.26666666666665
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "9:57 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
