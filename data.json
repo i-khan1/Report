@@ -470,14 +470,14 @@
     },
     {
         "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:07 AM",
+        "ExpectedTime":  "12:05 PM",
         "ReceivedTime":  "5/27/2026 6:07 AM",
         "Status":  "Present",
         "SortTime":  367.3
     },
     {
         "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:07 AM",
+        "ExpectedTime":  "12:05 PM",
         "ReceivedTime":  "5/27/2026 6:07 AM",
         "Status":  "Present",
         "SortTime":  367.5
@@ -540,7 +540,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/27/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.16666666666669
@@ -603,7 +603,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/27/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.1
@@ -673,7 +673,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/27/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.18333333333339
@@ -757,7 +757,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/27/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.2166666666667
@@ -778,7 +778,7 @@
     },
     {
         "Subject":  "DO File Check",
-        "ExpectedTime":  "11:06 AM",
+        "ExpectedTime":  "12:06 PM",
         "ReceivedTime":  "5/27/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.2
@@ -798,15 +798,36 @@
         "SortTime":  710.73333333333335
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "9:57 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily UNAFFIRM Report for",
         "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "5/27/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.25
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:05 PM",
+        "ReceivedTime":  "5/27/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.23333333333335
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:05 PM",
+        "ReceivedTime":  "5/27/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.38333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "5/27/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.13333333333333
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "9:57 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
