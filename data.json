@@ -630,24 +630,24 @@
         "SortTime":  493.86666666666667
     },
     {
-        "Subject":  "Fixed Income Inteliclear Trial Balance",
-        "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "8:28 AM",
+        "ReceivedTime":  "5/27/2026 8:28 AM",
+        "Status":  "Present",
+        "SortTime":  508.78333333333336
     },
     {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "7:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "5/27/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.23333333333335
     },
     {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/27/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.48333333333335
     }
 ]
