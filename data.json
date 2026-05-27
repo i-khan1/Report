@@ -588,8 +588,15 @@
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "5/27/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.33333333333337
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -597,6 +604,13 @@
     {
         "Subject":  "When Issued Report for",
         "ExpectedTime":  "7:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
