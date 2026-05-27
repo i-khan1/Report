@@ -464,9 +464,9 @@
     {
         "Subject":  "Daily VCLT BMSY Buys Reports",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/27/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.78333333333336
     },
     {
         "Subject":  "Daily SOD ETB File to GTN America",
