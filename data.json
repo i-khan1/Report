@@ -834,7 +834,7 @@
     },
     {
         "Subject":  "Ambrus Executions",
-        "ExpectedTime":  "12:40 PM",
+        "ExpectedTime":  "4:00 PM",
         "ReceivedTime":  "5/27/2026 12:40 PM",
         "Status":  "Present",
         "SortTime":  760.31666666666672
@@ -908,6 +908,13 @@
         "ReceivedTime":  "5/27/2026 3:40 PM",
         "Status":  "Present",
         "SortTime":  940.30000000000007
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "4:00 PM",
+        "ReceivedTime":  "5/27/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.33333333333337
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
