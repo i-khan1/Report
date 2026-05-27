@@ -280,6 +280,13 @@
         "SortTime":  300.88333333333333
     },
     {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:01 AM",
+        "ReceivedTime":  "5/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.95
+    },
+    {
         "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/27/2026 5:00 AM",
@@ -287,11 +294,11 @@
         "SortTime":  300.95
     },
     {
-        "Subject":  "Daily Options Reports for Capital",
-        "ExpectedTime":  "5:01 AM",
-        "ReceivedTime":  "5/27/2026 5:00 AM",
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "5/27/2026 5:05 AM",
         "Status":  "Present",
-        "SortTime":  300.95
+        "SortTime":  305.2166666666667
     },
     {
         "Subject":  "Reconciliation Portfolio Margin COB",
