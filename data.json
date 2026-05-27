@@ -7,6 +7,13 @@
         "SortTime":  70.4
     },
     {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "5/27/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.51666666666668
+    },
+    {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
