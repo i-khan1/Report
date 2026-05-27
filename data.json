@@ -547,7 +547,7 @@
     },
     {
         "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
+        "ExpectedTime":  "8:10 AM",
         "ReceivedTime":  "5/27/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.16666666666669
@@ -609,11 +609,25 @@
         "SortTime":  486.1
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "8:10 AM",
+        "ReceivedTime":  "5/27/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.1
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "8:13 AM",
+        "ReceivedTime":  "5/27/2026 8:13 AM",
+        "Status":  "Present",
+        "SortTime":  493.73333333333335
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "8:13 AM",
+        "ReceivedTime":  "5/27/2026 8:13 AM",
+        "Status":  "Present",
+        "SortTime":  493.86666666666667
     },
     {
         "Subject":  "When Issued Report for",
@@ -623,15 +637,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
