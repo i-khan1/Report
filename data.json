@@ -274,7 +274,7 @@
     },
     {
         "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "5/27/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.88333333333333
@@ -404,6 +404,69 @@
         "ReceivedTime":  "5/27/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.41666666666669
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/27/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.6
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/27/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.6
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/27/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.8
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/27/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.81666666666666
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/27/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.01666666666665
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "5/27/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.05
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "5/27/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.08333333333331
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "5/27/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.13333333333333
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily SOD ETB File to GTN America",
