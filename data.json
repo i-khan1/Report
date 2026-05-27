@@ -280,15 +280,15 @@
         "SortTime":  300.88333333333333
     },
     {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:01 AM",
         "ReceivedTime":  "5/27/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.95
     },
     {
-        "Subject":  "Daily Options Reports for Capital",
-        "ExpectedTime":  "5:01 AM",
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/27/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.95
@@ -702,8 +702,57 @@
     {
         "Subject":  "Daily AVSC Lifecycle File of Succession",
         "ExpectedTime":  "9:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/27/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.55000000000007
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.13333333333333
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.18333333333339
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.31666666666672
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.31666666666672
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.36666666666667
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.45
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "9:31 AM",
+        "ReceivedTime":  "5/27/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.4666666666667
     }
 ]
