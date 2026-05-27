@@ -567,6 +567,13 @@
         "SortTime":  450.28333333333336
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "7:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
