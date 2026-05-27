@@ -217,6 +217,13 @@
         "SortTime":  245.8
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "4:26 AM",
+        "ReceivedTime":  "5/27/2026 4:26 AM",
+        "Status":  "Present",
+        "SortTime":  266.41666666666669
+    },
+    {
         "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:16 AM",
         "ReceivedTime":  "",
@@ -231,21 +238,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
