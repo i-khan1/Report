@@ -854,10 +854,17 @@
         "SortTime":  546.15
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "5/28/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.2
+    },
+    {
         "Subject":  "PM Reports V Horizon Notifications",
         "ExpectedTime":  "9:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/28/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.83333333333337
     }
 ]
