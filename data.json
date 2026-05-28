@@ -952,15 +952,15 @@
         "SortTime":  1320.3833333333334
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "9:57 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:17 PM",
+        "ReceivedTime":  "5/27/2026 10:23 PM",
+        "Status":  "Present",
+        "SortTime":  1343.4666666666667
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "9:57 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
