@@ -418,5 +418,19 @@
         "ReceivedTime":  "5/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "5/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:01 AM",
+        "ReceivedTime":  "5/28/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.1
     }
 ]
