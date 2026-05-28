@@ -945,6 +945,13 @@
         "SortTime":  1090.4166666666667
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "5/27/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3833333333334
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "9:57 AM",
         "ReceivedTime":  "",
