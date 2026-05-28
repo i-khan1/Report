@@ -782,5 +782,68 @@
         "ReceivedTime":  "5/28/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.7
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:58 AM",
+        "Status":  "Present",
+        "SortTime":  538.98333333333335
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.0333333333333
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.1
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.11666666666667
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.16666666666663
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.16666666666663
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "5/28/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.16666666666663
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/28/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.31666666666672
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/28/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.35
     }
 ]
