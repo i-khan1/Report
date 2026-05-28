@@ -14,6 +14,13 @@
         "SortTime":  160.46666666666667
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "7:40 AM",
+        "ReceivedTime":  "5/28/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.36666666666667
+    },
+    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
