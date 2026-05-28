@@ -1057,6 +1057,13 @@
         "SortTime":  1010.2666666666667
     },
     {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "5/28/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2
+    },
+    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
         "ReceivedTime":  "",
