@@ -959,6 +959,13 @@
         "SortTime":  730.30000000000007
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "4:18 PM",
+        "ReceivedTime":  "5/28/2026 12:38 PM",
+        "Status":  "Present",
+        "SortTime":  758.68333333333339
+    },
+    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
         "ReceivedTime":  "",
