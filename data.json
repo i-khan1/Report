@@ -712,5 +712,40 @@
         "ReceivedTime":  "5/28/2026 7:47 AM",
         "Status":  "Present",
         "SortTime":  467.43333333333334
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "5/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.66666666666669
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "5/28/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.3
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
