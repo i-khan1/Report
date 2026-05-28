@@ -560,14 +560,14 @@
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "5/28/2026 6:00 AM",
         "Status":  "Present",
@@ -754,6 +754,13 @@
         "ReceivedTime":  "5/28/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.2166666666667
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "5/28/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.15000000000003
     },
     {
         "Subject":  "Daily c Report",
