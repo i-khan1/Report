@@ -432,5 +432,12 @@
         "ReceivedTime":  "5/28/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.1
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "5/28/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.2166666666667
     }
 ]
