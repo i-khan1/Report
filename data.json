@@ -672,14 +672,14 @@
         "SortTime":  512.41666666666663
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.48333333333335
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
@@ -775,5 +775,12 @@
         "ReceivedTime":  "5/29/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.2166666666667
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
