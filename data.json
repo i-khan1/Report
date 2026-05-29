@@ -28,71 +28,148 @@
         "SortTime":  202.20000000000002
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.01666666666668
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.05
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.05
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.13333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.23333333333335
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.68333333333334
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.75
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.86666666666667
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.88333333333333
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.96666666666667
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "5/29/2026 3:33 AM",
+        "Status":  "Present",
+        "SortTime":  213.01666666666668
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "5/29/2026 3:33 AM",
+        "Status":  "Present",
+        "SortTime":  213.63333333333333
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "5/29/2026 3:33 AM",
+        "Status":  "Present",
+        "SortTime":  213.95000000000002
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "5/29/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.01666666666668
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "5/29/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.06666666666666
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "5/29/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.25
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "5/29/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.68333333333334
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "5/29/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.78333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "5/29/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.88333333333333
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:51 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
