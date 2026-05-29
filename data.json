@@ -539,21 +539,21 @@
         "SortTime":  375.3
     },
     {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:30 AM",
+        "ReceivedTime":  "5/29/2026 6:33 AM",
+        "Status":  "Present",
+        "SortTime":  393.43333333333334
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:30 AM",
+        "ReceivedTime":  "5/29/2026 6:36 AM",
+        "Status":  "Present",
+        "SortTime":  396.68333333333334
+    },
+    {
         "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Options Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -567,6 +567,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -574,21 +588,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Marks What we owe",
-        "ExpectedTime":  "6:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
