@@ -399,14 +399,14 @@
         "SortTime":  345.53333333333336
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "5/29/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.8
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "5/29/2026 5:45 AM",
         "Status":  "Present",
@@ -672,14 +672,14 @@
         "SortTime":  512.41666666666663
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.48333333333335
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
@@ -880,5 +880,12 @@
         "ReceivedTime":  "5/29/2026 3:18 PM",
         "Status":  "Present",
         "SortTime":  918.38333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "5/29/2026 3:25 PM",
+        "Status":  "Present",
+        "SortTime":  925.18333333333339
     }
 ]
