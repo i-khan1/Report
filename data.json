@@ -672,14 +672,14 @@
         "SortTime":  512.41666666666663
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.48333333333335
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
@@ -824,5 +824,19 @@
         "ReceivedTime":  "5/29/2026 12:00 PM",
         "Status":  "Present",
         "SortTime":  720.2833333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "5/29/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2833333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "5/29/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.4
     }
 ]
