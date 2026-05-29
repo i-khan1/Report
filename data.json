@@ -399,14 +399,14 @@
         "SortTime":  345.53333333333336
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "5/29/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.8
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "5/29/2026 5:45 AM",
         "Status":  "Present",
@@ -579,6 +579,13 @@
         "ReceivedTime":  "5/29/2026 7:10 AM",
         "Status":  "Present",
         "SortTime":  430.06666666666666
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "5/29/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.7166666666667
     },
     {
         "Subject":  "Compliance Reports",
