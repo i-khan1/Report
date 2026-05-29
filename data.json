@@ -238,22 +238,22 @@
         "SortTime":  240.96666666666667
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:51 AM",
+        "ReceivedTime":  "5/29/2026 4:04 AM",
+        "Status":  "Present",
+        "SortTime":  244.61666666666667
     },
     {
         "Subject":  "Daily PTP Block List",
         "ExpectedTime":  "4:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/29/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.23333333333335
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:51 AM",
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
