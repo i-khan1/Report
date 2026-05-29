@@ -42,14 +42,14 @@
         "SortTime":  212.01666666666668
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "5/29/2026 3:32 AM",
         "Status":  "Present",
         "SortTime":  212.05
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "5/29/2026 3:32 AM",
         "Status":  "Present",
@@ -672,14 +672,14 @@
         "SortTime":  512.41666666666663
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.48333333333335
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "5/29/2026 8:32 AM",
         "Status":  "Present",
@@ -838,5 +838,12 @@
         "ReceivedTime":  "5/29/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.4
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "5/29/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.18333333333339
     }
 ]
