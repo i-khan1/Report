@@ -75,5 +75,12 @@
         "ReceivedTime":  "5/30/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.55
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "7:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
