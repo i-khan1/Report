@@ -98,6 +98,13 @@
         "SortTime":  540.33333333333337
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "5/30/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.63333333333333
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -107,13 +114,6 @@
     {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily LATAM Margin Report",
-        "ExpectedTime":  "10:29 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
