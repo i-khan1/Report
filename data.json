@@ -110,5 +110,12 @@
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
