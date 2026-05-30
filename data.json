@@ -30,8 +30,8 @@
     {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "5/30/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.70000000000002
     }
 ]
