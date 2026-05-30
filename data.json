@@ -84,11 +84,18 @@
         "SortTime":  480.28333333333336
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "7:40 AM",
+        "ReceivedTime":  "5/30/2026 8:32 AM",
+        "Status":  "Present",
+        "SortTime":  512.05
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "5/30/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.33333333333337
     },
     {
         "Subject":  "FINRA SHORT REPORT for VCapital",
@@ -98,15 +105,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "7:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily NTA File For Vaticine",
-        "ExpectedTime":  "9:00 AM",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
