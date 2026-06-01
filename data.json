@@ -651,15 +651,15 @@
         "SortTime":  670.11666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
-        "ExpectedTime":  "9:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "6/1/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.86666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
