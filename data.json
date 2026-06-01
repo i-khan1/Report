@@ -777,15 +777,15 @@
         "SortTime":  1050.9666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
-        "ExpectedTime":  "9:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily ETB File to Trading",
         "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "6/1/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
