@@ -1,16 +1,7 @@
-﻿[
-    {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "5/31/2026 5:15 AM",
-        "Status":  "Present",
-        "SortTime":  315.48333333333335
-    },
-    {
-        "Subject":  "Weekly DWRE Reports to",
-        "ExpectedTime":  "6:03 AM",
-        "ReceivedTime":  "5/31/2026 6:03 AM",
-        "Status":  "Present",
-        "SortTime":  363.90000000000003
-    }
-]
+﻿{
+    "Subject":  "Daily Position File",
+    "ExpectedTime":  "2:19 AM",
+    "ReceivedTime":  "",
+    "Status":  "Missing",
+    "SortTime":  999999
+}
