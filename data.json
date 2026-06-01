@@ -525,6 +525,34 @@
         "SortTime":  450.31666666666666
     },
     {
+        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.23333333333335
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.23333333333335
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.38333333333333
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/1/2026 8:00 AM",
@@ -539,31 +567,10 @@
         "SortTime":  481.25
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD to BitDelta Limited",
         "ExpectedTime":  "8:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Exercise and Assignment of GDN",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/1/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.3
     }
 ]
