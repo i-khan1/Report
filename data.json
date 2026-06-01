@@ -583,8 +583,15 @@
     {
         "Subject":  "Fixed Income Inteliclear Trial Balance",
         "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/1/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.7166666666667
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/1/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.78333333333336
     }
 ]
