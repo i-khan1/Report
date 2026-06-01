@@ -525,6 +525,20 @@
         "SortTime":  450.31666666666666
     },
     {
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.53333333333336
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "6/1/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.25
+    },
+    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -532,14 +546,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
         "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
