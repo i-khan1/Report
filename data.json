@@ -672,6 +672,27 @@
         "SortTime":  720.58333333333337
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/1/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.83333333333337
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/1/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.93333333333339
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/1/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.2
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "9:15 AM",
         "ReceivedTime":  "",
