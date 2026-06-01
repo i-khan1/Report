@@ -166,12 +166,5 @@
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
-    },
-    {
-        "Subject":  "GATO File Log Report Jun",
-        "ExpectedTime":  "2:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
     }
 ]
