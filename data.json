@@ -707,6 +707,13 @@
         "SortTime":  790.15
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/1/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.11666666666667
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "9:15 AM",
         "ReceivedTime":  "",
