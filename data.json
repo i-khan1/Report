@@ -525,14 +525,14 @@
         "SortTime":  450.31666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.23333333333335
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/1/2026 8:00 AM",
         "Status":  "Present",
@@ -642,6 +642,13 @@
         "ReceivedTime":  "6/1/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.16666666666663
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/1/2026 11:10 AM",
+        "Status":  "Present",
+        "SortTime":  670.11666666666667
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
