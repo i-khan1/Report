@@ -791,6 +791,13 @@
         "SortTime":  1320.4
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:17 PM",
+        "ReceivedTime":  "6/1/2026 10:06 PM",
+        "Status":  "Present",
+        "SortTime":  1326.9333333333334
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "9:15 AM",
         "ReceivedTime":  "",
