@@ -852,5 +852,12 @@
         "ReceivedTime":  "6/2/2026 1:06 PM",
         "Status":  "Present",
         "SortTime":  786.2
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/2/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.15
     }
 ]
