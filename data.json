@@ -56,22 +56,36 @@
         "SortTime":  206.08333333333334
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/2/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.38333333333333
     },
     {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/2/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.45000000000002
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/2/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.68333333333334
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/2/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.68333333333334
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -93,13 +107,6 @@
     {
         "Subject":  "Daily Position File",
         "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
