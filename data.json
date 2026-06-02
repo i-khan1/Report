@@ -189,8 +189,64 @@
         "SortTime":  230.20000000000002
     },
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:49 AM",
+        "ReceivedTime":  "6/2/2026 3:54 AM",
+        "Status":  "Present",
+        "SortTime":  234.45000000000002
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/2/2026 3:55 AM",
+        "Status":  "Present",
+        "SortTime":  235.18333333333334
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:51 AM",
+        "ReceivedTime":  "6/2/2026 3:57 AM",
+        "Status":  "Present",
+        "SortTime":  237.28333333333333
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
