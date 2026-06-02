@@ -7,6 +7,20 @@
         "SortTime":  70.2
     },
     {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "3:12 AM",
+        "ReceivedTime":  "6/2/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.48333333333335
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "7:40 AM",
+        "ReceivedTime":  "6/2/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.26666666666668
+    },
+    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
