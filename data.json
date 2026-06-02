@@ -644,52 +644,59 @@
         "SortTime":  486.3
     },
     {
-        "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Options Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/2/2026 8:09 AM",
+        "Status":  "Present",
+        "SortTime":  489.9666666666667
     },
     {
         "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490
     },
     {
         "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.05
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.05
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.08333333333337
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.1
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.11666666666667
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/2/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.13333333333333
     }
 ]
