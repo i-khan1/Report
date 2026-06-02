@@ -511,14 +511,21 @@
         "SortTime":  369.55
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -539,8 +546,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -553,15 +567,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Risk Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
