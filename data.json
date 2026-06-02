@@ -539,6 +539,13 @@
         "SortTime":  375.6
     },
     {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/2/2026 6:22 AM",
+        "Status":  "Present",
+        "SortTime":  382.01666666666665
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
