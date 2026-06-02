@@ -784,6 +784,13 @@
         "SortTime":  1090.4
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/1/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.4
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "9:15 AM",
         "ReceivedTime":  "",
