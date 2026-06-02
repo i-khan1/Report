@@ -259,15 +259,15 @@
         "SortTime":  241.05
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily PTP Block List",
         "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "6/2/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.23333333333335
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
