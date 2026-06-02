@@ -497,6 +497,20 @@
         "SortTime":  361.1
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/2/2026 6:09 AM",
+        "Status":  "Present",
+        "SortTime":  369.06666666666666
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/2/2026 6:09 AM",
+        "Status":  "Present",
+        "SortTime":  369.55
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
