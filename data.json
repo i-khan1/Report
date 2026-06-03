@@ -707,14 +707,14 @@
         "SortTime":  476.13333333333333
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/3/2026 7:56 AM",
         "Status":  "Present",
         "SortTime":  476.15000000000003
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/3/2026 7:56 AM",
         "Status":  "Present",
@@ -742,29 +742,43 @@
         "SortTime":  476.51666666666665
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/3/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
     },
     {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/3/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.3
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/3/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/3/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.55
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "6/3/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.11666666666667
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
