@@ -707,14 +707,14 @@
         "SortTime":  476.13333333333333
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/3/2026 7:56 AM",
         "Status":  "Present",
         "SortTime":  476.15000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/3/2026 7:56 AM",
         "Status":  "Present",
@@ -915,6 +915,27 @@
         "ReceivedTime":  "6/3/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.16666666666663
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/3/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.68333333333339
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/3/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.7833333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/3/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.11666666666667
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
