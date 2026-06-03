@@ -257,5 +257,19 @@
         "ReceivedTime":  "6/3/2026 3:35 AM",
         "Status":  "Present",
         "SortTime":  215.68333333333334
+    },
+    {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:46 AM",
+        "ReceivedTime":  "6/3/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.86666666666667
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
