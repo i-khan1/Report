@@ -987,6 +987,13 @@
         "SortTime":  910.16666666666674
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
         "ReceivedTime":  "",
