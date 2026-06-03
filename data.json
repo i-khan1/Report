@@ -336,8 +336,22 @@
         "SortTime":  245.16666666666669
     },
     {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "11:22 AM",
+        "ReceivedTime":  "6/3/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.01666666666665
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
