@@ -518,6 +518,13 @@
         "SortTime":  345.75
     },
     {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "6/3/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.25
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
