@@ -588,6 +588,48 @@
         "SortTime":  361.35
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/3/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.51666666666665
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "12:03 PM",
+        "ReceivedTime":  "6/3/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.75
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.28333333333336
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
