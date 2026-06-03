@@ -343,21 +343,21 @@
         "SortTime":  260.01666666666665
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/3/2026 4:33 AM",
+        "Status":  "Present",
+        "SortTime":  273.31666666666666
     },
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
         "ExpectedTime":  "4:20 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/3/2026 4:33 AM",
+        "Status":  "Present",
+        "SortTime":  273.76666666666665
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
