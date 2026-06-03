@@ -224,10 +224,38 @@
         "SortTime":  210.46666666666667
     },
     {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/3/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.26666666666668
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/3/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.53333333333333
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "6/3/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.6
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "6/3/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.45000000000002
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/3/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.68333333333334
     }
 ]
