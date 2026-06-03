@@ -413,6 +413,27 @@
         "SortTime":  300.83333333333331
     },
     {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "6/3/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.95
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:01 AM",
+        "ReceivedTime":  "6/3/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.95
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -420,8 +441,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Options Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -434,7 +455,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
