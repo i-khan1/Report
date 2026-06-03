@@ -672,6 +672,13 @@
         "SortTime":  426.11666666666667
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/3/2026 7:11 AM",
+        "Status":  "Present",
+        "SortTime":  431.13333333333333
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
