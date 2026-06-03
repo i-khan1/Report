@@ -21,6 +21,13 @@
         "SortTime":  190.21666666666667
     },
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:49 AM",
+        "ReceivedTime":  "6/3/2026 3:13 AM",
+        "Status":  "Present",
+        "SortTime":  193.08333333333334
+    },
+    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
