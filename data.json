@@ -161,11 +161,46 @@
         "SortTime":  235.23333333333335
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/4/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.28333333333333
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/4/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.33333333333334
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/4/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.35
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/4/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.38333333333333
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/4/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.65
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/4/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.91666666666669
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
@@ -175,29 +210,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
