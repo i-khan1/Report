@@ -567,14 +567,14 @@
         "SortTime":  482.38333333333333
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
         "SortTime":  482.48333333333335
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
@@ -677,5 +677,19 @@
         "ReceivedTime":  "6/4/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.73333333333335
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/4/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.25
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/4/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.31666666666672
     }
 ]
