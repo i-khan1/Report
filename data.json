@@ -1,7 +1,7 @@
 ﻿{
     "Subject":  "Daily Monitoring Report",
     "ExpectedTime":  "1:10 AM",
-    "ReceivedTime":  "",
-    "Status":  "Missing",
-    "SortTime":  999999
+    "ReceivedTime":  "6/4/2026 1:10 AM",
+    "Status":  "Present",
+    "SortTime":  70.433333333333337
 }
