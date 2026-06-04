@@ -707,14 +707,14 @@
         "SortTime":  476.13333333333333
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/3/2026 7:56 AM",
         "Status":  "Present",
         "SortTime":  476.15000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/3/2026 7:56 AM",
         "Status":  "Present",
@@ -1055,6 +1055,13 @@
         "ReceivedTime":  "6/3/2026 10:00 PM",
         "Status":  "Present",
         "SortTime":  1320.25
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:17 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
