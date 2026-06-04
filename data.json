@@ -567,14 +567,14 @@
         "SortTime":  482.38333333333333
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
         "SortTime":  482.48333333333335
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
@@ -600,6 +600,13 @@
         "ReceivedTime":  "6/4/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.15000000000003
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "3:10 PM",
+        "ReceivedTime":  "6/4/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.11666666666667
     },
     {
         "Subject":  "Compliance Reports",
