@@ -567,14 +567,14 @@
         "SortTime":  482.38333333333333
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
         "SortTime":  482.48333333333335
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
@@ -824,5 +824,12 @@
         "ReceivedTime":  "6/4/2026 1:10 PM",
         "Status":  "Present",
         "SortTime":  790.13333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/4/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.2833333333333
     }
 ]
