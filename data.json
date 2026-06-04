@@ -567,14 +567,14 @@
         "SortTime":  482.38333333333333
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
         "SortTime":  482.48333333333335
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
@@ -894,5 +894,12 @@
         "ReceivedTime":  "6/4/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.25
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/4/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2833333333333
     }
 ]
