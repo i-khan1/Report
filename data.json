@@ -511,6 +511,20 @@
         "SortTime":  394.35
     },
     {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/4/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/4/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.36666666666667
+    },
+    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
