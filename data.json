@@ -224,14 +224,14 @@
         "SortTime":  264.95
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/4/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/4/2026 5:00 AM",
         "Status":  "Present",
@@ -322,14 +322,14 @@
         "SortTime":  315.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/4/2026 5:15 AM",
         "Status":  "Present",
@@ -392,14 +392,14 @@
         "SortTime":  346.61666666666667
     },
     {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "6/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "6/4/2026 6:00 AM",
         "Status":  "Present",
