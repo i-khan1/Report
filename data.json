@@ -567,14 +567,14 @@
         "SortTime":  482.38333333333333
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
         "SortTime":  482.48333333333335
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/4/2026 8:02 AM",
         "Status":  "Present",
@@ -922,5 +922,12 @@
         "ReceivedTime":  "6/4/2026 10:00 PM",
         "Status":  "Present",
         "SortTime":  1320.4833333333333
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:16 PM",
+        "ReceivedTime":  "6/4/2026 10:12 PM",
+        "Status":  "Present",
+        "SortTime":  1332.8833333333334
     }
 ]
