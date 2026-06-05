@@ -574,14 +574,14 @@
         "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
@@ -789,5 +789,19 @@
         "ReceivedTime":  "6/5/2026 9:00 AM",
         "Status":  "Present",
         "SortTime":  540.33333333333337
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/5/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/5/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.15
     }
 ]
