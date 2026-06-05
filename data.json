@@ -574,14 +574,14 @@
         "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
@@ -649,6 +649,27 @@
         "ReceivedTime":  "6/5/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.25
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/5/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/5/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.3
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/5/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.40000000000003
     },
     {
         "Subject":  "Margin Reports",
