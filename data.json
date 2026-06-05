@@ -553,6 +553,13 @@
         "SortTime":  361.26666666666665
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/5/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.45
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
