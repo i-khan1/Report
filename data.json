@@ -1,401 +1,457 @@
 ﻿[
     {
         "Subject":  "Daily Monitoring Report",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "6/5/2026 1:10 AM",
         "Status":  "Present",
         "SortTime":  70.266666666666666
     },
     {
         "Subject":  "GATO File Log Report",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:40 AM",
         "ReceivedTime":  "6/5/2026 2:40 AM",
         "Status":  "Present",
         "SortTime":  160.46666666666667
     },
     {
         "Subject":  "When Issued Report for",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:10 AM",
         "ReceivedTime":  "6/5/2026 3:10 AM",
         "Status":  "Present",
         "SortTime":  190.26666666666668
     },
     {
         "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:06 AM",
         "ReceivedTime":  "6/5/2026 3:32 AM",
         "Status":  "Present",
         "SortTime":  212.26666666666668
     },
     {
         "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "6/5/2026 3:35 AM",
         "Status":  "Present",
         "SortTime":  215.61666666666667
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:38 AM",
         "Status":  "Present",
         "SortTime":  218.61666666666667
     },
     {
         "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:39 AM",
         "Status":  "Present",
         "SortTime":  219.43333333333334
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:39 AM",
         "Status":  "Present",
         "SortTime":  219.56666666666666
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:39 AM",
         "Status":  "Present",
         "SortTime":  219.6
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:39 AM",
         "Status":  "Present",
         "SortTime":  219.61666666666667
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220
     },
     {
         "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.21666666666667
     },
     {
         "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.31666666666666
     },
     {
         "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.38333333333333
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.38333333333333
     },
     {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.41666666666666
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.46666666666667
     },
     {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.6
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.6
     },
     {
         "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.1
     },
     {
         "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.18333333333334
     },
     {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.21666666666667
     },
     {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.68333333333334
     },
     {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.70000000000002
     },
     {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.71666666666667
     },
     {
         "Subject":  "Daily Position File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "6/5/2026 3:41 AM",
         "Status":  "Present",
         "SortTime":  221.75
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:42 AM",
         "Status":  "Present",
         "SortTime":  222.15
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:42 AM",
         "Status":  "Present",
         "SortTime":  222.18333333333334
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:42 AM",
         "Status":  "Present",
         "SortTime":  222.75
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:42 AM",
         "Status":  "Present",
         "SortTime":  222.86666666666667
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:43 AM",
         "Status":  "Present",
         "SortTime":  223.4
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/5/2026 3:43 AM",
         "Status":  "Present",
         "SortTime":  223.70000000000002
     },
     {
         "Subject":  "Daily Position File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "6/5/2026 3:43 AM",
         "Status":  "Present",
         "SortTime":  223.8
     },
     {
         "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "6/5/2026 3:45 AM",
         "Status":  "Present",
         "SortTime":  225.96666666666667
     },
     {
         "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "2:48 AM",
         "ReceivedTime":  "6/5/2026 3:50 AM",
         "Status":  "Present",
         "SortTime":  230.16666666666669
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/5/2026 3:50 AM",
         "Status":  "Present",
         "SortTime":  230.20000000000002
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/5/2026 3:55 AM",
         "Status":  "Present",
         "SortTime":  235.21666666666667
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/5/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.23333333333335
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/5/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.45000000000002
     },
     {
         "Subject":  "Daily OTC File to GTN America",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/5/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.58333333333334
     },
     {
         "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/5/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.66666666666669
     },
     {
         "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/5/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.66666666666669
     },
     {
         "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/5/2026 4:01 AM",
         "Status":  "Present",
         "SortTime":  241.20000000000002
     },
     {
         "Subject":  "Daily PTP Block List",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "6/5/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.23333333333335
     },
     {
         "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/5/2026 4:54 AM",
         "Status":  "Present",
         "SortTime":  294.63333333333333
     },
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "6/5/2026 4:55 AM",
         "Status":  "Present",
         "SortTime":  295.26666666666665
     },
     {
         "Subject":  "Daily DIVFT DIVNRA Activity",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
         "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
         "Subject":  "Daily Expired Options Assignments Velocity File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.66666666666669
     },
     {
         "Subject":  "BONY Posision File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.7
     },
     {
         "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.8
     },
     {
         "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.90000000000003
     },
     {
         "Subject":  "Daily Options Reports for Capital",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.95
     },
     {
         "Subject":  "Daily Exercise Assignment Report for Capital",
-        "ExpectedTime":  null,
+        "ExpectedTime":  "5:05 AM",
         "ReceivedTime":  "6/5/2026 5:05 AM",
         "Status":  "Present",
         "SortTime":  305.15000000000003
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
