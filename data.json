@@ -623,6 +623,13 @@
         "SortTime":  420.81666666666666
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/5/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.16666666666669
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
