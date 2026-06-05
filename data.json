@@ -574,14 +574,14 @@
         "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
@@ -772,8 +772,22 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/5/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.25
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/5/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.31666666666672
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/5/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.33333333333337
     }
 ]
