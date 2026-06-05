@@ -763,6 +763,13 @@
         "SortTime":  515.9666666666667
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "6/5/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7166666666667
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
