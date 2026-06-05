@@ -91,14 +91,14 @@
         "SortTime":  220.31666666666666
     },
     {
-        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  null,
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.38333333333333
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
         "ExpectedTime":  null,
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
@@ -119,14 +119,14 @@
         "SortTime":  220.46666666666667
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  null,
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.6
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  null,
         "ReceivedTime":  "6/5/2026 3:40 AM",
         "Status":  "Present",
@@ -322,14 +322,14 @@
         "SortTime":  295.26666666666665
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  null,
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  null,
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
@@ -390,5 +390,12 @@
         "ReceivedTime":  "6/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.95
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  null,
+        "ReceivedTime":  "6/5/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.15000000000003
     }
 ]
