@@ -989,8 +989,8 @@
     {
         "Subject":  "AllFunds Symbol Validation Report",
         "ExpectedTime":  "3:25 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/5/2026 3:46 PM",
+        "Status":  "Present",
+        "SortTime":  946.88333333333333
     }
 ]
