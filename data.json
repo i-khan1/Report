@@ -574,14 +574,14 @@
         "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
@@ -593,6 +593,20 @@
         "ReceivedTime":  "6/5/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:34 AM",
+        "ReceivedTime":  "6/5/2026 6:32 AM",
+        "Status":  "Present",
+        "SortTime":  392.53333333333336
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:34 AM",
+        "ReceivedTime":  "6/5/2026 6:33 AM",
+        "Status":  "Present",
+        "SortTime":  393.91666666666669
     },
     {
         "Subject":  "Margin Reports",
