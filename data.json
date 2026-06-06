@@ -63,6 +63,13 @@
         "SortTime":  300.2166666666667
     },
     {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/6/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.98333333333335
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
