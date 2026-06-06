@@ -7,8 +7,22 @@
         "SortTime":  70.266666666666666
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "3:10 AM",
+        "ReceivedTime":  "6/6/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.28333333333333
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:48 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
