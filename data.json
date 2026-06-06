@@ -49,6 +49,13 @@
         "SortTime":  262.2
     },
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:06 AM",
+        "ReceivedTime":  "6/6/2026 4:38 AM",
+        "Status":  "Present",
+        "SortTime":  278.11666666666667
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
@@ -58,13 +65,6 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "3:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
