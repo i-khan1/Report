@@ -42,6 +42,13 @@
         "SortTime":  251.43333333333334
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:48 AM",
+        "ReceivedTime":  "6/6/2026 4:22 AM",
+        "Status":  "Present",
+        "SortTime":  262.2
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
