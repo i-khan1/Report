@@ -96,12 +96,5 @@
         "ReceivedTime":  "6/6/2026 8:12 AM",
         "Status":  "Present",
         "SortTime":  492.45
-    },
-    {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
     }
 ]
