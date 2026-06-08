@@ -105,15 +105,15 @@
         "SortTime":  240.25
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
@@ -656,6 +656,13 @@
         "ReceivedTime":  "6/8/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.2166666666667
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/8/2026 11:10 AM",
+        "Status":  "Present",
+        "SortTime":  670.55000000000007
     },
     {
         "Subject":  "FINRA SHORT REPORT for VClearing",
