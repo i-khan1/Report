@@ -105,15 +105,15 @@
         "SortTime":  240.25
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
@@ -189,14 +189,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
@@ -322,14 +322,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/8/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.83333333333331
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/8/2026 5:45 AM",
         "Status":  "Present",
@@ -600,6 +600,34 @@
         "ReceivedTime":  "6/8/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.65
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/8/2026 9:08 AM",
+        "Status":  "Present",
+        "SortTime":  548.11666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/8/2026 9:09 AM",
+        "Status":  "Present",
+        "SortTime":  549.2833333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/8/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.13333333333333
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "6/8/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.7833333333333
     },
     {
         "Subject":  "FINRA SHORT REPORT for VClearing",
