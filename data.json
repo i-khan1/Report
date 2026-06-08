@@ -574,6 +574,13 @@
         "SortTime":  510.61666666666667
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "6/8/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
