@@ -105,15 +105,15 @@
         "SortTime":  240.25
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
@@ -189,14 +189,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
@@ -292,6 +292,20 @@
         "ReceivedTime":  "6/8/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.58333333333331
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/8/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.45
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/8/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.5
     },
     {
         "Subject":  "Daily Cust Short file to Exante",
