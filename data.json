@@ -77,6 +77,20 @@
         "SortTime":  215.45000000000002
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "6/8/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.93333333333334
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/8/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.21666666666667
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
