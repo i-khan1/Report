@@ -490,6 +490,13 @@
         "SortTime":  426.15000000000003
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/8/2026 7:10 AM",
+        "Status":  "Present",
+        "SortTime":  430.16666666666669
+    },
+    {
         "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
