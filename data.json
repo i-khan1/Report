@@ -70,6 +70,13 @@
         "SortTime":  181.06666666666666
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "6/8/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.45000000000002
+    },
+    {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
