@@ -777,6 +777,13 @@
         "SortTime":  940.23333333333335
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/8/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.23333333333335
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
