@@ -791,6 +791,13 @@
         "SortTime":  1010.2166666666667
     },
     {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/8/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2166666666667
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
