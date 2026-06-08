@@ -105,15 +105,15 @@
         "SortTime":  240.25
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
@@ -322,14 +322,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/8/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.83333333333331
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/8/2026 5:45 AM",
         "Status":  "Present",
@@ -497,6 +497,13 @@
         "SortTime":  430.16666666666669
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -504,15 +511,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
