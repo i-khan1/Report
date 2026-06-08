@@ -672,6 +672,13 @@
         "SortTime":  710.68333333333339
     },
     {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "6/8/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.31666666666672
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
