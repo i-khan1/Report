@@ -714,6 +714,13 @@
         "SortTime":  760.2833333333333
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/8/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.2166666666667
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
