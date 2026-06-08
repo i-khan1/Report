@@ -812,11 +812,11 @@
         "SortTime":  1090.75
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:25 PM",
+        "ReceivedTime":  "6/8/2026 7:28 PM",
+        "Status":  "Present",
+        "SortTime":  1168.6333333333334
     },
     {
         "Subject":  "FINRA SHORT REPORT for VCapital",
@@ -833,15 +833,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "AllFunds Symbol Validation Report",
-        "ExpectedTime":  "3:25 PM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
