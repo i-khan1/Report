@@ -735,6 +735,13 @@
         "SortTime":  846.13333333333333
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/8/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.23333333333335
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
