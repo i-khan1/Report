@@ -560,6 +560,20 @@
         "SortTime":  490.16666666666669
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/8/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.23333333333335
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/8/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.61666666666667
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
