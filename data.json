@@ -189,14 +189,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
@@ -756,6 +756,20 @@
         "SortTime":  910.15
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "6/8/2026 3:21 PM",
+        "Status":  "Present",
+        "SortTime":  921.85
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/8/2026 3:25 PM",
+        "Status":  "Present",
+        "SortTime":  925.25
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -784,8 +798,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Settlement Report csv",
-        "ExpectedTime":  "3:17 PM",
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:25 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
