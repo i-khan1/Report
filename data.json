@@ -189,14 +189,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/8/2026 5:00 AM",
         "Status":  "Present",
@@ -509,6 +509,27 @@
         "ReceivedTime":  "6/8/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.26666666666665
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/8/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/8/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.38333333333333
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/8/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.43333333333334
     },
     {
         "Subject":  "Monthly Transaction Count Report",
