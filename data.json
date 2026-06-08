@@ -322,14 +322,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/8/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.83333333333331
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/8/2026 5:45 AM",
         "Status":  "Present",
@@ -532,6 +532,27 @@
         "SortTime":  480.43333333333334
     },
     {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/8/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.40000000000003
+    },
+    {
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -539,15 +560,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
