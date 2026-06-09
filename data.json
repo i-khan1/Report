@@ -912,8 +912,8 @@
     {
         "Subject":  "Daily Settlement Report csv",
         "ExpectedTime":  "3:17 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/9/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.41666666666674
     }
 ]
