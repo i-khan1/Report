@@ -665,52 +665,52 @@
         "SortTime":  510.56666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/9/2026 8:37 AM",
+        "Status":  "Present",
+        "SortTime":  517.65
     },
     {
         "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/9/2026 8:37 AM",
+        "Status":  "Present",
+        "SortTime":  517.7833333333333
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Finance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/9/2026 8:37 AM",
+        "Status":  "Present",
+        "SortTime":  517.8
     },
     {
         "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/9/2026 8:37 AM",
+        "Status":  "Present",
+        "SortTime":  517.86666666666667
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/9/2026 8:37 AM",
+        "Status":  "Present",
+        "SortTime":  517.91666666666663
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/9/2026 8:37 AM",
+        "Status":  "Present",
+        "SortTime":  517.98333333333335
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/9/2026 8:38 AM",
+        "Status":  "Present",
+        "SortTime":  518.11666666666667
     }
 ]
