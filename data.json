@@ -518,14 +518,14 @@
         "SortTime":  366.90000000000003
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/9/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.36666666666667
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/9/2026 6:15 AM",
         "Status":  "Present",
@@ -873,5 +873,12 @@
         "ReceivedTime":  "6/9/2026 1:06 PM",
         "Status":  "Present",
         "SortTime":  786.2
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/9/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.26666666666665
     }
 ]
