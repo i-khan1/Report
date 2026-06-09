@@ -196,8 +196,71 @@
         "SortTime":  235.26666666666668
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.3
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.33333333333334
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.46666666666667
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.46666666666667
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.6
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "6/9/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.26666666666668
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "When Issued Report for",
         "ExpectedTime":  "3:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
