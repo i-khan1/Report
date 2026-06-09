@@ -924,6 +924,13 @@
         "SortTime":  925.2
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/9/2026 3:40 PM",
+        "Status":  "Present",
+        "SortTime":  940.15
+    },
+    {
         "Subject":  "AllFunds Symbol Validation Report",
         "ExpectedTime":  "3:25 PM",
         "ReceivedTime":  "",
