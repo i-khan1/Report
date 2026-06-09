@@ -518,14 +518,14 @@
         "SortTime":  366.90000000000003
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/9/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.36666666666667
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/9/2026 6:15 AM",
         "Status":  "Present",
@@ -964,5 +964,12 @@
         "ReceivedTime":  "6/9/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.95
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "6/9/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4333333333334
     }
 ]
