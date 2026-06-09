@@ -364,6 +364,20 @@
         "SortTime":  315.7166666666667
     },
     {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/9/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.4666666666667
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/9/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.53333333333336
+    },
+    {
         "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
