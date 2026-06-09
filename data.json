@@ -406,14 +406,14 @@
         "SortTime":  345.53333333333336
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/9/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.8
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/9/2026 5:45 AM",
         "Status":  "Present",
@@ -600,6 +600,27 @@
         "ReceivedTime":  "6/9/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.26666666666665
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/9/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/9/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/9/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
     },
     {
         "Subject":  "Margin Reports",
