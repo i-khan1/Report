@@ -14,6 +14,13 @@
         "SortTime":  160.6
     },
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:06 AM",
+        "ReceivedTime":  "6/9/2026 3:31 AM",
+        "Status":  "Present",
+        "SortTime":  211.18333333333334
+    },
+    {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -28,8 +35,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -49,8 +56,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  "2:33 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -70,8 +77,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "3:06 AM",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -85,13 +92,6 @@
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
