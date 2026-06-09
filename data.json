@@ -826,6 +826,13 @@
         "SortTime":  1320.3166666666666
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:16 PM",
+        "ReceivedTime":  "6/8/2026 10:02 PM",
+        "Status":  "Present",
+        "SortTime":  1322.5666666666666
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
