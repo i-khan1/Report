@@ -658,14 +658,14 @@
         "SortTime":  451.95
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.33333333333337
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
@@ -873,6 +873,13 @@
         "ReceivedTime":  "6/10/2026 12:00 PM",
         "Status":  "Present",
         "SortTime":  720.26666666666665
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/10/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
