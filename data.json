@@ -7,8 +7,29 @@
         "SortTime":  70.233333333333334
     },
     {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "6/10/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.46666666666667
+    },
+    {
         "Subject":  "Daily Position File",
         "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
