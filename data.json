@@ -371,14 +371,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
@@ -658,14 +658,14 @@
         "SortTime":  451.95
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.33333333333337
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
@@ -726,6 +726,27 @@
         "ReceivedTime":  "6/10/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.88333333333333
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/10/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.23333333333335
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/10/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.2833333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/10/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.16666666666663
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
