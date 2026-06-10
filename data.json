@@ -238,14 +238,14 @@
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
@@ -371,14 +371,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
@@ -782,6 +782,55 @@
         "ReceivedTime":  "6/10/2026 9:30 AM",
         "Status":  "Present",
         "SortTime":  570.4666666666667
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.11666666666667
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.2833333333333
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.30000000000007
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.35
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.41666666666663
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.43333333333339
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.43333333333339
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
