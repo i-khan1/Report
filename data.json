@@ -721,6 +721,13 @@
         "SortTime":  510.48333333333335
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "6/10/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.88333333333333
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
