@@ -623,6 +623,13 @@
         "SortTime":  420.65000000000003
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/10/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.16666666666669
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
