@@ -224,6 +224,13 @@
         "SortTime":  267.31666666666666
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:48 AM",
+        "ReceivedTime":  "6/10/2026 4:42 AM",
+        "Status":  "Present",
+        "SortTime":  282.41666666666669
+    },
+    {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
         "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
@@ -231,7 +238,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -245,7 +252,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -259,21 +266,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:48 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OCC LOPR Files",
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
+        "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
