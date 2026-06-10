@@ -658,14 +658,14 @@
         "SortTime":  451.95
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.33333333333337
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
@@ -845,6 +845,13 @@
         "ReceivedTime":  "6/10/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.2833333333333
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "6/10/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.7166666666667
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
