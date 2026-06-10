@@ -399,22 +399,22 @@
         "SortTime":  330.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/10/2026 5:39 AM",
+        "Status":  "Present",
+        "SortTime":  339.51666666666665
     },
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
         "ExpectedTime":  "4:20 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/10/2026 5:39 AM",
+        "Status":  "Present",
+        "SortTime":  339.90000000000003
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -427,8 +427,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -441,7 +441,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
