@@ -112,21 +112,112 @@
         "SortTime":  251.23333333333335
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:11 AM",
+        "Status":  "Present",
+        "SortTime":  251.70000000000002
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:11 AM",
+        "Status":  "Present",
+        "SortTime":  251.78333333333333
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:11 AM",
+        "Status":  "Present",
+        "SortTime":  251.91666666666669
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:11 AM",
+        "Status":  "Present",
+        "SortTime":  251.93333333333334
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:12 AM",
+        "Status":  "Present",
+        "SortTime":  252.03333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/10/2026 4:12 AM",
+        "Status":  "Present",
+        "SortTime":  252.45000000000002
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:12 AM",
+        "Status":  "Present",
+        "SortTime":  252.5
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:12 AM",
+        "Status":  "Present",
+        "SortTime":  252.61666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/10/2026 4:12 AM",
+        "Status":  "Present",
+        "SortTime":  252.68333333333334
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/10/2026 4:12 AM",
+        "Status":  "Present",
+        "SortTime":  252.73333333333335
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "6/10/2026 4:13 AM",
+        "Status":  "Present",
+        "SortTime":  253.96666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/10/2026 4:15 AM",
+        "Status":  "Present",
+        "SortTime":  255.15
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/10/2026 4:15 AM",
+        "Status":  "Present",
+        "SortTime":  255.33333333333334
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "6/10/2026 4:15 AM",
+        "Status":  "Present",
+        "SortTime":  255.41666666666669
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -140,14 +231,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -161,43 +245,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
