@@ -238,14 +238,14 @@
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
@@ -371,14 +371,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
@@ -607,6 +607,20 @@
         "ReceivedTime":  "6/10/2026 6:33 AM",
         "Status":  "Present",
         "SortTime":  393.08333333333331
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/10/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.25
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/10/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.65000000000003
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
