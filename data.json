@@ -238,14 +238,14 @@
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
@@ -371,14 +371,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
@@ -553,15 +553,50 @@
         "SortTime":  361.6
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/10/2026 6:09 AM",
+        "Status":  "Present",
+        "SortTime":  369.58333333333331
     },
     {
         "Subject":  "Daily VCLT Reports",
         "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/10/2026 6:09 AM",
+        "Status":  "Present",
+        "SortTime":  369.90000000000003
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/10/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.18333333333334
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/10/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/10/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.28333333333336
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/10/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
