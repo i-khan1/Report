@@ -238,14 +238,14 @@
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
@@ -427,6 +427,13 @@
         "SortTime":  345.86666666666667
     },
     {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/10/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.90000000000003
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/10/2026 5:45 AM",
@@ -435,13 +442,6 @@
     },
     {
         "Subject":  "Daily Cust Short Int file for Alta",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "6/10/2026 5:45 AM",
-        "Status":  "Present",
-        "SortTime":  345.90000000000003
-    },
-    {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/10/2026 5:45 AM",
         "Status":  "Present",
@@ -628,6 +628,13 @@
         "ReceivedTime":  "6/10/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.16666666666669
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/10/2026 7:10 AM",
+        "Status":  "Present",
+        "SortTime":  430.16666666666669
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
