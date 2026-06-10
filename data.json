@@ -238,14 +238,14 @@
         "SortTime":  300.36666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 5:00 AM",
         "Status":  "Present",
@@ -488,6 +488,69 @@
         "ReceivedTime":  "6/10/2026 5:49 AM",
         "Status":  "Present",
         "SortTime":  349.93333333333334
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.66666666666669
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7166666666667
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.76666666666665
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.86666666666667
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.91666666666669
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "6/10/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.15000000000003
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.26666666666665
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/10/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.6
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
