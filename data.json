@@ -658,14 +658,14 @@
         "SortTime":  451.95
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.33333333333337
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
@@ -819,6 +819,13 @@
         "SortTime":  584.41666666666663
     },
     {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Status":  "Present",
+        "SortTime":  584.43333333333339
+    },
+    {
         "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 9:44 AM",
@@ -826,11 +833,11 @@
         "SortTime":  584.43333333333339
     },
     {
-        "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "6/10/2026 9:44 AM",
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/10/2026 10:06 AM",
         "Status":  "Present",
-        "SortTime":  584.43333333333339
+        "SortTime":  606.2166666666667
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
