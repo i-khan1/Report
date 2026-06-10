@@ -658,6 +658,27 @@
         "SortTime":  451.95
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/10/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/10/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/10/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.38333333333333
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
