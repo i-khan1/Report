@@ -819,14 +819,14 @@
         "SortTime":  584.41666666666663
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 9:44 AM",
         "Status":  "Present",
         "SortTime":  584.43333333333339
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/10/2026 9:44 AM",
         "Status":  "Present",
@@ -838,6 +838,13 @@
         "ReceivedTime":  "6/10/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.2166666666667
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/10/2026 10:10 AM",
+        "Status":  "Present",
+        "SortTime":  610.2833333333333
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
