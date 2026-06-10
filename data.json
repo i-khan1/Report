@@ -371,14 +371,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/10/2026 5:15 AM",
         "Status":  "Present",
@@ -427,14 +427,14 @@
         "SortTime":  345.86666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/10/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.90000000000003
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/10/2026 5:45 AM",
         "Status":  "Present",
@@ -658,14 +658,14 @@
         "SortTime":  451.95
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.33333333333337
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/10/2026 8:00 AM",
         "Status":  "Present",
@@ -684,6 +684,20 @@
         "ReceivedTime":  "6/10/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.31666666666666
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "6/10/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.33333333333337
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/10/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.13333333333333
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
