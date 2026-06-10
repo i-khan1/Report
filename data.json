@@ -350,6 +350,41 @@
         "SortTime":  305.13333333333333
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/10/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.15000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/10/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.15000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/10/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.40000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/10/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/10/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
         "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
