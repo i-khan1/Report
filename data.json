@@ -560,6 +560,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
