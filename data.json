@@ -126,15 +126,15 @@
         "SortTime":  225.93333333333334
     },
     {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
@@ -329,14 +329,14 @@
         "SortTime":  315.18333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
@@ -845,6 +845,13 @@
         "ReceivedTime":  "6/11/2026 2:06 PM",
         "Status":  "Present",
         "SortTime":  846.15
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/11/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.2
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
