@@ -126,15 +126,15 @@
         "SortTime":  225.93333333333334
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
     },
     {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
@@ -329,14 +329,14 @@
         "SortTime":  315.18333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
@@ -348,6 +348,20 @@
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.51666666666665
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/11/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.4666666666667
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/11/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.4666666666667
     },
     {
         "Subject":  "Margin Reports",
