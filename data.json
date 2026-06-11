@@ -126,15 +126,15 @@
         "SortTime":  225.93333333333334
     },
     {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
@@ -229,6 +229,41 @@
         "ReceivedTime":  "6/11/2026 4:28 AM",
         "Status":  "Present",
         "SortTime":  268.83333333333331
+    },
+    {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.35
+    },
+    {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.35
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.61666666666667
     },
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
