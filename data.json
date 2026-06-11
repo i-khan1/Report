@@ -329,14 +329,14 @@
         "SortTime":  315.18333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
@@ -894,6 +894,13 @@
         "ReceivedTime":  "6/11/2026 4:03 PM",
         "Status":  "Present",
         "SortTime":  963.80000000000007
+    },
+    {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "6/11/2026 4:50 PM",
+        "Status":  "Present",
+        "SortTime":  1010.2666666666667
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
