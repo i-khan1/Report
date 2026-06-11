@@ -1015,6 +1015,13 @@
         "SortTime":  1090.4333333333334
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/10/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3166666666666
+    },
+    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
         "ReceivedTime":  "",
