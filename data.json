@@ -329,14 +329,14 @@
         "SortTime":  315.18333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/11/2026 5:15 AM",
         "Status":  "Present",
@@ -523,6 +523,13 @@
         "ReceivedTime":  "6/11/2026 6:30 AM",
         "Status":  "Present",
         "SortTime":  390.26666666666665
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:34 AM",
+        "ReceivedTime":  "6/11/2026 6:32 AM",
+        "Status":  "Present",
+        "SortTime":  392.63333333333333
     },
     {
         "Subject":  "Margin Reports",
