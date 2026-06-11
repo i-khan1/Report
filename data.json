@@ -761,5 +761,12 @@
         "ReceivedTime":  "6/11/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.23333333333335
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "6/11/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.85
     }
 ]
