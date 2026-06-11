@@ -644,6 +644,13 @@
         "SortTime":  510.63333333333333
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "6/11/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.68333333333339
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
