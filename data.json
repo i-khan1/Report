@@ -98,6 +98,20 @@
         "SortTime":  245.35
     },
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:06 AM",
+        "ReceivedTime":  "6/12/2026 4:54 AM",
+        "Status":  "Present",
+        "SortTime":  294.51666666666665
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:48 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Position File",
         "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "",
@@ -107,20 +121,6 @@
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:48 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -147,6 +147,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -155,20 +169,6 @@
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "3:06 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
