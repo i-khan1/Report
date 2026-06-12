@@ -189,14 +189,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
@@ -733,5 +733,54 @@
         "ReceivedTime":  "6/12/2026 7:51 AM",
         "Status":  "Present",
         "SortTime":  471.90000000000003
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/12/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/12/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.45
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/12/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.75
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/12/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.35
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "6/12/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.28333333333336
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/12/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.2166666666667
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
