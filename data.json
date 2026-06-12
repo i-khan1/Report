@@ -730,8 +730,8 @@
     {
         "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/12/2026 7:51 AM",
+        "Status":  "Present",
+        "SortTime":  471.90000000000003
     }
 ]
