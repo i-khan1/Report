@@ -1050,6 +1050,13 @@
         "SortTime":  940.11666666666667
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/12/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.2
+    },
+    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
         "ReceivedTime":  "",
