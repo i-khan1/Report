@@ -1029,8 +1029,22 @@
         "SortTime":  917.56666666666672
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/12/2026 3:25 PM",
+        "Status":  "Present",
+        "SortTime":  925.13333333333333
+    },
+    {
         "Subject":  "Daily SOD to Usmart Capital LLC",
         "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "3:25 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
