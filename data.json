@@ -189,14 +189,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
@@ -259,15 +259,15 @@
         "SortTime":  301.1
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "6/12/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.11666666666667
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/12/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.11666666666667
@@ -957,6 +957,27 @@
         "ReceivedTime":  "6/12/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.18333333333339
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/12/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.01666666666665
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/12/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.15
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/12/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.16666666666663
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
