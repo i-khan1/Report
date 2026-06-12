@@ -133,14 +133,14 @@
         "SortTime":  299.7166666666667
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/12/2026 4:59 AM",
         "Status":  "Present",
         "SortTime":  299.8
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/12/2026 4:59 AM",
         "Status":  "Present",
@@ -189,14 +189,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
@@ -873,5 +873,54 @@
         "ReceivedTime":  "6/12/2026 10:10 AM",
         "Status":  "Present",
         "SortTime":  610.25
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.5333333333333
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.56666666666672
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.56666666666672
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.58333333333337
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.68333333333339
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.7
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/12/2026 10:25 AM",
+        "Status":  "Present",
+        "SortTime":  625.80000000000007
     }
 ]
