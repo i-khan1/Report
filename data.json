@@ -700,11 +700,25 @@
         "SortTime":  441.75
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "1:58 PM",
+        "ReceivedTime":  "6/12/2026 7:28 AM",
+        "Status":  "Present",
+        "SortTime":  448.7
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "6/12/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.3
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/12/2026 7:32 AM",
+        "Status":  "Present",
+        "SortTime":  452.85
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
