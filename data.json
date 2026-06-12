@@ -133,14 +133,14 @@
         "SortTime":  299.7166666666667
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/12/2026 4:59 AM",
         "Status":  "Present",
         "SortTime":  299.8
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/12/2026 4:59 AM",
         "Status":  "Present",
@@ -189,14 +189,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/12/2026 5:00 AM",
         "Status":  "Present",
@@ -824,5 +824,12 @@
         "ReceivedTime":  "6/12/2026 9:00 AM",
         "Status":  "Present",
         "SortTime":  540.3
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/12/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.15
     }
 ]
