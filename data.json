@@ -126,15 +126,15 @@
         "SortTime":  225.93333333333334
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
     },
     {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "6/11/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.01666666666668
@@ -929,6 +929,13 @@
         "ReceivedTime":  "6/11/2026 6:10 PM",
         "Status":  "Present",
         "SortTime":  1090.5166666666667
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/11/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2666666666667
     },
     {
         "Subject":  "Daily SOD to Usmart Capital LLC",
