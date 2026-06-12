@@ -28,6 +28,20 @@
         "SortTime":  215.73333333333335
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "6/12/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.96666666666667
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "6/12/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.36666666666667
+    },
+    {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
