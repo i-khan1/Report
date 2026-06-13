@@ -1,7 +1,16 @@
-﻿{
-    "Subject":  "Daily Dreyfus Rate",
-    "ExpectedTime":  "10:16 PM",
-    "ReceivedTime":  "6/13/2026 12:14 AM",
-    "Status":  "Present",
-    "SortTime":  14.083333333333334
-}
+﻿[
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:16 PM",
+        "ReceivedTime":  "6/13/2026 12:14 AM",
+        "Status":  "Present",
+        "SortTime":  14.083333333333334
+    },
+    {
+        "Subject":  "Daily Monitoring Report",
+        "ExpectedTime":  "1:10 AM",
+        "ReceivedTime":  "6/13/2026 1:10 AM",
+        "Status":  "Present",
+        "SortTime":  70.216666666666669
+    }
+]
