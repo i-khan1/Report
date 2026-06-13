@@ -63,6 +63,13 @@
         "SortTime":  271.13333333333333
     },
     {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/13/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.28333333333336
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
