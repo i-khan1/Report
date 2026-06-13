@@ -23,9 +23,9 @@
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:48 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/13/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.51666666666668
     },
     {
         "Subject":  "When Issued Report for",
