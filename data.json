@@ -686,6 +686,13 @@
         "SortTime":  786.18333333333339
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/15/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.23333333333335
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
