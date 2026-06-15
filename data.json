@@ -504,6 +504,13 @@
         "SortTime":  426.13333333333333
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "6/15/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.76666666666665
+    },
+    {
         "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
