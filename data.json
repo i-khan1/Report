@@ -168,14 +168,14 @@
         "SortTime":  260.33333333333331
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -313,6 +313,48 @@
         "ReceivedTime":  "6/15/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.33333333333331
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/15/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.48333333333335
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/15/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.63333333333333
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/15/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.66666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/15/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.66666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/15/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.7166666666667
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "6/15/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.2166666666667
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
