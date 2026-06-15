@@ -588,6 +588,13 @@
         "SortTime":  540.31666666666672
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/15/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.2
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
