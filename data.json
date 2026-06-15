@@ -742,15 +742,15 @@
         "SortTime":  940.35
     },
     {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "AllFunds Symbol Validation Report",
         "ExpectedTime":  "3:25 PM",
+        "ReceivedTime":  "6/15/2026 3:57 PM",
+        "Status":  "Present",
+        "SortTime":  957.45
+    },
+    {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
