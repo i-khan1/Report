@@ -203,14 +203,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -278,6 +278,27 @@
         "ReceivedTime":  "6/15/2026 5:05 AM",
         "Status":  "Present",
         "SortTime":  305.18333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/15/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/15/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.45
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/15/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.48333333333335
     },
     {
         "Subject":  "SUCCESS File Download Completed",
