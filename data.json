@@ -420,6 +420,13 @@
         "SortTime":  360.95
     },
     {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/15/2026 6:03 AM",
+        "Status":  "Present",
+        "SortTime":  363.78333333333336
+    },
+    {
         "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -427,8 +434,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
