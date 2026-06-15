@@ -168,14 +168,14 @@
         "SortTime":  260.33333333333331
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -607,6 +607,13 @@
         "ReceivedTime":  "6/15/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.76666666666665
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "6/15/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.51666666666665
     },
     {
         "Subject":  "FINRA SHORT REPORT for VClearing",
