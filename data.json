@@ -231,14 +231,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -427,15 +427,50 @@
         "SortTime":  363.78333333333336
     },
     {
-        "Subject":  "Monthly Transaction Count Report",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/15/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.36666666666667
     },
     {
         "Subject":  "Daily VCLT Reports",
         "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/15/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.66666666666669
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.3
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.3
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/15/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.48333333333335
+    },
+    {
+        "Subject":  "Monthly Transaction Count Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
