@@ -56,14 +56,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/15/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/15/2026 3:00 AM",
         "Status":  "Present",
@@ -231,14 +231,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -448,14 +448,14 @@
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.3
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/15/2026 6:15 AM",
         "Status":  "Present",
@@ -761,6 +761,13 @@
         "ReceivedTime":  "6/15/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.25
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/15/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2666666666667
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
