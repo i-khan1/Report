@@ -770,6 +770,13 @@
         "SortTime":  1050.2666666666667
     },
     {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/15/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.95
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
