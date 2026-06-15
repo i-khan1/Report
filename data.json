@@ -602,6 +602,13 @@
         "SortTime":  550.81666666666672
     },
     {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "6/15/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.76666666666665
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
