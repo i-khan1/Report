@@ -672,6 +672,13 @@
         "SortTime":  730.18333333333339
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/15/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.33333333333337
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
