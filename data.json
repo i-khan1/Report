@@ -203,14 +203,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -231,14 +231,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/15/2026 5:00 AM",
         "Status":  "Present",
@@ -544,6 +544,20 @@
         "ReceivedTime":  "6/15/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.51666666666665
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "6/15/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.41666666666669
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/15/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.15000000000003
     },
     {
         "Subject":  "FINRA SHORT REPORT for VClearing",
