@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
@@ -698,5 +698,26 @@
         "ReceivedTime":  "6/16/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.4666666666667
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "6/16/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.35
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/16/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.2166666666667
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/16/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.16666666666669
     }
 ]
