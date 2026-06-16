@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
@@ -957,5 +957,12 @@
         "ReceivedTime":  "6/16/2026 4:00 PM",
         "Status":  "Present",
         "SortTime":  960.2166666666667
+    },
+    {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "1:58 PM",
+        "ReceivedTime":  "6/16/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.43333333333339
     }
 ]
