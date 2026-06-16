@@ -777,6 +777,13 @@
         "SortTime":  550.93333333333339
     },
     {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "6/16/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7166666666667
+    },
+    {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
         "ExpectedTime":  "8:58 AM",
         "ReceivedTime":  "",
