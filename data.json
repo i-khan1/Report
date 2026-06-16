@@ -938,10 +938,10 @@
         "SortTime":  925.15
     },
     {
-        "Subject":  "allfunds symbol validation report",
+        "Subject":  "AllFunds Symbol Validation Report",
         "ExpectedTime":  "3:25 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/16/2026 3:34 PM",
+        "Status":  "Present",
+        "SortTime":  934.2833333333333
     }
 ]
