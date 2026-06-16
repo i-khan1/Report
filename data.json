@@ -1,203 +1,812 @@
 ﻿[
     {
+        "Subject":  "daily monitoring report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 1:10 AM",
+        "Status":  "Present",
+        "SortTime":  70.2
+    },
+    {
+        "Subject":  "gato file log report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.5
+    },
+    {
+        "Subject":  "daily bmsy activity file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:51 AM",
+        "Status":  "Present",
+        "SortTime":  171.06666666666666
+    },
+    {
+        "Subject":  "daily etb to gtn middle east",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:56 AM",
+        "Status":  "Present",
+        "SortTime":  176.75
+    },
+    {
+        "Subject":  "daily sod files mmcd",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:57 AM",
+        "Status":  "Present",
+        "SortTime":  177.4
+    },
+    {
+        "Subject":  "daily etb to gtn middle east",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:57 AM",
+        "Status":  "Present",
+        "SortTime":  177.58333333333334
+    },
+    {
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:57 AM",
+        "Status":  "Present",
+        "SortTime":  177.76666666666668
+    },
+    {
+        "Subject":  "daily vcps position to ambrus",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.13333333333333
+    },
+    {
+        "Subject":  "daily sod files mmcd",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.15
+    },
+    {
+        "Subject":  "daily sod to hexstone capital llc",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.21666666666667
+    },
+    {
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.31666666666666
+    },
+    {
+        "Subject":  "daily sod to itg bahamas inc",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.33333333333334
+    },
+    {
+        "Subject":  "daily sod files to andes investments group",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.4
+    },
+    {
+        "Subject":  "daily sod files to asb bank corp",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.70000000000002
+    },
+    {
+        "Subject":  "daily vcps position to ambrus",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.86666666666667
+    },
+    {
+        "Subject":  "daily sod to hexstone capital llc",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.95000000000002
+    },
+    {
+        "Subject":  "daily sod to itg bahamas inc",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:59 AM",
+        "Status":  "Present",
+        "SortTime":  179.03333333333333
+    },
+    {
+        "Subject":  "daily position file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 2:59 AM",
+        "Status":  "Present",
+        "SortTime":  179.93333333333334
+    },
+    {
+        "Subject":  "daily sod files to andes investments group",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "daily sod files to asb bank corp",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.61666666666667
+    },
+    {
+        "Subject":  "daily sod files to andes investments group",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.28333333333333
+    },
+    {
+        "Subject":  "daily sod files to asb bank corp",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.35
+    },
+    {
+        "Subject":  "daily position file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.36666666666667
+    },
+    {
+        "Subject":  "when issued report for",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.20000000000002
+    },
+    {
+        "Subject":  "maxit upload report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:27 AM",
+        "Status":  "Present",
+        "SortTime":  207.66666666666666
+    },
+    {
+        "Subject":  "success file download completed",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.73333333333335
+    },
+    {
+        "Subject":  "daily cash acct sd report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.93333333333334
+    },
+    {
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.21666666666667
+    },
+    {
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 3:55 AM",
+        "Status":  "Present",
+        "SortTime":  235.23333333333335
+    },
+    {
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.48333333333335
+    },
+    {
+        "Subject":  "daily sod etb file to blackwell global investments",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.63333333333333
+    },
+    {
+        "Subject":  "daily otc file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.81666666666666
+    },
+    {
+        "Subject":  "daily otc file to gtn america",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.85
+    },
+    {
+        "Subject":  "reconciliation portfolio margin cob",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.96666666666667
+    },
+    {
+        "Subject":  "daily sod etb file to gtn america",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.06666666666666
+    },
+    {
+        "Subject":  "daily activity file to ambrus",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.06666666666666
+    },
+    {
+        "Subject":  "daily occ lopr files",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.36666666666667
+    },
+    {
+        "Subject":  "daily ptp block list",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.23333333333335
+    },
+    {
+        "Subject":  "seaman sre and iclear daily reconciliation",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.23333333333335
+    },
+    {
+        "Subject":  "daily open sd fails report for capital",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.3
+    },
+    {
+        "Subject":  "daily divft divnra activity",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.33333333333331
+    },
+    {
+        "Subject":  "daily sod vcty cash file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.36666666666667
+    },
+    {
+        "Subject":  "daily sod vcps files for navcon",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
+        "Subject":  "daily expired options assignments velocity file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "bony posision file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "daily option exercise assignments file to valuable",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "goldman s daily assignment and exercise file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.83333333333331
+    },
+    {
+        "Subject":  "daily exercise and assignment file vcps",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.85
+    },
+    {
+        "Subject":  "daily options reports for capital",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.98333333333335
+    },
+    {
+        "Subject":  "daily exercise assignment report for capital",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.15000000000003
+    },
+    {
+        "Subject":  "daily cust short file to augustus stock loan interest",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.2166666666667
+    },
+    {
+        "Subject":  "locate vs gs comparison file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.26666666666665
+    },
+    {
+        "Subject":  "daily cust short file to exante",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.38333333333333
+    },
+    {
+        "Subject":  "daily cust short file to hexstone capital llc",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.40000000000003
+    },
+    {
         "Subject":  "daily cust short file to evergreen capital management llc and greenle partners llc",
         "ExpectedTime":  "",
-        "ReceivedTime":  "6/14/2026 5:15 AM",
+        "ReceivedTime":  "6/16/2026 5:15 AM",
         "Status":  "Present",
-        "SortTime":  315.45
+        "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "weekly dwre reports to",
+        "Subject":  "daily cash account and reg sho report",
         "ExpectedTime":  "",
-        "ReceivedTime":  "6/14/2026 6:00 AM",
+        "ReceivedTime":  "6/16/2026 5:30 AM",
         "Status":  "Present",
-        "SortTime":  360.25
+        "SortTime":  330.38333333333333
     },
     {
-        "Subject":  "options reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "succession daily audit trail report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.43333333333334
     },
     {
-        "Subject":  "risk reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily cust short int file for vcby",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.38333333333333
     },
     {
-        "Subject":  "finance reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily cust short int file for alta",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "new account reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily cust short int file for vaticine",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "daily c report",
-        "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily cust short int file for valuable",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "fixed income inteliclear trial balance",
-        "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily cust short int file for kr bond",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "daily sod to bitdelta limited",
-        "ExpectedTime":  "8:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "current day sod files of gdn vcbb vcgp vcwc vcel vcvt vcty tpvc vcvs vcit tttg vcps vcin vcex and compared overnight position file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.16666666666669
     },
     {
-        "Subject":  "daily exercise and assignment of gdn",
-        "ExpectedTime":  "8:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "qdb data coverage trns vs v trns",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.2
     },
     {
-        "Subject":  "moneyline report",
-        "ExpectedTime":  "8:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "qdb server db date",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.23333333333335
     },
     {
-        "Subject":  "tradeblazer reports",
-        "ExpectedTime":  "8:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "ionic daily short interest report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.41666666666669
     },
     {
-        "Subject":  "opnsacob",
-        "ExpectedTime":  "7:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily option exercise assignments file to gtn america",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.48333333333335
     },
     {
-        "Subject":  "exercise and assignment file for vclt",
-        "ExpectedTime":  "7:21 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily opexp file vcps",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.55
     },
     {
-        "Subject":  "fpl journal load status",
-        "ExpectedTime":  "7:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily etb file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "stock vs borrow file",
-        "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily vclt bmsy buys reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "daily sod to acumen global",
-        "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily exercise and assignment file vcps",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "marks what we owe",
-        "ExpectedTime":  "6:34 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "equity margin report tuesday",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.1
     },
     {
-        "Subject":  "velocity fixed income risk and credit daily report",
-        "ExpectedTime":  "6:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily vclt reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.53333333333336
+    },
+    {
+        "Subject":  "daily vclt reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.90000000000003
     },
     {
         "Subject":  "velocity fixed income net cap repo",
-        "ExpectedTime":  "6:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.18333333333334
     },
     {
         "Subject":  "velocity fixed income repo daily p l",
-        "ExpectedTime":  "6:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "margin reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "velocity fixed income repo daily p l",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "compliance reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "velocity fixed income risk and credit daily report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.28333333333336
+    },
+    {
+        "Subject":  "marks what we owe",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:30 AM",
+        "Status":  "Present",
+        "SortTime":  390.25
+    },
+    {
+        "Subject":  "marks what we owe",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 6:32 AM",
+        "Status":  "Present",
+        "SortTime":  392.68333333333334
+    },
+    {
+        "Subject":  "daily sod to acumen global",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.23333333333335
+    },
+    {
+        "Subject":  "stock vs borrow file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.26666666666665
+    },
+    {
+        "Subject":  "do file check",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.28333333333336
+    },
+    {
+        "Subject":  "fpl journal load status",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:10 AM",
+        "Status":  "Present",
+        "SortTime":  430.13333333333333
+    },
+    {
+        "Subject":  "exercise and assignment file for vclt",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.75
+    },
+    {
+        "Subject":  "opnsacob",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.2166666666667
+    },
+    {
+        "Subject":  "risk reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.35
+    },
+    {
+        "Subject":  "finance reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.35
+    },
+    {
+        "Subject":  "options reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.41666666666669
+    },
+    {
+        "Subject":  "new account reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.43333333333334
     },
     {
         "Subject":  "oir and regsho reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.45
     },
     {
-        "Subject":  "avsc journal file",
-        "ExpectedTime":  "8:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "compliance reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.55
+    },
+    {
+        "Subject":  "margin reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.58333333333337
     },
     {
         "Subject":  "finra short report for vclearing",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.18333333333334
     },
     {
         "Subject":  "finra short report for vcapital",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "fis file delivered vcc cp security n",
-        "ExpectedTime":  "11:52 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "daily exercise and assignment of gdn",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
     },
     {
-        "Subject":  "weekly bmsy account profile reports",
-        "ExpectedTime":  "6:01 AM",
+        "Subject":  "tradeblazer reports",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "eventus upload status",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "daily c report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.63333333333333
+    },
+    {
+        "Subject":  "moneyline report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.4666666666667
+    },
+    {
+        "Subject":  "daily sod to bitdelta limited",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.35
+    },
+    {
+        "Subject":  "do file check",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.2166666666667
+    },
+    {
+        "Subject":  "fpl journal load status",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.16666666666669
+    },
+    {
+        "Subject":  "fixed income inteliclear trial balance",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.3
+    },
+    {
+        "Subject":  "daily c report",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.56666666666666
+    },
+    {
+        "Subject":  "avsc journal file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7833333333333
+    },
+    {
+        "Subject":  "daily rms audit history file",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.33333333333337
+    },
+    {
+        "Subject":  "daily nta file for vaticine",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.36666666666667
+    },
+    {
+        "Subject":  "do file check",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.16666666666663
+    },
+    {
+        "Subject":  "fpl journal load status",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.13333333333333
+    },
+    {
+        "Subject":  "pm reports v horizon notifications",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.93333333333339
+    },
+    {
+        "Subject":  "daily activity report to ambrus sundial",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7166666666667
+    },
+    {
+        "Subject":  "daily avsc lifecycle file of succession",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.5
+    },
+    {
+        "Subject":  "do file check",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.2
+    },
+    {
+        "Subject":  "fpl journal load status",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 10:10 AM",
+        "Status":  "Present",
+        "SortTime":  610.16666666666663
+    },
+    {
+        "Subject":  "daily dreyfus rate",
+        "ExpectedTime":  "10:16 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -210,8 +819,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily dreyfus rate",
-        "ExpectedTime":  "10:16 PM",
+        "Subject":  "daily etb file to trading",
+        "ExpectedTime":  "6:10 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -224,28 +833,70 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily etb file to trading",
-        "ExpectedTime":  "6:10 PM",
+        "Subject":  "equity margin report monday",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily etb file to augustus",
-        "ExpectedTime":  "5:30 PM",
+        "Subject":  "monthly transaction count report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vclt reports",
-        "ExpectedTime":  "6:07 AM",
+        "Subject":  "weekly bmsy account profile reports",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "fis file delivered vcc cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "ambrus executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily settlement report csv",
+        "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "failure file not available on sftp",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily unaffirm report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
         "Subject":  "daily etb file to eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily etb file to augustus",
         "ExpectedTime":  "5:30 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -259,400 +910,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:17 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "ambrus executions",
-        "ExpectedTime":  "12:40 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily unaffirm report for",
-        "ExpectedTime":  "12:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "failure file not available on sftp",
-        "ExpectedTime":  "3:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily avsc lifecycle file of succession",
-        "ExpectedTime":  "9:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily activity report to ambrus sundial",
-        "ExpectedTime":  "9:16 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "pm reports v horizon notifications",
-        "ExpectedTime":  "9:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily rms audit history file",
-        "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily activity report for kallpa sab sa",
         "ExpectedTime":  "4:50 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily vclt bmsy buys reports",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily opexp file vcps",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily etb file",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "reconciliation portfolio margin cob",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily ptp block list",
-        "ExpectedTime":  "4:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod etb file to gtn america",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod etb file to blackwell global investments",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily otc file to gtn america",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily otc file",
-        "ExpectedTime":  "3:50 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cash acct sd report",
-        "ExpectedTime":  "3:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "success file download completed",
-        "ExpectedTime":  "3:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "maxit upload report",
-        "ExpectedTime":  "2:48 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily position file",
-        "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files to asb bank corp",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod to itg bahamas inc",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod to hexstone capital llc",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily vcps position to ambrus",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files to andes investments group",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files for bull markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files mmcd",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily etb to gtn middle east",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "gato file log report",
-        "ExpectedTime":  "2:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "seaman sre and iclear daily reconciliation",
-        "ExpectedTime":  "4:20 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily open sd fails report for capital",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod vcty cash file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily option exercise assignments file to valuable",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily option exercise assignments file to gtn america",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "ionic daily short interest report",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "qdb server db date",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "qdb data coverage trns vs v trns",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "current day sod files of gdn vcbb vcgp vcwc vcel vcvt vcty tpvc vcvs vcit tttg vcps vcin vcex and compared overnight position file",
-        "ExpectedTime":  "5:46 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short int file for alta",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short int file for vaticine",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short int file for kr bond",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short int file for valuable",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "equity margin report monday",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short int file for vcby",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cash account and reg sho report",
-        "ExpectedTime":  "5:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short file to exante",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily cust short file to hexstone capital llc",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily exercise assignment report for capital",
-        "ExpectedTime":  "5:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily options reports for capital",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily exercise and assignment file vcps",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "bony posision file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily expired options assignments velocity file",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod vcps files for navcon",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "succession daily audit trail report",
-        "ExpectedTime":  "5:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "monthly transaction count report",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
