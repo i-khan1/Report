@@ -238,14 +238,14 @@
         "SortTime":  240.96666666666667
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/16/2026 4:01 AM",
         "Status":  "Present",
         "SortTime":  241.06666666666666
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
+        "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/16/2026 4:01 AM",
         "Status":  "Present",
@@ -308,14 +308,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/16/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/16/2026 5:00 AM",
         "Status":  "Present",
@@ -406,14 +406,14 @@
         "SortTime":  345.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
@@ -518,14 +518,14 @@
         "SortTime":  362.90000000000003
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/16/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/16/2026 6:15 AM",
         "Status":  "Present",
@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
