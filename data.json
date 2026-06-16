@@ -21,29 +21,141 @@
         "SortTime":  171.06666666666666
     },
     {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:56 AM",
+        "Status":  "Present",
+        "SortTime":  176.75
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:48 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:57 AM",
+        "Status":  "Present",
+        "SortTime":  177.4
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:57 AM",
+        "Status":  "Present",
+        "SortTime":  177.58333333333334
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:57 AM",
+        "Status":  "Present",
+        "SortTime":  177.76666666666668
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.13333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.15
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.21666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.31666666666666
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.33333333333334
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.4
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.70000000000002
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.86666666666667
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:58 AM",
+        "Status":  "Present",
+        "SortTime":  178.95000000000002
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/16/2026 2:59 AM",
+        "Status":  "Present",
+        "SortTime":  179.03333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/16/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/16/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.61666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/16/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.28333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "6/16/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.35
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "6/16/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.36666666666667
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:48 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
