@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "finra short report for vcapital",
+        "Subject":  "finra short report for vclearing",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "finra short report for vclearing",
+        "Subject":  "finra short report for vcapital",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
@@ -789,5 +789,12 @@
         "ReceivedTime":  "6/16/2026 9:30 AM",
         "Status":  "Present",
         "SortTime":  570.5
+    },
+    {
+        "Subject":  "do file check",
+        "ExpectedTime":  "",
+        "ReceivedTime":  "6/16/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.2
     }
 ]
