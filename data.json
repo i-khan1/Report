@@ -406,14 +406,14 @@
         "SortTime":  345.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
@@ -502,6 +502,20 @@
         "ReceivedTime":  "6/16/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.1
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/16/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.53333333333336
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/16/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.90000000000003
     },
     {
         "Subject":  "Margin Reports",
