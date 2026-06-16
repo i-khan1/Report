@@ -581,6 +581,13 @@
         "SortTime":  426.28333333333336
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/16/2026 7:10 AM",
+        "Status":  "Present",
+        "SortTime":  430.13333333333333
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
