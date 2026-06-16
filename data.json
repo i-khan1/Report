@@ -406,14 +406,14 @@
         "SortTime":  345.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
@@ -649,5 +649,54 @@
         "ReceivedTime":  "6/16/2026 7:49 AM",
         "Status":  "Present",
         "SortTime":  469.58333333333337
+    },
+    {
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.18333333333334
+    },
+    {
+        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.18333333333334
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.63333333333333
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/16/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.4666666666667
     }
 ]
