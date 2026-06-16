@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
@@ -761,6 +761,20 @@
         "ReceivedTime":  "6/16/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.16666666666663
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/16/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.13333333333333
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "6/16/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.93333333333339
     },
     {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
