@@ -406,14 +406,14 @@
         "SortTime":  345.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
@@ -880,5 +880,12 @@
         "ReceivedTime":  "6/16/2026 1:06 PM",
         "Status":  "Present",
         "SortTime":  786.15
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/16/2026 1:10 PM",
+        "Status":  "Present",
+        "SortTime":  790.2
     }
 ]
