@@ -924,10 +924,10 @@
         "SortTime":  910.15
     },
     {
-        "Subject":  "daily settlement report csv",
+        "Subject":  "Daily Settlement Report csv",
         "ExpectedTime":  "3:17 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/16/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.31666666666672
     }
 ]
