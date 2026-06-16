@@ -406,14 +406,14 @@
         "SortTime":  345.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/16/2026 5:45 AM",
         "Status":  "Present",
@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
@@ -810,12 +810,5 @@
         "ReceivedTime":  "6/16/2026 10:29 AM",
         "Status":  "Present",
         "SortTime":  629.7833333333333
-    },
-    {
-        "Subject":  "fixed income bloomberg risk compliance violations not available",
-        "ExpectedTime":  "8:58 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
     }
 ]
