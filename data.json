@@ -238,14 +238,14 @@
         "SortTime":  240.96666666666667
     },
     {
-        "Subject":  "daily activity file to ambrus",
+        "Subject":  "daily sod etb file to gtn america",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 4:01 AM",
         "Status":  "Present",
         "SortTime":  241.06666666666666
     },
     {
-        "Subject":  "daily sod etb file to gtn america",
+        "Subject":  "daily activity file to ambrus",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 4:01 AM",
         "Status":  "Present",
@@ -308,14 +308,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "daily option exercise assignments file to valuable",
+        "Subject":  "bony posision file",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
     },
     {
-        "Subject":  "bony posision file",
+        "Subject":  "daily option exercise assignments file to valuable",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 5:00 AM",
         "Status":  "Present",
@@ -518,14 +518,14 @@
         "SortTime":  362.90000000000003
     },
     {
-        "Subject":  "velocity fixed income repo daily p l",
+        "Subject":  "velocity fixed income net cap repo",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.18333333333334
     },
     {
-        "Subject":  "velocity fixed income net cap repo",
+        "Subject":  "velocity fixed income repo daily p l",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 6:15 AM",
         "Status":  "Present",
@@ -602,14 +602,14 @@
         "SortTime":  450.2166666666667
     },
     {
-        "Subject":  "finance reports",
+        "Subject":  "risk reports",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 7:49 AM",
         "Status":  "Present",
         "SortTime":  469.35
     },
     {
-        "Subject":  "risk reports",
+        "Subject":  "finance reports",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 7:49 AM",
         "Status":  "Present",
@@ -651,14 +651,14 @@
         "SortTime":  469.58333333333337
     },
     {
-        "Subject":  "finra short report for vclearing",
+        "Subject":  "finra short report for vcapital",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.18333333333334
     },
     {
-        "Subject":  "finra short report for vcapital",
+        "Subject":  "finra short report for vclearing",
         "ExpectedTime":  "",
         "ReceivedTime":  "6/16/2026 8:00 AM",
         "Status":  "Present",
