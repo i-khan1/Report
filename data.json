@@ -623,6 +623,13 @@
         "SortTime":  450.25
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.23333333333335
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "6/17/2026 8:00 AM",
@@ -642,6 +649,20 @@
         "ReceivedTime":  "6/17/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.5
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "6/17/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.36666666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/17/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.2
     },
     {
         "Subject":  "margin reports",
@@ -672,15 +693,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "risk reports",
+        "Subject":  "new account reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "eventus upload status",
-        "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -693,14 +707,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "finance reports",
+        "Subject":  "risk reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "new account reports",
+        "Subject":  "finance reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
