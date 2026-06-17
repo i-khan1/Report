@@ -868,6 +868,13 @@
         "SortTime":  760.38333333333333
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/17/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.18333333333339
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
