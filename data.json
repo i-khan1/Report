@@ -511,6 +511,13 @@
         "SortTime":  361.01666666666665
     },
     {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/17/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.76666666666665
+    },
+    {
         "Subject":  "options reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -560,8 +567,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vclt bmsy buys reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "daily vclt reports",
+        "ExpectedTime":  "6:07 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
