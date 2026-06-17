@@ -259,14 +259,21 @@
         "SortTime":  247.65
     },
     {
-        "Subject":  "daily sod etb file to gtn america",
+        "Subject":  "reconciliation portfolio margin cob",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "reconciliation portfolio margin cob",
+        "Subject":  "seaman sre and iclear daily reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "daily sod etb file to gtn america",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
