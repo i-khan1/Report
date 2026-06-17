@@ -329,6 +329,27 @@
         "SortTime":  301.03333333333336
     },
     {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/17/2026 5:03 AM",
+        "Status":  "Present",
+        "SortTime":  303.83333333333331
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/17/2026 5:04 AM",
+        "Status":  "Present",
+        "SortTime":  304.06666666666666
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "6/17/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.33333333333331
+    },
+    {
         "Subject":  "options reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -343,7 +364,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "finance reports",
+        "Subject":  "margin reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -364,7 +385,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "margin reports",
+        "Subject":  "finance reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -378,15 +399,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod etb file to gtn america",
+        "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod etb file to blackwell global investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "seaman sre and iclear daily reconciliation",
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -401,13 +422,6 @@
     {
         "Subject":  "daily sod vcps files for navcon",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "seaman sre and iclear daily reconciliation",
-        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
