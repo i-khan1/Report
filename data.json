@@ -938,6 +938,13 @@
         "SortTime":  940.2833333333333
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/17/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.48333333333335
+    },
+    {
         "Subject":  "fixed income bloomberg risk compliance violations",
         "ExpectedTime":  "1:58 PM",
         "ReceivedTime":  "",
