@@ -882,6 +882,20 @@
         "SortTime":  790.16666666666663
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/17/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.15
+    },
+    {
+        "Subject":  "fixed income bloomberg risk compliance violations",
+        "ExpectedTime":  "1:58 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
