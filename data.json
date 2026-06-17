@@ -518,21 +518,63 @@
         "SortTime":  362.76666666666665
     },
     {
-        "Subject":  "options reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/17/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.16666666666669
     },
     {
-        "Subject":  "risk reports",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/17/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.28333333333336
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/17/2026 6:10 AM",
+        "Status":  "Present",
+        "SortTime":  370.58333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/17/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.18333333333334
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/17/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/17/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/17/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.26666666666665
     },
     {
         "Subject":  "margin reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "options reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -553,7 +595,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod vcps files for navcon",
+        "Subject":  "new account reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -567,21 +609,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vclt reports",
-        "ExpectedTime":  "6:07 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "finance reports",
+        "Subject":  "risk reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "new account reports",
+        "Subject":  "finance reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
