@@ -735,7 +735,49 @@
         "SortTime":  556.7
     },
     {
-        "Subject":  "margin reports",
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "6/17/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.7833333333333
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.2
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.26666666666665
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.2833333333333
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.2833333333333
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.2833333333333
+    },
+    {
+        "Subject":  "oir and regsho reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -749,43 +791,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "oir and regsho reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "compliance reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "new account reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "risk reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "finance reports",
-        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
