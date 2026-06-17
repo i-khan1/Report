@@ -1001,10 +1001,10 @@
         "SortTime":  1320.2333333333333
     },
     {
-        "Subject":  "daily dreyfus rate",
+        "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:16 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/16/2026 10:49 PM",
+        "Status":  "Present",
+        "SortTime":  1369.1833333333334
     }
 ]
