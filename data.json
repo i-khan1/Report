@@ -623,6 +623,20 @@
         "SortTime":  450.25
     },
     {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.48333333333335
+    },
+    {
         "Subject":  "margin reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
