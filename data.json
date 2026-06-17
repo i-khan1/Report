@@ -728,11 +728,11 @@
         "SortTime":  550.80000000000007
     },
     {
-        "Subject":  "compliance reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "6/17/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7
     },
     {
         "Subject":  "margin reports",
@@ -742,8 +742,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily activity report to ambrus sundial",
-        "ExpectedTime":  "9:16 AM",
+        "Subject":  "options reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -756,7 +756,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "options reports",
+        "Subject":  "compliance reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
