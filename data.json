@@ -672,6 +672,20 @@
         "SortTime":  490.11666666666667
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/17/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.25
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/17/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.55
+    },
+    {
         "Subject":  "margin reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
