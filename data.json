@@ -777,18 +777,18 @@
         "SortTime":  571.2833333333333
     },
     {
-        "Subject":  "oir and regsho reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.38333333333333
     },
     {
-        "Subject":  "options reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/17/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.4666666666667
     },
     {
         "Subject":  "daily sod etb file to blackwell global investments",
