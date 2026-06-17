@@ -840,6 +840,27 @@
         "SortTime":  726.2
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/17/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.0333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:07 AM",
+        "ReceivedTime":  "6/17/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.08333333333337
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/17/2026 12:10 PM",
+        "Status":  "Present",
+        "SortTime":  730.1
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
