@@ -861,6 +861,13 @@
         "SortTime":  730.1
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/17/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.38333333333333
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
