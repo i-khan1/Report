@@ -609,6 +609,13 @@
         "SortTime":  430.1
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "6/17/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.78333333333336
+    },
+    {
         "Subject":  "margin reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -637,15 +644,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "risk reports",
+        "Subject":  "new account reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "exercise and assignment file for vclt",
-        "ExpectedTime":  "7:21 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -658,14 +658,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "finance reports",
+        "Subject":  "risk reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "new account reports",
+        "Subject":  "finance reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
