@@ -637,6 +637,13 @@
         "SortTime":  480.48333333333335
     },
     {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "6/17/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.5
+    },
+    {
         "Subject":  "margin reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -665,8 +672,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "new account reports",
+        "Subject":  "risk reports",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "eventus upload status",
+        "ExpectedTime":  "8:02 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -679,14 +693,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "risk reports",
+        "Subject":  "finance reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "finance reports",
+        "Subject":  "new account reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
