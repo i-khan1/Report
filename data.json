@@ -910,15 +910,15 @@
         "SortTime":  910.23333333333335
     },
     {
-        "Subject":  "fixed income bloomberg risk compliance violations",
-        "ExpectedTime":  "1:58 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:17 PM",
+        "ReceivedTime":  "6/17/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.30000000000007
     },
     {
-        "Subject":  "daily settlement report csv",
-        "ExpectedTime":  "3:17 PM",
+        "Subject":  "fixed income bloomberg risk compliance violations",
+        "ExpectedTime":  "1:58 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
