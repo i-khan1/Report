@@ -945,11 +945,11 @@
         "SortTime":  960.48333333333335
     },
     {
-        "Subject":  "fixed income bloomberg risk compliance violations",
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
         "ExpectedTime":  "1:58 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/17/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.41666666666674
     },
     {
         "Subject":  "daily sod etb file to blackwell global investments",
