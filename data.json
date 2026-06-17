@@ -973,6 +973,13 @@
         "SortTime":  1050.95
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "6/17/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.45
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
