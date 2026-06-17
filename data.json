@@ -819,6 +819,13 @@
         "SortTime":  666.2
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/17/2026 11:10 AM",
+        "Status":  "Present",
+        "SortTime":  670.2
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
