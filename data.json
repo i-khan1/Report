@@ -959,6 +959,13 @@
         "SortTime":  1010.2666666666667
     },
     {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/17/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2666666666667
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
