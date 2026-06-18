@@ -280,6 +280,27 @@
         "SortTime":  300.93333333333334
     },
     {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "5:03 AM",
+        "ReceivedTime":  "6/18/2026 5:03 AM",
+        "Status":  "Present",
+        "SortTime":  303.2
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "5:03 AM",
+        "ReceivedTime":  "6/18/2026 5:03 AM",
+        "Status":  "Present",
+        "SortTime":  303.76666666666665
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "6/18/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
