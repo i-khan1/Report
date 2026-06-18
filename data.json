@@ -56,15 +56,15 @@
         "SortTime":  215.71666666666667
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "5:08 AM",
         "ReceivedTime":  "6/18/2026 3:35 AM",
         "Status":  "Present",
         "SortTime":  215.75
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "5:08 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "6/18/2026 3:35 AM",
         "Status":  "Present",
         "SortTime":  215.75
@@ -357,13 +357,6 @@
         "SortTime":  345.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "6/18/2026 5:45 AM",
-        "Status":  "Present",
-        "SortTime":  345.68333333333334
-    },
-    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/18/2026 5:45 AM",
@@ -371,14 +364,21 @@
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/18/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.68333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/18/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/18/2026 5:45 AM",
         "Status":  "Present",
@@ -679,14 +679,14 @@
         "SortTime":  568.75
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/18/2026 9:28 AM",
         "Status":  "Present",
         "SortTime":  568.7833333333333
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/18/2026 9:28 AM",
         "Status":  "Present",
@@ -812,15 +812,15 @@
         "SortTime":  790.13333333333333
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
