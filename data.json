@@ -196,6 +196,20 @@
         "SortTime":  240.98333333333335
     },
     {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "6/18/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.4
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:48 AM",
+        "ReceivedTime":  "6/18/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.45000000000002
+    },
+    {
         "Subject":  "daily activity file to ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -205,13 +219,6 @@
     {
         "Subject":  "reconciliation portfolio margin cob",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "maxit upload report",
-        "ExpectedTime":  "2:48 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
