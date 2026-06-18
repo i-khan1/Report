@@ -896,6 +896,13 @@
         "SortTime":  1010.2833333333333
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "6/18/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.55
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
