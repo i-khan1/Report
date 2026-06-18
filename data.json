@@ -812,6 +812,13 @@
         "SortTime":  790.13333333333333
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/18/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.15
+    },
+    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
