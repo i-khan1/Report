@@ -875,6 +875,13 @@
         "SortTime":  943.25
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/18/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.38333333333333
+    },
+    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
