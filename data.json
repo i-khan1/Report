@@ -833,6 +833,13 @@
         "SortTime":  896.16666666666663
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/18/2026 3:10 PM",
+        "Status":  "Present",
+        "SortTime":  910.18333333333339
+    },
+    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
