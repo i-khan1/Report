@@ -714,15 +714,15 @@
         "SortTime":  570.51666666666665
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "5:32 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/18/2026 9:46 AM",
+        "Status":  "Present",
+        "SortTime":  586.58333333333337
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
