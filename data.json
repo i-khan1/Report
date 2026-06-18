@@ -21,6 +21,13 @@
         "SortTime":  190.28333333333333
     },
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:06 AM",
+        "ReceivedTime":  "6/18/2026 3:25 AM",
+        "Status":  "Present",
+        "SortTime":  205.33333333333334
+    },
+    {
         "Subject":  "daily sod to itg bahamas inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -56,7 +63,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily vcps position to ambrus",
+        "Subject":  "daily sod files mmcd",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -70,14 +77,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "daily bmsy activity file",
-        "ExpectedTime":  "3:06 AM",
+        "Subject":  "daily sod files for bull markets",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "daily sod files mmcd",
+        "Subject":  "daily vcps position to ambrus",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -86,13 +93,6 @@
     {
         "Subject":  "daily sod files to andes investments group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "daily sod files for bull markets",
-        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
