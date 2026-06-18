@@ -987,6 +987,13 @@
         "SortTime":  1320.3833333333334
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:16 PM",
+        "ReceivedTime":  "6/17/2026 10:12 PM",
+        "Status":  "Present",
+        "SortTime":  1332.7
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
