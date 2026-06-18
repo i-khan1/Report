@@ -763,6 +763,13 @@
         "SortTime":  720.2166666666667
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/18/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.16666666666663
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
