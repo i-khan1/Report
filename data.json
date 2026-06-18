@@ -658,18 +658,53 @@
         "SortTime":  556.68333333333339
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.63333333333333
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.65
     },
     {
         "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.75
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.7833333333333
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.7833333333333
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.80000000000007
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/18/2026 9:28 AM",
+        "Status":  "Present",
+        "SortTime":  568.9666666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
@@ -681,41 +716,6 @@
     {
         "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Finance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Risk Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Options Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
