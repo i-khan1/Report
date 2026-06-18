@@ -847,6 +847,13 @@
         "SortTime":  925.08333333333337
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "6/18/2026 3:28 PM",
+        "Status":  "Present",
+        "SortTime":  928.91666666666674
+    },
+    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
