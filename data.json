@@ -1,121 +1,16 @@
 ﻿[
     {
-        "Subject":  "Daily Dreyfus Rate",
-        "ExpectedTime":  "12:14 AM",
-        "ReceivedTime":  "6/13/2026 12:14 AM",
-        "Status":  "Present",
-        "SortTime":  14.083333333333334
-    },
-    {
-        "Subject":  "Daily Monitoring Report",
-        "ExpectedTime":  "1:10 AM",
-        "ReceivedTime":  "6/13/2026 1:10 AM",
-        "Status":  "Present",
-        "SortTime":  70.216666666666669
-    },
-    {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:35 AM",
-        "ReceivedTime":  "6/13/2026 3:35 AM",
-        "Status":  "Present",
-        "SortTime":  215.70000000000002
-    },
-    {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "3:50 AM",
-        "ReceivedTime":  "6/13/2026 3:50 AM",
-        "Status":  "Present",
-        "SortTime":  230.51666666666668
-    },
-    {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "3:56 AM",
-        "ReceivedTime":  "6/13/2026 3:56 AM",
-        "Status":  "Present",
-        "SortTime":  236.76666666666668
-    },
-    {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "6/13/2026 4:00 AM",
-        "Status":  "Present",
-        "SortTime":  240.55
-    },
-    {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "4:06 AM",
-        "ReceivedTime":  "6/13/2026 4:06 AM",
-        "Status":  "Present",
-        "SortTime":  246.46666666666667
-    },
-    {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "4:28 AM",
-        "ReceivedTime":  "6/13/2026 4:28 AM",
-        "Status":  "Present",
-        "SortTime":  268.58333333333331
-    },
-    {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "4:31 AM",
-        "ReceivedTime":  "6/13/2026 4:31 AM",
-        "Status":  "Present",
-        "SortTime":  271.13333333333333
-    },
-    {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "6/13/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.28333333333336
-    },
-    {
         "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "6/13/2026 5:15 AM",
+        "ReceivedTime":  "6/14/2026 5:15 AM",
         "Status":  "Present",
-        "SortTime":  315.43333333333334
+        "SortTime":  315.45
     },
     {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:16 AM",
-        "ReceivedTime":  "6/13/2026 5:16 AM",
+        "Subject":  "Weekly DWRE Reports to",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/14/2026 6:00 AM",
         "Status":  "Present",
-        "SortTime":  316.90000000000003
-    },
-    {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:48 AM",
-        "ReceivedTime":  "6/13/2026 5:48 AM",
-        "Status":  "Present",
-        "SortTime":  348.2166666666667
-    },
-    {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "5:53 AM",
-        "ReceivedTime":  "6/13/2026 5:53 AM",
-        "Status":  "Present",
-        "SortTime":  353.90000000000003
-    },
-    {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "6/13/2026 8:00 AM",
-        "Status":  "Present",
-        "SortTime":  480.26666666666665
-    },
-    {
-        "Subject":  "Daily NTA File For Vaticine",
-        "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "6/13/2026 9:00 AM",
-        "Status":  "Present",
-        "SortTime":  540.31666666666672
-    },
-    {
-        "Subject":  "Daily LATAM Margin Report",
-        "ExpectedTime":  "10:29 AM",
-        "ReceivedTime":  "6/13/2026 10:29 AM",
-        "Status":  "Present",
-        "SortTime":  629.75
+        "SortTime":  360.25
     }
 ]
