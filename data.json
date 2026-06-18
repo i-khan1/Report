@@ -980,6 +980,13 @@
         "SortTime":  1090.45
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/17/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3833333333334
+    },
+    {
         "Subject":  "daily sod etb file to blackwell global investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
