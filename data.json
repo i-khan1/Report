@@ -189,6 +189,27 @@
         "SortTime":  240.65
     },
     {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/18/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.98333333333335
+    },
+    {
+        "Subject":  "daily activity file to ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "reconciliation portfolio margin cob",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "maxit upload report",
         "ExpectedTime":  "2:48 AM",
         "ReceivedTime":  "",
