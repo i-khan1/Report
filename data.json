@@ -539,6 +539,13 @@
         "SortTime":  681.01666666666665
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/19/2026 11:26 AM",
+        "Status":  "Present",
+        "SortTime":  686.25
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
