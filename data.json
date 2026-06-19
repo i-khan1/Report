@@ -665,6 +665,13 @@
         "SortTime":  1050.2
     },
     {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "6/19/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0166666666667
+    },
+    {
         "Subject":  "Daily SOD to Acumen Global",
         "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
