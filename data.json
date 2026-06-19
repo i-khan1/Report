@@ -441,6 +441,13 @@
         "SortTime":  510.5
     },
     {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/19/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.5333333333333
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
