@@ -630,6 +630,13 @@
         "SortTime":  910.16666666666674
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "6/19/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.33333333333337
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
