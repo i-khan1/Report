@@ -476,6 +476,13 @@
         "SortTime":  556.7
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "6/19/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.48333333333335
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
