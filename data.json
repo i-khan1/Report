@@ -903,11 +903,18 @@
         "SortTime":  1090.55
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "6/18/2026 9:04 PM",
+        "Status":  "Present",
+        "SortTime":  1264.2166666666667
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/18/2026 9:04 PM",
+        "Status":  "Present",
+        "SortTime":  1264.7166666666667
     },
     {
         "Subject":  "Daily c Report",
@@ -917,15 +924,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily ETB File to Eduardo",
-        "ExpectedTime":  "5:30 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB File to Augustus",
-        "ExpectedTime":  "5:31 PM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
