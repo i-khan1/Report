@@ -602,6 +602,13 @@
         "SortTime":  790.15
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/19/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.13333333333333
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
