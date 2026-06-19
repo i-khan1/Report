@@ -490,6 +490,13 @@
         "SortTime":  606.11666666666667
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/19/2026 10:10 AM",
+        "Status":  "Present",
+        "SortTime":  610.2
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
