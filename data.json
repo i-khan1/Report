@@ -105,6 +105,13 @@
         "SortTime":  215.61666666666667
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "6/19/2026 3:46 AM",
+        "Status":  "Present",
+        "SortTime":  226.05
+    },
+    {
         "Subject":  "Daily BMSY Activity File",
         "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
