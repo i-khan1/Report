@@ -154,14 +154,14 @@
         "SortTime":  300.26666666666665
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.28333333333336
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/19/2026 5:00 AM",
         "Status":  "Present",
@@ -243,6 +243,13 @@
         "ReceivedTime":  "6/19/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.4666666666667
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "6/19/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.31666666666666
     },
     {
         "Subject":  "Daily Options Reports for Capital",
