@@ -154,14 +154,14 @@
         "SortTime":  300.26666666666665
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.28333333333336
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/19/2026 5:00 AM",
         "Status":  "Present",
@@ -322,14 +322,14 @@
         "SortTime":  367.31666666666666
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/19/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/19/2026 6:15 AM",
         "Status":  "Present",
@@ -656,6 +656,13 @@
         "ReceivedTime":  "6/19/2026 4:35 PM",
         "Status":  "Present",
         "SortTime":  995.36666666666667
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "6/19/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2
     },
     {
         "Subject":  "Daily SOD to Acumen Global",
