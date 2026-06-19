@@ -420,6 +420,13 @@
         "SortTime":  486.15000000000003
     },
     {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/19/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.15000000000003
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
