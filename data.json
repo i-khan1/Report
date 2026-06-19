@@ -672,6 +672,13 @@
         "SortTime":  1051.0166666666667
     },
     {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD to Acumen Global",
         "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
@@ -679,8 +686,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
-        "ExpectedTime":  "5:45 AM",
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -693,8 +700,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Stock VS Borrow File",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -707,7 +714,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for VCBY",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -721,8 +728,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
-        "ExpectedTime":  "5:45 AM",
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -735,13 +742,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily UNAFFIRM Report for",
-        "ExpectedTime":  "12:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -749,8 +749,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity Report for Kallpa SAB SA",
-        "ExpectedTime":  "4:50 PM",
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -763,8 +770,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to BitDelta Limited",
-        "ExpectedTime":  "8:05 AM",
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -777,8 +784,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily RMS Audit History File",
-        "ExpectedTime":  "9:00 AM",
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
