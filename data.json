@@ -154,14 +154,14 @@
         "SortTime":  300.26666666666665
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.28333333333336
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/19/2026 5:00 AM",
         "Status":  "Present",
@@ -320,6 +320,34 @@
         "ReceivedTime":  "6/19/2026 6:07 AM",
         "Status":  "Present",
         "SortTime":  367.31666666666666
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/19/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/19/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/19/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "6/19/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
     },
     {
         "Subject":  "Daily Cash Account and Reg SHO Report",
