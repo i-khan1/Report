@@ -308,6 +308,20 @@
         "SortTime":  362.31666666666666
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/19/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.05
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/19/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.31666666666666
+    },
+    {
         "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
