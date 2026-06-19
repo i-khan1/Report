@@ -301,6 +301,13 @@
         "SortTime":  360.95
     },
     {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "6/19/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.31666666666666
+    },
+    {
         "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
