@@ -322,14 +322,14 @@
         "SortTime":  367.31666666666666
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/19/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "6/19/2026 6:15 AM",
         "Status":  "Present",
@@ -607,6 +607,13 @@
         "ReceivedTime":  "6/19/2026 2:06 PM",
         "Status":  "Present",
         "SortTime":  846.13333333333333
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "6/19/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.11666666666667
     },
     {
         "Subject":  "Daily Cust Short Int file for Alta",
