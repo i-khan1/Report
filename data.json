@@ -56,6 +56,13 @@
         "SortTime":  315.41666666666669
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/20/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
