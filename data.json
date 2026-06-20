@@ -14,6 +14,20 @@
         "SortTime":  190.23333333333335
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "6/20/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.66666666666666
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
