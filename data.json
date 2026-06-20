@@ -70,6 +70,13 @@
         "SortTime":  540.31666666666672
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "6/20/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.7166666666667
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
