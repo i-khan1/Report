@@ -350,15 +350,15 @@
         "SortTime":  360.23333333333335
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "6/22/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.26666666666665
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "6/22/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.26666666666665
@@ -607,6 +607,27 @@
         "ReceivedTime":  "6/22/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.7
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/22/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.25
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/22/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.25
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "6/22/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.35
     },
     {
         "Subject":  "Daily Exercise and Assignment of GDN",
