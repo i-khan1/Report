@@ -539,6 +539,13 @@
         "SortTime":  510.38333333333333
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "6/22/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.75
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
