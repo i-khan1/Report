@@ -595,6 +595,20 @@
         "SortTime":  666.2166666666667
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "6/22/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.65
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "6/22/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.7
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
