@@ -350,15 +350,15 @@
         "SortTime":  360.23333333333335
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "6/22/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.26666666666665
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "6/22/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.26666666666665
@@ -378,15 +378,15 @@
         "SortTime":  360.31666666666666
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "6/22/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
     },
     {
-        "Subject":  "QDB Server DB Date",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "6/22/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
@@ -642,6 +642,13 @@
         "ReceivedTime":  "6/22/2026 12:40 PM",
         "Status":  "Present",
         "SortTime":  760.26666666666665
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/22/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.2166666666667
     },
     {
         "Subject":  "Daily Exercise and Assignment of GDN",
