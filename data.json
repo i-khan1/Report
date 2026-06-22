@@ -40,5 +40,47 @@
         "ReceivedTime":  "6/22/2026 2:50 AM",
         "Status":  "Present",
         "SortTime":  170.9
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/22/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/22/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/22/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.31666666666666
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "6/22/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.38333333333333
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "6/22/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.76666666666668
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "6/22/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.83333333333334
     }
 ]
