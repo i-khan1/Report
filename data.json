@@ -490,11 +490,18 @@
         "SortTime":  450.28333333333336
     },
     {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/22/2026 7:35 AM",
+        "Status":  "Present",
+        "SortTime":  455.01666666666665
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/22/2026 7:36 AM",
+        "Status":  "Present",
+        "SortTime":  456.51666666666665
     },
     {
         "Subject":  "FPL Journal Load Status",
@@ -504,22 +511,15 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
         "ExpectedTime":  "5:46 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
-        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
