@@ -301,6 +301,20 @@
         "SortTime":  315.43333333333334
     },
     {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/22/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.31666666666666
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
