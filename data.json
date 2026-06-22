@@ -469,6 +469,13 @@
         "SortTime":  420.3
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/22/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.15000000000003
+    },
+    {
         "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
         "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
