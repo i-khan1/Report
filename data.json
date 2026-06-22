@@ -693,6 +693,13 @@
         "SortTime":  995.45
     },
     {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "6/22/2026 4:50 PM",
+        "Status":  "Present",
+        "SortTime":  1010.4333333333334
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
