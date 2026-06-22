@@ -679,6 +679,13 @@
         "SortTime":  960.43333333333339
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "6/22/2026 4:03 PM",
+        "Status":  "Present",
+        "SortTime":  963.95
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
