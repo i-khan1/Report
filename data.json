@@ -651,6 +651,13 @@
         "SortTime":  786.2166666666667
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/22/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.23333333333335
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
