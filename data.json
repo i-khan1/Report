@@ -854,6 +854,13 @@
         "SortTime":  1050.3166666666666
     },
     {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "6/23/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0166666666667
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
