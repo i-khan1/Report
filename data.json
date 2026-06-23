@@ -784,6 +784,13 @@
         "SortTime":  727.31666666666672
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/23/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.23333333333335
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
