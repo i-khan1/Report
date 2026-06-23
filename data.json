@@ -819,6 +819,13 @@
         "SortTime":  917.35
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "6/23/2026 3:37 PM",
+        "Status":  "Present",
+        "SortTime":  937.9
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
