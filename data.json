@@ -812,6 +812,13 @@
         "SortTime":  896.2
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "6/23/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.35
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
