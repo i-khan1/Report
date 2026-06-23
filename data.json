@@ -133,6 +133,69 @@
         "SortTime":  235.43333333333334
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.23333333333335
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.28333333333333
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.41666666666669
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.46666666666667
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.5
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.61666666666667
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "6/23/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.96666666666667
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "6/23/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.26666666666668
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
