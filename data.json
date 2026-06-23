@@ -861,6 +861,13 @@
         "SortTime":  1051.0166666666667
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "6/23/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.55
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
