@@ -651,6 +651,13 @@
         "SortTime":  525.7166666666667
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/23/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.3
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
