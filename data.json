@@ -770,6 +770,20 @@
         "SortTime":  726.16666666666663
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/23/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.9666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/23/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.31666666666672
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
