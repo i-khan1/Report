@@ -630,6 +630,20 @@
         "SortTime":  486.16666666666669
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/23/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.40000000000003
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/23/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.55
+    },
+    {
         "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
