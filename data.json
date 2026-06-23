@@ -567,6 +567,13 @@
         "SortTime":  426.26666666666665
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
