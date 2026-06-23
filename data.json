@@ -791,6 +791,13 @@
         "SortTime":  760.23333333333335
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/23/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.23333333333335
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
