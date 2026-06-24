@@ -343,14 +343,14 @@
         "SortTime":  315.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
@@ -677,6 +677,13 @@
         "ReceivedTime":  "6/24/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.85
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "6/24/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.75
     },
     {
         "Subject":  "Daily OTC File",
