@@ -343,14 +343,14 @@
         "SortTime":  315.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
@@ -415,6 +415,13 @@
     {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:51 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
