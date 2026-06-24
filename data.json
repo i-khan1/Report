@@ -868,6 +868,13 @@
         "SortTime":  1090.55
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/23/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3500000000001
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
