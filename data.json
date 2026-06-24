@@ -120,6 +120,55 @@
     },
     {
         "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:55 AM",
+        "ReceivedTime":  "6/24/2026 3:55 AM",
+        "Status":  "Present",
+        "SortTime":  235.26666666666668
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/24/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.31666666666666
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/24/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.33333333333334
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/24/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.35
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/24/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.41666666666669
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "6/24/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.48333333333335
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "6/24/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.6
+    },
+    {
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
