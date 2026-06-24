@@ -343,14 +343,14 @@
         "SortTime":  315.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
@@ -411,6 +411,62 @@
         "ReceivedTime":  "6/24/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.83333333333331
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.25
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.25
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.31666666666666
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.36666666666667
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.41666666666669
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.43333333333334
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.63333333333333
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/24/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.93333333333334
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
