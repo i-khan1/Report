@@ -623,22 +623,22 @@
         "SortTime":  486.13333333333333
     },
     {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "6/24/2026 8:19 AM",
+        "Status":  "Present",
+        "SortTime":  499.28333333333336
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/24/2026 8:20 AM",
+        "Status":  "Present",
+        "SortTime":  500.03333333333336
     },
     {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
