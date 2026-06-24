@@ -847,6 +847,13 @@
         "SortTime":  1050.2833333333333
     },
     {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "6/24/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0333333333333
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
