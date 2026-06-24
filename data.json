@@ -875,6 +875,13 @@
         "SortTime":  1320.3500000000001
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "6/23/2026 10:03 PM",
+        "Status":  "Present",
+        "SortTime":  1323
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
@@ -896,13 +903,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
-        "ExpectedTime":  "8:58 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
@@ -917,8 +917,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Dreyfus Rate",
-        "ExpectedTime":  "10:02 PM",
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
+        "ExpectedTime":  "8:58 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
