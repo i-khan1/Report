@@ -343,14 +343,14 @@
         "SortTime":  315.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
@@ -467,6 +467,20 @@
         "ReceivedTime":  "6/24/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.93333333333334
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/24/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.8
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/24/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.01666666666665
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
