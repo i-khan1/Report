@@ -749,6 +749,20 @@
         "SortTime":  726.2166666666667
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/24/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.80000000000007
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/24/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.2
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
