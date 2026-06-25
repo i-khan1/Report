@@ -385,14 +385,14 @@
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
@@ -401,6 +401,13 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
