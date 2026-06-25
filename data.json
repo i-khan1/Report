@@ -385,14 +385,14 @@
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
@@ -688,9 +688,16 @@
     {
         "Subject":  "Daily Activity Report to Ambrus Sundial",
         "ExpectedTime":  "9:16 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/25/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.76666666666665
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
+        "ReceivedTime":  "6/25/2026 9:19 AM",
+        "Status":  "Present",
+        "SortTime":  559.81666666666672
     },
     {
         "Subject":  "FPL Journal Load Status",
