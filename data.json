@@ -756,6 +756,20 @@
         "SortTime":  726.18333333333339
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/25/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.08333333333337
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/25/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.58333333333337
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
