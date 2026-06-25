@@ -700,6 +700,13 @@
         "SortTime":  559.81666666666672
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "6/25/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.63333333333333
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
