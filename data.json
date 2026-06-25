@@ -385,14 +385,14 @@
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
@@ -719,6 +719,13 @@
         "ReceivedTime":  "6/25/2026 10:29 AM",
         "Status":  "Present",
         "SortTime":  629.7
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/25/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.2
     },
     {
         "Subject":  "FPL Journal Load Status",
