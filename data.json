@@ -203,14 +203,14 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
@@ -621,6 +621,27 @@
         "ReceivedTime":  "6/25/2026 8:25 AM",
         "Status":  "Present",
         "SortTime":  505.7
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "6/25/2026 8:28 AM",
+        "Status":  "Present",
+        "SortTime":  508.90000000000003
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/25/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.33333333333337
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "6/25/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.48333333333335
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
