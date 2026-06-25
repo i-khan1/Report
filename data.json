@@ -203,14 +203,14 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
@@ -548,6 +548,13 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
