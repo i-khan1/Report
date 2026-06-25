@@ -203,14 +203,14 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
@@ -259,14 +259,14 @@
         "SortTime":  300.66666666666669
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
@@ -705,6 +705,13 @@
         "ReceivedTime":  "6/25/2026 9:30 AM",
         "Status":  "Present",
         "SortTime":  570.63333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/25/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.33333333333337
     },
     {
         "Subject":  "FPL Journal Load Status",
