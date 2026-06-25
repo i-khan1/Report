@@ -343,14 +343,14 @@
         "SortTime":  315.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/24/2026 5:15 AM",
         "Status":  "Present",
@@ -859,6 +859,13 @@
         "ReceivedTime":  "6/24/2026 6:10 PM",
         "Status":  "Present",
         "SortTime":  1090.45
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/24/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3166666666666
     },
     {
         "Subject":  "Daily OTC File",
