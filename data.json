@@ -819,6 +819,13 @@
         "SortTime":  960.26666666666665
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "6/25/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.58333333333337
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
