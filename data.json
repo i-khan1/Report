@@ -203,14 +203,14 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
@@ -404,6 +404,48 @@
         "ReceivedTime":  "6/25/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.75
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/25/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.25
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/25/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.25
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "6/25/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.31666666666666
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/25/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/25/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.4666666666667
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/25/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.4666666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
