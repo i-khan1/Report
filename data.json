@@ -203,14 +203,14 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/25/2026 5:00 AM",
         "Status":  "Present",
@@ -385,14 +385,14 @@
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/25/2026 5:45 AM",
         "Status":  "Present",
@@ -588,8 +588,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -597,6 +604,13 @@
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "5:08 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
