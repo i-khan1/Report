@@ -728,6 +728,13 @@
         "SortTime":  666.2
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "6/25/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.91666666666663
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
