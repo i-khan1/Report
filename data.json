@@ -714,6 +714,13 @@
         "SortTime":  606.33333333333337
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "6/25/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.7
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
