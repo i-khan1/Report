@@ -56,14 +56,14 @@
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.48333333333335
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/26/2026 3:00 AM",
         "Status":  "Present",
@@ -252,14 +252,14 @@
         "SortTime":  300.6
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/26/2026 5:00 AM",
         "Status":  "Present",
@@ -551,6 +551,13 @@
         "ReceivedTime":  "6/26/2026 7:21 AM",
         "Status":  "Present",
         "SortTime":  441.83333333333331
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "6/26/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.23333333333335
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
