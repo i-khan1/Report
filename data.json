@@ -791,6 +791,13 @@
         "SortTime":  896.18333333333339
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "6/26/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.35
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
