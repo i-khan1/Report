@@ -686,6 +686,13 @@
         "SortTime":  556.85
     },
     {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/26/2026 9:21 AM",
+        "Status":  "Present",
+        "SortTime":  561.83333333333337
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
