@@ -525,6 +525,13 @@
         "SortTime":  392.61666666666667
     },
     {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/26/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.2
+    },
+    {
         "Subject":  "Daily SOD to Acumen Global",
         "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "6/26/2026 7:00 AM",
@@ -532,15 +539,15 @@
         "SortTime":  420.4666666666667
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/26/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.16666666666669
     },
     {
-        "Subject":  "Stock VS Borrow File",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
