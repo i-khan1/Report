@@ -406,6 +406,34 @@
         "SortTime":  346.8
     },
     {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/26/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.18333333333334
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "6/26/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.2166666666667
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/26/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.25
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "6/26/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.28333333333336
+    },
+    {
         "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "6/26/2026 6:00 AM",
@@ -441,20 +469,6 @@
         "SortTime":  361.01666666666665
     },
     {
-        "Subject":  "QDB Server DB Date",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -464,20 +478,6 @@
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "5:08 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
