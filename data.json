@@ -805,6 +805,13 @@
         "SortTime":  955.30000000000007
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "6/26/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.41666666666674
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
