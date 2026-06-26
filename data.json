@@ -707,6 +707,13 @@
         "SortTime":  588.48333333333335
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/26/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.16666666666663
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
