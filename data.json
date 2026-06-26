@@ -854,6 +854,13 @@
         "SortTime":  1090.4333333333334
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "6/25/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.4
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
