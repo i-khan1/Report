@@ -644,6 +644,13 @@
         "SortTime":  510.58333333333337
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "6/26/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7
+    },
+    {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
