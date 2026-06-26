@@ -588,6 +588,13 @@
         "SortTime":  480.51666666666665
     },
     {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "6/26/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.65000000000003
+    },
+    {
         "Subject":  "Moneyline Report",
         "ExpectedTime":  "8:01 AM",
         "ReceivedTime":  "6/26/2026 8:01 AM",
@@ -595,15 +602,22 @@
         "SortTime":  481.2
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "6/26/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.15000000000003
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
