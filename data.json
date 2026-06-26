@@ -665,11 +665,18 @@
         "SortTime":  546.16666666666663
     },
     {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "6/26/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.86666666666667
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "6/26/2026 9:11 AM",
+        "Status":  "Present",
+        "SortTime":  551.4666666666667
     },
     {
         "Subject":  "FPL Journal Load Status",
