@@ -189,6 +189,20 @@
         "SortTime":  260.36666666666667
     },
     {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.2166666666667
+    },
+    {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.28333333333336
+    },
+    {
         "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/26/2026 5:00 AM",
@@ -294,22 +308,15 @@
         "SortTime":  301.05
     },
     {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "6/26/2026 5:06 AM",
+        "Status":  "Present",
+        "SortTime":  306.33333333333331
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
