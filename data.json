@@ -63,6 +63,13 @@
         "SortTime":  300.2166666666667
     },
     {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.88333333333333
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
