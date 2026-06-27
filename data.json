@@ -1,7 +1,16 @@
-﻿{
-    "Subject":  "Daily Monitoring Report",
-    "ExpectedTime":  "1:10 AM",
-    "ReceivedTime":  "",
-    "Status":  "Missing",
-    "SortTime":  999999
-}
+﻿[
+    {
+        "Subject":  "Daily Monitoring Report",
+        "ExpectedTime":  "1:10 AM",
+        "ReceivedTime":  "6/27/2026 1:10 AM",
+        "Status":  "Present",
+        "SortTime":  70.216666666666669
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
+        "ReceivedTime":  "6/27/2026 1:19 AM",
+        "Status":  "Present",
+        "SortTime":  79.116666666666674
+    }
+]
