@@ -21,6 +21,13 @@
         "SortTime":  190.3
     },
     {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "6/27/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.68333333333334
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
