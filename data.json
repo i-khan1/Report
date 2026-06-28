@@ -119,6 +119,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
