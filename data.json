@@ -294,15 +294,15 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "6/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
@@ -336,14 +336,14 @@
         "SortTime":  345.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
         "Status":  "Present",
@@ -607,6 +607,13 @@
         "ReceivedTime":  "6/29/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.7833333333333
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "6/29/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7166666666667
     },
     {
         "Subject":  "Daily OTC File",
