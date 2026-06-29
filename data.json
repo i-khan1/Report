@@ -182,14 +182,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -294,15 +294,15 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "6/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
@@ -313,6 +313,20 @@
         "ReceivedTime":  "6/29/2026 5:19 AM",
         "Status":  "Present",
         "SortTime":  319.05
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/29/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "6/29/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.41666666666669
     },
     {
         "Subject":  "Daily OTC File",
