@@ -266,6 +266,13 @@
         "SortTime":  300.93333333333334
     },
     {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "6/29/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.16666666666669
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:01 AM",
         "ReceivedTime":  "",
