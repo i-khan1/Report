@@ -231,14 +231,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -294,15 +294,15 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "6/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
@@ -336,13 +336,6 @@
         "SortTime":  345.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
-        "ExpectedTime":  "5:45 AM",
-        "ReceivedTime":  "6/29/2026 5:45 AM",
-        "Status":  "Present",
-        "SortTime":  345.63333333333333
-    },
-    {
         "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
@@ -350,14 +343,21 @@
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "6/29/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.63333333333333
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.65000000000003
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
         "Status":  "Present",
@@ -488,6 +488,20 @@
         "ReceivedTime":  "6/29/2026 6:32 AM",
         "Status":  "Present",
         "SortTime":  392.61666666666667
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/29/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "6/29/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.31666666666666
     },
     {
         "Subject":  "Daily OTC File",
