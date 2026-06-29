@@ -182,14 +182,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -336,14 +336,14 @@
         "SortTime":  345.36666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "6/29/2026 5:45 AM",
         "Status":  "Present",
@@ -432,6 +432,20 @@
         "ReceivedTime":  "6/29/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.93333333333334
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/29/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.7166666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "6/29/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.03333333333336
     },
     {
         "Subject":  "Daily OTC File",
