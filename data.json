@@ -161,6 +161,97 @@
         "SortTime":  260.3
     },
     {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.26666666666665
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.45
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.48333333333335
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.48333333333335
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.51666666666665
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.61666666666667
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.65000000000003
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.65000000000003
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.66666666666669
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:01 AM",
         "ReceivedTime":  "",
