@@ -182,14 +182,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -231,14 +231,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -250,6 +250,20 @@
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.66666666666669
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.85
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
     },
     {
         "Subject":  "Daily OTC File",
