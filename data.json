@@ -182,14 +182,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -231,14 +231,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/29/2026 5:00 AM",
         "Status":  "Present",
@@ -271,6 +271,41 @@
         "ReceivedTime":  "6/29/2026 5:05 AM",
         "Status":  "Present",
         "SortTime":  305.16666666666669
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "6/29/2026 5:10 AM",
+        "Status":  "Present",
+        "SortTime":  310.58333333333331
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "5:08 AM",
+        "ReceivedTime":  "6/29/2026 5:11 AM",
+        "Status":  "Present",
+        "SortTime":  311.36666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/29/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.40000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "6/29/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.45
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "6/29/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.45
     },
     {
         "Subject":  "Daily OTC File",
