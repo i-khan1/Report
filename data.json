@@ -553,14 +553,14 @@
         "SortTime":  450.31666666666666
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "7/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.28333333333336
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "7/1/2026 8:00 AM",
         "Status":  "Present",
@@ -693,11 +693,18 @@
         "SortTime":  556.81666666666672
     },
     {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "7/1/2026 9:29 AM",
+        "Status":  "Present",
+        "SortTime":  569.43333333333339
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "7/1/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.61666666666667
     },
     {
         "Subject":  "QDB Server DB Date",
@@ -709,6 +716,13 @@
     {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
