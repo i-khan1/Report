@@ -1,17 +1,87 @@
 ﻿[
     {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
+        "ReceivedTime":  "7/1/2026 12:50 AM",
+        "Status":  "Present",
+        "SortTime":  50.233333333333334
+    },
+    {
+        "Subject":  "Daily Monitoring Report",
+        "ExpectedTime":  "1:10 AM",
+        "ReceivedTime":  "7/1/2026 1:10 AM",
+        "Status":  "Present",
+        "SortTime":  70.600000000000009
+    },
+    {
         "Subject":  "Daily Position File",
         "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/1/2026 2:18 AM",
+        "Status":  "Present",
+        "SortTime":  138.45000000000002
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "7/1/2026 2:31 AM",
+        "Status":  "Present",
+        "SortTime":  151.85
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "7/1/2026 2:33 AM",
+        "Status":  "Present",
+        "SortTime":  153.45000000000002
     },
     {
         "Subject":  "GATO File Log Report",
         "ExpectedTime":  "2:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/1/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.45000000000002
+    },
+    {
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
+        "ReceivedTime":  "7/1/2026 2:43 AM",
+        "Status":  "Present",
+        "SortTime":  163.63333333333333
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/1/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.45000000000002
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/1/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.46666666666667
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/1/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.48333333333335
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/1/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.51666666666668
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "7/1/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.83333333333334
     },
     {
         "Subject":  "MAXIT Upload Report",
@@ -21,50 +91,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Monitoring Report",
-        "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
