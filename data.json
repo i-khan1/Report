@@ -217,14 +217,14 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/1/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/1/2026 5:00 AM",
         "Status":  "Present",
@@ -490,14 +490,14 @@
         "SortTime":  375.3
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/1/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.31666666666666
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/1/2026 6:15 AM",
         "Status":  "Present",
@@ -553,85 +553,78 @@
         "SortTime":  450.31666666666666
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Fixed Income Inteliclear Trial Balance",
-        "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to BitDelta Limited",
-        "ExpectedTime":  "8:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Server DB Date",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
     },
     {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
     },
     {
-        "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
     },
     {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "7/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.5
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.51666666666665
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "7/1/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.3
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "7/1/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.31666666666666
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "7/1/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.13333333333333
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/1/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.3
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/1/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.5
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -644,22 +637,50 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Moneyline Report",
-        "ExpectedTime":  "8:01 AM",
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:30 AM",
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
