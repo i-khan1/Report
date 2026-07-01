@@ -322,15 +322,15 @@
         "SortTime":  315.3
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "7/1/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "7/1/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
@@ -630,18 +630,67 @@
         "SortTime":  525.73333333333335
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "7/1/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.43333333333339
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "7/1/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.85
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "7/1/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.2166666666667
+    },
+    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/1/2026 9:08 AM",
+        "Status":  "Present",
+        "SortTime":  548.65
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/1/2026 9:09 AM",
+        "Status":  "Present",
+        "SortTime":  549.01666666666665
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "7/1/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.75
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "5:08 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/1/2026 9:12 AM",
+        "Status":  "Present",
+        "SortTime":  552.86666666666667
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/1/2026 9:14 AM",
+        "Status":  "Present",
+        "SortTime":  554.0333333333333
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "7/1/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.81666666666672
     },
     {
         "Subject":  "QDB Data Coverage TRNS vs V TRNS",
@@ -660,48 +709,6 @@
     {
         "Subject":  "FPL Journal Load Status",
         "ExpectedTime":  "7:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily RMS Audit History File",
-        "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "PM Reports V Horizon Notifications",
-        "ExpectedTime":  "9:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity Report to Ambrus Sundial",
-        "ExpectedTime":  "9:16 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily NTA File For Vaticine",
-        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
