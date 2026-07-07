@@ -294,14 +294,14 @@
         "SortTime":  301.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.51666666666665
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
@@ -845,6 +845,20 @@
         "ReceivedTime":  "7/7/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.3333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "7/7/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "7/7/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0333333333333
     },
     {
         "Subject":  "Daily OTC File",
