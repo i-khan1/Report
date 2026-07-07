@@ -658,6 +658,13 @@
         "SortTime":  510.53333333333336
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "7/7/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.65
+    },
+    {
         "Subject":  "Locate Vs GS Comparison File",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
