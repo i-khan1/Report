@@ -133,6 +133,20 @@
         "SortTime":  195.65
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/7/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.20000000000002
+    },
+    {
+        "Subject":  "IClear AWS Backup SQL Server Database Date",
+        "ExpectedTime":  "3:37 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Monitoring Report",
         "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
