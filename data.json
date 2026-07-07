@@ -294,14 +294,14 @@
         "SortTime":  301.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.51666666666665
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
@@ -341,6 +341,34 @@
         "ReceivedTime":  "7/7/2026 5:05 AM",
         "Status":  "Present",
         "SortTime":  305.2
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:09 AM",
+        "ReceivedTime":  "7/7/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.16666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "7/7/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/7/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/7/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.5
     },
     {
         "Subject":  "Daily OTC File",
