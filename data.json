@@ -294,14 +294,14 @@
         "SortTime":  301.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.51666666666665
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
@@ -726,6 +726,13 @@
         "ReceivedTime":  "7/7/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.26666666666665
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "7/7/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.81666666666672
     },
     {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
