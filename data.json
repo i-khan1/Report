@@ -294,14 +294,14 @@
         "SortTime":  301.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.51666666666665
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
@@ -544,6 +544,20 @@
         "ReceivedTime":  "7/7/2026 6:32 AM",
         "Status":  "Present",
         "SortTime":  392.65000000000003
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "7/7/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.3
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "7/7/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.43333333333334
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
