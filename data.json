@@ -644,13 +644,6 @@
         "SortTime":  486.16666666666669
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Locate Vs GS Comparison File",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
@@ -658,8 +651,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -672,8 +665,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -693,22 +686,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Monitoring Report",
         "ExpectedTime":  "1:10 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
