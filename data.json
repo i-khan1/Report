@@ -294,14 +294,14 @@
         "SortTime":  301.4666666666667
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
@@ -502,6 +502,34 @@
         "ReceivedTime":  "7/7/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.83333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/7/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/7/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/7/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.26666666666665
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/7/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
