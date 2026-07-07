@@ -315,14 +315,14 @@
         "SortTime":  301.53333333333336
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/7/2026 5:01 AM",
         "Status":  "Present",
@@ -488,6 +488,20 @@
         "ReceivedTime":  "7/7/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.9666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/7/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.6
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/7/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.83333333333331
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
