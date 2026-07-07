@@ -693,22 +693,22 @@
         "SortTime":  550.85
     },
     {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "7/7/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.80000000000007
     },
     {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
         "ExpectedTime":  "8:58 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -728,6 +728,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -742,13 +749,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FPL Journal Load Status",
-        "ExpectedTime":  "7:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Monitoring Report",
         "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
@@ -756,8 +756,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity Report to Ambrus Sundial",
-        "ExpectedTime":  "9:16 AM",
+        "Subject":  "FPL Journal Load Status",
+        "ExpectedTime":  "7:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
