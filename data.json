@@ -644,6 +644,20 @@
         "SortTime":  486.16666666666669
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/7/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.28333333333336
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/7/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.53333333333336
+    },
+    {
         "Subject":  "Locate Vs GS Comparison File",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
