@@ -630,6 +630,13 @@
         "SortTime":  481.38333333333333
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "7/7/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.31666666666666
+    },
+    {
         "Subject":  "DO File Check",
         "ExpectedTime":  "7:06 AM",
         "ReceivedTime":  "7/7/2026 8:06 AM",
@@ -672,13 +679,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -700,15 +700,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Monitoring Report",
-        "ExpectedTime":  "1:10 AM",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to BitDelta Limited",
-        "ExpectedTime":  "8:05 AM",
+        "Subject":  "Daily Monitoring Report",
+        "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
