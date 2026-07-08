@@ -448,15 +448,15 @@
         "SortTime":  347.01666666666665
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
@@ -810,6 +810,13 @@
         "ReceivedTime":  "7/8/2026 2:06 PM",
         "Status":  "Present",
         "SortTime":  846.2
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "7/8/2026 2:56 PM",
+        "Status":  "Present",
+        "SortTime":  896.18333333333339
     },
     {
         "Subject":  "QDB Server DB Date",
