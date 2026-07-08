@@ -448,15 +448,15 @@
         "SortTime":  347.01666666666665
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
@@ -546,11 +546,32 @@
         "SortTime":  375.3
     },
     {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "5:08 AM",
+        "ReceivedTime":  "7/8/2026 6:26 AM",
+        "Status":  "Present",
+        "SortTime":  386.75
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/8/2026 6:28 AM",
+        "Status":  "Present",
+        "SortTime":  388.7
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "7/8/2026 6:30 AM",
+        "Status":  "Present",
+        "SortTime":  390.3
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "7/8/2026 6:32 AM",
+        "Status":  "Present",
+        "SortTime":  392.61666666666667
     },
     {
         "Subject":  "Daily OTC File",
@@ -562,13 +583,6 @@
     {
         "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "5:08 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
