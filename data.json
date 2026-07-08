@@ -833,6 +833,13 @@
         "SortTime":  939.88333333333333
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "7/8/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.30000000000007
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
