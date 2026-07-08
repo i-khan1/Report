@@ -448,15 +448,15 @@
         "SortTime":  347.01666666666665
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.41666666666669
@@ -754,6 +754,13 @@
         "ReceivedTime":  "7/8/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.2
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "7/8/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.80000000000007
     },
     {
         "Subject":  "QDB Server DB Date",
