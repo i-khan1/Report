@@ -49,14 +49,14 @@
         "SortTime":  180.33333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/1/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "6/1/2026 3:00 AM",
         "Status":  "Present",
@@ -119,14 +119,14 @@
         "SortTime":  240.21666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/1/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.33333333333334
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "6/1/2026 4:00 AM",
         "Status":  "Present",
@@ -168,13 +168,6 @@
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "New Account Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "6/1/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.41666666666669
-    },
-    {
         "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/1/2026 5:00 AM",
@@ -182,14 +175,21 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "6/1/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.41666666666669
+    },
+    {
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/1/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "6/1/2026 5:00 AM",
         "Status":  "Present",
@@ -287,14 +287,14 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/1/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "6/1/2026 5:15 AM",
         "Status":  "Present",
@@ -525,14 +525,14 @@
         "SortTime":  450.31666666666666
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.23333333333335
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "6/1/2026 8:00 AM",
         "Status":  "Present",
@@ -798,20 +798,6 @@
         "SortTime":  1326.9333333333334
     },
     {
-        "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -821,6 +807,20 @@
     {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
