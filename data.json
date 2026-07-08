@@ -441,11 +441,11 @@
         "SortTime":  345.78333333333336
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "7/8/2026 5:47 AM",
+        "Status":  "Present",
+        "SortTime":  347.01666666666665
     },
     {
         "Subject":  "Daily OTC File",
@@ -455,15 +455,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "5:08 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
-        "ExpectedTime":  "5:46 AM",
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "5:08 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
