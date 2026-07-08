@@ -56,14 +56,14 @@
         "SortTime":  180.3
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.33333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
         "Status":  "Present",
@@ -504,13 +504,6 @@
         "SortTime":  361.15000000000003
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -518,8 +511,36 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:51 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Monthly Transaction Count Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "5:08 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
