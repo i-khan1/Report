@@ -42,13 +42,6 @@
         "SortTime":  160.46666666666667
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "7/8/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.3
-    },
-    {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
@@ -56,14 +49,21 @@
         "SortTime":  180.3
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/8/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.33333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
         "Status":  "Present",
@@ -266,13 +266,6 @@
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "7/8/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.55
-    },
-    {
         "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/8/2026 5:00 AM",
@@ -280,11 +273,11 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/8/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.63333333333333
+        "SortTime":  300.55
     },
     {
         "Subject":  "Compliance Reports",
@@ -294,14 +287,21 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/8/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.63333333333333
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/8/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/8/2026 5:00 AM",
         "Status":  "Present",
@@ -371,15 +371,15 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "7/8/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "7/8/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
@@ -420,14 +420,14 @@
         "SortTime":  345.7
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/8/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.75
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/8/2026 5:45 AM",
         "Status":  "Present",
@@ -518,14 +518,14 @@
         "SortTime":  367.51666666666665
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/8/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/8/2026 6:15 AM",
         "Status":  "Present",
@@ -686,6 +686,20 @@
         "SortTime":  525.7166666666667
     },
     {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "7/8/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.7833333333333
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -695,13 +709,6 @@
     {
         "Subject":  "QDB Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "OPNSACOB",
-        "ExpectedTime":  "7:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
