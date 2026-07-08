@@ -56,14 +56,14 @@
         "SortTime":  180.3
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.33333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/8/2026 3:00 AM",
         "Status":  "Present",
@@ -446,6 +446,62 @@
         "ReceivedTime":  "7/8/2026 5:47 AM",
         "Status":  "Present",
         "SortTime":  347.01666666666665
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "7/8/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.41666666666669
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/8/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.41666666666669
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/8/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.4666666666667
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/8/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.5
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/8/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/8/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.61666666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/8/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.01666666666665
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "7/8/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.15000000000003
     },
     {
         "Subject":  "Daily OTC File",
