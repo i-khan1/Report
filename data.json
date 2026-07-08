@@ -875,6 +875,13 @@
         "SortTime":  1320.3500000000001
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "7/7/2026 10:25 PM",
+        "Status":  "Present",
+        "SortTime":  1345.8666666666668
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
@@ -903,13 +910,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Monitoring Report",
-        "ExpectedTime":  "1:10 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -924,8 +924,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Dreyfus Rate",
-        "ExpectedTime":  "10:02 PM",
+        "Subject":  "Daily Monitoring Report",
+        "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
