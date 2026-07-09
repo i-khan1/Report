@@ -336,14 +336,14 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.9666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
@@ -649,6 +649,13 @@
         "ReceivedTime":  "7/9/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.33333333333337
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/9/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.51666666666665
     },
     {
         "Subject":  "Eventus Upload Status",
