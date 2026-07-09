@@ -891,9 +891,9 @@
     {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:02 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/8/2026 10:18 PM",
+        "Status":  "Present",
+        "SortTime":  1338.2833333333333
     },
     {
         "Subject":  "QDB Server DB Date",
