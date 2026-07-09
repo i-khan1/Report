@@ -294,14 +294,14 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.66666666666669
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
@@ -336,14 +336,14 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.9666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
@@ -469,14 +469,14 @@
         "SortTime":  347.01666666666665
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/9/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.53333333333336
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/9/2026 6:00 AM",
         "Status":  "Present",
@@ -579,6 +579,20 @@
         "ReceivedTime":  "7/9/2026 6:33 AM",
         "Status":  "Present",
         "SortTime":  393.40000000000003
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "7/9/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "7/9/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.45
     },
     {
         "Subject":  "QDB Server DB Date",
