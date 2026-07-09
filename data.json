@@ -294,14 +294,14 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.66666666666669
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
@@ -336,14 +336,14 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.9666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
@@ -845,6 +845,20 @@
         "ReceivedTime":  "7/9/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.2833333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "7/9/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "7/9/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.95
     },
     {
         "Subject":  "Eventus Upload Status",
