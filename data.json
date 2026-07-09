@@ -469,14 +469,14 @@
         "SortTime":  347.01666666666665
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/9/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.53333333333336
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/9/2026 6:00 AM",
         "Status":  "Present",
@@ -607,6 +607,13 @@
         "ReceivedTime":  "7/9/2026 7:21 AM",
         "Status":  "Present",
         "SortTime":  441.78333333333336
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "QDB Server DB Date",
