@@ -133,6 +133,13 @@
         "SortTime":  220.23333333333335
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "7/9/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.93333333333334
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
