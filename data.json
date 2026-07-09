@@ -658,6 +658,13 @@
         "SortTime":  510.51666666666665
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -672,13 +679,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "OPNSACOB",
-        "ExpectedTime":  "7:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "QDB Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -688,6 +688,13 @@
     {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
