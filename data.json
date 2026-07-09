@@ -819,6 +819,13 @@
         "SortTime":  934.7166666666667
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "7/9/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.4
+    },
+    {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
