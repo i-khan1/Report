@@ -336,14 +336,14 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.9666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/9/2026 5:00 AM",
         "Status":  "Present",
@@ -355,6 +355,13 @@
         "ReceivedTime":  "7/9/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.13333333333333
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "7/9/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.35
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
