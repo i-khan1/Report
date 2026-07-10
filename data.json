@@ -826,6 +826,13 @@
         "SortTime":  896.18333333333339
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "7/10/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.26666666666665
+    },
+    {
         "Subject":  "AWS Backup Server Database Date",
         "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
