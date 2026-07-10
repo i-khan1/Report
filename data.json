@@ -112,10 +112,31 @@
         "SortTime":  181.01666666666668
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "7/10/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.23333333333335
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/10/2026 3:12 AM",
+        "Status":  "Present",
+        "SortTime":  192
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "7/10/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.6
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "7/10/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.68333333333334
     }
 ]
