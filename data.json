@@ -672,6 +672,20 @@
         "SortTime":  496.63333333333333
     },
     {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/10/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.51666666666665
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/10/2026 8:32 AM",
+        "Status":  "Present",
+        "SortTime":  512.86666666666667
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
