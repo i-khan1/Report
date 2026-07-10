@@ -749,6 +749,13 @@
         "SortTime":  617.2
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "7/10/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.75
+    },
+    {
         "Subject":  "AWS Backup Server Database Date",
         "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
