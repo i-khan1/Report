@@ -1,7 +1,16 @@
-﻿{
-    "Subject":  "Daily BMSY Activity File",
-    "ExpectedTime":  "3:31 AM",
-    "ReceivedTime":  "7/10/2026 1:06 AM",
-    "Status":  "Present",
-    "SortTime":  66.833333333333329
-}
+﻿[
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
+        "ReceivedTime":  "7/10/2026 1:06 AM",
+        "Status":  "Present",
+        "SortTime":  66.833333333333329
+    },
+    {
+        "Subject":  "Daily Monitoring Report",
+        "ExpectedTime":  "1:10 AM",
+        "ReceivedTime":  "7/10/2026 1:10 AM",
+        "Status":  "Present",
+        "SortTime":  70.233333333333334
+    }
+]
