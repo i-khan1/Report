@@ -875,6 +875,13 @@
         "SortTime":  1050.2333333333333
     },
     {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "7/10/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.9833333333333
+    },
+    {
         "Subject":  "AWS Backup Server Database Date",
         "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
