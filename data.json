@@ -742,6 +742,13 @@
         "SortTime":  606.2
     },
     {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "7/10/2026 10:17 AM",
+        "Status":  "Present",
+        "SortTime":  617.2
+    },
+    {
         "Subject":  "AWS Backup Server Database Date",
         "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
