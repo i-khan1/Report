@@ -898,9 +898,9 @@
     {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:02 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/10/2026 10:12 PM",
+        "Status":  "Present",
+        "SortTime":  1332.6833333333334
     },
     {
         "Subject":  "AWS Backup Server Database Date",
@@ -910,14 +910,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Server DB Date",
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
