@@ -105,8 +105,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "AWS Backup Server Database Date",
+        "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -114,6 +114,13 @@
     {
         "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
