@@ -77,6 +77,20 @@
         "SortTime":  315.45
     },
     {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "7/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.3
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.76666666666665
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
