@@ -630,6 +630,13 @@
         "SortTime":  570.51666666666665
     },
     {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/13/2026 9:59 AM",
+        "Status":  "Present",
+        "SortTime":  599.26666666666665
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
