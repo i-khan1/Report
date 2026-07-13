@@ -322,6 +322,20 @@
         "SortTime":  315.4666666666667
     },
     {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/13/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.35
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/13/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.38333333333333
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
