@@ -182,6 +182,13 @@
         "SortTime":  245.21666666666667
     },
     {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "7/13/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.45
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
