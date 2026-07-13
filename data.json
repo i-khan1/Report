@@ -567,6 +567,13 @@
         "SortTime":  486.26666666666665
     },
     {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/13/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.51666666666665
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
