@@ -721,6 +721,13 @@
         "SortTime":  896.2166666666667
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "7/13/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.31666666666672
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
