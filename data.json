@@ -336,6 +336,13 @@
         "SortTime":  330.38333333333333
     },
     {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "7/13/2026 5:33 AM",
+        "Status":  "Present",
+        "SortTime":  333.38333333333333
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
