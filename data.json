@@ -658,6 +658,20 @@
         "SortTime":  481.45
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "7/14/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.33333333333337
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "7/14/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.26666666666665
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
