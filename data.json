@@ -672,6 +672,13 @@
         "SortTime":  486.26666666666665
     },
     {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/14/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.55
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
