@@ -525,6 +525,20 @@
         "SortTime":  361.06666666666666
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/14/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.41666666666669
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/14/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.75
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
