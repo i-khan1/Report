@@ -168,6 +168,41 @@
         "SortTime":  235.16666666666669
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/14/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.28333333333333
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/14/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.31666666666666
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/14/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.43333333333334
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/14/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.56666666666666
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/14/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.66666666666669
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
