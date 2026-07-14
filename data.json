@@ -735,8 +735,8 @@
         "SortTime":  570.6
     },
     {
-        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
-        "ExpectedTime":  "8:58 AM",
+        "Subject":  "AWS Backup Server Database Date",
+        "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -744,6 +744,13 @@
     {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
+        "ExpectedTime":  "8:58 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
