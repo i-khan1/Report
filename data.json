@@ -448,22 +448,85 @@
         "SortTime":  347.03333333333336
     },
     {
-        "Subject":  "IClear AWS Backup SQL Server Database Date",
-        "ExpectedTime":  "3:37 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "5:53 AM",
+        "ReceivedTime":  "7/14/2026 5:53 AM",
+        "Status":  "Present",
+        "SortTime":  353.76666666666665
     },
     {
         "Subject":  "Daily PTP Block List",
         "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "7/14/2026 5:55 AM",
+        "Status":  "Present",
+        "SortTime":  355.65000000000003
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/14/2026 5:56 AM",
+        "Status":  "Present",
+        "SortTime":  356.75
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.36666666666667
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "7/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.48333333333335
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/14/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.65000000000003
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/14/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "7/14/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.06666666666666
+    },
+    {
+        "Subject":  "IClear AWS Backup SQL Server Database Date",
+        "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
