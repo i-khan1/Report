@@ -217,6 +217,13 @@
         "SortTime":  240.95000000000002
     },
     {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "7/14/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.31666666666666
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
