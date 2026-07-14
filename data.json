@@ -350,6 +350,34 @@
         "SortTime":  305.25
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/14/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.28333333333336
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/14/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.4666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "7/14/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.5
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/14/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.55
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
