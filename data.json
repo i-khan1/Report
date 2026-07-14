@@ -791,15 +791,22 @@
         "SortTime":  1217.2666666666667
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "AWS Backup Server Database Date",
+        "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS Backup Server Database Date",
-        "ExpectedTime":  "9:48 AM",
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -833,8 +840,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily NTA File For Vaticine",
-        "ExpectedTime":  "9:00 AM",
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -842,6 +849,13 @@
     {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
