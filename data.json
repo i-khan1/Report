@@ -882,6 +882,13 @@
         "SortTime":  1063.4
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "7/14/2026 5:48 PM",
+        "Status":  "Present",
+        "SortTime":  1068
+    },
+    {
         "Subject":  "AWS Backup Server Database Date",
         "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
