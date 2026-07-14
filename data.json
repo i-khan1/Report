@@ -681,9 +681,9 @@
     {
         "Subject":  "Fixed Income Inteliclear Trial Balance",
         "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/14/2026 8:33 AM",
+        "Status":  "Present",
+        "SortTime":  513.26666666666665
     },
     {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
@@ -693,14 +693,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Server DB Date",
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
