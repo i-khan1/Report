@@ -756,6 +756,13 @@
         "SortTime":  666.2
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "7/14/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.93333333333339
+    },
+    {
         "Subject":  "AWS Backup Server Database Date",
         "ExpectedTime":  "9:48 AM",
         "ReceivedTime":  "",
