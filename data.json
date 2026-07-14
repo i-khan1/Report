@@ -707,6 +707,13 @@
         "SortTime":  540.7833333333333
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
+        "ExpectedTime":  "8:58 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
@@ -714,14 +721,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Server DB Date",
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
