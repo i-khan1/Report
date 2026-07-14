@@ -581,6 +581,20 @@
         "SortTime":  394.25
     },
     {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "7/14/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.2
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "7/14/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.31666666666666
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
