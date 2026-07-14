@@ -378,6 +378,13 @@
         "SortTime":  315.55
     },
     {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:09 AM",
+        "ReceivedTime":  "7/14/2026 5:21 AM",
+        "Status":  "Present",
+        "SortTime":  321.2166666666667
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
