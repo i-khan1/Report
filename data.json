@@ -530,5 +530,19 @@
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Server DB Date",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
