@@ -105,11 +105,32 @@
         "SortTime":  180.86666666666667
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "7/14/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.26666666666668
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/14/2026 3:11 AM",
+        "Status":  "Present",
+        "SortTime":  191.36666666666667
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
+        "ReceivedTime":  "7/14/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.53333333333333
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "7/14/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.61666666666667
     },
     {
         "Subject":  "MAXIT Upload Report",
