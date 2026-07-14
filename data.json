@@ -630,6 +630,34 @@
         "SortTime":  480.33333333333337
     },
     {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "7/14/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.53333333333336
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/14/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.6
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/14/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.63333333333333
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "7/14/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.45
+    },
+    {
         "Subject":  "IClear AWS Backup SQL Server Database Date",
         "ExpectedTime":  "3:37 AM",
         "ReceivedTime":  "",
