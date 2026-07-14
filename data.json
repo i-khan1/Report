@@ -728,6 +728,13 @@
         "SortTime":  556.80000000000007
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "7/14/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.6
+    },
+    {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
         "ExpectedTime":  "8:58 AM",
         "ReceivedTime":  "",
