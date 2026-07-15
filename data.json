@@ -525,14 +525,14 @@
         "SortTime":  367.3
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
@@ -845,6 +845,13 @@
         "ReceivedTime":  "7/15/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.3166666666667
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "7/15/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2
     },
     {
         "Subject":  "QDB Server DB Date",
