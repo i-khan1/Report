@@ -679,6 +679,13 @@
         "SortTime":  514.5
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "7/15/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.68333333333339
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
