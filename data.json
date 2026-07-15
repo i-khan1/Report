@@ -674,9 +674,9 @@
     {
         "Subject":  "Fixed Income Inteliclear Trial Balance",
         "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/15/2026 8:34 AM",
+        "Status":  "Present",
+        "SortTime":  514.5
     },
     {
         "Subject":  "QDB Server DB Date",
