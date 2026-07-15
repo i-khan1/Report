@@ -525,14 +525,14 @@
         "SortTime":  367.3
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
@@ -586,6 +586,13 @@
         "ReceivedTime":  "7/15/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.35
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "7/15/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.7166666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
