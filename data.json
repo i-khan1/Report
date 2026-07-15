@@ -525,14 +525,14 @@
         "SortTime":  367.3
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
@@ -796,6 +796,13 @@
         "ReceivedTime":  "7/15/2026 1:06 PM",
         "Status":  "Present",
         "SortTime":  786.2166666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "7/15/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.2166666666667
     },
     {
         "Subject":  "QDB Server DB Date",
