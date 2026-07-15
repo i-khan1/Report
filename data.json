@@ -525,14 +525,14 @@
         "SortTime":  367.3
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
@@ -712,6 +712,13 @@
         "ReceivedTime":  "7/15/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.76666666666665
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "7/15/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.85
     },
     {
         "Subject":  "QDB Server DB Date",
