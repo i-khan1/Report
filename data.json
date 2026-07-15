@@ -819,6 +819,13 @@
         "SortTime":  917.31666666666672
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "7/15/2026 3:49 PM",
+        "Status":  "Present",
+        "SortTime":  949.88333333333333
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
