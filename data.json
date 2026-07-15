@@ -182,14 +182,14 @@
         "SortTime":  240.4
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/15/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.41666666666669
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/15/2026 4:00 AM",
         "Status":  "Present",
@@ -754,6 +754,20 @@
         "ReceivedTime":  "7/15/2026 11:51 AM",
         "Status":  "Present",
         "SortTime":  711
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "7/15/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.38333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "7/15/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2
     },
     {
         "Subject":  "QDB Server DB Date",
