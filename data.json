@@ -182,14 +182,14 @@
         "SortTime":  240.4
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/15/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.41666666666669
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/15/2026 4:00 AM",
         "Status":  "Present",
@@ -327,6 +327,27 @@
         "ReceivedTime":  "7/15/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/15/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.83333333333331
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/15/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.91666666666669
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/15/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
