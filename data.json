@@ -770,6 +770,20 @@
         "SortTime":  726.2
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/15/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.81666666666672
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/15/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.85
+    },
+    {
         "Subject":  "QDB Server DB Date",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
