@@ -182,14 +182,14 @@
         "SortTime":  240.4
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/15/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.41666666666669
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/15/2026 4:00 AM",
         "Status":  "Present",
@@ -525,14 +525,14 @@
         "SortTime":  367.3
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/15/2026 6:15 AM",
         "Status":  "Present",
@@ -600,6 +600,41 @@
         "ReceivedTime":  "7/15/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.31666666666666
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/15/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.31666666666666
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/15/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "7/15/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.51666666666665
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/15/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.53333333333336
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/15/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.61666666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
