@@ -168,6 +168,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:09 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -189,13 +196,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "5:32 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
@@ -205,6 +205,13 @@
     {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -252,13 +259,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily AVSC Lifecycle File of Succession",
-        "ExpectedTime":  "9:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Monitoring Report",
         "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
@@ -273,8 +273,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
-        "ExpectedTime":  "9:09 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -294,8 +294,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -315,8 +315,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -336,8 +336,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -511,8 +511,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
-        "ExpectedTime":  "5:30 AM",
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -532,8 +532,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to ASB Bank Corp",
-        "ExpectedTime":  "5:09 AM",
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -553,8 +553,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
-        "ExpectedTime":  "5:45 AM",
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -574,8 +574,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
-        "ExpectedTime":  "5:45 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -595,8 +595,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -616,7 +616,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -637,7 +637,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -658,8 +658,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -673,6 +673,13 @@
     },
     {
         "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
