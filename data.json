@@ -1,14 +1,14 @@
 ﻿[
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:35 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -21,15 +21,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "SUCCESS Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -42,7 +35,56 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -56,35 +98,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "GATO File Log Report",
-        "ExpectedTime":  "2:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -92,13 +106,6 @@
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
