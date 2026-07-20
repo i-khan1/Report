@@ -1,7 +1,7 @@
 ﻿[
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "ExpectedTime":  "3:55 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -14,15 +14,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "DAILY CASH ACCT SD REPORT",
-        "ExpectedTime":  "3:45 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -51,6 +51,13 @@
     {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
