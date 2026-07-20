@@ -1,5 +1,19 @@
 ﻿[
     {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -7,7 +21,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -21,22 +35,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:55 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -72,6 +72,13 @@
     {
         "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:55 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
