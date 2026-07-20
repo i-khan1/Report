@@ -14,8 +14,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -35,8 +35,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily PTP Block List",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -56,8 +63,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -77,13 +84,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:55 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -98,8 +98,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:47 AM",
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -119,8 +119,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -140,8 +140,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:55 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -155,6 +155,13 @@
     },
     {
         "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
