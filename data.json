@@ -7,8 +7,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "GATO File Log Report",
-        "ExpectedTime":  "2:40 AM",
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -16,6 +23,13 @@
     {
         "Subject":  "Daily Position File",
         "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
