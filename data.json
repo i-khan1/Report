@@ -84,6 +84,13 @@
         "SortTime":  606.2166666666667
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "7/21/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.73333333333335
+    },
+    {
         "Subject":  "Marks What we owe",
         "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
