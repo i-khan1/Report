@@ -210,6 +210,13 @@
         "SortTime":  1051.0833333333333
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "7/21/2026 5:49 PM",
+        "Status":  "Present",
+        "SortTime":  1069.1333333333334
+    },
+    {
         "Subject":  "Daily SOD to Acumen Global",
         "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
