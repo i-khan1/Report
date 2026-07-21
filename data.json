@@ -63,6 +63,13 @@
         "SortTime":  550.80000000000007
     },
     {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "7/21/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7166666666667
+    },
+    {
         "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
