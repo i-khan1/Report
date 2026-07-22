@@ -532,14 +532,14 @@
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.26666666666665
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
@@ -754,5 +754,12 @@
         "ReceivedTime":  "7/22/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.2
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "7/22/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.73333333333335
     }
 ]
