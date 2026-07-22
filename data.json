@@ -532,14 +532,14 @@
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.26666666666665
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
@@ -824,5 +824,12 @@
         "ReceivedTime":  "7/22/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.38333333333333
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "7/22/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.25
     }
 ]
