@@ -600,5 +600,12 @@
         "ReceivedTime":  "7/22/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.25
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
