@@ -569,15 +569,15 @@
     {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "5:32 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/22/2026 6:42 AM",
+        "Status":  "Present",
+        "SortTime":  402.95
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/22/2026 6:43 AM",
+        "Status":  "Present",
+        "SortTime":  403.11666666666667
     }
 ]
