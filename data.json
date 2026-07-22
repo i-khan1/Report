@@ -532,14 +532,14 @@
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.26666666666665
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
@@ -691,5 +691,19 @@
         "ReceivedTime":  "7/22/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.7166666666667
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "7/22/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.45
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
