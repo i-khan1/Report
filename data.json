@@ -483,14 +483,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/23/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.6
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/23/2026 6:00 AM",
         "Status":  "Present",
@@ -630,15 +630,15 @@
         "SortTime":  480.5
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "7/23/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "7/23/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
@@ -670,5 +670,12 @@
         "ReceivedTime":  "7/23/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.26666666666665
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/23/2026 8:13 AM",
+        "Status":  "Present",
+        "SortTime":  493.51666666666665
     }
 ]
