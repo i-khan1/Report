@@ -630,15 +630,15 @@
         "SortTime":  480.5
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "7/23/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "7/23/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
@@ -880,5 +880,12 @@
         "ReceivedTime":  "7/23/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.95
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "7/23/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4666666666667
     }
 ]
