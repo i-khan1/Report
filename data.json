@@ -56,6 +56,62 @@
         "SortTime":  160.48333333333335
     },
     {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/23/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/23/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/23/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/23/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.5
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/23/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.56666666666666
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/23/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.76666666666668
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "7/23/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "7/23/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.03333333333333
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
