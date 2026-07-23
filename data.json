@@ -532,14 +532,14 @@
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.26666666666665
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "7/22/2026 6:15 AM",
         "Status":  "Present",
@@ -908,5 +908,12 @@
         "ReceivedTime":  "7/22/2026 10:01 PM",
         "Status":  "Present",
         "SortTime":  1321.3333333333333
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "7/22/2026 10:01 PM",
+        "Status":  "Present",
+        "SortTime":  1321.9
     }
 ]
