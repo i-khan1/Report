@@ -630,15 +630,15 @@
         "SortTime":  480.5
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "7/23/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "7/23/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
@@ -845,5 +845,12 @@
         "ReceivedTime":  "7/23/2026 4:00 PM",
         "Status":  "Present",
         "SortTime":  960.35
+    },
+    {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "7/23/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.5333333333333
     }
 ]
