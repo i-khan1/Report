@@ -504,15 +504,15 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
@@ -698,5 +698,12 @@
         "ReceivedTime":  "7/24/2026 8:31 AM",
         "Status":  "Present",
         "SortTime":  511.78333333333336
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "7/24/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7166666666667
     }
 ]
