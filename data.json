@@ -455,14 +455,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.73333333333335
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/24/2026 5:45 AM",
         "Status":  "Present",
@@ -504,15 +504,15 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
@@ -761,12 +761,5 @@
         "ReceivedTime":  "7/24/2026 10:29 AM",
         "Status":  "Present",
         "SortTime":  629.85
-    },
-    {
-        "Subject":  "AWS Backup Server Database Date",
-        "ExpectedTime":  "9:48 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
     }
 ]
