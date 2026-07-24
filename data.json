@@ -252,14 +252,14 @@
         "SortTime":  300.40000000000003
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 5:00 AM",
         "Status":  "Present",
@@ -378,15 +378,50 @@
         "SortTime":  305.13333333333333
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "9:09 AM",
+        "ReceivedTime":  "7/24/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.18333333333334
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/24/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.28333333333336
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/24/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.36666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "7/24/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.41666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "7/24/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.51666666666665
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
