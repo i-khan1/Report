@@ -504,15 +504,15 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
@@ -838,5 +838,12 @@
         "ReceivedTime":  "7/24/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.30000000000007
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "7/24/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.38333333333333
     }
 ]
