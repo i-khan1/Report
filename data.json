@@ -455,14 +455,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.73333333333335
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/24/2026 5:45 AM",
         "Status":  "Present",
@@ -537,5 +537,47 @@
         "ReceivedTime":  "7/24/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.6
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/24/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.16666666666669
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/24/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.35
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/24/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/24/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/24/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "7/24/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.43333333333334
     }
 ]
