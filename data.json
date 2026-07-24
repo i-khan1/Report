@@ -695,8 +695,8 @@
     {
         "Subject":  "Fixed Income Inteliclear Trial Balance",
         "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/24/2026 8:31 AM",
+        "Status":  "Present",
+        "SortTime":  511.78333333333336
     }
 ]
