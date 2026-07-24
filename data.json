@@ -504,15 +504,15 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
@@ -733,5 +733,12 @@
         "ReceivedTime":  "7/24/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.7833333333333
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "7/24/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7
     }
 ]
