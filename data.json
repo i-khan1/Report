@@ -504,15 +504,15 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/24/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
@@ -880,5 +880,12 @@
         "ReceivedTime":  "7/24/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.3333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "7/24/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051
     }
 ]
