@@ -343,6 +343,34 @@
         "SortTime":  300.91666666666669
     },
     {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/24/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/24/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.01666666666665
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/24/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.1
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/24/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.11666666666667
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
