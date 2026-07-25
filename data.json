@@ -42,6 +42,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily BMSY Activity File",
         "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
