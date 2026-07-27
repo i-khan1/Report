@@ -147,14 +147,14 @@
         "SortTime":  240.23333333333335
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.26666666666668
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
@@ -350,14 +350,14 @@
         "SortTime":  345.65000000000003
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/27/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "7/27/2026 5:45 AM",
         "Status":  "Present",
@@ -378,15 +378,15 @@
         "SortTime":  360.31666666666666
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
@@ -628,6 +628,13 @@
         "ReceivedTime":  "7/27/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.7833333333333
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "7/27/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.76666666666665
     },
     {
         "Subject":  "Daily NTA File For Vaticine",
