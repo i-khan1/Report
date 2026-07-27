@@ -147,14 +147,14 @@
         "SortTime":  240.23333333333335
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.26666666666668
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
@@ -530,5 +530,12 @@
         "ReceivedTime":  "7/27/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.31666666666666
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "7/27/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.76666666666665
     }
 ]
