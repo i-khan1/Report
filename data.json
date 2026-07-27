@@ -728,6 +728,13 @@
         "SortTime":  896.16666666666663
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "7/27/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.30000000000007
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
