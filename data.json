@@ -322,6 +322,13 @@
         "SortTime":  330.33333333333331
     },
     {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "7/27/2026 5:32 AM",
+        "Status":  "Present",
+        "SortTime":  332.58333333333331
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
