@@ -119,6 +119,13 @@
         "SortTime":  195.5
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "7/27/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.9
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
