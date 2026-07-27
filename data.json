@@ -441,6 +441,20 @@
         "SortTime":  366.13333333333333
     },
     {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "7/27/2026 6:10 AM",
+        "Status":  "Present",
+        "SortTime":  370.83333333333331
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "7/27/2026 6:11 AM",
+        "Status":  "Present",
+        "SortTime":  371.31666666666666
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:35 AM",
         "ReceivedTime":  "",
@@ -448,29 +462,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
-        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
