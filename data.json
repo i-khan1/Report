@@ -586,5 +586,12 @@
         "ReceivedTime":  "7/27/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.23333333333335
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "7/27/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.55
     }
 ]
