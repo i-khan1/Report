@@ -378,15 +378,15 @@
         "SortTime":  360.31666666666666
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
@@ -635,6 +635,13 @@
         "ReceivedTime":  "7/27/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.76666666666665
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "7/27/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.5333333333333
     },
     {
         "Subject":  "Daily NTA File For Vaticine",
