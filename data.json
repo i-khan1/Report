@@ -105,6 +105,20 @@
         "SortTime":  181.03333333333333
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "7/27/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.46666666666667
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
+        "ReceivedTime":  "7/27/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.5
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
