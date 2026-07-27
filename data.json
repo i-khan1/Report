@@ -147,14 +147,14 @@
         "SortTime":  240.23333333333335
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.26666666666668
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
@@ -502,5 +502,12 @@
         "ReceivedTime":  "7/27/2026 6:34 AM",
         "Status":  "Present",
         "SortTime":  394.15000000000003
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "7/27/2026 6:43 AM",
+        "Status":  "Present",
+        "SortTime":  403.7
     }
 ]
