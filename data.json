@@ -665,6 +665,13 @@
         "SortTime":  666.25
     },
     {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily NTA File For Vaticine",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
