@@ -665,6 +665,13 @@
         "SortTime":  666.25
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "7/27/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.7166666666667
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
