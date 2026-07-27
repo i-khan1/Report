@@ -147,14 +147,14 @@
         "SortTime":  240.23333333333335
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.26666666666668
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/27/2026 4:00 AM",
         "Status":  "Present",
@@ -306,6 +306,20 @@
         "ReceivedTime":  "7/27/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/27/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.31666666666666
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/27/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.33333333333331
     },
     {
         "Subject":  "SUCCESS File Download Completed",
