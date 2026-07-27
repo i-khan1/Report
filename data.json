@@ -378,15 +378,15 @@
         "SortTime":  360.31666666666666
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "7/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.33333333333331
@@ -733,6 +733,13 @@
         "ReceivedTime":  "7/27/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.30000000000007
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "7/27/2026 3:45 PM",
+        "Status":  "Present",
+        "SortTime":  945.85
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
