@@ -315,14 +315,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -642,6 +642,34 @@
         "ReceivedTime":  "7/28/2026 7:43 AM",
         "Status":  "Present",
         "SortTime":  463.51666666666665
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.43333333333334
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.5
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "7/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.91666666666669
     },
     {
         "Subject":  "Daily OTC File",
