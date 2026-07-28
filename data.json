@@ -749,6 +749,20 @@
         "SortTime":  556.83333333333337
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "7/28/2026 9:27 AM",
+        "Status":  "Present",
+        "SortTime":  567.45
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "7/28/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.76666666666665
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "5:53 AM",
         "ReceivedTime":  "",
@@ -758,13 +772,6 @@
     {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations Not Available",
         "ExpectedTime":  "8:58 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
