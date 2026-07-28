@@ -280,14 +280,14 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -308,7 +308,7 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -322,7 +322,7 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -852,5 +852,12 @@
         "ReceivedTime":  "7/28/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.58333333333337
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "7/28/2026 3:41 PM",
+        "Status":  "Present",
+        "SortTime":  941.48333333333335
     }
 ]
