@@ -280,14 +280,14 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -308,13 +308,6 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "7/28/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.55
-    },
-    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
@@ -323,6 +316,13 @@
     },
     {
         "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.55
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -782,5 +782,12 @@
         "ReceivedTime":  "7/28/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.2166666666667
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "7/28/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.83333333333337
     }
 ]
