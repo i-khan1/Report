@@ -280,14 +280,14 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -308,6 +308,13 @@
         "SortTime":  300.51666666666665
     },
     {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.55
+    },
+    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
@@ -316,13 +323,6 @@
     },
     {
         "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "7/28/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.55
-    },
-    {
-        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -341,6 +341,41 @@
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.61666666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.78333333333336
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.83333333333331
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.88333333333333
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/28/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.06666666666666
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
