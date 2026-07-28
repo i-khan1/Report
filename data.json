@@ -217,14 +217,14 @@
         "SortTime":  240.58333333333334
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/28/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.6
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/28/2026 4:00 AM",
         "Status":  "Present",
@@ -280,14 +280,14 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -308,7 +308,7 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -322,7 +322,7 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -544,6 +544,20 @@
         "ReceivedTime":  "7/28/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/28/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.28333333333336
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/28/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.6
     },
     {
         "Subject":  "Daily OTC File",
