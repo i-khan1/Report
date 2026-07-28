@@ -217,14 +217,14 @@
         "SortTime":  240.58333333333334
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/28/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.6
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "7/28/2026 4:00 AM",
         "Status":  "Present",
@@ -315,14 +315,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "7/28/2026 5:00 AM",
         "Status":  "Present",
@@ -880,5 +880,12 @@
         "ReceivedTime":  "7/28/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.2
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "7/28/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3666666666668
     }
 ]
