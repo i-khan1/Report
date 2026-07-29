@@ -70,14 +70,14 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.48333333333335
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
@@ -222,6 +222,111 @@
         "ReceivedTime":  "7/29/2026 4:20 AM",
         "Status":  "Present",
         "SortTime":  260.31666666666666
+    },
+    {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.28333333333336
+    },
+    {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.38333333333333
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.51666666666665
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.53333333333336
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.61666666666667
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.63333333333333
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.65000000000003
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.66666666666669
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.66666666666669
+    },
+    {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.7
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.75
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.76666666666665
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "7/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.76666666666665
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
