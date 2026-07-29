@@ -448,6 +448,48 @@
         "SortTime":  345.75
     },
     {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/29/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.38333333333333
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "7/29/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.4666666666667
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/29/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/29/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/29/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/29/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.8
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
