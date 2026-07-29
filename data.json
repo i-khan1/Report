@@ -782,5 +782,12 @@
         "ReceivedTime":  "7/29/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.7833333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "7/29/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.05000000000007
     }
 ]
