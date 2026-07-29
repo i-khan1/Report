@@ -70,14 +70,14 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.48333333333335
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
@@ -138,5 +138,12 @@
         "ReceivedTime":  "7/29/2026 3:15 AM",
         "Status":  "Present",
         "SortTime":  195.68333333333334
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/29/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.25
     }
 ]
