@@ -70,14 +70,14 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.48333333333335
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
@@ -684,5 +684,12 @@
         "ReceivedTime":  "7/29/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.41666666666663
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "7/29/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.7166666666667
     }
 ]
