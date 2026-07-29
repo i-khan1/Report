@@ -70,14 +70,14 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.48333333333335
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "7/29/2026 3:00 AM",
         "Status":  "Present",
@@ -390,6 +390,34 @@
         "ReceivedTime":  "7/29/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/29/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.33333333333331
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/29/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.38333333333333
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "7/29/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.35
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
