@@ -511,14 +511,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/30/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/30/2026 6:00 AM",
         "Status":  "Present",
@@ -698,5 +698,12 @@
         "ReceivedTime":  "7/30/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.01666666666665
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "7/30/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.73333333333335
     }
 ]
