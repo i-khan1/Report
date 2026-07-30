@@ -504,13 +504,6 @@
         "SortTime":  360.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "7/30/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.56666666666666
-    },
-    {
         "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/30/2026 6:00 AM",
@@ -519,6 +512,13 @@
     },
     {
         "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "7/30/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.56666666666666
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "7/30/2026 6:00 AM",
         "Status":  "Present",
@@ -845,5 +845,12 @@
         "ReceivedTime":  "7/30/2026 4:00 PM",
         "Status":  "Present",
         "SortTime":  960.7
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "7/30/2026 4:03 PM",
+        "Status":  "Present",
+        "SortTime":  963.56666666666672
     }
 ]
