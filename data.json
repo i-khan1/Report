@@ -42,6 +42,55 @@
         "SortTime":  164.55
     },
     {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.45000000000002
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.55
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.63333333333333
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.68333333333334
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.76666666666668
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "7/31/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.81666666666666
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
