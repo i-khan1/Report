@@ -378,15 +378,15 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "7/31/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "7/31/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
@@ -824,5 +824,12 @@
         "ReceivedTime":  "7/31/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.25
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "7/31/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.26666666666665
     }
 ]
