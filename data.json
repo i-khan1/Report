@@ -394,9 +394,9 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/31/2026 5:16 AM",
+        "Status":  "Present",
+        "SortTime":  316.93333333333334
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
