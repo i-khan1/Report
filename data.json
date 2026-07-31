@@ -378,15 +378,15 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "7/31/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "7/31/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
@@ -796,5 +796,12 @@
         "ReceivedTime":  "7/31/2026 12:08 PM",
         "Status":  "Present",
         "SortTime":  728.30000000000007
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "7/31/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.26666666666665
     }
 ]
