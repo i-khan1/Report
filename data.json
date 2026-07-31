@@ -378,15 +378,15 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "7/31/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "7/31/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.4666666666667
@@ -397,6 +397,27 @@
         "ReceivedTime":  "7/31/2026 5:16 AM",
         "Status":  "Present",
         "SortTime":  316.93333333333334
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/31/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.06666666666666
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "7/31/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.11666666666667
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "7/31/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.5
     },
     {
         "Subject":  "Daily SOD Files to ASB Bank Corp",
