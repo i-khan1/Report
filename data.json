@@ -905,8 +905,8 @@
     {
         "Subject":  "Daily Activity to Tradepro",
         "ExpectedTime":  "10:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/31/2026 11:19 PM",
+        "Status":  "Present",
+        "SortTime":  1399.8333333333333
     }
 ]
