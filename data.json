@@ -119,14 +119,14 @@
         "SortTime":  435.78333333333336
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "Subject":  "FINRA SHORT REPORT for VCapital",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.16666666666669
     },
     {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "Subject":  "FINRA SHORT REPORT for VClearing",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/1/2026 8:00 AM",
         "Status":  "Present",
@@ -145,5 +145,12 @@
         "ReceivedTime":  "8/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.6
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/1/2026 8:46 AM",
+        "Status":  "Present",
+        "SortTime":  526.4666666666667
     }
 ]
