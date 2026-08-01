@@ -898,9 +898,9 @@
     {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:02 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "7/31/2026 11:08 PM",
+        "Status":  "Present",
+        "SortTime":  1388.65
     },
     {
         "Subject":  "Daily Activity to Tradepro",
