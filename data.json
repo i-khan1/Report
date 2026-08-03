@@ -231,15 +231,15 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
@@ -252,14 +252,14 @@
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.7166666666667
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
@@ -306,6 +306,27 @@
         "ReceivedTime":  "8/3/2026 5:05 AM",
         "Status":  "Present",
         "SortTime":  305.13333333333333
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/3/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/3/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "8/3/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.56666666666666
     },
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
