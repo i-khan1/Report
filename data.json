@@ -252,14 +252,14 @@
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.7166666666667
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
@@ -670,6 +670,34 @@
         "ReceivedTime":  "8/3/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.95
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "8/3/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.48333333333335
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/3/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/3/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.23333333333335
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/3/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.36666666666667
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
