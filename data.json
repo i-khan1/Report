@@ -231,15 +231,15 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
@@ -782,6 +782,13 @@
         "ReceivedTime":  "8/3/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.9666666666667
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "8/3/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4833333333333
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
