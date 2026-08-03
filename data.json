@@ -231,15 +231,15 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
@@ -252,14 +252,14 @@
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.7166666666667
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
@@ -446,6 +446,48 @@
         "ReceivedTime":  "8/3/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.2166666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/3/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.63333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/3/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.91666666666669
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "8/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "8/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "8/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "8/3/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.38333333333333
     },
     {
         "Subject":  "Daily VCLT BMSY Buys Reports",
