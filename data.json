@@ -103,5 +103,19 @@
         "ReceivedTime":  "8/3/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.85
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "8/3/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.46666666666667
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
+        "ReceivedTime":  "8/3/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.61666666666667
     }
 ]
