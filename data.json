@@ -252,14 +252,14 @@
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.7166666666667
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/3/2026 5:00 AM",
         "Status":  "Present",
@@ -586,5 +586,12 @@
         "ReceivedTime":  "8/3/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.28333333333336
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/3/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.56666666666666
     }
 ]
