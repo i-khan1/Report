@@ -343,6 +343,13 @@
         "SortTime":  330.31666666666666
     },
     {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/3/2026 5:32 AM",
+        "Status":  "Present",
+        "SortTime":  332.76666666666665
+    },
+    {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
         "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
