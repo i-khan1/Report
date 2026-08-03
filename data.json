@@ -644,15 +644,15 @@
         "SortTime":  570.58333333333337
     },
     {
-        "Subject":  "Daily NTA File For Vaticine",
-        "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "9:09 AM",
+        "ReceivedTime":  "8/3/2026 9:39 AM",
+        "Status":  "Present",
+        "SortTime":  579.08333333333337
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
