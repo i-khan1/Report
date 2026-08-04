@@ -679,6 +679,13 @@
         "SortTime":  513.5
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "8/4/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.75
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
