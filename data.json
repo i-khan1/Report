@@ -483,15 +483,15 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
@@ -852,6 +852,34 @@
         "ReceivedTime":  "8/4/2026 12:00 PM",
         "Status":  "Present",
         "SortTime":  720.38333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/4/2026 12:02 PM",
+        "Status":  "Present",
+        "SortTime":  722.31666666666672
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/4/2026 12:02 PM",
+        "Status":  "Present",
+        "SortTime":  722.45
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "8/4/2026 12:04 PM",
+        "Status":  "Present",
+        "SortTime":  724.2166666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/4/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.23333333333335
     },
     {
         "Subject":  "Daily OTC File",
