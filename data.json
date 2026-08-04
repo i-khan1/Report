@@ -378,15 +378,15 @@
         "SortTime":  315.3
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
@@ -705,6 +705,13 @@
         "ReceivedTime":  "8/4/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.2166666666667
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "8/4/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.81666666666672
     },
     {
         "Subject":  "Daily OTC File",
