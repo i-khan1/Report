@@ -56,6 +56,48 @@
         "SortTime":  160.43333333333334
     },
     {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/4/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.3
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/4/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.45000000000002
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/4/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.46666666666667
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/4/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.5
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/4/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.53333333333333
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/4/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.70000000000002
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
