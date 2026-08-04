@@ -770,6 +770,20 @@
         "SortTime":  613.83333333333337
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "8/4/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.81666666666672
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "8/4/2026 10:31 AM",
+        "Status":  "Present",
+        "SortTime":  631.18333333333339
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
