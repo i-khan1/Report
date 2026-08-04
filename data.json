@@ -210,6 +210,20 @@
         "SortTime":  240.88333333333333
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "8/4/2026 4:03 AM",
+        "Status":  "Present",
+        "SortTime":  243.36666666666667
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "8/4/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.21666666666667
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
