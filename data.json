@@ -924,6 +924,13 @@
         "SortTime":  917.2833333333333
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "8/4/2026 3:35 PM",
+        "Status":  "Present",
+        "SortTime":  935.4666666666667
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
