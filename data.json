@@ -378,15 +378,15 @@
         "SortTime":  315.3
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
@@ -483,15 +483,15 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
@@ -950,6 +950,13 @@
         "ReceivedTime":  "8/4/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.3166666666667
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "8/4/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3166666666666
     },
     {
         "Subject":  "Daily CBRS Confirmation to Taxes",
