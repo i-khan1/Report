@@ -483,15 +483,15 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
@@ -887,6 +887,13 @@
         "ReceivedTime":  "8/4/2026 12:40 PM",
         "Status":  "Present",
         "SortTime":  760.31666666666672
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/4/2026 12:58 PM",
+        "Status":  "Present",
+        "SortTime":  778.9666666666667
     },
     {
         "Subject":  "Daily OTC File",
