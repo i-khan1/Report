@@ -896,6 +896,13 @@
         "SortTime":  778.9666666666667
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/4/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.25
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
