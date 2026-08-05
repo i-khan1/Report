@@ -644,15 +644,15 @@
         "SortTime":  450.25
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/5/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.68333333333334
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/5/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.68333333333334
@@ -845,6 +845,13 @@
         "ReceivedTime":  "8/5/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.18333333333339
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "8/5/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.38333333333333
     },
     {
         "Subject":  "Daily OTC File",
