@@ -476,6 +476,48 @@
         "SortTime":  346.73333333333335
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "8/5/2026 5:52 AM",
+        "Status":  "Present",
+        "SortTime":  352.90000000000003
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "8/5/2026 5:54 AM",
+        "Status":  "Present",
+        "SortTime":  354.48333333333335
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "8/5/2026 5:59 AM",
+        "Status":  "Present",
+        "SortTime":  359.86666666666667
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.36666666666667
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.38333333333333
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "8/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.38333333333333
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
