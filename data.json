@@ -784,6 +784,13 @@
         "SortTime":  666.33333333333337
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "8/5/2026 11:51 AM",
+        "Status":  "Present",
+        "SortTime":  711.01666666666665
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
