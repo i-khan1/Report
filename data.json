@@ -217,18 +217,25 @@
         "SortTime":  260.66666666666669
     },
     {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "8/5/2026 4:26 AM",
+        "Status":  "Present",
+        "SortTime":  266.78333333333336
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/5/2026 4:28 AM",
+        "Status":  "Present",
+        "SortTime":  268.03333333333336
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/5/2026 4:30 AM",
+        "Status":  "Present",
+        "SortTime":  270.05
     },
     {
         "Subject":  "Daily OTC File",
