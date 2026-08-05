@@ -616,6 +616,13 @@
         "SortTime":  420.26666666666665
     },
     {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "8/5/2026 7:01 AM",
+        "Status":  "Present",
+        "SortTime":  421
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
