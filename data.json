@@ -406,6 +406,27 @@
         "SortTime":  315.4666666666667
     },
     {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/5/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/5/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.43333333333334
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/5/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.51666666666665
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
