@@ -700,6 +700,20 @@
         "SortTime":  486.2
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/5/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.41666666666669
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/5/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.55
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
