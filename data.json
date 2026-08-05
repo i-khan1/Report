@@ -84,6 +84,20 @@
         "SortTime":  180.83333333333334
     },
     {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "8/5/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.93333333333334
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "8/5/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.1
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
