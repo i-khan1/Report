@@ -644,15 +644,15 @@
         "SortTime":  450.25
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/5/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.68333333333334
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/5/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.68333333333334
@@ -719,6 +719,20 @@
         "ReceivedTime":  "8/5/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.75
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/5/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.48333333333335
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/5/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.85
     },
     {
         "Subject":  "Daily OTC File",
