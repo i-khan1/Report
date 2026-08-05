@@ -770,6 +770,13 @@
         "SortTime":  606.36666666666667
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "8/5/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.86666666666667
+    },
+    {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "",
