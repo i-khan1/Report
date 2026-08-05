@@ -378,15 +378,15 @@
         "SortTime":  315.3
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/4/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
@@ -469,14 +469,14 @@
         "SortTime":  360.55
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/4/2026 6:00 AM",
         "Status":  "Present",
@@ -978,6 +978,13 @@
         "ReceivedTime":  "8/4/2026 6:10 PM",
         "Status":  "Present",
         "SortTime":  1090.4333333333334
+    },
+    {
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
+        "ReceivedTime":  "8/4/2026 8:17 PM",
+        "Status":  "Present",
+        "SortTime":  1217.1666666666667
     },
     {
         "Subject":  "Daily CBRS Confirmation to Taxes",
