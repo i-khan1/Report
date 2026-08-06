@@ -329,15 +329,15 @@
         "SortTime":  301.68333333333334
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.7
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.7
@@ -754,5 +754,12 @@
         "ReceivedTime":  "8/6/2026 9:00 AM",
         "Status":  "Present",
         "SortTime":  540.91666666666663
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/6/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.23333333333335
     }
 ]
