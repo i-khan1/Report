@@ -686,14 +686,14 @@
         "SortTime":  480.41666666666669
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
@@ -775,5 +775,12 @@
         "ReceivedTime":  "8/6/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.7833333333333
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "8/6/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.66666666666663
     }
 ]
