@@ -329,15 +329,15 @@
         "SortTime":  301.68333333333334
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.7
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.7
@@ -686,14 +686,14 @@
         "SortTime":  480.41666666666669
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
@@ -922,5 +922,12 @@
         "ReceivedTime":  "8/6/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.9833333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "8/6/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.45
     }
 ]
