@@ -434,11 +434,67 @@
         "SortTime":  331.56666666666666
     },
     {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "5:38 AM",
+        "ReceivedTime":  "8/6/2026 5:38 AM",
+        "Status":  "Present",
+        "SortTime":  338.1
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "5:38 AM",
+        "ReceivedTime":  "8/6/2026 5:44 AM",
+        "Status":  "Present",
+        "SortTime":  344.15000000000003
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "8/6/2026 5:44 AM",
+        "Status":  "Present",
+        "SortTime":  344.48333333333335
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/6/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.4666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/6/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.7166666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/6/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.7166666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/6/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.7166666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/6/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.73333333333335
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/6/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.13333333333333
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
