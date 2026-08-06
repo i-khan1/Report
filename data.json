@@ -42,6 +42,69 @@
         "SortTime":  160.46666666666667
     },
     {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.38333333333333
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.4
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.43333333333334
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.51666666666668
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.55
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.56666666666666
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/6/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.83333333333334
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "8/6/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.03333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "8/6/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.15
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
