@@ -161,15 +161,22 @@
         "SortTime":  230.81666666666666
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "SUCCESS Daily Margin Rates Download",
+        "ExpectedTime":  "3:55 AM",
+        "ReceivedTime":  "8/6/2026 3:55 AM",
+        "Status":  "Present",
+        "SortTime":  235.45000000000002
     },
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "8/6/2026 3:56 AM",
+        "Status":  "Present",
+        "SortTime":  236.06666666666666
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
