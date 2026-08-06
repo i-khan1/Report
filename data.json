@@ -686,14 +686,14 @@
         "SortTime":  480.41666666666669
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
@@ -866,5 +866,12 @@
         "ReceivedTime":  "8/6/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.15
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "8/6/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.2833333333333
     }
 ]
