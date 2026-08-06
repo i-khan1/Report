@@ -469,14 +469,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "8/6/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "8/6/2026 5:45 AM",
         "Status":  "Present",
@@ -686,14 +686,14 @@
         "SortTime":  480.41666666666669
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.51666666666665
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/6/2026 8:00 AM",
         "Status":  "Present",
@@ -789,5 +789,12 @@
         "ReceivedTime":  "8/6/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.2166666666667
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "8/6/2026 10:29 AM",
+        "Status":  "Present",
+        "SortTime":  629.7166666666667
     }
 ]
