@@ -343,14 +343,14 @@
         "SortTime":  301.7
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.75
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
@@ -495,6 +495,13 @@
         "ReceivedTime":  "8/6/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.13333333333333
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
