@@ -343,14 +343,14 @@
         "SortTime":  301.7
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.75
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/6/2026 5:01 AM",
         "Status":  "Present",
@@ -796,5 +796,12 @@
         "ReceivedTime":  "8/6/2026 10:29 AM",
         "Status":  "Present",
         "SortTime":  629.7166666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/6/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.25
     }
 ]
