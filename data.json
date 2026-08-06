@@ -733,5 +733,12 @@
         "ReceivedTime":  "8/6/2026 8:32 AM",
         "Status":  "Present",
         "SortTime":  512.08333333333337
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "8/6/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.76666666666665
     }
 ]
