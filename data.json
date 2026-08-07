@@ -70,13 +70,6 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "8/7/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.48333333333335
-    },
-    {
         "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/7/2026 3:00 AM",
@@ -85,6 +78,13 @@
     },
     {
         "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/7/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.48333333333335
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/7/2026 3:00 AM",
         "Status":  "Present",
@@ -121,8 +121,15 @@
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/7/2026 3:07 AM",
+        "Status":  "Present",
+        "SortTime":  187.46666666666667
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "8/7/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.23333333333335
     }
 ]
