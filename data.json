@@ -399,15 +399,15 @@
         "SortTime":  315.25
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
@@ -915,5 +915,19 @@
         "ReceivedTime":  "8/7/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.25
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "8/7/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.25
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "8/7/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0666666666666
     }
 ]
