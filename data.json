@@ -420,6 +420,27 @@
         "SortTime":  315.48333333333335
     },
     {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/7/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.4666666666667
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/7/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.5
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/7/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.63333333333333
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
