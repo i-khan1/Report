@@ -399,15 +399,15 @@
         "SortTime":  315.25
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
@@ -880,5 +880,12 @@
         "ReceivedTime":  "8/7/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.31666666666672
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "8/7/2026 3:47 PM",
+        "Status":  "Present",
+        "SortTime":  947.1
     }
 ]
