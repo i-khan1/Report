@@ -399,15 +399,15 @@
         "SortTime":  315.25
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
@@ -642,6 +642,20 @@
         "ReceivedTime":  "8/7/2026 7:21 AM",
         "Status":  "Present",
         "SortTime":  441.7166666666667
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "8/7/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.26666666666665
+    },
+    {
+        "Subject":  "DVP Open Items Report",
+        "ExpectedTime":  "7:35 AM",
+        "ReceivedTime":  "8/7/2026 7:35 AM",
+        "Status":  "Present",
+        "SortTime":  455.55
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
