@@ -84,6 +84,13 @@
         "SortTime":  300.16666666666669
     },
     {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/8/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.53333333333336
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
