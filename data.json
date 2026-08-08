@@ -91,6 +91,13 @@
         "SortTime":  315.53333333333336
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -98,8 +105,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
