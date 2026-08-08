@@ -112,15 +112,15 @@
         "SortTime":  531.25
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Locate Vs GS Comparison File",
         "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/8/2026 8:54 AM",
+        "Status":  "Present",
+        "SortTime":  534.7
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
