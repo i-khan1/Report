@@ -121,9 +121,16 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/8/2026 8:57 AM",
+        "Status":  "Present",
+        "SortTime":  537.51666666666665
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/8/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.76666666666665
     },
     {
         "Subject":  "Daily Cust Short Int file for Vaticine",
