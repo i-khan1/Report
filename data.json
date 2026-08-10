@@ -611,9 +611,9 @@
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/10/2026 8:47 AM",
+        "Status":  "Present",
+        "SortTime":  527.23333333333335
     },
     {
         "Subject":  "Daily SOD to Acumen Global",
