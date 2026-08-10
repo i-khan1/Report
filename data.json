@@ -105,6 +105,13 @@
         "SortTime":  196
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "8/10/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.91666666666666
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
