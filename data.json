@@ -574,6 +574,20 @@
         "SortTime":  481.2
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "8/10/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.36666666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/10/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.2
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
