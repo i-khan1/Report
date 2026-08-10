@@ -294,11 +294,18 @@
         "SortTime":  300.9666666666667
     },
     {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "8/10/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.16666666666669
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/10/2026 5:06 AM",
+        "Status":  "Present",
+        "SortTime":  306.11666666666667
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
