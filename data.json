@@ -49,14 +49,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/10/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/10/2026 3:00 AM",
         "Status":  "Present",
@@ -796,6 +796,13 @@
         "ReceivedTime":  "8/10/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.2666666666667
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "8/10/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.25
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
