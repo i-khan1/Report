@@ -714,6 +714,20 @@
         "SortTime":  726.15
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/10/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.06666666666672
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/10/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.08333333333337
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
