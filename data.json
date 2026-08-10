@@ -350,6 +350,13 @@
         "SortTime":  330.38333333333333
     },
     {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/10/2026 5:33 AM",
+        "Status":  "Present",
+        "SortTime":  333.01666666666665
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
