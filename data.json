@@ -588,6 +588,20 @@
         "SortTime":  486.2
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/10/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.3
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/10/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.6
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
