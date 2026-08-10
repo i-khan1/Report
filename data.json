@@ -623,10 +623,17 @@
         "SortTime":  533.3
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/10/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.35
+    },
+    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/10/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.45
     }
 ]
