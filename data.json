@@ -406,14 +406,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/11/2026 5:15 AM",
         "Status":  "Present",
@@ -768,5 +768,12 @@
         "ReceivedTime":  "8/11/2026 10:29 AM",
         "Status":  "Present",
         "SortTime":  629.80000000000007
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/11/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.18333333333339
     }
 ]
