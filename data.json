@@ -252,6 +252,132 @@
         "SortTime":  260.4
     },
     {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.3
+    },
+    {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.31666666666666
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.61666666666667
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.68333333333334
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.7
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.73333333333335
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.75
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.8
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.88333333333333
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.90000000000003
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/11/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.98333333333335
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
