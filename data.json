@@ -406,14 +406,14 @@
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/11/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/11/2026 5:15 AM",
         "Status":  "Present",
@@ -635,5 +635,47 @@
         "ReceivedTime":  "8/11/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.35
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.43333333333334
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.43333333333334
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "8/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.51666666666665
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.53333333333336
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/11/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.75
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "8/11/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.43333333333334
     }
 ]
