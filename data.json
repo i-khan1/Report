@@ -322,13 +322,6 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Options Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "8/12/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.58333333333331
-    },
-    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/12/2026 5:00 AM",
@@ -343,6 +336,13 @@
         "SortTime":  300.58333333333331
     },
     {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/12/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.58333333333331
+    },
+    {
         "Subject":  "Daily CBRS Confirmation to Taxes",
         "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "8/12/2026 5:00 AM",
@@ -350,14 +350,14 @@
         "SortTime":  300.6
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/12/2026 5:00 AM",
         "Status":  "Present",
@@ -754,5 +754,12 @@
         "ReceivedTime":  "8/12/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.95
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
