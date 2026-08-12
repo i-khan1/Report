@@ -147,6 +147,13 @@
         "SortTime":  195.6
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/12/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.26666666666668
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
