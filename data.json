@@ -548,15 +548,15 @@
     {
         "Subject":  "Daily VCLT BMSY Buys Reports",
         "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/12/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.7166666666667
     },
     {
         "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/12/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.81666666666666
     }
 ]
