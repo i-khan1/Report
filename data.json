@@ -483,14 +483,14 @@
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "8/12/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "8/12/2026 5:45 AM",
         "Status":  "Present",
@@ -719,5 +719,12 @@
         "ReceivedTime":  "8/12/2026 8:30 AM",
         "Status":  "Present",
         "SortTime":  510.58333333333337
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "8/12/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.76666666666665
     }
 ]
