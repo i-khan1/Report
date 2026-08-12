@@ -581,14 +581,14 @@
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "8/12/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.31666666666666
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "8/12/2026 6:15 AM",
         "Status":  "Present",
@@ -810,5 +810,19 @@
         "ReceivedTime":  "8/12/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.2166666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/12/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.06666666666672
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/12/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.08333333333337
     }
 ]
