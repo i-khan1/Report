@@ -119,6 +119,20 @@
         "SortTime":  180.96666666666667
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "8/13/2026 3:09 AM",
+        "Status":  "Present",
+        "SortTime":  189.91666666666666
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "8/13/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.23333333333335
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
