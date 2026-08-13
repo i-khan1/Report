@@ -665,14 +665,14 @@
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/13/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.38333333333333
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/13/2026 8:00 AM",
         "Status":  "Present",
@@ -908,5 +908,12 @@
         "ReceivedTime":  "8/13/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.9666666666667
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "8/13/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4833333333333
     }
 ]
