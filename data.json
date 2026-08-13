@@ -259,6 +259,13 @@
         "SortTime":  245.25
     },
     {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "8/13/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.4
+    },
+    {
         "Subject":  "SUCCESS Daily Margin Rates Download",
         "ExpectedTime":  "3:55 AM",
         "ReceivedTime":  "",
