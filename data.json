@@ -336,14 +336,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/13/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/13/2026 5:00 AM",
         "Status":  "Present",
@@ -404,5 +404,40 @@
         "ReceivedTime":  "8/13/2026 5:05 AM",
         "Status":  "Present",
         "SortTime":  305.11666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/13/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.18333333333334
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/13/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.18333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "8/13/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.38333333333333
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/13/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.40000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/13/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
     }
 ]
