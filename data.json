@@ -392,17 +392,17 @@
         "SortTime":  301.16666666666669
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "4:53 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/13/2026 5:03 AM",
+        "Status":  "Present",
+        "SortTime":  303.53333333333336
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "8/13/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
     }
 ]
