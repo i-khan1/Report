@@ -439,5 +439,26 @@
         "ReceivedTime":  "8/13/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/13/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.45
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/13/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.4666666666667
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/13/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.31666666666666
     }
 ]
