@@ -714,6 +714,13 @@
         "SortTime":  510.56666666666666
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "8/14/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.76666666666665
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
