@@ -798,6 +798,20 @@
         "SortTime":  726.18333333333339
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/14/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.08333333333337
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/14/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.2
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
