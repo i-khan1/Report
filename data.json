@@ -156,8 +156,8 @@
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/14/2026 3:28 AM",
+        "Status":  "Present",
+        "SortTime":  208.08333333333334
     }
 ]
