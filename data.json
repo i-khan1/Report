@@ -763,6 +763,13 @@
         "SortTime":  570.7
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/14/2026 10:06 AM",
+        "Status":  "Present",
+        "SortTime":  606.25
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
