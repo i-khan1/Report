@@ -658,15 +658,15 @@
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
@@ -901,6 +901,13 @@
         "ReceivedTime":  "8/14/2026 5:31 PM",
         "Status":  "Present",
         "SortTime":  1051
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "8/14/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4833333333333
     },
     {
         "Subject":  "DVP Open Items Report",
