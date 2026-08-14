@@ -280,6 +280,13 @@
         "SortTime":  300.51666666666665
     },
     {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/14/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.55
+    },
+    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/14/2026 5:00 AM",
@@ -288,13 +295,6 @@
     },
     {
         "Subject":  "Finance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "8/14/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.55
-    },
-    {
-        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/14/2026 5:00 AM",
         "Status":  "Present",
@@ -751,6 +751,13 @@
     {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
