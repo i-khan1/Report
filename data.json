@@ -49,14 +49,14 @@
         "SortTime":  160.45000000000002
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/14/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/14/2026 3:00 AM",
         "Status":  "Present",
@@ -658,15 +658,15 @@
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
@@ -845,6 +845,13 @@
         "ReceivedTime":  "8/14/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.80000000000007
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "8/14/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.30000000000007
     },
     {
         "Subject":  "DVP Open Items Report",
