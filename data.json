@@ -287,14 +287,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/14/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/14/2026 5:00 AM",
         "Status":  "Present",
@@ -658,15 +658,15 @@
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
@@ -859,6 +859,13 @@
         "ReceivedTime":  "8/14/2026 3:43 PM",
         "Status":  "Present",
         "SortTime":  943.9
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/14/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.43333333333339
     },
     {
         "Subject":  "DVP Open Items Report",
