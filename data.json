@@ -658,15 +658,15 @@
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/14/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
@@ -698,6 +698,20 @@
         "ReceivedTime":  "8/14/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.16666666666669
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/14/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.38333333333333
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/14/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.56666666666666
     },
     {
         "Subject":  "DVP Open Items Report",
