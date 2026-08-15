@@ -924,15 +924,15 @@
         "SortTime":  1320.4166666666667
     },
     {
-        "Subject":  "DVP Open Items Report",
-        "ExpectedTime":  "7:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "8/14/2026 11:01 PM",
+        "Status":  "Present",
+        "SortTime":  1381.8666666666668
+    },
+    {
+        "Subject":  "DVP Open Items Report",
+        "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
