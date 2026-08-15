@@ -56,8 +56,22 @@
         "SortTime":  233.9
     },
     {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "8/15/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.71666666666667
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
+        "ReceivedTime":  "8/15/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.83333333333334
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
