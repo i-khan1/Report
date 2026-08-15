@@ -126,6 +126,13 @@
         "SortTime":  480.4666666666667
     },
     {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/15/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.81666666666672
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
