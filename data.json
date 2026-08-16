@@ -7,6 +7,20 @@
         "SortTime":  315.56666666666666
     },
     {
+        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.2
+    },
+    {
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/16/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.23333333333335
+    },
+    {
         "Subject":  "Weekly DWRE Reports to",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
