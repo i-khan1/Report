@@ -455,15 +455,15 @@
         "SortTime":  360.5
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.51666666666665
@@ -567,6 +567,13 @@
         "SortTime":  426.23333333333335
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
@@ -574,15 +581,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
