@@ -455,13 +455,6 @@
         "SortTime":  360.5
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "8/17/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.51666666666665
-    },
-    {
         "Subject":  "Weekly BMSY Account Profile Reports",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
@@ -469,14 +462,21 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -838,6 +838,20 @@
         "ReceivedTime":  "8/17/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.3333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "8/17/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "8/17/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0333333333333
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
