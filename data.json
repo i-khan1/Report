@@ -49,14 +49,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/17/2026 3:00 AM",
         "Status":  "Present",
@@ -236,5 +236,12 @@
         "ReceivedTime":  "8/17/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.25
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "8/17/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.36666666666667
     }
 ]
