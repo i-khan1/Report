@@ -469,14 +469,14 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -544,6 +544,20 @@
         "ReceivedTime":  "8/17/2026 6:32 AM",
         "Status":  "Present",
         "SortTime":  392.65000000000003
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "8/17/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.25
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "8/17/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.33333333333331
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
