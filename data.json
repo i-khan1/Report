@@ -469,14 +469,14 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -642,6 +642,20 @@
         "ReceivedTime":  "8/17/2026 8:12 AM",
         "Status":  "Present",
         "SortTime":  492.11666666666667
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/17/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.31666666666666
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/17/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.48333333333335
     },
     {
         "Subject":  "DVP Open Items Report",
