@@ -665,6 +665,20 @@
         "SortTime":  525.7
     },
     {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "8/17/2026 8:59 AM",
+        "Status":  "Present",
+        "SortTime":  539.76666666666665
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/17/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.35
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
@@ -674,13 +688,6 @@
     {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
