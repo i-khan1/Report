@@ -287,14 +287,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/17/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/17/2026 5:00 AM",
         "Status":  "Present",
@@ -455,13 +455,6 @@
         "SortTime":  360.5
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "8/17/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.51666666666665
-    },
-    {
         "Subject":  "Daily VCLT BMSY Buys Reports",
         "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
@@ -469,14 +462,21 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -588,8 +588,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "DVP Open Items Report",
+        "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -597,6 +597,13 @@
     {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
