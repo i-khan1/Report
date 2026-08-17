@@ -469,14 +469,14 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -607,6 +607,20 @@
         "ReceivedTime":  "8/17/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.45
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "8/17/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.35
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/17/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.11666666666667
     },
     {
         "Subject":  "Eventus Upload Status",
