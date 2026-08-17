@@ -49,14 +49,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/17/2026 3:00 AM",
         "Status":  "Present",
@@ -448,8 +448,71 @@
         "SortTime":  346.68333333333334
     },
     {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.5
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "8/17/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.6
+    },
+    {
+        "Subject":  "Weekly New iClear Accounts Report to",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
