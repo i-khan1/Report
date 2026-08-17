@@ -49,14 +49,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/17/2026 3:00 AM",
         "Status":  "Present",
@@ -103,6 +103,13 @@
         "ReceivedTime":  "8/17/2026 3:15 AM",
         "Status":  "Present",
         "SortTime":  195.48333333333335
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "8/17/2026 3:24 AM",
+        "Status":  "Present",
+        "SortTime":  204.38333333333333
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
