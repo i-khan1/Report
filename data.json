@@ -637,11 +637,11 @@
         "SortTime":  488.36666666666667
     },
     {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "8/17/2026 8:12 AM",
+        "Status":  "Present",
+        "SortTime":  492.11666666666667
     },
     {
         "Subject":  "DVP Open Items Report",
@@ -651,15 +651,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
