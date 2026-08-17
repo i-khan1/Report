@@ -499,9 +499,9 @@
     {
         "Subject":  "Weekly New iClear Accounts Report to",
         "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/17/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.06666666666666
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
