@@ -469,14 +469,14 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -810,6 +810,13 @@
         "ReceivedTime":  "8/17/2026 3:48 PM",
         "Status":  "Present",
         "SortTime":  948.05000000000007
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/17/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.43333333333339
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
