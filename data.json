@@ -287,14 +287,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/17/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/17/2026 5:00 AM",
         "Status":  "Present",
@@ -397,6 +397,13 @@
         "ReceivedTime":  "8/17/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.43333333333334
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/17/2026 5:33 AM",
+        "Status":  "Present",
+        "SortTime":  333.25
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
