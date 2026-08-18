@@ -917,6 +917,20 @@
         "SortTime":  1030.25
     },
     {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "8/18/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.35
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "8/18/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.9833333333333
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
