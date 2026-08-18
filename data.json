@@ -469,7 +469,7 @@
         "SortTime":  360.51666666666665
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -483,7 +483,7 @@
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/17/2026 6:00 AM",
         "Status":  "Present",
@@ -868,6 +868,13 @@
         "SortTime":  1217.2166666666667
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "8/17/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2833333333333
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
@@ -882,15 +889,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
