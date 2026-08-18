@@ -777,15 +777,15 @@
         "SortTime":  550.80000000000007
     },
     {
-        "Subject":  "DVP Open Items Report",
-        "ExpectedTime":  "7:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Activity Report to Ambrus Sundial",
         "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "8/18/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.75
+    },
+    {
+        "Subject":  "DVP Open Items Report",
+        "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
