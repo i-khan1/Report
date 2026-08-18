@@ -350,14 +350,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/18/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/18/2026 5:00 AM",
         "Status":  "Present",
@@ -712,6 +712,20 @@
         "ReceivedTime":  "8/18/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.3
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "8/18/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.35
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/18/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.13333333333333
     },
     {
         "Subject":  "DVP Open Items Report",
