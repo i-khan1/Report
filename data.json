@@ -882,6 +882,13 @@
         "SortTime":  917.48333333333335
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/18/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.41666666666674
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
