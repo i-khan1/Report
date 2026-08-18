@@ -931,15 +931,15 @@
         "SortTime":  1050.9833333333333
     },
     {
-        "Subject":  "DVP Open Items Report",
-        "ExpectedTime":  "7:35 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily ETB File to Trading",
         "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "8/18/2026 6:12 PM",
+        "Status":  "Present",
+        "SortTime":  1092.1333333333334
+    },
+    {
+        "Subject":  "DVP Open Items Report",
+        "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
