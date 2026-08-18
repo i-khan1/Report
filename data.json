@@ -875,6 +875,13 @@
         "SortTime":  900.76666666666665
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "8/18/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.48333333333335
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
