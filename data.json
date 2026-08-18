@@ -628,5 +628,26 @@
         "ReceivedTime":  "8/18/2026 6:32 AM",
         "Status":  "Present",
         "SortTime":  392.85
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "8/18/2026 6:59 AM",
+        "Status":  "Present",
+        "SortTime":  419.48333333333335
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "8/18/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.33333333333331
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "8/18/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.38333333333333
     }
 ]
