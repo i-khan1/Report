@@ -805,6 +805,13 @@
         "SortTime":  666.2166666666667
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "8/18/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.7166666666667
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
