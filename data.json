@@ -350,14 +350,14 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/18/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/18/2026 5:00 AM",
         "Status":  "Present",
@@ -544,6 +544,20 @@
         "ReceivedTime":  "8/18/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.03333333333336
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/18/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.90000000000003
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/18/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.40000000000003
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
