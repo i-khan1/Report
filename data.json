@@ -28,10 +28,24 @@
         "SortTime":  138.38333333333333
     },
     {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "8/18/2026 2:31 AM",
+        "Status":  "Present",
+        "SortTime":  151.9
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/18/2026 2:33 AM",
+        "Status":  "Present",
+        "SortTime":  153.18333333333334
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "8/18/2026 2:33 AM",
+        "Status":  "Present",
+        "SortTime":  153.41666666666666
     }
 ]
