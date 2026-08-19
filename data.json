@@ -308,14 +308,14 @@
         "SortTime":  300.75
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.88333333333333
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/19/2026 5:00 AM",
         "Status":  "Present",
@@ -413,14 +413,14 @@
         "SortTime":  315.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
@@ -611,6 +611,13 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
