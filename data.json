@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/19/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/19/2026 3:00 AM",
         "Status":  "Present",
@@ -159,5 +159,19 @@
         "ReceivedTime":  "8/19/2026 3:16 AM",
         "Status":  "Present",
         "SortTime":  196.66666666666666
+    },
+    {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "8/19/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.33333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "8/19/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.41666666666666
     }
 ]
