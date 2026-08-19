@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/19/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/19/2026 3:00 AM",
         "Status":  "Present",
@@ -257,6 +257,13 @@
         "ReceivedTime":  "8/19/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.25
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "8/19/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.36666666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
