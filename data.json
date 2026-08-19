@@ -413,14 +413,14 @@
         "SortTime":  315.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
@@ -740,5 +740,12 @@
         "ReceivedTime":  "8/19/2026 8:30 AM",
         "Status":  "Present",
         "SortTime":  510.6
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "8/19/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.73333333333335
     }
 ]
