@@ -51,9 +51,9 @@
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/19/2026 2:52 AM",
+        "Status":  "Present",
+        "SortTime":  172.73333333333335
     },
     {
         "Subject":  "MAXIT Upload Report",
