@@ -413,14 +413,14 @@
         "SortTime":  315.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
@@ -747,5 +747,19 @@
         "ReceivedTime":  "8/19/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.73333333333335
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/19/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.4
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/19/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.7833333333333
     }
 ]
