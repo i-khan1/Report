@@ -952,6 +952,13 @@
         "SortTime":  1310.2333333333333
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "8/18/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3166666666666
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
