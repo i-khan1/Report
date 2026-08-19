@@ -413,14 +413,14 @@
         "SortTime":  315.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
@@ -894,5 +894,12 @@
         "ReceivedTime":  "8/19/2026 4:00 PM",
         "Status":  "Present",
         "SortTime":  960.65
+    },
+    {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "8/19/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.41666666666674
     }
 ]
