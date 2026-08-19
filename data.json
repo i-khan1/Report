@@ -308,14 +308,14 @@
         "SortTime":  300.75
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.88333333333333
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/19/2026 5:00 AM",
         "Status":  "Present",
@@ -390,6 +390,13 @@
         "ReceivedTime":  "8/19/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.18333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "8/19/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
     },
     {
         "Subject":  "Daily Activity File to Ambrus",
