@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/19/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/19/2026 3:00 AM",
         "Status":  "Present",
@@ -131,5 +131,26 @@
         "ReceivedTime":  "8/19/2026 3:10 AM",
         "Status":  "Present",
         "SortTime":  190.28333333333333
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "8/19/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.05
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "8/19/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.56666666666666
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "8/19/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.6
     }
 ]
