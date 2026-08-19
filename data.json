@@ -413,14 +413,14 @@
         "SortTime":  315.38333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/19/2026 5:15 AM",
         "Status":  "Present",
@@ -838,5 +838,12 @@
         "ReceivedTime":  "8/19/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.56666666666672
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/19/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.2166666666667
     }
 ]
