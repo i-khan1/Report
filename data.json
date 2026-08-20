@@ -399,6 +399,13 @@
         "SortTime":  301.05
     },
     {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "8/20/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
