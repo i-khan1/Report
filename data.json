@@ -497,15 +497,15 @@
         "SortTime":  345.78333333333336
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
         "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "8/20/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.88333333333333
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
