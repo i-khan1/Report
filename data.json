@@ -868,6 +868,13 @@
         "SortTime":  900.88333333333333
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "8/20/2026 3:18 PM",
+        "Status":  "Present",
+        "SortTime":  918.06666666666672
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
