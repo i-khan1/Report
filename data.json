@@ -154,6 +154,20 @@
         "SortTime":  204.01666666666668
     },
     {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "8/21/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.25
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "8/21/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.3
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
