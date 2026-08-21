@@ -672,6 +672,48 @@
         "SortTime":  450.25
     },
     {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.45
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "8/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.48333333333335
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.7166666666667
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "8/21/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.41666666666669
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
