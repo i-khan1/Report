@@ -450,13 +450,55 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/21/2026 5:42 AM",
+        "Status":  "Present",
+        "SortTime":  342.06666666666666
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "8/21/2026 5:42 AM",
+        "Status":  "Present",
+        "SortTime":  342.08333333333331
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.51666666666665
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.73333333333335
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.75
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.76666666666665
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "8/21/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.78333333333336
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
