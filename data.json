@@ -714,6 +714,20 @@
         "SortTime":  481.41666666666669
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "8/21/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.41666666666669
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/21/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.18333333333334
+    },
+    {
         "Subject":  "DVP Open Items Report",
         "ExpectedTime":  "7:35 AM",
         "ReceivedTime":  "",
