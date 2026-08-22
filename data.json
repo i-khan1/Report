@@ -42,11 +42,18 @@
         "SortTime":  195.58333333333334
     },
     {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:33 AM",
+        "ReceivedTime":  "8/22/2026 3:33 AM",
+        "Status":  "Present",
+        "SortTime":  213.1
+    },
+    {
         "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/22/2026 3:34 AM",
+        "Status":  "Present",
+        "SortTime":  214.1
     },
     {
         "Subject":  "MAXIT Upload Report",
