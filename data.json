@@ -63,10 +63,17 @@
         "SortTime":  220.21666666666667
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "8/22/2026 3:47 AM",
+        "Status":  "Present",
+        "SortTime":  227.45000000000002
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/22/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.38333333333333
     }
 ]
