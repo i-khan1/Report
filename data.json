@@ -224,13 +224,6 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "New Account Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "8/24/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.5
-    },
-    {
         "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
@@ -238,11 +231,11 @@
         "SortTime":  300.5
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.51666666666665
+        "SortTime":  300.5
     },
     {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
@@ -252,11 +245,11 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.53333333333336
+        "SortTime":  300.51666666666665
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
@@ -274,6 +267,13 @@
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/24/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.53333333333336
+    },
+    {
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -586,6 +586,41 @@
         "ReceivedTime":  "8/24/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.28333333333336
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.3
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.43333333333334
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "8/24/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.31666666666666
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
