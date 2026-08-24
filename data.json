@@ -721,6 +721,13 @@
         "SortTime":  720.5
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/24/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.31666666666672
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
