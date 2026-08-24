@@ -259,7 +259,7 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -273,7 +273,7 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -740,6 +740,13 @@
         "ReceivedTime":  "8/24/2026 12:07 PM",
         "Status":  "Present",
         "SortTime":  727
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/24/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.30000000000007
     },
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
