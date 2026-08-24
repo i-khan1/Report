@@ -224,13 +224,6 @@
         "SortTime":  300.35
     },
     {
-        "Subject":  "New Account Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "8/24/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.5
-    },
-    {
         "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
@@ -238,11 +231,11 @@
         "SortTime":  300.5
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.51666666666665
+        "SortTime":  300.5
     },
     {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
@@ -252,11 +245,11 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.53333333333336
+        "SortTime":  300.51666666666665
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
@@ -266,7 +259,7 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -274,6 +267,13 @@
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/24/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.53333333333336
+    },
+    {
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -355,6 +355,20 @@
         "ReceivedTime":  "8/24/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.48333333333335
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/24/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.33333333333331
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/24/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
