@@ -266,14 +266,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -492,9 +492,23 @@
     {
         "Subject":  "Weekly New iClear Accounts Report to",
         "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/24/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.1
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/24/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.25
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/24/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.36666666666667
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
