@@ -791,6 +791,13 @@
         "SortTime":  955.51666666666665
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/24/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.5
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
