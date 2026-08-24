@@ -679,6 +679,13 @@
         "SortTime":  556.76666666666665
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "8/24/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.66666666666663
+    },
+    {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
