@@ -238,13 +238,6 @@
         "SortTime":  300.5
     },
     {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "8/24/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.51666666666665
-    },
-    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
@@ -252,11 +245,11 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.53333333333336
+        "SortTime":  300.51666666666665
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
@@ -274,6 +267,13 @@
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/24/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.53333333333336
+    },
+    {
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -399,14 +399,14 @@
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "8/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.75
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "8/24/2026 5:45 AM",
         "Status":  "Present",
@@ -726,6 +726,20 @@
         "ReceivedTime":  "8/24/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.31666666666672
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/24/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.86666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/24/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727
     },
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
