@@ -555,9 +555,23 @@
     {
         "Subject":  "Stock VS Borrow File",
         "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/24/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.25
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "8/24/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.38333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/24/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.16666666666669
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
@@ -569,13 +583,6 @@
     {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Acumen Global",
-        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
