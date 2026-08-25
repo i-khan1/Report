@@ -238,6 +238,13 @@
         "SortTime":  300.5
     },
     {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/24/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.51666666666665
+    },
+    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
@@ -245,11 +252,11 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.51666666666665
+        "SortTime":  300.53333333333336
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
@@ -267,13 +274,6 @@
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "8/24/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.53333333333336
-    },
-    {
-        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/24/2026 5:00 AM",
         "Status":  "Present",
@@ -847,6 +847,13 @@
         "SortTime":  1217.25
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "8/24/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
@@ -861,6 +868,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
@@ -868,8 +882,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
