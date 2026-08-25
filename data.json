@@ -812,6 +812,13 @@
         "SortTime":  666.2
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "8/25/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.85
+    },
+    {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
