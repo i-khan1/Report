@@ -357,14 +357,14 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.85
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
@@ -817,6 +817,13 @@
         "ReceivedTime":  "8/25/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.85
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "8/25/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.6
     },
     {
         "Subject":  "Equity Margin Report",
