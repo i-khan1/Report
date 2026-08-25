@@ -896,6 +896,13 @@
         "SortTime":  953.86666666666667
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/25/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.5
+    },
+    {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
