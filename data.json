@@ -786,9 +786,9 @@
     {
         "Subject":  "Daily Activity Report to Ambrus Sundial",
         "ExpectedTime":  "9:16 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/25/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.83333333333337
     },
     {
         "Subject":  "Equity Margin Report",
