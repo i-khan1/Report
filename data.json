@@ -308,14 +308,14 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
@@ -922,5 +922,12 @@
         "ReceivedTime":  "8/25/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.2833333333333
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "8/25/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3166666666666
     }
 ]
