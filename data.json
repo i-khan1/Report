@@ -336,14 +336,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
@@ -446,5 +446,26 @@
         "ReceivedTime":  "8/25/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.48333333333335
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/25/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.3
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/25/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/25/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.35
     }
 ]
