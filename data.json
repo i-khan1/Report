@@ -56,6 +56,76 @@
         "SortTime":  160.53333333333333
     },
     {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.38333333333333
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.41666666666666
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.51666666666668
+    },
+    {
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.53333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.55
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.55
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/25/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.86666666666667
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "8/25/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.05
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "8/25/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.08333333333334
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
