@@ -805,6 +805,13 @@
         "SortTime":  606.26666666666665
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "8/25/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.2
+    },
+    {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
