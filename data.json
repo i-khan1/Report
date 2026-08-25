@@ -336,14 +336,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
@@ -579,6 +579,20 @@
         "ReceivedTime":  "8/25/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.01666666666665
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/25/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.2166666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "8/25/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.3
     },
     {
         "Subject":  "Equity Margin Report",
