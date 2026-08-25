@@ -357,14 +357,14 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.85
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
@@ -887,6 +887,13 @@
         "ReceivedTime":  "8/25/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.33333333333337
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "8/25/2026 3:53 PM",
+        "Status":  "Present",
+        "SortTime":  953.86666666666667
     },
     {
         "Subject":  "Equity Margin Report",
