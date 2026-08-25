@@ -336,14 +336,14 @@
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/25/2026 5:00 AM",
         "Status":  "Present",
@@ -873,6 +873,13 @@
         "ReceivedTime":  "8/25/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.26666666666665
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "8/25/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.83333333333337
     },
     {
         "Subject":  "Equity Margin Report",
