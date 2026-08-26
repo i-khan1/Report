@@ -70,14 +70,14 @@
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.56666666666666
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/26/2026 3:00 AM",
         "Status":  "Present",
@@ -824,5 +824,12 @@
         "ReceivedTime":  "8/26/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.88333333333333
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "8/26/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.9666666666667
     }
 ]
