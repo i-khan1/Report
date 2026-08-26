@@ -70,14 +70,14 @@
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.56666666666666
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/26/2026 3:00 AM",
         "Status":  "Present",
@@ -140,15 +140,22 @@
         "SortTime":  195.78333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "8/26/2026 3:22 AM",
+        "Status":  "Present",
+        "SortTime":  202.86666666666667
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "8/26/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.43333333333334
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
