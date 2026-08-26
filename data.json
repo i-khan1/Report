@@ -70,14 +70,14 @@
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.56666666666666
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "8/26/2026 3:00 AM",
         "Status":  "Present",
@@ -761,5 +761,19 @@
         "ReceivedTime":  "8/26/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.7833333333333
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "8/26/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.3
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
