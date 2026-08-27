@@ -427,6 +427,13 @@
         "SortTime":  300.93333333333334
     },
     {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "8/27/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
