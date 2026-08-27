@@ -693,15 +693,15 @@
         "SortTime":  426.15000000000003
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Exercise and Assignment file for VCLT",
         "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "8/27/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.75
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
