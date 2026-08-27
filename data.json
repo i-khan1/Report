@@ -301,6 +301,132 @@
         "SortTime":  260.35
     },
     {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.31666666666666
+    },
+    {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.43333333333334
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.48333333333335
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.53333333333336
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.56666666666666
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.58333333333331
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.6
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.63333333333333
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.7
+    },
+    {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.78333333333336
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.86666666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.88333333333333
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.90000000000003
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.90000000000003
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "8/27/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
