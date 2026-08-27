@@ -210,6 +210,13 @@
         "SortTime":  220.20000000000002
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "8/27/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.86666666666667
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
