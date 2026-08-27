@@ -763,10 +763,10 @@
         "SortTime":  486.16666666666669
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "8/27/2026 8:10 AM",
+        "Status":  "Present",
+        "SortTime":  490.86666666666667
     }
 ]
