@@ -196,6 +196,20 @@
         "SortTime":  211.85
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "8/27/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.16666666666666
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "8/27/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.20000000000002
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
