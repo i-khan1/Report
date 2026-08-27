@@ -406,14 +406,14 @@
         "SortTime":  300.88333333333333
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/27/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.90000000000003
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/27/2026 5:00 AM",
         "Status":  "Present",
@@ -824,5 +824,12 @@
         "ReceivedTime":  "8/27/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.75
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "8/27/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.68333333333339
     }
 ]
