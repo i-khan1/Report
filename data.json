@@ -721,15 +721,15 @@
         "SortTime":  480.41666666666669
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/27/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.43333333333334
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "8/27/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.43333333333334
@@ -985,5 +985,12 @@
         "ReceivedTime":  "8/27/2026 9:38 PM",
         "Status":  "Present",
         "SortTime":  1298.3
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "8/27/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.4666666666667
     }
 ]
