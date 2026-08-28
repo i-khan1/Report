@@ -245,14 +245,14 @@
         "SortTime":  240.43333333333334
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "8/28/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.58333333333334
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "8/28/2026 4:00 AM",
         "Status":  "Present",
@@ -894,5 +894,12 @@
         "ReceivedTime":  "8/28/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.75
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "8/28/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.25
     }
 ]
