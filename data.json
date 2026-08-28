@@ -406,14 +406,14 @@
         "SortTime":  300.88333333333333
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/27/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.90000000000003
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/27/2026 5:00 AM",
         "Status":  "Present",
@@ -978,5 +978,12 @@
         "ReceivedTime":  "8/27/2026 8:17 PM",
         "Status":  "Present",
         "SortTime":  1217.2166666666667
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "8/27/2026 9:38 PM",
+        "Status":  "Present",
+        "SortTime":  1298.3
     }
 ]
