@@ -371,14 +371,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
@@ -747,5 +747,19 @@
         "ReceivedTime":  "8/28/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.28333333333336
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/28/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.38333333333333
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "8/28/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.65000000000003
     }
 ]
