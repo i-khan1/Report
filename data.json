@@ -371,14 +371,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
@@ -434,15 +434,15 @@
         "SortTime":  315.31666666666666
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/28/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/28/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
@@ -950,5 +950,12 @@
         "ReceivedTime":  "8/28/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.95
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "8/28/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4166666666667
     }
 ]
