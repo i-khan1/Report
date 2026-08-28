@@ -371,14 +371,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
@@ -824,5 +824,12 @@
         "ReceivedTime":  "8/28/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "8/28/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.93333333333339
     }
 ]
