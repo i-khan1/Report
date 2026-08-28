@@ -245,14 +245,14 @@
         "SortTime":  240.43333333333334
     },
     {
-        "Subject":  "Daily SOD ETB File to GTN America",
+        "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "8/28/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.58333333333334
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
+        "Subject":  "Daily SOD ETB File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "8/28/2026 4:00 AM",
         "Status":  "Present",
@@ -371,14 +371,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/28/2026 5:00 AM",
         "Status":  "Present",
@@ -434,15 +434,15 @@
         "SortTime":  315.31666666666666
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "8/28/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "8/28/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
@@ -453,5 +453,26 @@
         "ReceivedTime":  "8/28/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/28/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.3
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/28/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "8/28/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.36666666666667
     }
 ]
