@@ -63,6 +63,20 @@
         "SortTime":  230.4
     },
     {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "8/29/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.6
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "8/29/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.1
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
