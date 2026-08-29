@@ -49,6 +49,13 @@
         "SortTime":  195.55
     },
     {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
