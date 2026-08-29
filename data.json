@@ -105,6 +105,13 @@
         "SortTime":  315.45
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "8/29/2026 6:59 AM",
+        "Status":  "Present",
+        "SortTime":  419.5
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
