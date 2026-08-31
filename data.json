@@ -366,8 +366,22 @@
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/31/2026 5:27 AM",
+        "Status":  "Present",
+        "SortTime":  327.51666666666665
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/31/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.35
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "8/31/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.35
     }
 ]
