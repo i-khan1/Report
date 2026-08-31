@@ -287,14 +287,14 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
@@ -334,6 +334,13 @@
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.95
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "8/31/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
     },
     {
         "Subject":  "BONY Posision File",
