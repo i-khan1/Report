@@ -742,6 +742,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "",
@@ -749,8 +756,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
