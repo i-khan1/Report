@@ -513,8 +513,8 @@
     {
         "Subject":  "Weekly New iClear Accounts Report to",
         "ExpectedTime":  "6:02 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "8/31/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.1
     }
 ]
