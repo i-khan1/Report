@@ -455,14 +455,14 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/31/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/31/2026 6:00 AM",
         "Status":  "Present",
@@ -616,14 +616,14 @@
         "SortTime":  480.45
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/31/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/31/2026 8:00 AM",
         "Status":  "Present",
@@ -754,6 +754,13 @@
         "ReceivedTime":  "8/31/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.31666666666672
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "8/31/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.23333333333335
     },
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
