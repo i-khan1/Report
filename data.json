@@ -357,14 +357,14 @@
         "SortTime":  300.75
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/1/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/1/2026 5:00 AM",
         "Status":  "Present",
@@ -394,8 +394,15 @@
     {
         "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/1/2026 5:02 AM",
+        "Status":  "Present",
+        "SortTime":  302.06666666666666
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "9/1/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.13333333333333
     }
 ]
