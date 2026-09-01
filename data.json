@@ -502,5 +502,89 @@
         "ReceivedTime":  "9/1/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.85
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.5
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.56666666666666
+    },
+    {
+        "Subject":  "Monthly Transaction Count Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.61666666666667
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.61666666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.68333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "9/1/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "9/1/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.13333333333333
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/1/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.25
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "9/1/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.25
     }
 ]
