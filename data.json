@@ -525,14 +525,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.61666666666667
     },
     {
-        "Subject":  "Monthly Transaction Count Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
@@ -600,5 +600,33 @@
         "ReceivedTime":  "9/1/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.55
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "9/1/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2166666666667
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "9/1/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.25
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "9/1/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.26666666666665
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "9/1/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.3
     }
 ]
