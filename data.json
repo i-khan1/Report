@@ -357,14 +357,14 @@
         "SortTime":  300.75
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/1/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/1/2026 5:00 AM",
         "Status":  "Present",
@@ -810,5 +810,12 @@
         "ReceivedTime":  "9/1/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.7166666666667
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "9/1/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.63333333333333
     }
 ]
