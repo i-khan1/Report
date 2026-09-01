@@ -238,14 +238,14 @@
         "SortTime":  300.23333333333335
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
@@ -287,14 +287,14 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "8/31/2026 5:00 AM",
         "Status":  "Present",
@@ -455,14 +455,14 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/31/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "8/31/2026 6:00 AM",
         "Status":  "Present",
@@ -616,14 +616,14 @@
         "SortTime":  480.45
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/31/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "8/31/2026 8:00 AM",
         "Status":  "Present",
@@ -866,6 +866,13 @@
         "ReceivedTime":  "8/31/2026 9:55 PM",
         "Status":  "Present",
         "SortTime":  1315.5
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "8/31/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2333333333333
     },
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
