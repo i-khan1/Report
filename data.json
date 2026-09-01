@@ -483,14 +483,14 @@
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "9/1/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "9/1/2026 5:45 AM",
         "Status":  "Present",
@@ -525,14 +525,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.61666666666667
     },
     {
-        "Subject":  "Monthly Transaction Count Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
@@ -943,6 +943,13 @@
         "ReceivedTime":  "9/1/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.3333333333334
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "9/1/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3333333333333
     },
     {
         "Subject":  "Daily CBRS Confirmation to Taxes",
