@@ -525,14 +525,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Monthly Transaction Count Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.61666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
@@ -929,6 +929,13 @@
         "ReceivedTime":  "9/1/2026 4:00 PM",
         "Status":  "Present",
         "SortTime":  960.31666666666672
+    },
+    {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "9/1/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.5
     },
     {
         "Subject":  "Daily CBRS Confirmation to Taxes",
