@@ -525,14 +525,14 @@
         "SortTime":  360.56666666666666
     },
     {
-        "Subject":  "Monthly Transaction Count Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.61666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Monthly Transaction Count Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/1/2026 6:00 AM",
         "Status":  "Present",
@@ -586,5 +586,19 @@
         "ReceivedTime":  "9/1/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.25
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/1/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.40000000000003
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/1/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.55
     }
 ]
