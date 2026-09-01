@@ -357,14 +357,14 @@
         "SortTime":  300.75
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/1/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/1/2026 5:00 AM",
         "Status":  "Present",
@@ -483,14 +483,14 @@
         "SortTime":  345.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "9/1/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.7166666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "9/1/2026 5:45 AM",
         "Status":  "Present",
@@ -824,5 +824,19 @@
         "ReceivedTime":  "9/1/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.30000000000007
+    },
+    {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "9/1/2026 11:01 AM",
+        "Status":  "Present",
+        "SortTime":  661.88333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/1/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.30000000000007
     }
 ]
