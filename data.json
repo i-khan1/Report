@@ -516,5 +516,75 @@
         "ReceivedTime":  "9/2/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.75
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.56666666666666
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.66666666666669
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.66666666666669
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.75
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.75
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.76666666666665
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "9/2/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.98333333333335
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
