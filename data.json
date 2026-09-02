@@ -980,6 +980,13 @@
         "SortTime":  1217.2
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "9/1/2026 9:42 PM",
+        "Status":  "Present",
+        "SortTime":  1302.8666666666668
+    },
+    {
         "Subject":  "Daily CBRS Confirmation to Taxes",
         "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "",
