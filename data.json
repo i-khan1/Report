@@ -84,14 +84,14 @@
         "SortTime":  180.41666666666666
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/2/2026 3:00 AM",
         "Status":  "Present",
@@ -194,5 +194,12 @@
         "ReceivedTime":  "9/2/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.21666666666667
+    },
+    {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "9/2/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.9
     }
 ]
