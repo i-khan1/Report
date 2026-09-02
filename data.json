@@ -884,8 +884,8 @@
     {
         "Subject":  "DVP Open Items Report at Velocity Clearing",
         "ExpectedTime":  "3:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/2/2026 3:01 PM",
+        "Status":  "Present",
+        "SortTime":  901.81666666666672
     }
 ]
