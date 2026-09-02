@@ -532,14 +532,14 @@
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/2/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/2/2026 6:00 AM",
         "Status":  "Present",
@@ -684,5 +684,12 @@
         "ReceivedTime":  "9/2/2026 7:21 AM",
         "Status":  "Present",
         "SortTime":  441.73333333333335
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "9/2/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.25
     }
 ]
