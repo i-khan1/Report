@@ -532,14 +532,14 @@
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/2/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/2/2026 6:00 AM",
         "Status":  "Present",
@@ -831,5 +831,26 @@
         "ReceivedTime":  "9/2/2026 12:00 PM",
         "Status":  "Present",
         "SortTime":  720.58333333333337
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/2/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.95
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/2/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.0333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/2/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.1
     }
 ]
