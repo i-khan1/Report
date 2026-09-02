@@ -84,14 +84,14 @@
         "SortTime":  180.41666666666666
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/2/2026 3:00 AM",
         "Status":  "Present",
@@ -166,5 +166,12 @@
         "ReceivedTime":  "9/2/2026 3:18 AM",
         "Status":  "Present",
         "SortTime":  198.08333333333334
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "9/2/2026 3:23 AM",
+        "Status":  "Present",
+        "SortTime":  203.81666666666666
     }
 ]
