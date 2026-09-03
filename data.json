@@ -371,14 +371,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
@@ -831,5 +831,19 @@
         "ReceivedTime":  "9/3/2026 12:00 PM",
         "Status":  "Present",
         "SortTime":  720.65
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/3/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.25
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/3/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.26666666666665
     }
 ]
