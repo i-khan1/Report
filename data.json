@@ -532,14 +532,14 @@
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/2/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/2/2026 6:00 AM",
         "Status":  "Present",
@@ -957,5 +957,12 @@
         "ReceivedTime":  "9/2/2026 8:17 PM",
         "Status":  "Present",
         "SortTime":  1217.1666666666667
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "9/2/2026 9:44 PM",
+        "Status":  "Present",
+        "SortTime":  1304.7666666666667
     }
 ]
