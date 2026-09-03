@@ -894,5 +894,19 @@
         "ReceivedTime":  "9/3/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.25
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "9/3/2026 3:57 PM",
+        "Status":  "Present",
+        "SortTime":  957.51666666666665
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "9/3/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.43333333333339
     }
 ]
