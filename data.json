@@ -56,13 +56,6 @@
         "SortTime":  175.83333333333334
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "9/3/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.35
-    },
-    {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
@@ -70,14 +63,21 @@
         "SortTime":  180.35
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
@@ -371,14 +371,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
@@ -880,5 +880,12 @@
         "ReceivedTime":  "9/3/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.18333333333339
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "9/3/2026 3:01 PM",
+        "Status":  "Present",
+        "SortTime":  901.01666666666665
     }
 ]
