@@ -70,14 +70,14 @@
         "SortTime":  180.35
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
@@ -138,6 +138,41 @@
         "ReceivedTime":  "9/3/2026 3:10 AM",
         "Status":  "Present",
         "SortTime":  190.21666666666667
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "9/3/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.16666666666666
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/3/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.46666666666667
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/3/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.58333333333334
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Success AWS Backup Server Database Date",
