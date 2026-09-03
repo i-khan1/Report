@@ -56,13 +56,6 @@
         "SortTime":  175.83333333333334
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "9/3/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.35
-    },
-    {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
@@ -70,14 +63,21 @@
         "SortTime":  180.35
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
@@ -194,6 +194,13 @@
         "ReceivedTime":  "9/3/2026 3:45 AM",
         "Status":  "Present",
         "SortTime":  225.9
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "9/3/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.75
     },
     {
         "Subject":  "FAILED File Download",
