@@ -443,8 +443,8 @@
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
         "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/3/2026 5:17 AM",
+        "Status":  "Present",
+        "SortTime":  317.15000000000003
     }
 ]
