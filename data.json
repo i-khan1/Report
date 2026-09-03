@@ -371,14 +371,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
@@ -670,5 +670,12 @@
         "ReceivedTime":  "9/3/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.81666666666666
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
