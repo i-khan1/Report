@@ -70,14 +70,14 @@
         "SortTime":  180.35
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/3/2026 3:00 AM",
         "Status":  "Present",
@@ -336,14 +336,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
@@ -929,5 +929,19 @@
         "ReceivedTime":  "9/3/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.3833333333334
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "9/3/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.3333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "9/3/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.9333333333334
     }
 ]
