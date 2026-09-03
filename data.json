@@ -371,14 +371,14 @@
         "SortTime":  300.63333333333333
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.65000000000003
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
@@ -404,5 +404,12 @@
         "ReceivedTime":  "9/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.95
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "9/3/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.13333333333333
     }
 ]
