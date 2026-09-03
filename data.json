@@ -56,6 +56,76 @@
         "SortTime":  175.83333333333334
     },
     {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.35
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.36666666666667
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.36666666666667
+    },
+    {
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.38333333333333
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.4
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.5
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.81666666666666
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.86666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "9/3/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.88333333333333
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
