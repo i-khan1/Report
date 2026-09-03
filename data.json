@@ -793,8 +793,8 @@
     {
         "Subject":  "Daily Activity Report to Ambrus Sundial",
         "ExpectedTime":  "9:16 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/3/2026 9:17 AM",
+        "Status":  "Present",
+        "SortTime":  557.01666666666665
     }
 ]
