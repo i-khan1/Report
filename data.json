@@ -436,27 +436,34 @@
     {
         "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OTC File to GTN America",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/4/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
     },
     {
         "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "9/4/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.36666666666667
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "9/4/2026 5:33 AM",
+        "Status":  "Present",
+        "SortTime":  333
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/4/2026 5:36 AM",
+        "Status":  "Present",
+        "SortTime":  336.45
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
