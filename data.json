@@ -77,14 +77,14 @@
         "SortTime":  180.41666666666666
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/4/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/4/2026 3:00 AM",
         "Status":  "Present",
@@ -518,14 +518,14 @@
         "SortTime":  360.53333333333336
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/4/2026 6:00 AM",
         "Status":  "Present",
@@ -810,5 +810,12 @@
         "ReceivedTime":  "9/4/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.83333333333337
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/4/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.9666666666667
     }
 ]
