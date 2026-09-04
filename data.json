@@ -434,6 +434,13 @@
         "SortTime":  317.2166666666667
     },
     {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -443,6 +450,13 @@
     {
         "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
