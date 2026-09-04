@@ -518,14 +518,14 @@
         "SortTime":  360.53333333333336
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.55
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/4/2026 6:00 AM",
         "Status":  "Present",
@@ -670,5 +670,12 @@
         "ReceivedTime":  "9/4/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.8
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
