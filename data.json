@@ -126,6 +126,13 @@
         "SortTime":  481.9666666666667
     },
     {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "9/5/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.83333333333337
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
