@@ -968,8 +968,8 @@
     {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:02 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/4/2026 10:07 PM",
+        "Status":  "Present",
+        "SortTime":  1327.0666666666666
     }
 ]
