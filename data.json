@@ -957,5 +957,19 @@
         "ReceivedTime":  "9/4/2026 8:48 PM",
         "Status":  "Present",
         "SortTime":  1248.3166666666666
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "9/4/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.4666666666667
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
