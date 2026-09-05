@@ -35,6 +35,20 @@
         "SortTime":  220.3
     },
     {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/5/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.68333333333334
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/5/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.05
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
