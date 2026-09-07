@@ -343,6 +343,13 @@
         "SortTime":  392.58333333333331
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/7/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.8
+    },
+    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
@@ -399,13 +406,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Stock VS Borrow File",
-        "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -441,8 +441,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -457,6 +457,13 @@
     {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -518,20 +525,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily PTP Block List",
-        "ExpectedTime":  "4:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -539,8 +532,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -553,7 +546,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -567,14 +560,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
         "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
