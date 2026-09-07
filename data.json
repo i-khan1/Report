@@ -301,14 +301,14 @@
         "SortTime":  366.68333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "9/7/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.3
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "9/7/2026 6:15 AM",
         "Status":  "Present",
@@ -397,6 +397,13 @@
         "ReceivedTime":  "9/7/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.28333333333336
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "9/7/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.36666666666667
     },
     {
         "Subject":  "Daily Cust Short Int file for Alta",
