@@ -119,6 +119,13 @@
         "SortTime":  180.95000000000002
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "9/8/2026 3:10 AM",
+        "Status":  "Present",
+        "SortTime":  190.20000000000002
+    },
+    {
         "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
