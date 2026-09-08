@@ -728,6 +728,13 @@
         "SortTime":  481.63333333333333
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "9/8/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.35
+    },
+    {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
