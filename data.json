@@ -812,6 +812,13 @@
         "SortTime":  606.9
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/8/2026 11:07 AM",
+        "Status":  "Present",
+        "SortTime":  667.5333333333333
+    },
+    {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
