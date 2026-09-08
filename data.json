@@ -371,6 +371,27 @@
         "SortTime":  305.18333333333334
     },
     {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/8/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/8/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.45
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "9/8/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.4666666666667
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
@@ -378,14 +399,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
         "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -399,6 +427,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -406,8 +441,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
