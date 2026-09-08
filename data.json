@@ -665,6 +665,20 @@
         "SortTime":  420.56666666666666
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/8/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.85
+    },
+    {
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:10 AM",
+        "ReceivedTime":  "9/8/2026 7:10 AM",
+        "Status":  "Present",
+        "SortTime":  430.1
+    },
+    {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -686,20 +700,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily BMSY Activity File",
         "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
@@ -709,6 +709,13 @@
     {
         "Subject":  "Locate Vs GS Comparison File",
         "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
