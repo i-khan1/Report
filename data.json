@@ -700,15 +700,15 @@
         "SortTime":  480.40000000000003
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "9/9/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "9/9/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.45
@@ -789,5 +789,19 @@
         "ReceivedTime":  "9/9/2026 9:01 AM",
         "Status":  "Present",
         "SortTime":  541.11666666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/9/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.85
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "9/9/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.95
     }
 ]
