@@ -952,6 +952,13 @@
         "SortTime":  1247.9833333333333
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "9/8/2026 9:36 PM",
+        "Status":  "Present",
+        "SortTime":  1296.8500000000001
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
