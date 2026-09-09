@@ -203,6 +203,62 @@
         "SortTime":  235.86666666666667
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.3
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.33333333333334
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.43333333333334
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.46666666666667
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.58333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.65
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.96666666666667
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/9/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.15
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
