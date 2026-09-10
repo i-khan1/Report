@@ -803,5 +803,12 @@
         "ReceivedTime":  "9/10/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.81666666666672
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "9/10/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.7
     }
 ]
