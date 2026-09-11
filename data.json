@@ -952,15 +952,15 @@
         "SortTime":  1030.25
     },
     {
-        "Subject":  "Daily ETB File to Augustus",
-        "ExpectedTime":  "5:31 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily ETB File to Eduardo",
         "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "9/11/2026 5:45 PM",
+        "Status":  "Present",
+        "SortTime":  1065.4
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
