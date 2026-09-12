@@ -133,6 +133,20 @@
         "SortTime":  300.90000000000003
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/12/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.13333333333333
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/12/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.56666666666666
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
