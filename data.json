@@ -70,6 +70,13 @@
         "SortTime":  241.05
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "9/12/2026 4:08 AM",
+        "Status":  "Present",
+        "SortTime":  248.26666666666668
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
