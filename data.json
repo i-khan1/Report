@@ -686,6 +686,20 @@
         "SortTime":  486.15000000000003
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "9/14/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.3
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "9/14/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.4666666666667
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
