@@ -728,6 +728,13 @@
         "SortTime":  550.7833333333333
     },
     {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "9/14/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.86666666666667
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
@@ -737,13 +744,6 @@
     {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Activity Report to Ambrus Sundial",
-        "ExpectedTime":  "9:16 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
