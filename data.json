@@ -539,15 +539,15 @@
         "SortTime":  361.13333333333333
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Weekly New iClear Accounts Report to",
         "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "9/14/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.36666666666667
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
