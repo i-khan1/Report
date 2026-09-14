@@ -231,15 +231,15 @@
         "SortTime":  260.4
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/14/2026 4:39 AM",
+        "Status":  "Present",
+        "SortTime":  279.25
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
