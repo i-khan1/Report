@@ -616,14 +616,14 @@
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
@@ -866,5 +866,12 @@
         "ReceivedTime":  "9/15/2026 9:17 AM",
         "Status":  "Present",
         "SortTime":  557.4666666666667
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "9/15/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.61666666666667
     }
 ]
