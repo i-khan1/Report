@@ -532,6 +532,13 @@
         "SortTime":  345.90000000000003
     },
     {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "9/15/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.8
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -541,13 +548,6 @@
     {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
-        "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
