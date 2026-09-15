@@ -266,11 +266,18 @@
         "SortTime":  240.66666666666669
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "9/15/2026 4:02 AM",
+        "Status":  "Present",
+        "SortTime":  242.26666666666668
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "9/15/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.3
     },
     {
         "Subject":  "FAILED File Download",
@@ -280,8 +287,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
