@@ -616,14 +616,14 @@
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
@@ -749,6 +749,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Stock VS Borrow File",
         "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
@@ -756,8 +763,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
