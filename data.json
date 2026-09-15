@@ -889,6 +889,13 @@
         "SortTime":  1090.4333333333334
     },
     {
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "9/14/2026 8:47 PM",
+        "Status":  "Present",
+        "SortTime":  1247.95
+    },
+    {
         "Subject":  "NHIS gross and net different direction EOD",
         "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
