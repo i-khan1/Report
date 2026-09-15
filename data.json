@@ -616,14 +616,14 @@
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
@@ -971,6 +971,13 @@
         "ReceivedTime":  "9/15/2026 3:48 PM",
         "Status":  "Present",
         "SortTime":  948.7166666666667
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "9/15/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.31666666666672
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
