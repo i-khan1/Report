@@ -616,14 +616,14 @@
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/15/2026 6:00 AM",
         "Status":  "Present",
@@ -1027,6 +1027,13 @@
         "ReceivedTime":  "9/15/2026 8:48 PM",
         "Status":  "Present",
         "SortTime":  1248.2833333333333
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "9/15/2026 9:53 PM",
+        "Status":  "Present",
+        "SortTime":  1313.3333333333333
     },
     {
         "Subject":  "NHIS gross and net different direction EOD",
