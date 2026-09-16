@@ -742,14 +742,14 @@
         "SortTime":  480.43333333333334
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "9/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "9/16/2026 8:00 AM",
         "Status":  "Present",
@@ -929,5 +929,12 @@
         "ReceivedTime":  "9/16/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.7833333333333
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "9/16/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.36666666666667
     }
 ]
