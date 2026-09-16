@@ -476,6 +476,90 @@
         "SortTime":  346.83333333333331
     },
     {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.35
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.43333333333334
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.48333333333335
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.6
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.66666666666669
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.75
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.8
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "9/16/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.95
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "9/16/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.18333333333334
+    },
+    {
         "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
