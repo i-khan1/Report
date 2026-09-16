@@ -602,6 +602,13 @@
         "SortTime":  373.68333333333334
     },
     {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "9/16/2026 6:13 AM",
+        "Status":  "Present",
+        "SortTime":  373.73333333333335
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/16/2026 6:13 AM",
@@ -610,13 +617,6 @@
     },
     {
         "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "9/16/2026 6:13 AM",
-        "Status":  "Present",
-        "SortTime":  373.73333333333335
-    },
-    {
-        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/16/2026 6:13 AM",
         "Status":  "Present",
@@ -873,5 +873,12 @@
         "ReceivedTime":  "9/16/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.9666666666667
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "9/16/2026 12:01 PM",
+        "Status":  "Present",
+        "SortTime":  721.0333333333333
     }
 ]
