@@ -609,14 +609,14 @@
         "SortTime":  373.73333333333335
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/16/2026 6:13 AM",
         "Status":  "Present",
         "SortTime":  373.73333333333335
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/16/2026 6:13 AM",
         "Status":  "Present",
@@ -684,5 +684,12 @@
         "ReceivedTime":  "9/16/2026 7:00 AM",
         "Status":  "Present",
         "SortTime":  420.36666666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/16/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.13333333333333
     }
 ]
