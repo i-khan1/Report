@@ -602,7 +602,7 @@
         "SortTime":  373.68333333333334
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/16/2026 6:13 AM",
         "Status":  "Present",
@@ -616,7 +616,7 @@
         "SortTime":  373.73333333333335
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/16/2026 6:13 AM",
         "Status":  "Present",
@@ -742,14 +742,14 @@
         "SortTime":  480.43333333333334
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "9/16/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "9/16/2026 8:00 AM",
         "Status":  "Present",
@@ -880,5 +880,19 @@
         "ReceivedTime":  "9/16/2026 12:01 PM",
         "Status":  "Present",
         "SortTime":  721.0333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/16/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.9666666666667
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/16/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.26666666666665
     }
 ]
