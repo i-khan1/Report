@@ -719,5 +719,47 @@
         "ReceivedTime":  "9/17/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.3
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.51666666666665
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "9/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.51666666666665
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.51666666666665
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.6
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "9/17/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.58333333333337
     }
 ]
