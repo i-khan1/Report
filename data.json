@@ -588,14 +588,14 @@
         "SortTime":  360.90000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.91666666666669
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/17/2026 6:00 AM",
         "Status":  "Present",
@@ -670,5 +670,12 @@
         "ReceivedTime":  "9/17/2026 6:30 AM",
         "Status":  "Present",
         "SortTime":  390.33333333333331
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "9/17/2026 6:32 AM",
+        "Status":  "Present",
+        "SortTime":  392.61666666666667
     }
 ]
