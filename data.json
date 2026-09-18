@@ -947,8 +947,8 @@
     {
         "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
         "ExpectedTime":  "4:36 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/18/2026 4:38 PM",
+        "Status":  "Present",
+        "SortTime":  998.66666666666674
     }
 ]
