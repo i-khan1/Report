@@ -105,14 +105,14 @@
         "SortTime":  180.63333333333333
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/18/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.73333333333335
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/18/2026 3:00 AM",
         "Status":  "Present",
@@ -427,8 +427,43 @@
         "SortTime":  305.15000000000003
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/18/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.16666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/18/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.48333333333335
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/18/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.5
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "9/18/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.53333333333336
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
