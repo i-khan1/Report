@@ -1001,15 +1001,15 @@
         "SortTime":  1320.2833333333333
     },
     {
-        "Subject":  "NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:17 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Dreyfus Rate",
         "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "9/17/2026 10:03 PM",
+        "Status":  "Present",
+        "SortTime":  1323.5
+    },
+    {
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
