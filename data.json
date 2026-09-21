@@ -217,6 +217,13 @@
         "SortTime":  260.33333333333331
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/21/2026 4:46 AM",
+        "Status":  "Present",
+        "SortTime":  286.08333333333331
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
