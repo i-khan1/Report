@@ -539,6 +539,20 @@
         "SortTime":  365.2
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/21/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.65000000000003
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/21/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.83333333333331
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
