@@ -14,6 +14,13 @@
         "SortTime":  151.83333333333334
     },
     {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "9/21/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.46666666666667
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
