@@ -350,15 +350,15 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "9/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "9/21/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
@@ -593,6 +593,20 @@
         "ReceivedTime":  "9/21/2026 6:34 AM",
         "Status":  "Present",
         "SortTime":  394.5
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "9/21/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.16666666666669
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "9/21/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.26666666666665
     },
     {
         "Subject":  "FAILED Egret File Upload",
