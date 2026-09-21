@@ -140,6 +140,13 @@
         "SortTime":  210.28333333333333
     },
     {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
