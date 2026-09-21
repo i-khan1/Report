@@ -630,8 +630,43 @@
         "SortTime":  450.26666666666665
     },
     {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.2166666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/21/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "9/21/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.08333333333337
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
