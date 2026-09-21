@@ -350,6 +350,13 @@
         "SortTime":  315.41666666666669
     },
     {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/21/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
         "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "9/21/2026 5:15 AM",
@@ -357,11 +364,18 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "9/21/2026 5:15 AM",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "9/21/2026 5:30 AM",
         "Status":  "Present",
-        "SortTime":  315.43333333333334
+        "SortTime":  330.31666666666666
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "9/21/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.35
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
