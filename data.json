@@ -91,7 +91,7 @@
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/22/2026 3:00 AM",
         "Status":  "Present",
@@ -105,7 +105,7 @@
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/22/2026 3:00 AM",
         "Status":  "Present",
@@ -138,5 +138,12 @@
         "ReceivedTime":  "9/22/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.91666666666666
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "9/22/2026 3:09 AM",
+        "Status":  "Present",
+        "SortTime":  189.53333333333333
     }
 ]
