@@ -735,6 +735,20 @@
         "SortTime":  420.26666666666665
     },
     {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "9/22/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.7
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/22/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.11666666666667
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
@@ -744,13 +758,6 @@
     {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Acumen Global",
-        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
