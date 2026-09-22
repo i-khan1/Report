@@ -224,15 +224,15 @@
         "SortTime":  229.8
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
@@ -1020,6 +1020,13 @@
         "ReceivedTime":  "9/22/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.9666666666667
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "9/22/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.55
     },
     {
         "Subject":  "SUCCESS File Download Completed",
