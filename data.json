@@ -91,7 +91,7 @@
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/22/2026 3:00 AM",
         "Status":  "Present",
@@ -105,7 +105,7 @@
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/22/2026 3:00 AM",
         "Status":  "Present",
@@ -208,6 +208,48 @@
         "ReceivedTime":  "9/22/2026 3:46 AM",
         "Status":  "Present",
         "SortTime":  226.46666666666667
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/22/2026 3:49 AM",
+        "Status":  "Present",
+        "SortTime":  229.78333333333333
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/22/2026 3:49 AM",
+        "Status":  "Present",
+        "SortTime":  229.8
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/22/2026 3:51 AM",
+        "Status":  "Present",
+        "SortTime":  231.55
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "9/22/2026 3:51 AM",
+        "Status":  "Present",
+        "SortTime":  231.55
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/22/2026 3:51 AM",
+        "Status":  "Present",
+        "SortTime":  231.56666666666666
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/22/2026 3:51 AM",
+        "Status":  "Present",
+        "SortTime":  231.61666666666667
     },
     {
         "Subject":  "FAILED Egret File Upload",
