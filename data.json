@@ -224,15 +224,15 @@
         "SortTime":  229.8
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
@@ -964,6 +964,13 @@
         "ReceivedTime":  "9/22/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.81666666666672
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "9/22/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.26666666666665
     },
     {
         "Subject":  "SUCCESS File Download Completed",
