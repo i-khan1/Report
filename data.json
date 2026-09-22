@@ -1008,6 +1008,20 @@
         "SortTime":  1030.4666666666667
     },
     {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "9/22/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.2833333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "9/22/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.9666666666667
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
