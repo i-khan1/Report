@@ -224,15 +224,15 @@
         "SortTime":  229.8
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
@@ -803,6 +803,20 @@
         "ReceivedTime":  "9/22/2026 8:01 AM",
         "Status":  "Present",
         "SortTime":  481.35
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "9/22/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.68333333333334
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/22/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.18333333333334
     },
     {
         "Subject":  "FAILED Egret File Upload",
