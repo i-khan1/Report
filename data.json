@@ -224,15 +224,15 @@
         "SortTime":  229.8
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
         "ReceivedTime":  "9/22/2026 3:51 AM",
         "Status":  "Present",
         "SortTime":  231.55
@@ -320,6 +320,13 @@
         "ReceivedTime":  "9/22/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.31666666666666
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "9/22/2026 4:16 AM",
+        "Status":  "Present",
+        "SortTime":  256.2166666666667
     },
     {
         "Subject":  "FAILED Egret File Upload",
