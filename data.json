@@ -777,15 +777,15 @@
         "SortTime":  480.35
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "9/22/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.40000000000003
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "9/22/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.40000000000003
@@ -957,6 +957,13 @@
         "ReceivedTime":  "9/22/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.61666666666667
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "9/22/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.81666666666672
     },
     {
         "Subject":  "SUCCESS File Download Completed",
