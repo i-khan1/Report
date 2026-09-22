@@ -161,6 +161,20 @@
         "SortTime":  195.98333333333335
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/22/2026 3:17 AM",
+        "Status":  "Present",
+        "SortTime":  197.41666666666666
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "9/22/2026 3:20 AM",
+        "Status":  "Present",
+        "SortTime":  200.91666666666666
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
