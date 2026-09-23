@@ -1022,6 +1022,13 @@
         "SortTime":  1010.3333333333334
     },
     {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "9/23/2026 5:12 PM",
+        "Status":  "Present",
+        "SortTime":  1032.0666666666666
+    },
+    {
         "Subject":  "SUCCESS File Download",
         "ExpectedTime":  "5:44 AM",
         "ReceivedTime":  "",
@@ -1031,13 +1038,6 @@
     {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FIX SEDOL Security Profile Report",
-        "ExpectedTime":  "5:10 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
