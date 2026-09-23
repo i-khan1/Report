@@ -91,14 +91,14 @@
         "SortTime":  180.5
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/23/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/23/2026 3:00 AM",
         "Status":  "Present",
@@ -166,6 +166,27 @@
         "ReceivedTime":  "9/23/2026 3:15 AM",
         "Status":  "Present",
         "SortTime":  195.53333333333333
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/23/2026 3:20 AM",
+        "Status":  "Present",
+        "SortTime":  200.06666666666666
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "9/23/2026 3:20 AM",
+        "Status":  "Present",
+        "SortTime":  200.18333333333334
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "9/23/2026 3:20 AM",
+        "Status":  "Present",
+        "SortTime":  200.20000000000002
     },
     {
         "Subject":  "SUCCESS File Download Completed",
