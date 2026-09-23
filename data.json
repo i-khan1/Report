@@ -77,14 +77,14 @@
         "SortTime":  180.48333333333335
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/23/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.5
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/23/2026 3:00 AM",
         "Status":  "Present",
@@ -112,15 +112,15 @@
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/23/2026 3:02 AM",
         "Status":  "Present",
         "SortTime":  182.13333333333333
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "9/23/2026 3:02 AM",
         "Status":  "Present",
         "SortTime":  182.13333333333333
@@ -229,6 +229,27 @@
         "ReceivedTime":  "9/23/2026 3:35 AM",
         "Status":  "Present",
         "SortTime":  215.28333333333333
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/23/2026 3:39 AM",
+        "Status":  "Present",
+        "SortTime":  219.05
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/23/2026 3:39 AM",
+        "Status":  "Present",
+        "SortTime":  219.21666666666667
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "9/23/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.36666666666667
     },
     {
         "Subject":  "SUCCESS File Download Completed",
