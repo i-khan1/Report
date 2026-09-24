@@ -350,14 +350,14 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/24/2026 5:00 AM",
         "Status":  "Present",
@@ -831,6 +831,13 @@
         "ReceivedTime":  "9/24/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.98333333333335
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "9/24/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.56666666666672
     },
     {
         "Subject":  "SUCCESS File Download Completed Secondary",
