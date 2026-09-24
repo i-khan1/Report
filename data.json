@@ -350,14 +350,14 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/24/2026 5:00 AM",
         "Status":  "Present",
@@ -756,15 +756,29 @@
         "SortTime":  480.45
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Moneyline Report",
         "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "9/24/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.25
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "9/24/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.38333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/24/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.16666666666669
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
