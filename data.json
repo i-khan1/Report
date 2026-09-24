@@ -847,6 +847,13 @@
         "SortTime":  606.2833333333333
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/24/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.35
+    },
+    {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
