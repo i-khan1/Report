@@ -980,6 +980,13 @@
         "SortTime":  1051.0666666666666
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "9/24/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4166666666667
+    },
+    {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
