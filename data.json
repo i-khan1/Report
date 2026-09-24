@@ -189,6 +189,20 @@
         "SortTime":  204.55
     },
     {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "9/24/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.38333333333333
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "9/24/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.43333333333334
+    },
+    {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
