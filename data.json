@@ -350,14 +350,14 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/24/2026 5:00 AM",
         "Status":  "Present",
@@ -511,14 +511,14 @@
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "9/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.63333333333333
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "9/24/2026 5:45 AM",
         "Status":  "Present",
@@ -887,6 +887,13 @@
         "ReceivedTime":  "9/24/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.2
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "9/24/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.36666666666667
     },
     {
         "Subject":  "SUCCESS File Download Completed Secondary",
