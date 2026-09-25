@@ -1,12 +1,5 @@
 ﻿[
     {
-        "Subject":  "Fixed Income Inteliclear Trial Balance",
-        "ExpectedTime":  "8:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "AVSC Journal File",
         "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
@@ -21,8 +14,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -37,6 +30,13 @@
     {
         "Subject":  "Daily SOD to BitDelta Limited",
         "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -84,15 +84,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
-        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -112,8 +105,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -133,8 +126,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -154,8 +147,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Marks What we owe",
-        "ExpectedTime":  "6:32 AM",
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -170,6 +163,13 @@
     {
         "Subject":  "Stock VS Borrow File",
         "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -352,6 +352,13 @@
     {
         "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
