@@ -14,8 +14,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "OPNSACOB",
-        "ExpectedTime":  "7:30 AM",
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -35,8 +35,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Moneyline Report",
-        "ExpectedTime":  "8:01 AM",
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -56,8 +63,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "3:31 AM",
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -77,13 +84,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Stock VS Borrow File",
-        "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Equity Margin Report",
         "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
@@ -98,8 +98,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -119,8 +119,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -140,8 +140,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
-        "ExpectedTime":  "6:15 AM",
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -161,8 +161,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -182,8 +189,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -203,8 +210,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -224,8 +231,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -245,8 +252,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -266,8 +273,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -287,8 +294,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Success AWS Backup Server Database Date",
-        "ExpectedTime":  "2:43 AM",
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -308,8 +315,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -329,13 +336,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -350,8 +350,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -371,8 +371,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily PTP Block List",
-        "ExpectedTime":  "4:05 AM",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -392,7 +392,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -413,8 +413,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:55 AM",
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -434,8 +434,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:47 AM",
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -455,8 +455,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -476,8 +476,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:55 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -497,8 +497,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -518,8 +518,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -539,8 +539,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for VCBY",
-        "ExpectedTime":  "5:45 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -560,8 +560,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
-        "ExpectedTime":  "5:45 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -581,8 +581,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -602,7 +602,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -623,7 +623,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -644,8 +644,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Options Reports for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -659,6 +659,13 @@
     },
     {
         "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
