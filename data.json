@@ -21,8 +21,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -65,6 +65,13 @@
     {
         "Subject":  "MAXIT Upload Report for Capital",
         "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
