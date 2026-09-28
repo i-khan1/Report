@@ -532,11 +532,11 @@
         "SortTime":  365.73333333333335
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "9/28/2026 6:11 AM",
+        "Status":  "Present",
+        "SortTime":  371.45
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
@@ -546,8 +546,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
