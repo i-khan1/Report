@@ -469,14 +469,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
         "Status":  "Present",
@@ -726,6 +726,13 @@
         "ReceivedTime":  "9/28/2026 9:30 AM",
         "Status":  "Present",
         "SortTime":  570.65
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/28/2026 10:07 AM",
+        "Status":  "Present",
+        "SortTime":  607.85
     },
     {
         "Subject":  "FAILED Egret File Upload",
