@@ -350,14 +350,14 @@
         "SortTime":  305.13333333333333
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "9/28/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "9/28/2026 5:15 AM",
         "Status":  "Present",
@@ -574,6 +574,20 @@
         "SortTime":  378.5
     },
     {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "9/28/2026 6:34 AM",
+        "Status":  "Present",
+        "SortTime":  394.83333333333331
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "9/28/2026 6:34 AM",
+        "Status":  "Present",
+        "SortTime":  394.85
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -583,13 +597,6 @@
     {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Marks What we owe",
-        "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
