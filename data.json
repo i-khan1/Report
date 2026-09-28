@@ -49,14 +49,14 @@
         "SortTime":  180.35
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/28/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "9/28/2026 3:00 AM",
         "Status":  "Present",
@@ -483,15 +483,15 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.95
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.95
@@ -623,8 +623,43 @@
         "SortTime":  450.2166666666667
     },
     {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.45
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.55
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "9/28/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.56666666666666
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "9/28/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.41666666666669
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
