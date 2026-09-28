@@ -590,9 +590,9 @@
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "9/28/2026 6:49 AM",
+        "Status":  "Present",
+        "SortTime":  409.11666666666667
     },
     {
         "Subject":  "FAILED Egret File Upload",
