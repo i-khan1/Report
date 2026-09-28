@@ -469,13 +469,6 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "9/28/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.93333333333334
-    },
-    {
         "Subject":  "Daily Option Exercise Assignments File to GTN America",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
@@ -483,15 +476,22 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "Daily VCLT BMSY Buys Reports",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "9/28/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.93333333333334
+    },
+    {
+        "Subject":  "Weekly BMSY Account Profile Reports",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.95
     },
     {
-        "Subject":  "Weekly BMSY Account Profile Reports",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "9/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.95
@@ -600,6 +600,13 @@
         "ReceivedTime":  "9/28/2026 7:00 AM",
         "Status":  "Present",
         "SortTime":  420.16666666666669
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/28/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.16666666666669
     },
     {
         "Subject":  "FAILED Egret File Upload",
