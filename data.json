@@ -700,8 +700,8 @@
         "SortTime":  441.78333333333336
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:33 AM",
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -716,13 +716,6 @@
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
