@@ -1008,15 +1008,15 @@
         "SortTime":  1010.5166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "FIX SEDOL Security Profile Report",
         "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "9/30/2026 5:12 PM",
+        "Status":  "Present",
+        "SortTime":  1032.4
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
