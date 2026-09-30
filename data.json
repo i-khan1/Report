@@ -119,14 +119,14 @@
         "SortTime":  181.11666666666667
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
+        "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "9/30/2026 3:01 AM",
         "Status":  "Present",
         "SortTime":  181.15
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
+        "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "9/30/2026 3:01 AM",
         "Status":  "Present",
@@ -385,14 +385,14 @@
         "SortTime":  300.66666666666669
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/30/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "9/30/2026 5:00 AM",
         "Status":  "Present",
@@ -910,6 +910,34 @@
         "SortTime":  710.73333333333335
     },
     {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "9/30/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.35
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/30/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.88333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "9/30/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.13333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "9/30/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.2
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -919,13 +947,6 @@
     {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily UNAFFIRM Report for",
-        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
