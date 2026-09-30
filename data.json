@@ -159,5 +159,40 @@
         "ReceivedTime":  "9/30/2026 3:10 AM",
         "Status":  "Present",
         "SortTime":  190.3
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/30/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.25
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "9/30/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.45000000000002
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "9/30/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.53333333333333
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
