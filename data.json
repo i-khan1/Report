@@ -966,15 +966,15 @@
         "SortTime":  896.13333333333333
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "DVP Open Items Report at Velocity Clearing",
         "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "9/30/2026 3:02 PM",
+        "Status":  "Present",
+        "SortTime":  902.5333333333333
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
