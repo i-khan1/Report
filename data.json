@@ -875,6 +875,20 @@
         "SortTime":  632.86666666666667
     },
     {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "10/1/2026 11:02 AM",
+        "Status":  "Present",
+        "SortTime":  662.63333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/1/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.25
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
