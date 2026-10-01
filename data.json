@@ -763,15 +763,15 @@
         "SortTime":  480.58333333333337
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "10/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.76666666666665
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "10/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.76666666666665
@@ -814,6 +814,13 @@
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
