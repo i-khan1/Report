@@ -238,14 +238,14 @@
         "SortTime":  240.21666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/1/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.4
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/1/2026 4:00 AM",
         "Status":  "Present",
@@ -392,14 +392,14 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/1/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.85
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/1/2026 5:00 AM",
         "Status":  "Present",
@@ -763,15 +763,15 @@
         "SortTime":  480.58333333333337
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "10/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.76666666666665
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "10/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.76666666666665
@@ -964,6 +964,13 @@
         "ReceivedTime":  "10/1/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.75
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "10/1/2026 3:18 PM",
+        "Status":  "Present",
+        "SortTime":  918.86666666666667
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
