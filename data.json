@@ -238,14 +238,14 @@
         "SortTime":  240.21666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/1/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.4
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/1/2026 4:00 AM",
         "Status":  "Present",
@@ -728,8 +728,64 @@
         "SortTime":  450.26666666666665
     },
     {
+        "Subject":  "FINRA SHORT REPORT for VCapital",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.25
+    },
+    {
+        "Subject":  "FINRA SHORT REPORT for VClearing",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.31666666666666
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.40000000000003
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.58333333333337
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.76666666666665
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "10/1/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.76666666666665
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
