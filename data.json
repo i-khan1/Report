@@ -294,6 +294,13 @@
         "SortTime":  260.3
     },
     {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/1/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.18333333333334
+    },
+    {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
