@@ -854,6 +854,13 @@
         "SortTime":  556.7833333333333
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "10/1/2026 9:31 AM",
+        "Status":  "Present",
+        "SortTime":  571.1
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
