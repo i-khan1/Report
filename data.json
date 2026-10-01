@@ -763,15 +763,15 @@
         "SortTime":  480.58333333333337
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "10/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.76666666666665
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "10/1/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.76666666666665
@@ -905,6 +905,13 @@
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
