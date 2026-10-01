@@ -987,6 +987,13 @@
         "SortTime":  970.9666666666667
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "10/1/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.5333333333333
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
