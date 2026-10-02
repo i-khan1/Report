@@ -833,15 +833,15 @@
         "SortTime":  550.75
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Activity Report to Ambrus Sundial",
         "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "10/2/2026 9:17 AM",
+        "Status":  "Present",
+        "SortTime":  557.16666666666663
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
