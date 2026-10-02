@@ -938,6 +938,13 @@
         "SortTime":  896.16666666666663
     },
     {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/2/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.76666666666665
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
