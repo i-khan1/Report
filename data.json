@@ -980,6 +980,13 @@
         "SortTime":  1010.3666666666667
     },
     {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "10/2/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2833333333333
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
