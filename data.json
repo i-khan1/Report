@@ -728,8 +728,50 @@
         "SortTime":  450.31666666666666
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/2/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.2166666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/2/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/2/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.3
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "10/2/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/2/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.45
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
