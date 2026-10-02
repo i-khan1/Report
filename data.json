@@ -306,5 +306,12 @@
         "ReceivedTime":  "10/2/2026 4:20 AM",
         "Status":  "Present",
         "SortTime":  260.98333333333335
+    },
+    {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/2/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.16666666666669
     }
 ]
