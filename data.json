@@ -518,14 +518,14 @@
         "SortTime":  345.61666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
@@ -957,6 +957,13 @@
         "ReceivedTime":  "10/2/2026 3:49 PM",
         "Status":  "Present",
         "SortTime":  949.5333333333333
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/2/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.35
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
