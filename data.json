@@ -518,14 +518,14 @@
         "SortTime":  345.61666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
@@ -859,6 +859,13 @@
         "ReceivedTime":  "10/2/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.18333333333339
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:40 AM",
+        "ReceivedTime":  "10/2/2026 11:45 AM",
+        "Status":  "Present",
+        "SortTime":  705.2833333333333
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
