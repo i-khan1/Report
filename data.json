@@ -805,6 +805,20 @@
         "SortTime":  525.73333333333335
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "10/2/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.43333333333339
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "10/2/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.73333333333335
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
