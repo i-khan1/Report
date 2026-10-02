@@ -518,14 +518,14 @@
         "SortTime":  345.61666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
@@ -882,15 +882,36 @@
         "SortTime":  710.66666666666663
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily UNAFFIRM Report for",
         "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/2/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.5
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/2/2026 12:04 PM",
+        "Status":  "Present",
+        "SortTime":  724.7833333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/2/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/2/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.11666666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
