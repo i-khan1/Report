@@ -945,6 +945,13 @@
         "SortTime":  900.76666666666665
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "10/2/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.30000000000007
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
