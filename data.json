@@ -518,14 +518,14 @@
         "SortTime":  345.61666666666667
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/2/2026 5:45 AM",
         "Status":  "Present",
@@ -684,6 +684,27 @@
         "ReceivedTime":  "10/2/2026 6:32 AM",
         "Status":  "Present",
         "SortTime":  392.58333333333331
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "10/2/2026 6:59 AM",
+        "Status":  "Present",
+        "SortTime":  419.48333333333335
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/2/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/2/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.26666666666665
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
