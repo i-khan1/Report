@@ -112,6 +112,13 @@
         "SortTime":  315.45
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "10/3/2026 7:01 AM",
+        "Status":  "Present",
+        "SortTime":  421.31666666666666
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
