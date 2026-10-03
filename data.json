@@ -119,6 +119,20 @@
         "SortTime":  421.31666666666666
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/3/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "10/3/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.58333333333337
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
