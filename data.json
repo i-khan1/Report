@@ -84,6 +84,20 @@
         "SortTime":  241.18333333333334
     },
     {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/3/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.23333333333335
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/3/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.83333333333331
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
