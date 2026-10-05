@@ -490,14 +490,14 @@
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/5/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/5/2026 6:00 AM",
         "Status":  "Present",
@@ -810,6 +810,13 @@
         "ReceivedTime":  "10/5/2026 3:01 PM",
         "Status":  "Present",
         "SortTime":  901.13333333333333
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "10/5/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.2833333333333
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
