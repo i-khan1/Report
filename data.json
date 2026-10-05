@@ -280,14 +280,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/5/2026 5:00 AM",
         "Status":  "Present",
@@ -362,6 +362,27 @@
         "ReceivedTime":  "10/5/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/5/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.33333333333331
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/5/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.40000000000003
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/5/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.33333333333331
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
