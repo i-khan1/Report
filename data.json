@@ -49,14 +49,14 @@
         "SortTime":  180.41666666666666
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/5/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/5/2026 3:00 AM",
         "Status":  "Present",
@@ -406,14 +406,14 @@
         "SortTime":  346
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/5/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.05
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/5/2026 5:46 AM",
         "Status":  "Present",
@@ -476,14 +476,14 @@
         "SortTime":  360.63333333333333
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/5/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/5/2026 6:00 AM",
         "Status":  "Present",
@@ -579,6 +579,13 @@
         "ReceivedTime":  "10/5/2026 6:31 AM",
         "Status":  "Present",
         "SortTime":  391.01666666666665
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "10/5/2026 6:32 AM",
+        "Status":  "Present",
+        "SortTime":  392.6
     },
     {
         "Subject":  "FAILED File Download",
