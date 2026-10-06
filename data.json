@@ -280,14 +280,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/5/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/5/2026 5:00 AM",
         "Status":  "Present",
@@ -880,6 +880,13 @@
         "ReceivedTime":  "10/5/2026 8:48 PM",
         "Status":  "Present",
         "SortTime":  1248.7333333333333
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "10/5/2026 9:36 PM",
+        "Status":  "Present",
+        "SortTime":  1296.9
     },
     {
         "Subject":  "NHIS gross and net different direction EOD",
