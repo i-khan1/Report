@@ -707,15 +707,22 @@
         "SortTime":  420.23333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD to Acumen Global",
         "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/6/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.83333333333331
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/6/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.1
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
