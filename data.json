@@ -173,5 +173,26 @@
         "ReceivedTime":  "10/6/2026 3:15 AM",
         "Status":  "Present",
         "SortTime":  195.9
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "10/6/2026 3:27 AM",
+        "Status":  "Present",
+        "SortTime":  207.83333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/6/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.25
+    },
+    {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/6/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.25
     }
 ]
