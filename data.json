@@ -581,14 +581,14 @@
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/6/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/6/2026 6:00 AM",
         "Status":  "Present",
@@ -726,6 +726,13 @@
         "ReceivedTime":  "10/6/2026 7:22 AM",
         "Status":  "Present",
         "SortTime":  442
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "10/6/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.3
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
