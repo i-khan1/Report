@@ -721,15 +721,15 @@
         "SortTime":  426.1
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Exercise and Assignment file for VCLT",
         "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "10/6/2026 7:22 AM",
+        "Status":  "Present",
+        "SortTime":  442
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
