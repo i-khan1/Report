@@ -28,6 +28,20 @@
         "SortTime":  152.06666666666666
     },
     {
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
+        "ReceivedTime":  "10/6/2026 2:37 AM",
+        "Status":  "Present",
+        "SortTime":  157.95000000000002
+    },
+    {
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
+        "ReceivedTime":  "10/6/2026 2:40 AM",
+        "Status":  "Present",
+        "SortTime":  160.45000000000002
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
