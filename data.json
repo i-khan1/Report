@@ -945,11 +945,11 @@
         "SortTime":  946.43333333333339
     },
     {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/6/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.38333333333333
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
@@ -959,8 +959,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Ambrus Executions",
-        "ExpectedTime":  "12:40 PM",
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
