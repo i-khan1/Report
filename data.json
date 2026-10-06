@@ -114,29 +114,36 @@
     {
         "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/6/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.85
     },
     {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/6/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.76666666666668
     },
     {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/6/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.76666666666668
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/6/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.93333333333334
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "10/6/2026 3:04 AM",
+        "Status":  "Present",
+        "SortTime":  184.08333333333334
     }
 ]
