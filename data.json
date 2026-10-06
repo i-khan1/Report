@@ -301,6 +301,13 @@
         "SortTime":  260.36666666666667
     },
     {
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/6/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.15000000000003
+    },
+    {
         "Subject":  "Daily PTP Block List",
         "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
