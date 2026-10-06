@@ -581,14 +581,14 @@
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/6/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/6/2026 6:00 AM",
         "Status":  "Present",
@@ -936,6 +936,13 @@
         "ReceivedTime":  "10/6/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.7833333333333
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "10/6/2026 3:46 PM",
+        "Status":  "Present",
+        "SortTime":  946.43333333333339
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
