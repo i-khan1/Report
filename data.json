@@ -98,14 +98,14 @@
         "SortTime":  180.56666666666666
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/7/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.61666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/7/2026 3:00 AM",
         "Status":  "Present",
@@ -488,6 +488,13 @@
         "ReceivedTime":  "10/7/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.58333333333331
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/7/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.78333333333336
     },
     {
         "Subject":  "FAILED File Download",
