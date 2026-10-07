@@ -357,14 +357,14 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
@@ -817,6 +817,13 @@
         "ReceivedTime":  "10/7/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.2166666666667
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "10/7/2026 9:11 AM",
+        "Status":  "Present",
+        "SortTime":  551.05000000000007
     },
     {
         "Subject":  "FAILED File Download",
