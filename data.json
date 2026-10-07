@@ -357,14 +357,14 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
@@ -420,11 +420,18 @@
         "SortTime":  300.91666666666669
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/7/2026 5:02 AM",
+        "Status":  "Present",
+        "SortTime":  302.2166666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "10/7/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
     },
     {
         "Subject":  "FAILED File Download",
@@ -434,8 +441,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
