@@ -98,14 +98,14 @@
         "SortTime":  180.56666666666666
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/7/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.61666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/7/2026 3:00 AM",
         "Status":  "Present",
@@ -350,13 +350,6 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/7/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.58333333333331
-    },
-    {
         "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
@@ -365,6 +358,13 @@
     },
     {
         "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/7/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.58333333333331
+    },
+    {
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
@@ -630,14 +630,14 @@
         "SortTime":  366.6
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
@@ -656,6 +656,13 @@
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "10/7/2026 6:30 AM",
+        "Status":  "Present",
+        "SortTime":  390.23333333333335
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
