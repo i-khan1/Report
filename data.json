@@ -98,14 +98,14 @@
         "SortTime":  180.56666666666666
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/7/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.61666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/7/2026 3:00 AM",
         "Status":  "Present",
@@ -448,14 +448,14 @@
         "SortTime":  315.35
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/7/2026 5:15 AM",
         "Status":  "Present",
@@ -719,6 +719,48 @@
         "ReceivedTime":  "10/7/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.25
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/7/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.28333333333336
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/7/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.31666666666666
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "10/7/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.38333333333333
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/7/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.5
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/7/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.56666666666666
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "10/7/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.28333333333336
     },
     {
         "Subject":  "FAILED File Download",
