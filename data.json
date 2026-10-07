@@ -287,6 +287,13 @@
         "SortTime":  253.25
     },
     {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/7/2026 4:38 AM",
+        "Status":  "Present",
+        "SortTime":  278.26666666666665
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
