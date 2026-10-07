@@ -357,14 +357,14 @@
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.58333333333331
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/7/2026 5:00 AM",
         "Status":  "Present",
@@ -448,14 +448,14 @@
         "SortTime":  315.35
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/7/2026 5:15 AM",
         "Status":  "Present",
@@ -609,6 +609,27 @@
         "SortTime":  362.7
     },
     {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "10/7/2026 6:03 AM",
+        "Status":  "Present",
+        "SortTime":  363.13333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/7/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.4666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/7/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.6
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -623,13 +644,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "",
@@ -637,8 +651,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
