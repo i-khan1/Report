@@ -630,14 +630,14 @@
         "SortTime":  366.6
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
@@ -831,6 +831,13 @@
         "ReceivedTime":  "10/7/2026 9:21 AM",
         "Status":  "Present",
         "SortTime":  561.58333333333337
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "10/7/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.63333333333333
     },
     {
         "Subject":  "FAILED File Download",
