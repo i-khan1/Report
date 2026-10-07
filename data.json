@@ -448,14 +448,14 @@
         "SortTime":  315.35
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/7/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/7/2026 5:15 AM",
         "Status":  "Present",
@@ -915,6 +915,13 @@
         "ReceivedTime":  "10/7/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.16666666666663
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/7/2026 3:01 PM",
+        "Status":  "Present",
+        "SortTime":  901.31666666666672
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
