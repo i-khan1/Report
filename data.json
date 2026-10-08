@@ -98,14 +98,14 @@
         "SortTime":  180.66666666666666
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.71666666666667
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
@@ -429,8 +429,15 @@
     {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/8/2026 5:02 AM",
+        "Status":  "Present",
+        "SortTime":  302.23333333333335
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "10/8/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.31666666666666
     }
 ]
