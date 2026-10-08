@@ -63,14 +63,14 @@
         "SortTime":  180.6
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.61666666666667
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
@@ -98,14 +98,14 @@
         "SortTime":  180.66666666666666
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.71666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
@@ -378,14 +378,14 @@
         "SortTime":  300.9666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/8/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.03333333333336
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/8/2026 5:01 AM",
         "Status":  "Present",
@@ -406,14 +406,14 @@
         "SortTime":  301.08333333333331
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/8/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.11666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/8/2026 5:01 AM",
         "Status":  "Present",
@@ -637,14 +637,14 @@
         "SortTime":  366.8
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/8/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/8/2026 6:15 AM",
         "Status":  "Present",
@@ -679,8 +679,29 @@
         "SortTime":  392.66666666666669
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "10/8/2026 6:59 AM",
+        "Status":  "Present",
+        "SortTime":  419.51666666666665
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/8/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.61666666666667
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
