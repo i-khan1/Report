@@ -245,14 +245,14 @@
         "SortTime":  240.43333333333334
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.45000000000002
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/8/2026 4:00 AM",
         "Status":  "Present",
@@ -474,5 +474,19 @@
         "ReceivedTime":  "10/8/2026 5:17 AM",
         "Status":  "Present",
         "SortTime":  317.16666666666669
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/8/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.55
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/8/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.6
     }
 ]
