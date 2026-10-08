@@ -987,6 +987,13 @@
         "SortTime":  1090.5166666666667
     },
     {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -995,13 +1002,6 @@
     },
     {
         "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -1017,6 +1017,13 @@
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
