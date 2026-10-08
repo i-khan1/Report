@@ -63,14 +63,14 @@
         "SortTime":  180.6
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.61666666666667
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
@@ -229,5 +229,61 @@
         "ReceivedTime":  "10/8/2026 3:55 AM",
         "Status":  "Present",
         "SortTime":  235.28333333333333
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.41666666666669
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.43333333333334
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.45000000000002
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.45000000000002
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.71666666666667
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.78333333333333
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.36666666666667
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/8/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.53333333333333
     }
 ]
