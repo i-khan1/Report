@@ -184,8 +184,15 @@
     {
         "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
         "ExpectedTime":  "3:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/8/2026 3:32 AM",
+        "Status":  "Present",
+        "SortTime":  212.28333333333333
+    },
+    {
+        "Subject":  "VCVW OvernightSilexxPosition File Status SUCCESS",
+        "ExpectedTime":  "4:28 AM",
+        "ReceivedTime":  "10/8/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.63333333333333
     }
 ]
