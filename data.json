@@ -980,6 +980,13 @@
         "SortTime":  1050.9833333333333
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "10/8/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4666666666667
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
