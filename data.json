@@ -630,14 +630,14 @@
         "SortTime":  366.6
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/7/2026 6:15 AM",
         "Status":  "Present",
@@ -987,13 +987,6 @@
         "SortTime":  1090.5166666666667
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -1001,7 +994,21 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
