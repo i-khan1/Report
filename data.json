@@ -245,14 +245,14 @@
         "SortTime":  240.43333333333334
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/8/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.45000000000002
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "10/8/2026 4:00 AM",
         "Status":  "Present",
@@ -292,6 +292,13 @@
         "ReceivedTime":  "10/8/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.25
+    },
+    {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/8/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.18333333333334
     },
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
