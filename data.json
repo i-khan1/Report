@@ -63,14 +63,14 @@
         "SortTime":  180.6
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.61666666666667
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
@@ -98,14 +98,14 @@
         "SortTime":  180.66666666666666
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.71666666666667
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/8/2026 3:00 AM",
         "Status":  "Present",
@@ -378,14 +378,14 @@
         "SortTime":  300.9666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/8/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.03333333333336
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/8/2026 5:01 AM",
         "Status":  "Present",
@@ -546,14 +546,14 @@
         "SortTime":  360.26666666666665
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.3
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/8/2026 6:00 AM",
         "Status":  "Present",
@@ -915,6 +915,13 @@
         "ReceivedTime":  "10/8/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.56666666666672
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/8/2026 3:01 PM",
+        "Status":  "Present",
+        "SortTime":  901.2833333333333
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
