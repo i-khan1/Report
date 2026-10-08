@@ -546,14 +546,14 @@
         "SortTime":  360.26666666666665
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/8/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.3
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/8/2026 6:00 AM",
         "Status":  "Present",
@@ -950,6 +950,13 @@
         "ReceivedTime":  "10/8/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.25
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "10/8/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2833333333333
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
