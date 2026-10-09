@@ -112,6 +112,27 @@
         "SortTime":  205.9
     },
     {
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
+        "ReceivedTime":  "10/9/2026 3:28 AM",
+        "Status":  "Present",
+        "SortTime":  208.25
+    },
+    {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/9/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.33333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/9/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.38333333333333
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
