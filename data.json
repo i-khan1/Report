@@ -833,15 +833,15 @@
         "SortTime":  510.48333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "AVSC Journal File",
         "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "10/9/2026 8:47 AM",
+        "Status":  "Present",
+        "SortTime":  527.5
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
