@@ -147,6 +147,13 @@
         "SortTime":  220.15
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "10/9/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.86666666666667
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
