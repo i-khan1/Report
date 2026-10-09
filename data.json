@@ -931,6 +931,13 @@
         "SortTime":  726.95
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/9/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.2833333333333
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
