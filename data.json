@@ -245,6 +245,13 @@
         "SortTime":  270.33333333333331
     },
     {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/9/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.13333333333333
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
