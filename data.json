@@ -259,25 +259,60 @@
         "SortTime":  277.86666666666667
     },
     {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "10/9/2026 4:46 AM",
+        "Status":  "Present",
+        "SortTime":  286.88333333333333
+    },
+    {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/9/2026 4:47 AM",
+        "Status":  "Present",
+        "SortTime":  287.2
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "10/9/2026 4:48 AM",
+        "Status":  "Present",
+        "SortTime":  288.28333333333336
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/9/2026 4:48 AM",
+        "Status":  "Present",
+        "SortTime":  288.28333333333336
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/9/2026 4:48 AM",
+        "Status":  "Present",
+        "SortTime":  288.33333333333331
     },
     {
         "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/9/2026 4:48 AM",
+        "Status":  "Present",
+        "SortTime":  288.7166666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/9/2026 4:48 AM",
+        "Status":  "Present",
+        "SortTime":  288.85
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/9/2026 4:48 AM",
+        "Status":  "Present",
+        "SortTime":  288.93333333333334
     },
     {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
@@ -294,35 +329,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
