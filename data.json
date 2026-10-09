@@ -602,14 +602,14 @@
         "SortTime":  360.78333333333336
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/9/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/9/2026 6:00 AM",
         "Status":  "Present",
@@ -859,6 +859,13 @@
         "ReceivedTime":  "10/9/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.68333333333339
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "10/9/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.73333333333335
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
