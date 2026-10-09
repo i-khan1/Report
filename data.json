@@ -343,14 +343,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
@@ -469,15 +469,15 @@
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "10/9/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "10/9/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.43333333333334
@@ -495,6 +495,20 @@
         "ReceivedTime":  "10/9/2026 5:24 AM",
         "Status":  "Present",
         "SortTime":  324.25
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/9/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.31666666666666
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/9/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.51666666666665
     },
     {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
