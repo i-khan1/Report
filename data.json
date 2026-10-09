@@ -490,6 +490,13 @@
         "SortTime":  317.26666666666665
     },
     {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/9/2026 5:24 AM",
+        "Status":  "Present",
+        "SortTime":  324.25
+    },
+    {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -498,13 +505,6 @@
     },
     {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
