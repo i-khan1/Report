@@ -273,15 +273,15 @@
         "SortTime":  287.2
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "10/9/2026 4:48 AM",
         "Status":  "Present",
         "SortTime":  288.28333333333336
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/9/2026 4:48 AM",
         "Status":  "Present",
         "SortTime":  288.28333333333336
@@ -364,15 +364,15 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Risk Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
@@ -714,8 +714,22 @@
         "SortTime":  392.83333333333331
     },
     {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/9/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.58333333333331
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
