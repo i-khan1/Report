@@ -273,15 +273,15 @@
         "SortTime":  287.2
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "10/9/2026 4:48 AM",
         "Status":  "Present",
         "SortTime":  288.28333333333336
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/9/2026 4:48 AM",
         "Status":  "Present",
         "SortTime":  288.28333333333336
@@ -343,14 +343,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
@@ -602,14 +602,14 @@
         "SortTime":  360.78333333333336
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/9/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/9/2026 6:00 AM",
         "Status":  "Present",
@@ -770,14 +770,14 @@
         "SortTime":  480.26666666666665
     },
     {
-        "Subject":  "Eventus Upload Status",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "10/9/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.35
     },
     {
-        "Subject":  "TradeBlazer Reports",
+        "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "10/9/2026 8:00 AM",
         "Status":  "Present",
@@ -901,6 +901,13 @@
         "ReceivedTime":  "10/9/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.98333333333335
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/9/2026 12:01 PM",
+        "Status":  "Present",
+        "SortTime":  721.51666666666665
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
