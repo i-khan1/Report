@@ -343,14 +343,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
@@ -364,15 +364,15 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Risk Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/9/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
@@ -602,14 +602,14 @@
         "SortTime":  360.78333333333336
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/9/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/9/2026 6:00 AM",
         "Status":  "Present",
@@ -670,6 +670,34 @@
         "ReceivedTime":  "10/9/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.91666666666669
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/9/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/9/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/9/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/9/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.48333333333335
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
