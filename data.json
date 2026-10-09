@@ -819,6 +819,20 @@
         "SortTime":  486.16666666666669
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "10/9/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.35
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "10/9/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.48333333333335
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
