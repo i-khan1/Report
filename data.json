@@ -168,6 +168,55 @@
         "SortTime":  235.25
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.36666666666667
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.41666666666669
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.43333333333334
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.45000000000002
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.6
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.75
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/9/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.41666666666669
+    },
+    {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
@@ -175,15 +224,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -203,8 +252,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -224,8 +280,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
