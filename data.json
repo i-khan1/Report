@@ -562,15 +562,15 @@
     {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/9/2026 5:49 AM",
+        "Status":  "Present",
+        "SortTime":  349.88333333333333
     },
     {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/9/2026 5:50 AM",
+        "Status":  "Present",
+        "SortTime":  350.51666666666665
     }
 ]
