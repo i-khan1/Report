@@ -28,6 +28,27 @@
         "SortTime":  190.28333333333333
     },
     {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/10/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.81666666666666
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/10/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.95000000000002
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
