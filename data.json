@@ -287,15 +287,15 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
@@ -308,14 +308,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.78333333333336
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
@@ -397,6 +397,13 @@
         "ReceivedTime":  "10/12/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.36666666666667
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/12/2026 5:33 AM",
+        "Status":  "Present",
+        "SortTime":  333.28333333333336
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
