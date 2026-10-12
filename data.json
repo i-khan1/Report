@@ -287,15 +287,15 @@
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.6
@@ -308,14 +308,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.78333333333336
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
@@ -614,6 +614,13 @@
         "ReceivedTime":  "10/12/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.13333333333333
+    },
+    {
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "10/12/2026 7:11 AM",
+        "Status":  "Present",
+        "SortTime":  431.7166666666667
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
