@@ -308,14 +308,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.78333333333336
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
@@ -565,6 +565,34 @@
         "ReceivedTime":  "10/12/2026 6:04 AM",
         "Status":  "Present",
         "SortTime":  364.6
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/12/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/12/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.25
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/12/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.25
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/12/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
