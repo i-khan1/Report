@@ -308,14 +308,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.78333333333336
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/12/2026 5:00 AM",
         "Status":  "Present",
@@ -441,14 +441,14 @@
         "SortTime":  345.65000000000003
     },
     {
-        "Subject":  "Daily Cust Short Int file for Valuable",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/12/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.66666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Valuable",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/12/2026 5:45 AM",
         "Status":  "Present",
@@ -574,14 +574,14 @@
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/12/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/12/2026 6:15 AM",
         "Status":  "Present",
@@ -593,6 +593,20 @@
         "ReceivedTime":  "10/12/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/12/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.36666666666667
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/12/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.95
     },
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
