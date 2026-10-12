@@ -1,5 +1,12 @@
 ﻿[
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
@@ -7,15 +14,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "GATO File Log Report",
-        "ExpectedTime":  "2:40 AM",
+        "Subject":  "Daily Position File",
+        "ExpectedTime":  "2:19 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Position File",
-        "ExpectedTime":  "2:19 AM",
+        "Subject":  "GATO File Log Report",
+        "ExpectedTime":  "2:40 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
