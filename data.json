@@ -371,14 +371,14 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/13/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/13/2026 5:00 AM",
         "Status":  "Present",
@@ -518,6 +518,90 @@
         "SortTime":  345.7
     },
     {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.3
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.31666666666666
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.31666666666666
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.5
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.58333333333331
+    },
+    {
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.68333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7166666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/13/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.11666666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/13/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.13333333333333
+    },
+    {
+        "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -525,8 +609,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
-        "ExpectedTime":  "5:46 AM",
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -534,6 +618,13 @@
     {
         "Subject":  "Daily Exercise Assignment Report for Capital",
         "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
