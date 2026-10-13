@@ -91,18 +91,32 @@
         "SortTime":  180.61666666666667
     },
     {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/13/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.20000000000002
+    },
+    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/13/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.21666666666667
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/13/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.23333333333335
     },
     {
         "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/13/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.25
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
@@ -114,20 +128,6 @@
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
-        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
