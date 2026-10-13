@@ -476,6 +476,13 @@
         "SortTime":  330.33333333333331
     },
     {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/13/2026 5:32 AM",
+        "Status":  "Present",
+        "SortTime":  332.26666666666665
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
