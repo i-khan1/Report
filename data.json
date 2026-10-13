@@ -371,14 +371,14 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/13/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/13/2026 5:00 AM",
         "Status":  "Present",
@@ -896,6 +896,13 @@
         "SortTime":  960.55000000000007
     },
     {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
@@ -903,15 +910,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -926,6 +926,13 @@
     {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
