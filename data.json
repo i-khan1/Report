@@ -868,6 +868,13 @@
         "SortTime":  896.16666666666663
     },
     {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/13/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.86666666666667
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
