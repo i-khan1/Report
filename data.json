@@ -875,11 +875,11 @@
         "SortTime":  1090.8333333333333
     },
     {
-        "Subject":  "NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:17 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "10/12/2026 8:49 PM",
+        "Status":  "Present",
+        "SortTime":  1249.0166666666667
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
@@ -889,8 +889,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "KISA NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:47 PM",
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -903,8 +903,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AllFunds Symbol Validation Report",
-        "ExpectedTime":  "7:28 PM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -917,8 +917,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
