@@ -119,18 +119,18 @@
         "SortTime":  181.05
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/14/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.61666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "10/14/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.63333333333333
     },
     {
         "Subject":  "MAXIT Upload Report",
