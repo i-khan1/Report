@@ -959,6 +959,13 @@
         "SortTime":  980.9
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "10/14/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.56666666666672
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
