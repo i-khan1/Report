@@ -266,6 +266,20 @@
         "SortTime":  241.28333333333333
     },
     {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/14/2026 4:02 AM",
+        "Status":  "Present",
+        "SortTime":  242.43333333333334
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "10/14/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.45000000000002
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -275,13 +289,6 @@
     {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
