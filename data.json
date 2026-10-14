@@ -847,6 +847,13 @@
         "SortTime":  606.23333333333335
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "10/14/2026 10:51 AM",
+        "Status":  "Present",
+        "SortTime":  651.35
+    },
+    {
         "Subject":  "Daily Exercise Assignment ETB File to MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
