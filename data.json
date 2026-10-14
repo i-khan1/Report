@@ -959,6 +959,13 @@
         "SortTime":  1320.25
     },
     {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "NHIS gross and net different direction EOD",
         "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
@@ -973,15 +980,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
+        "Subject":  "VCVW OvernightSilexxPosition File Status NOT FOUND",
+        "ExpectedTime":  "11:44 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -994,8 +1001,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
