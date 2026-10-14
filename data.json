@@ -455,6 +455,27 @@
         "SortTime":  317.13333333333333
     },
     {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/14/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.68333333333334
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/14/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.73333333333335
+    },
+    {
+        "Subject":  "Backnine Expiring Options File for",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/14/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.75
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
