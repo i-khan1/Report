@@ -476,6 +476,13 @@
         "SortTime":  330.75
     },
     {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/14/2026 5:32 AM",
+        "Status":  "Present",
+        "SortTime":  332.86666666666667
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
