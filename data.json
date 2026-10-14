@@ -98,15 +98,15 @@
         "SortTime":  180.9
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "10/14/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.96666666666667
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/14/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.96666666666667
@@ -194,6 +194,13 @@
         "ReceivedTime":  "10/14/2026 3:40 AM",
         "Status":  "Present",
         "SortTime":  220.18333333333334
+    },
+    {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "10/14/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.88333333333333
     },
     {
         "Subject":  "FAILED File Download",
