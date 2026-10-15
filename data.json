@@ -91,14 +91,14 @@
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
@@ -1055,6 +1055,13 @@
         "ReceivedTime":  "10/15/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.9333333333334
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "10/15/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4666666666667
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
