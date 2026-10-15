@@ -91,14 +91,14 @@
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
@@ -943,6 +943,34 @@
         "ReceivedTime":  "10/15/2026 2:06 PM",
         "Status":  "Present",
         "SortTime":  846.2
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "10/15/2026 2:47 PM",
+        "Status":  "Present",
+        "SortTime":  887.98333333333335
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "10/15/2026 2:49 PM",
+        "Status":  "Present",
+        "SortTime":  889.63333333333333
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "10/15/2026 2:50 PM",
+        "Status":  "Present",
+        "SortTime":  890.9
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "10/15/2026 2:52 PM",
+        "Status":  "Present",
+        "SortTime":  892.63333333333333
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
