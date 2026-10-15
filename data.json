@@ -91,14 +91,14 @@
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.58333333333334
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
@@ -658,14 +658,14 @@
         "SortTime":  375.3
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.36666666666667
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/15/2026 6:15 AM",
         "Status":  "Present",
@@ -999,6 +999,13 @@
         "ReceivedTime":  "10/15/2026 3:17 PM",
         "Status":  "Present",
         "SortTime":  917.5
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/15/2026 3:45 PM",
+        "Status":  "Present",
+        "SortTime":  945.48333333333335
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
