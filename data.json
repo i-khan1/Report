@@ -833,6 +833,13 @@
         "SortTime":  556.95
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "10/15/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.63333333333333
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
