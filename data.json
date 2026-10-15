@@ -861,6 +861,13 @@
         "SortTime":  651.06666666666672
     },
     {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "10/15/2026 10:52 AM",
+        "Status":  "Present",
+        "SortTime":  652.7166666666667
+    },
+    {
         "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
