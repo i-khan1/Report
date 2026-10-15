@@ -420,24 +420,31 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/15/2026 5:02 AM",
+        "Status":  "Present",
+        "SortTime":  302.2166666666667
     },
     {
         "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/15/2026 5:02 AM",
+        "Status":  "Present",
+        "SortTime":  302.23333333333335
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/15/2026 5:02 AM",
+        "Status":  "Present",
+        "SortTime":  302.31666666666666
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "10/15/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
     }
 ]
