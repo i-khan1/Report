@@ -84,6 +84,13 @@
         "SortTime":  180.51666666666668
     },
     {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/15/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.58333333333334
+    },
+    {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
@@ -92,13 +99,6 @@
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "10/15/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.58333333333334
-    },
-    {
-        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
@@ -658,14 +658,14 @@
         "SortTime":  375.3
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.36666666666667
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/15/2026 6:15 AM",
         "Status":  "Present",
@@ -684,6 +684,34 @@
         "ReceivedTime":  "10/15/2026 6:33 AM",
         "Status":  "Present",
         "SortTime":  393.2166666666667
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/15/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.18333333333334
+    },
+    {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "10/15/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.4666666666667
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/15/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.7
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/15/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.7166666666667
     },
     {
         "Subject":  "Daily Cust Short Int file for Vaticine",
