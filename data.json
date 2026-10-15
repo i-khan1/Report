@@ -847,15 +847,15 @@
         "SortTime":  606.15
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "10/15/2026 10:23 AM",
+        "Status":  "Present",
+        "SortTime":  623.86666666666667
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
