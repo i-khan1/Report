@@ -84,13 +84,6 @@
         "SortTime":  180.51666666666668
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "10/15/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.58333333333334
-    },
-    {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
@@ -99,6 +92,13 @@
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/15/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.58333333333334
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/15/2026 3:00 AM",
         "Status":  "Present",
@@ -628,6 +628,20 @@
         "ReceivedTime":  "10/15/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.03333333333336
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/15/2026 6:05 AM",
+        "Status":  "Present",
+        "SortTime":  365.78333333333336
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/15/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.36666666666667
     },
     {
         "Subject":  "Daily Cust Short Int file for Vaticine",
