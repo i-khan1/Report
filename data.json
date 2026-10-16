@@ -427,6 +427,13 @@
         "SortTime":  301.08333333333331
     },
     {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "10/16/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.23333333333335
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
