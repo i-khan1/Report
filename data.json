@@ -203,6 +203,20 @@
         "SortTime":  225.9
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "10/16/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.21666666666667
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "10/16/2026 3:51 AM",
+        "Status":  "Present",
+        "SortTime":  231.23333333333335
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
