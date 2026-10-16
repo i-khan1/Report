@@ -833,15 +833,15 @@
         "SortTime":  510.55
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "AVSC Journal File",
         "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "10/16/2026 8:47 AM",
+        "Status":  "Present",
+        "SortTime":  527.41666666666663
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
