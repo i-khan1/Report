@@ -910,6 +910,13 @@
         "SortTime":  651.23333333333335
     },
     {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "10/16/2026 10:52 AM",
+        "Status":  "Present",
+        "SortTime":  652.51666666666665
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
