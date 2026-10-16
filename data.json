@@ -476,6 +476,34 @@
         "SortTime":  319.9666666666667
     },
     {
+        "Subject":  "Backnine Expiring Options File for",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/16/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.2166666666667
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/16/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.43333333333334
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/16/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.45
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/16/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.35
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
