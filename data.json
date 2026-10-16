@@ -574,14 +574,14 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/16/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.9666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/16/2026 6:00 AM",
         "Status":  "Present",
@@ -642,6 +642,34 @@
         "ReceivedTime":  "10/16/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.23333333333335
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/16/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.41666666666669
     },
     {
         "Subject":  "FAILED Egret File Upload",
