@@ -1078,6 +1078,13 @@
         "SortTime":  1050.9333333333334
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "10/16/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4666666666667
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
