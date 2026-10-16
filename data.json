@@ -168,6 +168,20 @@
         "SortTime":  204.08333333333334
     },
     {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/16/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.85
+    },
+    {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/16/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.93333333333334
+    },
+    {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
