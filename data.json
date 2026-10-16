@@ -658,14 +658,14 @@
         "SortTime":  375.3
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/15/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.36666666666667
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/15/2026 6:15 AM",
         "Status":  "Present",
@@ -1076,6 +1076,13 @@
         "ReceivedTime":  "10/15/2026 9:53 PM",
         "Status":  "Present",
         "SortTime":  1313.9833333333333
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "10/15/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2333333333333
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
