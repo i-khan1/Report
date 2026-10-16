@@ -189,6 +189,20 @@
         "SortTime":  215.25
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/16/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.15
+    },
+    {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
