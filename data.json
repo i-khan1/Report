@@ -289,9 +289,23 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/16/2026 4:55 AM",
+        "Status":  "Present",
+        "SortTime":  295.05
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/16/2026 4:55 AM",
+        "Status":  "Present",
+        "SortTime":  295.93333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/16/2026 4:56 AM",
+        "Status":  "Present",
+        "SortTime":  296.11666666666667
     },
     {
         "Subject":  "FAILED Egret File Upload",
@@ -303,13 +317,6 @@
     {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD ETB File to GTN America",
-        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
