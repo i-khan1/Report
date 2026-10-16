@@ -735,6 +735,13 @@
         "SortTime":  450.18333333333334
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "10/16/2026 7:51 AM",
+        "Status":  "Present",
+        "SortTime":  471.23333333333335
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
