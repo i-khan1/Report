@@ -980,6 +980,13 @@
         "SortTime":  786.16666666666663
     },
     {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/16/2026 2:00 PM",
+        "Status":  "Present",
+        "SortTime":  840.33333333333337
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
