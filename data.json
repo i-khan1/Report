@@ -574,14 +574,14 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/16/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.9666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/16/2026 6:00 AM",
         "Status":  "Present",
@@ -693,15 +693,15 @@
         "SortTime":  420.18333333333334
     },
     {
-        "Subject":  "Daily LATAM Margin Report",
-        "ExpectedTime":  "10:29 AM",
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "10/16/2026 7:01 AM",
         "Status":  "Present",
         "SortTime":  421.23333333333335
     },
     {
-        "Subject":  "Daily SOD to Acumen Global",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
         "ReceivedTime":  "10/16/2026 7:01 AM",
         "Status":  "Present",
         "SortTime":  421.23333333333335
@@ -1055,6 +1055,13 @@
         "ReceivedTime":  "10/16/2026 4:52 PM",
         "Status":  "Present",
         "SortTime":  1012.3333333333334
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "10/16/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2666666666667
     },
     {
         "Subject":  "FAILED Egret File Upload",
