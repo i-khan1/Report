@@ -693,15 +693,15 @@
         "SortTime":  420.18333333333334
     },
     {
-        "Subject":  "Daily LATAM Margin Report",
-        "ExpectedTime":  "10:29 AM",
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "10/16/2026 7:01 AM",
         "Status":  "Present",
         "SortTime":  421.23333333333335
     },
     {
-        "Subject":  "Daily SOD to Acumen Global",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
         "ReceivedTime":  "10/16/2026 7:01 AM",
         "Status":  "Present",
         "SortTime":  421.23333333333335
@@ -1013,6 +1013,13 @@
         "ReceivedTime":  "10/16/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.7833333333333
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "10/16/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.2833333333333
     },
     {
         "Subject":  "FAILED Egret File Upload",
