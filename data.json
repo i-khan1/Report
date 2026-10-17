@@ -140,6 +140,13 @@
         "SortTime":  480.28333333333336
     },
     {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "10/17/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.8
+    },
+    {
         "Subject":  "MAXIT Upload Report for Capital",
         "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
