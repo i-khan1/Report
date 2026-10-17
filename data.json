@@ -112,6 +112,13 @@
         "SortTime":  315.53333333333336
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "10/17/2026 6:59 AM",
+        "Status":  "Present",
+        "SortTime":  419.51666666666665
+    },
+    {
         "Subject":  "Locate Vs GS Comparison File",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
