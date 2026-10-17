@@ -574,14 +574,14 @@
         "SortTime":  360.93333333333334
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/16/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.9666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "IONIC Daily Short Interest Report",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/16/2026 6:00 AM",
         "Status":  "Present",
@@ -1090,6 +1090,13 @@
         "ReceivedTime":  "10/16/2026 8:48 PM",
         "Status":  "Present",
         "SortTime":  1248.5666666666666
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "10/16/2026 9:41 PM",
+        "Status":  "Present",
+        "SortTime":  1301.1833333333334
     },
     {
         "Subject":  "FAILED Egret File Upload",
