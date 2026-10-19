@@ -77,13 +77,6 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "10/19/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.46666666666667
-    },
-    {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/19/2026 3:00 AM",
@@ -92,6 +85,13 @@
     },
     {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/19/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.46666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/19/2026 3:00 AM",
         "Status":  "Present",
@@ -252,14 +252,14 @@
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -273,14 +273,14 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -397,6 +397,13 @@
         "ReceivedTime":  "10/19/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.38333333333333
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/19/2026 5:32 AM",
+        "Status":  "Present",
+        "SortTime":  332.98333333333335
     },
     {
         "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
