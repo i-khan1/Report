@@ -252,14 +252,14 @@
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -880,6 +880,13 @@
         "ReceivedTime":  "10/19/2026 3:45 PM",
         "Status":  "Present",
         "SortTime":  945.7166666666667
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/19/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.26666666666665
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
