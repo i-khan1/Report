@@ -252,14 +252,14 @@
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -273,14 +273,14 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -611,9 +611,23 @@
     {
         "Subject":  "Daily SOD to Acumen Global",
         "ExpectedTime":  "7:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/19/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.75
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/19/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.8
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/19/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.11666666666667
     },
     {
         "Subject":  "Velocity Fixed Income Net Cap Repo",
