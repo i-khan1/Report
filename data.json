@@ -252,14 +252,14 @@
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -273,14 +273,14 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -511,14 +511,14 @@
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/19/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/19/2026 6:00 AM",
         "Status":  "Present",
@@ -600,6 +600,20 @@
         "ReceivedTime":  "10/19/2026 6:33 AM",
         "Status":  "Present",
         "SortTime":  393.43333333333334
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/19/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.2166666666667
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Velocity Fixed Income Net Cap Repo",
