@@ -21,8 +21,22 @@
         "SortTime":  160.51666666666668
     },
     {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "10/19/2026 2:46 AM",
+        "Status":  "Present",
+        "SortTime":  166.08333333333334
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "10/19/2026 2:46 AM",
+        "Status":  "Present",
+        "SortTime":  166.45000000000002
+    },
+    {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
