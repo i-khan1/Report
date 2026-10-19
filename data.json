@@ -77,6 +77,13 @@
         "SortTime":  180.45000000000002
     },
     {
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/19/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.46666666666667
+    },
+    {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/19/2026 3:00 AM",
@@ -85,13 +92,6 @@
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "10/19/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.46666666666667
-    },
-    {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/19/2026 3:00 AM",
         "Status":  "Present",
@@ -252,14 +252,14 @@
         "SortTime":  300.38333333333333
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/19/2026 5:00 AM",
         "Status":  "Present",
@@ -348,5 +348,12 @@
         "ReceivedTime":  "10/19/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.36666666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "10/19/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.1
     }
 ]
