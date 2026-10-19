@@ -77,13 +77,6 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "10/19/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.46666666666667
-    },
-    {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/19/2026 3:00 AM",
@@ -92,6 +85,13 @@
     },
     {
         "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/19/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.46666666666667
+    },
+    {
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/19/2026 3:00 AM",
         "Status":  "Present",
@@ -173,5 +173,47 @@
         "ReceivedTime":  "10/19/2026 3:55 AM",
         "Status":  "Present",
         "SortTime":  235.1
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/19/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.21666666666667
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/19/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.25
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/19/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.75
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/19/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.76666666666668
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/19/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.85
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "10/19/2026 4:03 AM",
+        "Status":  "Present",
+        "SortTime":  243.6
     }
 ]
