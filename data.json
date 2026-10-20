@@ -105,14 +105,14 @@
         "SortTime":  180.51666666666668
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
@@ -495,6 +495,34 @@
         "ReceivedTime":  "10/20/2026 5:18 AM",
         "Status":  "Present",
         "SortTime":  318.93333333333334
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/20/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.26666666666665
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/20/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.33333333333331
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/20/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.35
+    },
+    {
+        "Subject":  "Backnine Expiring Options File for",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Tefra File Load FAILURE",
