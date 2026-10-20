@@ -427,6 +427,27 @@
         "SortTime":  305.1
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "10/20/2026 5:08 AM",
+        "Status":  "Present",
+        "SortTime":  308.43333333333334
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "10/20/2026 5:09 AM",
+        "Status":  "Present",
+        "SortTime":  309.3
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "10/20/2026 5:11 AM",
+        "Status":  "Present",
+        "SortTime":  311.38333333333333
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
