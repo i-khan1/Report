@@ -994,6 +994,13 @@
         "SortTime":  951.26666666666665
     },
     {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/20/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.30000000000007
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
