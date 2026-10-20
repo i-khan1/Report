@@ -854,6 +854,13 @@
         "SortTime":  556.68333333333339
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "10/20/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.55000000000007
+    },
+    {
         "Subject":  "Backnine Expiring Options File for",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
