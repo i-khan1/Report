@@ -105,14 +105,14 @@
         "SortTime":  180.51666666666668
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
@@ -558,6 +558,90 @@
         "ReceivedTime":  "10/20/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.53333333333336
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.33333333333331
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.40000000000003
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.53333333333336
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.55
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.63333333333333
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.65000000000003
+    },
+    {
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.68333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.98333333333335
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "10/20/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.1
     },
     {
         "Subject":  "Backnine Expiring Options File for",
