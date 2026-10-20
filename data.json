@@ -1001,6 +1001,13 @@
         "SortTime":  960.30000000000007
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "10/20/2026 4:36 PM",
+        "Status":  "Present",
+        "SortTime":  996
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
