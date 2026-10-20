@@ -105,14 +105,14 @@
         "SortTime":  180.51666666666668
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
@@ -957,6 +957,20 @@
         "ReceivedTime":  "10/20/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.18333333333339
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/20/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.25
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/20/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.65
     },
     {
         "Subject":  "Tefra File Load FAILURE",
