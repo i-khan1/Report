@@ -980,6 +980,13 @@
         "SortTime":  917.2833333333333
     },
     {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/20/2026 3:45 PM",
+        "Status":  "Present",
+        "SortTime":  945.23333333333335
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
