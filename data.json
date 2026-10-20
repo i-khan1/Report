@@ -105,14 +105,14 @@
         "SortTime":  180.51666666666668
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.55
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/20/2026 3:00 AM",
         "Status":  "Present",
@@ -418,6 +418,13 @@
         "ReceivedTime":  "10/20/2026 5:01 AM",
         "Status":  "Present",
         "SortTime":  301.25
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "10/20/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.1
     },
     {
         "Subject":  "Tefra File Load FAILURE",
