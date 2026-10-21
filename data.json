@@ -574,14 +574,14 @@
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/21/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.8
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/21/2026 6:00 AM",
         "Status":  "Present",
@@ -1055,6 +1055,13 @@
         "ReceivedTime":  "10/21/2026 5:31 PM",
         "Status":  "Present",
         "SortTime":  1051.0333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "10/21/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.45
     },
     {
         "Subject":  "SUCCESS File Download",
