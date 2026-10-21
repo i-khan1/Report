@@ -602,15 +602,29 @@
         "SortTime":  360.88333333333333
     },
     {
-        "Subject":  "MAXIT Upload Report for Capital",
-        "ExpectedTime":  "5:59 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/21/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.41666666666669
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "10/21/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.4666666666667
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "10/21/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.53333333333336
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -623,15 +637,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download",
-        "ExpectedTime":  "5:44 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -644,15 +651,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Equity Margin Report",
-        "ExpectedTime":  "6:01 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
