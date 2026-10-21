@@ -665,6 +665,13 @@
         "SortTime":  375.48333333333335
     },
     {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/21/2026 6:24 AM",
+        "Status":  "Present",
+        "SortTime":  384.66666666666669
+    },
+    {
         "Subject":  "SUCCESS File Download",
         "ExpectedTime":  "5:44 AM",
         "ReceivedTime":  "",
