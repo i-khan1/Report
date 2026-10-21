@@ -98,14 +98,14 @@
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/21/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/21/2026 3:00 AM",
         "Status":  "Present",
@@ -740,6 +740,13 @@
         "ReceivedTime":  "10/21/2026 7:09 AM",
         "Status":  "Present",
         "SortTime":  429
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "10/21/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.7
     },
     {
         "Subject":  "SUCCESS File Download",
