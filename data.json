@@ -574,14 +574,14 @@
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/21/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.8
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/21/2026 6:00 AM",
         "Status":  "Present",
@@ -929,6 +929,13 @@
         "ReceivedTime":  "10/21/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.2166666666667
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/21/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.31666666666672
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
