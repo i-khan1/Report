@@ -310,9 +310,9 @@
     {
         "Subject":  "Tefra File Load SUCCESS",
         "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/21/2026 4:37 AM",
+        "Status":  "Present",
+        "SortTime":  277.93333333333334
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
