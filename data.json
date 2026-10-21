@@ -1043,6 +1043,20 @@
         "SortTime":  1248.3166666666666
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "10/20/2026 10:01 PM",
+        "Status":  "Present",
+        "SortTime":  1321.3
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "10/20/2026 10:01 PM",
+        "Status":  "Present",
+        "SortTime":  1321.3500000000001
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
