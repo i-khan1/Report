@@ -728,6 +728,20 @@
         "SortTime":  426.36666666666667
     },
     {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/21/2026 7:07 AM",
+        "Status":  "Present",
+        "SortTime":  427.86666666666667
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/21/2026 7:09 AM",
+        "Status":  "Present",
+        "SortTime":  429
+    },
+    {
         "Subject":  "SUCCESS File Download",
         "ExpectedTime":  "5:44 AM",
         "ReceivedTime":  "",
@@ -742,22 +756,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report for Capital",
-        "ExpectedTime":  "5:59 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
