@@ -1001,6 +1001,13 @@
         "SortTime":  918.5333333333333
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "10/21/2026 3:41 PM",
+        "Status":  "Present",
+        "SortTime":  941.81666666666672
+    },
+    {
         "Subject":  "SUCCESS File Download",
         "ExpectedTime":  "5:44 AM",
         "ReceivedTime":  "",
