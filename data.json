@@ -1078,6 +1078,13 @@
         "SortTime":  1299.9333333333334
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "10/21/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2166666666667
+    },
+    {
         "Subject":  "MAXIT Upload Report for Capital",
         "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
