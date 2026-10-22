@@ -280,6 +280,13 @@
         "SortTime":  260.28333333333336
     },
     {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "VCVW OvernightSilexxPosition File Status SUCCESS",
         "ExpectedTime":  "4:28 AM",
         "ReceivedTime":  "",
