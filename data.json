@@ -1064,6 +1064,13 @@
         "SortTime":  1090.45
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "SUCCESS File Download",
         "ExpectedTime":  "5:44 AM",
         "ReceivedTime":  "",
@@ -1078,15 +1085,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "MAXIT Upload Report for Capital",
-        "ExpectedTime":  "5:59 AM",
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP Secondary",
-        "ExpectedTime":  "11:15 AM",
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
