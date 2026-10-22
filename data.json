@@ -1071,6 +1071,13 @@
         "SortTime":  1248.4333333333334
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "10/21/2026 9:39 PM",
+        "Status":  "Present",
+        "SortTime":  1299.9333333333334
+    },
+    {
         "Subject":  "MAXIT Upload Report for Capital",
         "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
