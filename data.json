@@ -371,6 +371,13 @@
         "SortTime":  300.63333333333333
     },
     {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD to BitDelta Limited",
         "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
@@ -380,13 +387,6 @@
     {
         "Subject":  "Moneyline Report",
         "ExpectedTime":  "8:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -406,15 +406,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Fixed Income Inteliclear Trial Balance",
-        "ExpectedTime":  "8:30 AM",
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -434,8 +441,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Marks What we owe",
-        "ExpectedTime":  "6:32 AM",
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -450,13 +457,6 @@
     {
         "Subject":  "Exercise and Assignment file for VCLT",
         "ExpectedTime":  "7:21 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -548,6 +548,13 @@
     {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
