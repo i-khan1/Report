@@ -1,12 +1,5 @@
 ﻿[
     {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "3:31 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Monitoring Report",
         "ExpectedTime":  "1:10 AM",
         "ReceivedTime":  "",
@@ -14,8 +7,22 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -42,13 +49,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise Assignment Report for Capital",
-        "ExpectedTime":  "5:05 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -70,6 +70,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -84,27 +98,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -114,6 +107,20 @@
     {
         "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
         "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -140,20 +147,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
-        "ExpectedTime":  "3:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "SUCCESS Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -163,6 +156,20 @@
     {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -184,13 +191,6 @@
     {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "OIR and REGSHO Reports",
-        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -218,6 +218,20 @@
     },
     {
         "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -226,20 +240,6 @@
     {
         "Subject":  "Daily OTC File",
         "ExpectedTime":  "3:55 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -266,6 +266,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -275,20 +289,6 @@
     {
         "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily ETB to GTN Middle East",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Reconciliation Portfolio Margin COB",
-        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -315,6 +315,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -323,20 +337,6 @@
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -364,6 +364,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -373,13 +387,6 @@
     {
         "Subject":  "Seaman SRE and IClear Daily Reconciliation",
         "ExpectedTime":  "4:20 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily PTP Block List",
-        "ExpectedTime":  "4:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
