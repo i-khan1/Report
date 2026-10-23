@@ -1,12 +1,5 @@
 ﻿[
     {
-        "Subject":  "Daily RMS Audit History File",
-        "ExpectedTime":  "9:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Cust Short file to Exante",
         "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "",
@@ -21,8 +14,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to BitDelta Limited",
-        "ExpectedTime":  "8:05 AM",
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -37,6 +30,13 @@
     {
         "Subject":  "AVSC Journal File",
         "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -91,13 +91,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
-        "ExpectedTime":  "6:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Marks What we owe",
         "ExpectedTime":  "6:32 AM",
         "ReceivedTime":  "",
@@ -112,8 +105,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily VCLT Reports",
-        "ExpectedTime":  "6:09 AM",
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -133,15 +126,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Stock VS Borrow File",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -161,8 +154,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "DO File Check",
-        "ExpectedTime":  "7:06 AM",
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -177,6 +170,13 @@
     {
         "Subject":  "OPNSACOB",
         "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -366,6 +366,13 @@
     {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
