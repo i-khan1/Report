@@ -35,8 +35,36 @@
         "SortTime":  190.21666666666667
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/24/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.43333333333334
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "10/24/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.5
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -44,6 +72,13 @@
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
