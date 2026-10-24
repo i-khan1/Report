@@ -84,6 +84,27 @@
         "SortTime":  264.61666666666667
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/24/2026 4:59 AM",
+        "Status":  "Present",
+        "SortTime":  299.73333333333335
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/24/2026 4:59 AM",
+        "Status":  "Present",
+        "SortTime":  299.78333333333336
+    },
+    {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/24/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.65000000000003
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -98,15 +119,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed Secondary",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
