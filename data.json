@@ -133,15 +133,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
