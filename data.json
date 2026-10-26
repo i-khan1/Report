@@ -254,8 +254,22 @@
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/26/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.06666666666666
+    },
+    {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/26/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.13333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "10/26/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.56666666666666
     }
 ]
