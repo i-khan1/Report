@@ -287,13 +287,6 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/26/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.45
-    },
-    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
@@ -302,6 +295,13 @@
     },
     {
         "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.45
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -439,5 +439,47 @@
         "ReceivedTime":  "10/26/2026 5:33 AM",
         "Status":  "Present",
         "SortTime":  333.11666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "10/26/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.36666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "10/26/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.15000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "10/26/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.16666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "10/26/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.18333333333334
+    },
+    {
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
+        "ReceivedTime":  "10/26/2026 5:46 AM",
+        "Status":  "Present",
+        "SortTime":  346.61666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
