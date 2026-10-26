@@ -70,14 +70,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
@@ -287,6 +287,13 @@
         "SortTime":  300.41666666666669
     },
     {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.45
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
@@ -295,13 +302,6 @@
     },
     {
         "Subject":  "Finance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/26/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.45
-    },
-    {
-        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -831,6 +831,13 @@
         "ReceivedTime":  "10/26/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.4
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/26/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.56666666666672
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
