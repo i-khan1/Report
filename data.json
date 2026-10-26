@@ -105,6 +105,27 @@
         "SortTime":  180.88333333333333
     },
     {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/26/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.16666666666666
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/26/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.41666666666666
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
+        "ReceivedTime":  "10/26/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.48333333333335
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
