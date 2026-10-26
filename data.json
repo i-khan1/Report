@@ -70,14 +70,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
@@ -124,6 +124,20 @@
         "ReceivedTime":  "10/26/2026 3:15 AM",
         "Status":  "Present",
         "SortTime":  195.48333333333335
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/26/2026 3:31 AM",
+        "Status":  "Present",
+        "SortTime":  211.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
