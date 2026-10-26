@@ -301,14 +301,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -572,5 +572,19 @@
         "ReceivedTime":  "10/26/2026 6:02 AM",
         "Status":  "Present",
         "SortTime":  362.2166666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/26/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.66666666666669
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/26/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.81666666666666
     }
 ]
