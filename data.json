@@ -287,7 +287,7 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -301,7 +301,7 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -742,6 +742,20 @@
         "SortTime":  525.7
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "10/26/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.38333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/26/2026 9:06 AM",
+        "Status":  "Present",
+        "SortTime":  546.13333333333333
+    },
+    {
         "Subject":  "Guardians Report",
         "ExpectedTime":  "7:11 AM",
         "ReceivedTime":  "",
@@ -756,8 +770,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily RMS Audit History File",
-        "ExpectedTime":  "9:00 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
