@@ -49,14 +49,14 @@
         "SortTime":  180.33333333333334
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.36666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
@@ -70,14 +70,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
@@ -686,8 +686,36 @@
         "SortTime":  472.43333333333334
     },
     {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/26/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/26/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.41666666666669
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "10/26/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.41666666666669
+    },
+    {
         "Subject":  "Guardians Report",
         "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
