@@ -70,14 +70,14 @@
         "SortTime":  180.4
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.43333333333334
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/26/2026 3:00 AM",
         "Status":  "Present",
@@ -287,13 +287,6 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/26/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.45
-    },
-    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
@@ -301,14 +294,21 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.45
     },
     {
-        "Subject":  "Finance Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.45
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -586,5 +586,33 @@
         "ReceivedTime":  "10/26/2026 6:07 AM",
         "Status":  "Present",
         "SortTime":  367.81666666666666
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/26/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.31666666666666
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/26/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.33333333333331
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/26/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.35
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "10/26/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.6
     }
 ]
