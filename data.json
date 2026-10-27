@@ -840,6 +840,13 @@
         "SortTime":  510.53333333333336
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "10/27/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.86666666666667
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
