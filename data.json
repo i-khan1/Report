@@ -448,14 +448,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.33333333333331
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
@@ -698,6 +698,27 @@
         "ReceivedTime":  "10/27/2026 6:59 AM",
         "Status":  "Present",
         "SortTime":  419.5
+    },
+    {
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/27/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.25
+    },
+    {
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "10/27/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.6
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "10/27/2026 7:00 AM",
+        "Status":  "Present",
+        "SortTime":  420.63333333333333
     },
     {
         "Subject":  "SUCCESS File Download Completed",
