@@ -448,14 +448,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.33333333333331
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
@@ -553,14 +553,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.86666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
@@ -903,11 +903,18 @@
         "SortTime":  666.2166666666667
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "iClear PROD to UAT Account Sync Completed",
+        "ExpectedTime":  "11:46 AM",
+        "ReceivedTime":  "10/27/2026 11:46 AM",
+        "Status":  "Present",
+        "SortTime":  706.91666666666663
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "10/27/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.80000000000007
     },
     {
         "Subject":  "SUCCESS File Download Completed",
@@ -917,8 +924,22 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
