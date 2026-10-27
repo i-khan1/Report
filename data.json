@@ -448,14 +448,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.33333333333331
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
@@ -553,14 +553,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.86666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
@@ -978,6 +978,20 @@
         "ReceivedTime":  "10/27/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.15
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/27/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.16666666666663
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/27/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.81666666666672
     },
     {
         "Subject":  "SUCCESS File Download Completed",
