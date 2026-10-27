@@ -553,14 +553,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.86666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
@@ -1106,15 +1106,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
