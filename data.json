@@ -553,14 +553,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.86666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
@@ -845,6 +845,20 @@
         "ReceivedTime":  "10/27/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.86666666666667
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "10/27/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.41666666666663
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "10/27/2026 9:01 AM",
+        "Status":  "Present",
+        "SortTime":  541.01666666666665
     },
     {
         "Subject":  "Tefra File Load FAILURE",
