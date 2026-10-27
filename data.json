@@ -49,8 +49,85 @@
         "SortTime":  160.45000000000002
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.21666666666667
+    },
+    {
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.25
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.66666666666666
+    },
+    {
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.73333333333335
+    },
+    {
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.88333333333333
+    },
+    {
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.9
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.93333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.98333333333335
+    },
+    {
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "10/27/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.38333333333333
+    },
+    {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "10/27/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.4
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
