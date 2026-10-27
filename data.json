@@ -119,22 +119,22 @@
         "SortTime":  181.4
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/27/2026 3:01 AM",
+        "Status":  "Present",
+        "SortTime":  181.75
     },
     {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "10/27/2026 3:05 AM",
+        "Status":  "Present",
+        "SortTime":  185.55
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
