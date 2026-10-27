@@ -287,13 +287,6 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/26/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.45
-    },
-    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
@@ -309,6 +302,13 @@
     },
     {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.45
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/26/2026 5:00 AM",
         "Status":  "Present",
@@ -1020,6 +1020,13 @@
         "ReceivedTime":  "10/26/2026 8:48 PM",
         "Status":  "Present",
         "SortTime":  1248.3833333333334
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "10/26/2026 9:52 PM",
+        "Status":  "Present",
+        "SortTime":  1312.2
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
