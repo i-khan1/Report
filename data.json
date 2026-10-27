@@ -161,14 +161,35 @@
         "SortTime":  195.51666666666668
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/27/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.33333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "10/27/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.43333333333334
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ReceivedTime":  "10/27/2026 3:31 AM",
+        "Status":  "Present",
+        "SortTime":  211.58333333333334
     },
     {
         "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/27/2026 3:31 AM",
+        "Status":  "Present",
+        "SortTime":  211.66666666666666
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
