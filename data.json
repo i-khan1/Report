@@ -553,14 +553,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.86666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
@@ -1055,6 +1055,20 @@
         "ReceivedTime":  "10/27/2026 4:55 PM",
         "Status":  "Present",
         "SortTime":  1015.6333333333333
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "10/27/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3
+    },
+    {
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "10/27/2026 5:11 PM",
+        "Status":  "Present",
+        "SortTime":  1031.6333333333334
     },
     {
         "Subject":  "SUCCESS File Download Completed",
