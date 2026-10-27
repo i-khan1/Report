@@ -728,6 +728,13 @@
         "SortTime":  426.11666666666667
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "10/27/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.8
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
