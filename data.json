@@ -553,14 +553,14 @@
         "SortTime":  360.85
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.86666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/27/2026 6:00 AM",
         "Status":  "Present",
@@ -866,6 +866,13 @@
         "ReceivedTime":  "10/27/2026 9:06 AM",
         "Status":  "Present",
         "SortTime":  546.2
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "10/27/2026 9:10 AM",
+        "Status":  "Present",
+        "SortTime":  550.9666666666667
     },
     {
         "Subject":  "Tefra File Load FAILURE",
