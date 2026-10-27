@@ -448,14 +448,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.33333333333331
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "10/27/2026 5:30 AM",
         "Status":  "Present",
@@ -824,6 +824,20 @@
         "ReceivedTime":  "10/27/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.40000000000003
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "10/27/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.26666666666665
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "10/27/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.53333333333336
     },
     {
         "Subject":  "Tefra File Load FAILURE",
