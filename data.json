@@ -679,14 +679,14 @@
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.43333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
@@ -1020,6 +1020,13 @@
         "ReceivedTime":  "10/28/2026 3:45 PM",
         "Status":  "Present",
         "SortTime":  945.2166666666667
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "10/28/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.26666666666665
     },
     {
         "Subject":  "SUCCESS File Download Completed",
