@@ -539,15 +539,15 @@
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
@@ -679,14 +679,14 @@
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.43333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
@@ -866,6 +866,13 @@
         "ReceivedTime":  "10/28/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.83333333333337
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "10/28/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.76666666666665
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
