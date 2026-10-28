@@ -826,6 +826,13 @@
         "SortTime":  510.58333333333337
     },
     {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "10/28/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.81666666666672
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
