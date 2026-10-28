@@ -105,14 +105,14 @@
         "SortTime":  180.5
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.53333333333333
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
@@ -679,14 +679,14 @@
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.43333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
@@ -1006,6 +1006,13 @@
         "ReceivedTime":  "10/28/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.73333333333335
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "10/28/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.51666666666665
     },
     {
         "Subject":  "SUCCESS File Download Completed",
