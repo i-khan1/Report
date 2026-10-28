@@ -1106,6 +1106,13 @@
         "SortTime":  1248.5
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "10/27/2026 9:40 PM",
+        "Status":  "Present",
+        "SortTime":  1300.4666666666667
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
