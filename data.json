@@ -539,15 +539,15 @@
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
@@ -679,14 +679,14 @@
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.43333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
@@ -992,6 +992,20 @@
         "ReceivedTime":  "10/28/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.4666666666667
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/28/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.51666666666665
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/28/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.73333333333335
     },
     {
         "Subject":  "SUCCESS File Download Completed",
