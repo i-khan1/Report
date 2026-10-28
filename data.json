@@ -539,15 +539,15 @@
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "10/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to GTN America",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/28/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
@@ -679,14 +679,14 @@
         "SortTime":  375.23333333333335
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.43333333333334
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/28/2026 6:15 AM",
         "Status":  "Present",
@@ -1055,6 +1055,20 @@
         "ReceivedTime":  "10/28/2026 4:55 PM",
         "Status":  "Present",
         "SortTime":  1015.6333333333333
+    },
+    {
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "10/28/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.7
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "10/28/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3
     },
     {
         "Subject":  "SUCCESS File Download Completed",
