@@ -105,14 +105,14 @@
         "SortTime":  180.5
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.53333333333333
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
@@ -754,6 +754,13 @@
         "ReceivedTime":  "10/28/2026 7:24 AM",
         "Status":  "Present",
         "SortTime":  444.58333333333331
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "10/28/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.23333333333335
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
