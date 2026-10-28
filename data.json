@@ -105,14 +105,14 @@
         "SortTime":  180.5
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.53333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
@@ -201,6 +201,20 @@
         "ReceivedTime":  "10/28/2026 3:45 AM",
         "Status":  "Present",
         "SortTime":  225.88333333333333
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "10/28/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.20000000000002
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "10/28/2026 3:51 AM",
+        "Status":  "Present",
+        "SortTime":  231.21666666666667
     },
     {
         "Subject":  "FAILED File Download",
