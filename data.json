@@ -105,14 +105,14 @@
         "SortTime":  180.5
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.53333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "10/28/2026 3:00 AM",
         "Status":  "Present",
@@ -285,6 +285,13 @@
         "ReceivedTime":  "10/28/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.3
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "10/28/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.26666666666665
     },
     {
         "Subject":  "FAILED File Download",
