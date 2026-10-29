@@ -364,14 +364,14 @@
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
@@ -593,6 +593,13 @@
         "ReceivedTime":  "10/29/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.23333333333335
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/29/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.56666666666666
     },
     {
         "Subject":  "Compliance Reports",
