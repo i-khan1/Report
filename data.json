@@ -364,13 +364,6 @@
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/29/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.81666666666666
-    },
-    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
@@ -378,14 +371,21 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.81666666666666
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.86666666666667
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
@@ -922,6 +922,20 @@
         "ReceivedTime":  "10/29/2026 12:01 PM",
         "Status":  "Present",
         "SortTime":  721.23333333333335
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "10/29/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.75
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/29/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.23333333333335
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
