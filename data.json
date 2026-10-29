@@ -364,14 +364,14 @@
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
@@ -798,11 +798,25 @@
         "SortTime":  480.40000000000003
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "10/29/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.13333333333333
+    },
+    {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "10/29/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.28333333333336
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "10/29/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.13333333333333
     },
     {
         "Subject":  "SUCCESS File Download Completed",
@@ -812,15 +826,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Moneyline Report",
-        "ExpectedTime":  "8:01 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
