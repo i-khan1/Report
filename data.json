@@ -658,14 +658,14 @@
         "SortTime":  373.65000000000003
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/29/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/29/2026 6:15 AM",
         "Status":  "Present",
@@ -992,6 +992,20 @@
         "ReceivedTime":  "10/29/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.16666666666663
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/29/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.43333333333339
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/29/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.73333333333335
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
