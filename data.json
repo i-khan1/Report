@@ -152,5 +152,47 @@
         "ReceivedTime":  "10/29/2026 3:11 AM",
         "Status":  "Present",
         "SortTime":  191.3
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "10/29/2026 3:12 AM",
+        "Status":  "Present",
+        "SortTime":  192.16666666666666
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/29/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.21666666666667
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "10/29/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.45000000000002
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "10/29/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.56666666666666
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
