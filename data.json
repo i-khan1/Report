@@ -231,6 +231,20 @@
         "SortTime":  225.88333333333333
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "10/29/2026 3:46 AM",
+        "Status":  "Present",
+        "SortTime":  226.91666666666669
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "10/29/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.11666666666667
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
