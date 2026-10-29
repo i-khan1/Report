@@ -364,13 +364,6 @@
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/29/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.81666666666666
-    },
-    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
@@ -378,14 +371,21 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.81666666666666
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.86666666666667
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
@@ -658,14 +658,14 @@
         "SortTime":  373.65000000000003
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/29/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/29/2026 6:15 AM",
         "Status":  "Present",
@@ -866,6 +866,13 @@
         "ReceivedTime":  "10/29/2026 9:18 AM",
         "Status":  "Present",
         "SortTime":  558.73333333333335
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "10/29/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.55000000000007
     },
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
