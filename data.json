@@ -364,14 +364,14 @@
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
@@ -658,14 +658,14 @@
         "SortTime":  373.65000000000003
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/29/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.2
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "10/29/2026 6:15 AM",
         "Status":  "Present",
@@ -896,8 +896,15 @@
         "SortTime":  666.2833333333333
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "10/29/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.80000000000007
+    },
+    {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -905,6 +912,13 @@
     {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
