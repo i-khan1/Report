@@ -364,13 +364,6 @@
         "SortTime":  300.68333333333334
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "10/29/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.81666666666666
-    },
-    {
         "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
@@ -378,14 +371,21 @@
         "SortTime":  300.81666666666666
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "10/29/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.81666666666666
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.86666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "10/29/2026 5:00 AM",
         "Status":  "Present",
@@ -1048,6 +1048,27 @@
         "ReceivedTime":  "10/29/2026 4:55 PM",
         "Status":  "Present",
         "SortTime":  1015.7
+    },
+    {
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "10/29/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.6666666666667
+    },
+    {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "10/29/2026 5:09 PM",
+        "Status":  "Present",
+        "SortTime":  1029.3333333333333
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "10/29/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2333333333333
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
