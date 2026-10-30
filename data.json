@@ -434,11 +434,32 @@
         "SortTime":  305.26666666666665
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "10/30/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.18333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "10/30/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.53333333333336
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "10/30/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.65000000000003
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "10/30/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.75
     },
     {
         "Subject":  "SUCCESS File Download Completed",
@@ -448,8 +469,22 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
