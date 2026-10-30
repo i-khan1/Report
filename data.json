@@ -469,11 +469,25 @@
         "SortTime":  317.28333333333336
     },
     {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Backnine Expiring Options File for",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/30/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.25
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "10/30/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.5
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "10/30/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.26666666666665
     },
     {
         "Subject":  "SUCCESS File Download Completed",
@@ -483,8 +497,22 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:40 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
