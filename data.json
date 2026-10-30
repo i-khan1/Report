@@ -301,6 +301,13 @@
         "SortTime":  260.33333333333331
     },
     {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "10/30/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.16666666666669
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
