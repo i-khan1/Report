@@ -504,14 +504,14 @@
         "SortTime":  345.40000000000003
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/30/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.65000000000003
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "10/30/2026 5:45 AM",
         "Status":  "Present",
@@ -922,6 +922,20 @@
         "ReceivedTime":  "10/30/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.2166666666667
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "10/30/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.2833333333333
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "10/30/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.81666666666672
     },
     {
         "Subject":  "FAILED Egret File Upload",
