@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
@@ -103,6 +103,34 @@
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.86666666666667
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "11/2/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.18333333333334
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/2/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.4
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
+        "ReceivedTime":  "11/2/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.48333333333335
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     },
     {
         "Subject":  "Daily SOD Files to Andes Investments Group",
