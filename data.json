@@ -154,6 +154,13 @@
         "SortTime":  217.55
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "11/2/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.88333333333333
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
