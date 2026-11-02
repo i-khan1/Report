@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
@@ -229,6 +229,13 @@
         "ReceivedTime":  "11/2/2026 4:20 AM",
         "Status":  "Present",
         "SortTime":  260.23333333333335
+    },
+    {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "11/2/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.16666666666669
     },
     {
         "Subject":  "FAILED File Download",
