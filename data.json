@@ -259,13 +259,6 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/2/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.43333333333334
-    },
-    {
         "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
@@ -273,11 +266,11 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.4666666666667
+        "SortTime":  300.43333333333334
     },
     {
         "Subject":  "OIR and REGSHO Reports",
@@ -287,11 +280,11 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.48333333333335
+        "SortTime":  300.4666666666667
     },
     {
         "Subject":  "Risk Reports",
@@ -301,11 +294,11 @@
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
-        "SortTime":  300.5
+        "SortTime":  300.48333333333335
     },
     {
         "Subject":  "Options Reports",
@@ -316,6 +309,13 @@
     },
     {
         "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/2/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
@@ -607,6 +607,13 @@
         "ReceivedTime":  "11/2/2026 7:00 AM",
         "Status":  "Present",
         "SortTime":  420.3
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/2/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.11666666666667
     },
     {
         "Subject":  "FAILED File Download",
