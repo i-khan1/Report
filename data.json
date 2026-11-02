@@ -287,14 +287,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.48333333333335
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
@@ -341,6 +341,13 @@
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.91666666666669
+    },
+    {
+        "Subject":  "Daily Exercise Assignment Report for Capital",
+        "ExpectedTime":  "5:05 AM",
+        "ReceivedTime":  "11/2/2026 5:05 AM",
+        "Status":  "Present",
+        "SortTime":  305.11666666666667
     },
     {
         "Subject":  "FAILED File Download",
