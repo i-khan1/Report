@@ -273,14 +273,14 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
@@ -350,14 +350,14 @@
         "SortTime":  305.11666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/2/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/2/2026 5:15 AM",
         "Status":  "Present",
@@ -903,11 +903,18 @@
         "SortTime":  1015.65
     },
     {
-        "Subject":  "QDB Archive Coverage All Months Present",
-        "ExpectedTime":  "3:46 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "11/2/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.6333333333334
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/2/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.1833333333334
     },
     {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
@@ -917,15 +924,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
-        "ExpectedTime":  "4:17 PM",
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:11 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession Options File Check",
-        "ExpectedTime":  "5:07 PM",
+        "Subject":  "QDB Archive Coverage All Months Present",
+        "ExpectedTime":  "3:46 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -938,8 +945,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Guardians Report",
-        "ExpectedTime":  "7:11 AM",
+        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
+        "ExpectedTime":  "4:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
