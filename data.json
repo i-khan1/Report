@@ -840,6 +840,20 @@
         "SortTime":  896.15
     },
     {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/2/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.51666666666665
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "11/2/2026 3:01 PM",
+        "Status":  "Present",
+        "SortTime":  901.43333333333339
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
