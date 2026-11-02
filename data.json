@@ -882,6 +882,13 @@
         "SortTime":  984.38333333333333
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "11/2/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.48333333333335
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
         "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
