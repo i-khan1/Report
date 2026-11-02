@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
@@ -215,6 +215,13 @@
         "ReceivedTime":  "11/2/2026 4:01 AM",
         "Status":  "Present",
         "SortTime":  241.43333333333334
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "11/2/2026 4:05 AM",
+        "Status":  "Present",
+        "SortTime":  245.18333333333334
     },
     {
         "Subject":  "FAILED File Download",
