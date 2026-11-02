@@ -1,37 +1,7 @@
-﻿[
-    {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
-        "ExpectedTime":  "5:15 AM",
-        "ReceivedTime":  "11/1/2026 5:15 AM",
-        "Status":  "Present",
-        "SortTime":  315.4666666666667
-    },
-    {
-        "Subject":  "Monthly Transaction Count Report",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "11/1/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.48333333333335
-    },
-    {
-        "Subject":  "FINRA SHORT REPORT for VCapital",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "11/1/2026 8:00 AM",
-        "Status":  "Present",
-        "SortTime":  480.2
-    },
-    {
-        "Subject":  "FINRA SHORT REPORT for VClearing",
-        "ExpectedTime":  "8:00 AM",
-        "ReceivedTime":  "11/1/2026 8:00 AM",
-        "Status":  "Present",
-        "SortTime":  480.2166666666667
-    },
-    {
-        "Subject":  "Weekly DWRE Reports to",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    }
-]
+﻿{
+    "Subject":  "Daily Position File",
+    "ExpectedTime":  "2:19 AM",
+    "ReceivedTime":  "11/2/2026 2:18 AM",
+    "Status":  "Present",
+    "SortTime":  138.26666666666668
+}
