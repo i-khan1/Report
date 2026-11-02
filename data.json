@@ -350,14 +350,14 @@
         "SortTime":  305.11666666666667
     },
     {
-        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/2/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
         "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/2/2026 5:15 AM",
         "Status":  "Present",
@@ -705,6 +705,20 @@
         "ReceivedTime":  "11/2/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.73333333333335
+    },
+    {
+        "Subject":  "PM Reports V Horizon Notifications",
+        "ExpectedTime":  "9:10 AM",
+        "ReceivedTime":  "11/2/2026 9:14 AM",
+        "Status":  "Present",
+        "SortTime":  554.6
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "11/2/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.7
     },
     {
         "Subject":  "FAILED File Download",
