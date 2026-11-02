@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
@@ -259,13 +259,6 @@
         "SortTime":  300.41666666666669
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/2/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.43333333333334
-    },
-    {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
@@ -273,14 +266,21 @@
         "SortTime":  300.43333333333334
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/2/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.43333333333334
+    },
+    {
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
@@ -301,6 +301,13 @@
         "SortTime":  300.48333333333335
     },
     {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/2/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
@@ -309,13 +316,6 @@
     },
     {
         "Subject":  "Daily Expired Options Assignments Velocity File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/2/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.5
-    },
-    {
-        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
@@ -896,6 +896,13 @@
         "SortTime":  1010.2666666666667
     },
     {
+        "Subject":  "Options File Check",
+        "ExpectedTime":  "4:55 PM",
+        "ReceivedTime":  "11/2/2026 4:55 PM",
+        "Status":  "Present",
+        "SortTime":  1015.65
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
         "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
@@ -910,13 +917,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
-        "ExpectedTime":  "4:17 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "QDB Archive Coverage All Months Present",
         "ExpectedTime":  "3:46 PM",
         "ReceivedTime":  "",
@@ -924,8 +924,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "QDB Archive Monthly Counts MONTHLY COUNTS AVAILABLE COMPLETENESS NOT VERIFIED",
+        "ExpectedTime":  "4:54 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
+        "ExpectedTime":  "4:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -945,15 +952,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
