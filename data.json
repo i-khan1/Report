@@ -70,14 +70,14 @@
         "SortTime":  180.38333333333333
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.46666666666667
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to JBAM FUND",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/2/2026 3:00 AM",
         "Status":  "Present",
@@ -308,14 +308,14 @@
         "SortTime":  300.5
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/2/2026 5:00 AM",
         "Status":  "Present",
@@ -719,6 +719,13 @@
         "ReceivedTime":  "11/2/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.7
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "11/2/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.56666666666672
     },
     {
         "Subject":  "FAILED File Download",
