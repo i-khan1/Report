@@ -595,14 +595,14 @@
         "SortTime":  360.63333333333333
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
@@ -635,6 +635,13 @@
         "ReceivedTime":  "11/3/2026 6:06 AM",
         "Status":  "Present",
         "SortTime":  366.8
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/3/2026 6:08 AM",
+        "Status":  "Present",
+        "SortTime":  368.85
     },
     {
         "Subject":  "SUCCESS File Download Completed",
