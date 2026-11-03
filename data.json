@@ -833,6 +833,13 @@
         "SortTime":  510.56666666666666
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
+        "ReceivedTime":  "11/3/2026 8:38 AM",
+        "Status":  "Present",
+        "SortTime":  518.41666666666663
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
