@@ -672,6 +672,13 @@
         "SortTime":  375.33333333333331
     },
     {
+        "Subject":  "RE Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "11/3/2026 6:23 AM",
+        "Status":  "Present",
+        "SortTime":  383.53333333333336
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
