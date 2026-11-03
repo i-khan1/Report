@@ -595,14 +595,14 @@
         "SortTime":  360.63333333333333
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
@@ -817,6 +817,20 @@
         "ReceivedTime":  "11/3/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.13333333333333
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "11/3/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.28333333333336
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "11/3/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.56666666666666
     },
     {
         "Subject":  "FAILED File Download",
