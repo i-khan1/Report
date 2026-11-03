@@ -987,6 +987,13 @@
         "SortTime":  840.33333333333337
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/3/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.15
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
