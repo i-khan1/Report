@@ -1029,6 +1029,13 @@
         "SortTime":  945.18333333333339
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "11/3/2026 3:47 PM",
+        "Status":  "Present",
+        "SortTime":  947.76666666666665
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
