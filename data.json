@@ -595,14 +595,14 @@
         "SortTime":  360.63333333333333
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
@@ -679,11 +679,39 @@
         "SortTime":  383.53333333333336
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/3/2026 6:26 AM",
+        "Status":  "Present",
+        "SortTime":  386.88333333333333
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/3/2026 6:27 AM",
+        "Status":  "Present",
+        "SortTime":  387.33333333333331
+    },
+    {
+        "Subject":  "RE Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "11/3/2026 6:28 AM",
+        "Status":  "Present",
+        "SortTime":  388.81666666666666
+    },
+    {
+        "Subject":  "Marks What we owe",
+        "ExpectedTime":  "6:32 AM",
+        "ReceivedTime":  "11/3/2026 6:30 AM",
+        "Status":  "Present",
+        "SortTime":  390.53333333333336
+    },
+    {
+        "Subject":  "RE Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "11/3/2026 6:30 AM",
+        "Status":  "Present",
+        "SortTime":  390.8
     },
     {
         "Subject":  "FAILED File Download",
@@ -700,8 +728,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -714,15 +742,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
