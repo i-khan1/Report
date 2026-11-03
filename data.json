@@ -847,6 +847,20 @@
         "SortTime":  526.23333333333335
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/3/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.51666666666665
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/3/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.75
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
