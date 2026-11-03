@@ -952,6 +952,13 @@
         "SortTime":  1312.8833333333334
     },
     {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "11/2/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.2833333333333
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
         "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
@@ -966,8 +973,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "QDB Archive Coverage All Months Present",
+        "ExpectedTime":  "3:46 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -987,8 +994,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Archive Coverage All Months Present",
-        "ExpectedTime":  "3:46 PM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1001,15 +1008,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity to Tradepro",
-        "ExpectedTime":  "10:00 PM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1024,13 +1031,6 @@
     {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
