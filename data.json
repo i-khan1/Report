@@ -210,6 +210,27 @@
         "SortTime":  211.25
     },
     {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
+        "ReceivedTime":  "11/3/2026 3:34 AM",
+        "Status":  "Present",
+        "SortTime":  214.76666666666668
+    },
+    {
+        "Subject":  "VCVW OvernightSilexxPosition File Status SUCCESS",
+        "ExpectedTime":  "4:28 AM",
+        "ReceivedTime":  "11/3/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.86666666666667
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/3/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.21666666666667
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
