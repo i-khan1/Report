@@ -357,15 +357,15 @@
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/3/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.5
@@ -1076,6 +1076,20 @@
         "ReceivedTime":  "11/3/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.8333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "11/3/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.25
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "11/3/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.0833333333333
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
