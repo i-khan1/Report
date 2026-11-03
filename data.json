@@ -595,14 +595,14 @@
         "SortTime":  360.63333333333333
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.65000000000003
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/3/2026 6:00 AM",
         "Status":  "Present",
@@ -1034,6 +1034,13 @@
         "ReceivedTime":  "11/3/2026 3:47 PM",
         "Status":  "Present",
         "SortTime":  947.76666666666665
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "11/3/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.30000000000007
     },
     {
         "Subject":  "Tefra File Load FAILURE",
