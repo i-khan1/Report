@@ -315,6 +315,13 @@
         "SortTime":  245.43333333333334
     },
     {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "11/3/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.35
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
