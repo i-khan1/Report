@@ -1043,6 +1043,20 @@
         "SortTime":  960.30000000000007
     },
     {
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
+        "ReceivedTime":  "11/3/2026 4:35 PM",
+        "Status":  "Present",
+        "SortTime":  995.43333333333339
+    },
+    {
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -1050,8 +1064,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "VEL SEC DB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "4:37 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1064,8 +1078,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
-        "ExpectedTime":  "6:44 AM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
