@@ -1015,6 +1015,13 @@
         "SortTime":  902.05000000000007
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "11/3/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.33333333333337
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
