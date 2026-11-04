@@ -98,14 +98,14 @@
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "Daily SOD to Hexstone Capital LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/4/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.45000000000002
     },
     {
-        "Subject":  "Daily SOD to Hexstone Capital LLC",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/4/2026 3:00 AM",
         "Status":  "Present",
@@ -152,5 +152,47 @@
         "ReceivedTime":  "11/4/2026 3:10 AM",
         "Status":  "Present",
         "SortTime":  190.23333333333335
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "11/4/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.51666666666668
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
