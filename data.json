@@ -1099,6 +1099,13 @@
         "SortTime":  1090.4666666666667
     },
     {
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "11/3/2026 8:48 PM",
+        "Status":  "Present",
+        "SortTime":  1248.6333333333334
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -1129,13 +1136,6 @@
     {
         "Subject":  "iClear PROD to UAT Account Sync Completed",
         "ExpectedTime":  "11:46 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "KISA NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:47 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
