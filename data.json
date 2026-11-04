@@ -1106,6 +1106,13 @@
         "SortTime":  1248.6333333333334
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "11/3/2026 9:51 PM",
+        "Status":  "Present",
+        "SortTime":  1311.55
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
