@@ -518,14 +518,14 @@
         "SortTime":  345.28333333333336
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/4/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.6
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/4/2026 5:45 AM",
         "Status":  "Present",
@@ -733,6 +733,20 @@
         "ReceivedTime":  "11/4/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.2166666666667
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/4/2026 7:47 AM",
+        "Status":  "Present",
+        "SortTime":  467.9666666666667
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/4/2026 7:49 AM",
+        "Status":  "Present",
+        "SortTime":  469.73333333333335
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
