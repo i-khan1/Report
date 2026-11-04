@@ -518,14 +518,14 @@
         "SortTime":  345.28333333333336
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/4/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.6
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/4/2026 5:45 AM",
         "Status":  "Present",
@@ -602,14 +602,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/4/2026 6:00 AM",
         "Status":  "Present",
@@ -936,6 +936,13 @@
         "ReceivedTime":  "11/4/2026 1:06 PM",
         "Status":  "Present",
         "SortTime":  786.16666666666663
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/4/2026 2:00 PM",
+        "Status":  "Present",
+        "SortTime":  840.2833333333333
     },
     {
         "Subject":  "SUCCESS File Download Completed",
