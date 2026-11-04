@@ -210,6 +210,20 @@
         "SortTime":  225.88333333333333
     },
     {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "11/4/2026 3:48 AM",
+        "Status":  "Present",
+        "SortTime":  228.28333333333333
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "11/4/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.28333333333333
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
