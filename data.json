@@ -602,14 +602,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/4/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/4/2026 6:00 AM",
         "Status":  "Present",
@@ -1043,11 +1043,18 @@
         "SortTime":  1021.9666666666667
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "11/4/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.8
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/4/2026 5:11 PM",
+        "Status":  "Present",
+        "SortTime":  1031.7833333333333
     },
     {
         "Subject":  "SUCCESS File Download Completed",
@@ -1057,8 +1064,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession Options File Check",
-        "ExpectedTime":  "5:07 PM",
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1071,8 +1078,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1085,8 +1092,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
