@@ -854,6 +854,20 @@
         "SortTime":  631.13333333333333
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/5/2026 10:46 AM",
+        "Status":  "Present",
+        "SortTime":  646.35
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/5/2026 10:46 AM",
+        "Status":  "Present",
+        "SortTime":  646.38333333333333
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
