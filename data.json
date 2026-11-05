@@ -145,5 +145,40 @@
         "ReceivedTime":  "11/5/2026 3:10 AM",
         "Status":  "Present",
         "SortTime":  190.38333333333333
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "11/5/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.25
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/5/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.38333333333333
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/5/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.53333333333333
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
