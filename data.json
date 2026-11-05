@@ -574,14 +574,14 @@
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/5/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/5/2026 6:00 AM",
         "Status":  "Present",
@@ -775,6 +775,20 @@
         "ReceivedTime":  "11/5/2026 8:06 AM",
         "Status":  "Present",
         "SortTime":  486.35
+    },
+    {
+        "Subject":  "Fixed Income Inteliclear Trial Balance",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "11/5/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.31666666666666
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:30 AM",
+        "ReceivedTime":  "11/5/2026 8:30 AM",
+        "Status":  "Present",
+        "SortTime":  510.48333333333335
     },
     {
         "Subject":  "FAILED File Download",
