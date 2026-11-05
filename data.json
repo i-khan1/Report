@@ -574,14 +574,14 @@
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/5/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/5/2026 6:00 AM",
         "Status":  "Present",
@@ -700,11 +700,18 @@
         "SortTime":  420.63333333333333
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Stock VS Borrow File",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "11/5/2026 7:02 AM",
+        "Status":  "Present",
+        "SortTime":  422.23333333333335
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/5/2026 7:06 AM",
+        "Status":  "Present",
+        "SortTime":  426.15000000000003
     },
     {
         "Subject":  "FAILED File Download",
@@ -721,15 +728,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Stock VS Borrow File",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
