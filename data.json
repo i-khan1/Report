@@ -518,11 +518,102 @@
         "SortTime":  347.4666666666667
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/5/2026 5:58 AM",
+        "Status":  "Present",
+        "SortTime":  358.56666666666666
+    },
+    {
+        "Subject":  "Daily VCLT BMSY Buys Reports",
+        "ExpectedTime":  "6:02 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.25
+    },
+    {
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.35
+    },
+    {
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.51666666666665
+    },
+    {
+        "Subject":  "Daily ETB File",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.53333333333336
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to GTN America",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.56666666666666
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.68333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7166666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.73333333333335
+    },
+    {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/5/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.8
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/5/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.06666666666666
+    },
+    {
+        "Subject":  "Equity Margin Report",
+        "ExpectedTime":  "6:01 AM",
+        "ReceivedTime":  "11/5/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.13333333333333
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/5/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.78333333333336
     },
     {
         "Subject":  "FAILED File Download",
@@ -539,6 +630,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -546,15 +644,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
