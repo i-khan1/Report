@@ -574,14 +574,14 @@
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/5/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/5/2026 6:00 AM",
         "Status":  "Present",
@@ -866,6 +866,20 @@
         "ReceivedTime":  "11/5/2026 10:46 AM",
         "Status":  "Present",
         "SortTime":  646.38333333333333
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/5/2026 10:47 AM",
+        "Status":  "Present",
+        "SortTime":  647.98333333333335
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/5/2026 10:49 AM",
+        "Status":  "Present",
+        "SortTime":  649.43333333333339
     },
     {
         "Subject":  "FAILED File Download",
