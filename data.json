@@ -168,6 +168,27 @@
         "SortTime":  195.53333333333333
     },
     {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "11/5/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.38333333333333
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "11/5/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.68333333333334
+    },
+    {
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "11/5/2026 3:31 AM",
+        "Status":  "Present",
+        "SortTime":  211.58333333333334
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
