@@ -763,6 +763,20 @@
         "SortTime":  481.3
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "11/5/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.53333333333336
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/5/2026 8:06 AM",
+        "Status":  "Present",
+        "SortTime":  486.35
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
