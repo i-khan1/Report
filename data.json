@@ -301,21 +301,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
-        "ReceivedTime":  "11/6/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.4666666666667
-    },
-    {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -324,6 +317,13 @@
     {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/6/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -901,6 +901,13 @@
         "ReceivedTime":  "11/6/2026 11:27 AM",
         "Status":  "Present",
         "SortTime":  687.05000000000007
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "11/6/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.9666666666667
     },
     {
         "Subject":  "SUCCESS File Download Completed",
