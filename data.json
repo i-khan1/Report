@@ -1094,13 +1094,20 @@
     {
         "Subject":  "KISA NHIS gross and net different direction EOD",
         "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "11/5/2026 8:49 PM",
+        "Status":  "Present",
+        "SortTime":  1249.1333333333334
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1115,13 +1122,6 @@
     {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
