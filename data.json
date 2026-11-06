@@ -301,7 +301,7 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -315,7 +315,7 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -1013,6 +1013,13 @@
         "ReceivedTime":  "11/6/2026 3:57 PM",
         "Status":  "Present",
         "SortTime":  957.2833333333333
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "11/6/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.2833333333333
     },
     {
         "Subject":  "SUCCESS File Download Completed",
