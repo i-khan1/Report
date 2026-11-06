@@ -301,6 +301,13 @@
         "SortTime":  300.45
     },
     {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/6/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
         "Subject":  "Daily CBRS Confirmation to Taxes",
         "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
@@ -309,13 +316,6 @@
     },
     {
         "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/6/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.4666666666667
-    },
-    {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -1069,6 +1069,13 @@
         "ReceivedTime":  "11/6/2026 5:34 PM",
         "Status":  "Present",
         "SortTime":  1054.1333333333334
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "11/6/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.4166666666667
     },
     {
         "Subject":  "SUCCESS File Download Completed",
