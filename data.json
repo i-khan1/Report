@@ -301,14 +301,7 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/6/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.4666666666667
-    },
-    {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -322,7 +315,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/6/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -656,6 +656,34 @@
         "ReceivedTime":  "11/6/2026 6:09 AM",
         "Status":  "Present",
         "SortTime":  369.93333333333334
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/6/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.25
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/6/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.40000000000003
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/6/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.45
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/6/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.53333333333336
     },
     {
         "Subject":  "FAILURE File Not Available on SFTP",
