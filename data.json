@@ -301,15 +301,15 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -322,8 +322,8 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -908,6 +908,20 @@
         "ReceivedTime":  "11/6/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.9666666666667
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/6/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.23333333333335
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/6/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.25
     },
     {
         "Subject":  "SUCCESS File Download Completed",
