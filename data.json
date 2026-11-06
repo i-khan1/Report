@@ -301,15 +301,15 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -859,6 +859,13 @@
         "ReceivedTime":  "11/6/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.7
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "11/6/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.58333333333337
     },
     {
         "Subject":  "SUCCESS File Download Completed",
