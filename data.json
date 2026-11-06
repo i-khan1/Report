@@ -301,14 +301,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
@@ -322,8 +322,8 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -824,6 +824,20 @@
         "ReceivedTime":  "11/6/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.68333333333339
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/6/2026 9:01 AM",
+        "Status":  "Present",
+        "SortTime":  541.85
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/6/2026 9:01 AM",
+        "Status":  "Present",
+        "SortTime":  541.91666666666663
     },
     {
         "Subject":  "SUCCESS File Download Completed",
