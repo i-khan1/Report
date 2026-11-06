@@ -301,8 +301,8 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -322,8 +322,8 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/6/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
@@ -978,6 +978,20 @@
         "ReceivedTime":  "11/6/2026 2:56 PM",
         "Status":  "Present",
         "SortTime":  896.15
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/6/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.25
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "11/6/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.76666666666665
     },
     {
         "Subject":  "SUCCESS File Download Completed",
