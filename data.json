@@ -126,6 +126,13 @@
         "SortTime":  480.3
     },
     {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/7/2026 9:01 AM",
+        "Status":  "Present",
+        "SortTime":  541.26666666666665
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
