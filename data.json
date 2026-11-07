@@ -105,6 +105,13 @@
         "SortTime":  406.13333333333333
     },
     {
+        "Subject":  "Daily LATAM Margin Report",
+        "ExpectedTime":  "10:29 AM",
+        "ReceivedTime":  "11/7/2026 6:59 AM",
+        "Status":  "Present",
+        "SortTime":  419.48333333333335
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
