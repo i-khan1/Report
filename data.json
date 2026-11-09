@@ -819,6 +819,20 @@
         "SortTime":  840.2833333333333
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/9/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.18333333333339
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FIS File Delivered VCC cp security n",
         "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
@@ -826,8 +840,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
+        "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -840,8 +854,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP Secondary",
-        "ExpectedTime":  "11:15 AM",
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -854,8 +868,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
