@@ -469,14 +469,14 @@
         "SortTime":  360.73333333333335
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily ETB File",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.76666666666665
     },
     {
-        "Subject":  "Daily ETB File",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:00 AM",
         "Status":  "Present",
@@ -761,6 +761,20 @@
         "ReceivedTime":  "11/9/2026 11:50 AM",
         "Status":  "Present",
         "SortTime":  710.75
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/9/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.25
+    },
+    {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/9/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.2833333333333
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
