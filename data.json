@@ -497,15 +497,15 @@
         "SortTime":  363.28333333333336
     },
     {
-        "Subject":  "Weekly New iClear Accounts Report to",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Weekly New iClear Accounts Report to",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
@@ -922,6 +922,20 @@
         "ReceivedTime":  "11/9/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.2166666666667
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "11/9/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.3333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "11/9/2026 5:31 PM",
+        "Status":  "Present",
+        "SortTime":  1051.1
     },
     {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
