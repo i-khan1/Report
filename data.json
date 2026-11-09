@@ -497,15 +497,15 @@
         "SortTime":  363.28333333333336
     },
     {
-        "Subject":  "Weekly New iClear Accounts Report to",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Weekly New iClear Accounts Report to",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
@@ -756,8 +756,15 @@
         "SortTime":  666.4
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP Secondary",
-        "ExpectedTime":  "11:15 AM",
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "11/9/2026 11:50 AM",
+        "Status":  "Present",
+        "SortTime":  710.75
+    },
+    {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -772,6 +779,13 @@
     {
         "Subject":  "Guardians Report",
         "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
