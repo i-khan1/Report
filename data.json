@@ -497,15 +497,15 @@
         "SortTime":  363.28333333333336
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Weekly New iClear Accounts Report to",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
     },
     {
-        "Subject":  "Weekly New iClear Accounts Report to",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
@@ -651,6 +651,27 @@
         "SortTime":  472.63333333333333
     },
     {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/9/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.3
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/9/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "11/9/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.31666666666666
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -665,6 +686,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -672,8 +700,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
