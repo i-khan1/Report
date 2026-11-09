@@ -175,14 +175,14 @@
         "SortTime":  240.31666666666666
     },
     {
-        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "11/9/2026 4:00 AM",
         "Status":  "Present",
         "SortTime":  240.41666666666669
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "11/9/2026 4:00 AM",
         "Status":  "Present",
@@ -497,15 +497,15 @@
         "SortTime":  363.28333333333336
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Weekly New iClear Accounts Report to",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
     },
     {
-        "Subject":  "Weekly New iClear Accounts Report to",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
@@ -775,6 +775,27 @@
         "ReceivedTime":  "11/9/2026 12:00 PM",
         "Status":  "Present",
         "SortTime":  720.2833333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/9/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.73333333333335
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/9/2026 12:05 PM",
+        "Status":  "Present",
+        "SortTime":  725.75
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/9/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.11666666666667
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
