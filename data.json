@@ -21,15 +21,15 @@
         "SortTime":  160.86666666666667
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "11/9/2026 2:47 AM",
+        "Status":  "Present",
+        "SortTime":  167.91666666666666
+    },
+    {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
