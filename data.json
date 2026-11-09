@@ -910,11 +910,18 @@
         "SortTime":  1015.65
     },
     {
-        "Subject":  "QDB Archive Coverage All Months Present",
-        "ExpectedTime":  "3:46 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "11/9/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.6333333333334
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/9/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2166666666667
     },
     {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
@@ -931,8 +938,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession Options File Check",
-        "ExpectedTime":  "5:07 PM",
+        "Subject":  "QDB Archive Coverage All Months Present",
+        "ExpectedTime":  "3:46 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -952,8 +959,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -973,8 +980,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
