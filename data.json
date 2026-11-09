@@ -497,15 +497,15 @@
         "SortTime":  363.28333333333336
     },
     {
-        "Subject":  "Weekly New iClear Accounts Report to",
-        "ExpectedTime":  "6:02 AM",
+        "Subject":  "IONIC Daily Short Interest Report",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
     },
     {
-        "Subject":  "IONIC Daily Short Interest Report",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Weekly New iClear Accounts Report to",
+        "ExpectedTime":  "6:02 AM",
         "ReceivedTime":  "11/9/2026 6:03 AM",
         "Status":  "Present",
         "SortTime":  363.31666666666666
@@ -642,6 +642,13 @@
         "ReceivedTime":  "11/9/2026 7:51 AM",
         "Status":  "Present",
         "SortTime":  471.15000000000003
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/9/2026 7:52 AM",
+        "Status":  "Present",
+        "SortTime":  472.63333333333333
     },
     {
         "Subject":  "FAILED File Download",
