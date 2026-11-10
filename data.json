@@ -602,14 +602,14 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
@@ -873,6 +873,13 @@
         "ReceivedTime":  "11/10/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.5333333333333
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/10/2026 10:44 AM",
+        "Status":  "Present",
+        "SortTime":  644.41666666666663
     },
     {
         "Subject":  "Tefra File Load FAILURE",
