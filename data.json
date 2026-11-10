@@ -210,6 +210,20 @@
         "SortTime":  215.31666666666666
     },
     {
+        "Subject":  "Daily SOD Files to ASB Bank Corp",
+        "ExpectedTime":  "5:09 AM",
+        "ReceivedTime":  "11/10/2026 3:37 AM",
+        "Status":  "Present",
+        "SortTime":  217.56666666666666
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/10/2026 3:40 AM",
+        "Status":  "Present",
+        "SortTime":  220.16666666666666
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
