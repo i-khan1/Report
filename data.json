@@ -952,6 +952,13 @@
         "SortTime":  846.13333333333333
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
+        "ReceivedTime":  "11/10/2026 2:37 PM",
+        "Status":  "Present",
+        "SortTime":  877.5333333333333
+    },
+    {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
