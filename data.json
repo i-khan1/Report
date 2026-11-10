@@ -959,6 +959,13 @@
         "SortTime":  1320.4333333333334
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "11/9/2026 10:38 PM",
+        "Status":  "Present",
+        "SortTime":  1358.3
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
         "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
@@ -1001,8 +1008,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:17 PM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1015,15 +1022,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Dreyfus Rate",
-        "ExpectedTime":  "10:02 PM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1038,13 +1045,6 @@
     {
         "Subject":  "FAILURE File Not Available on SFTP Secondary",
         "ExpectedTime":  "11:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
