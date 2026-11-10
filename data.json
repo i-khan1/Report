@@ -728,6 +728,13 @@
         "SortTime":  426.18333333333334
     },
     {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "11/10/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.75
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
