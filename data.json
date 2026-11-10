@@ -987,6 +987,20 @@
         "SortTime":  951.15
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/10/2026 3:53 PM",
+        "Status":  "Present",
+        "SortTime":  953.2166666666667
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/10/2026 3:54 PM",
+        "Status":  "Present",
+        "SortTime":  954.65
+    },
+    {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
