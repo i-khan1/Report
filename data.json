@@ -602,14 +602,14 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
@@ -1036,6 +1036,20 @@
         "SortTime":  1015.8833333333333
     },
     {
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "11/10/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.6833333333334
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/10/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.3
+    },
+    {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
         "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
@@ -1043,15 +1057,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession Options File Check",
-        "ExpectedTime":  "5:07 PM",
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "iClear PROD to UAT Account Sync Completed",
+        "ExpectedTime":  "11:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1071,15 +1085,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "iClear PROD to UAT Account Sync Completed",
-        "ExpectedTime":  "11:46 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1099,8 +1106,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
