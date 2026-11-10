@@ -882,6 +882,13 @@
         "SortTime":  644.41666666666663
     },
     {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/10/2026 10:47 AM",
+        "Status":  "Present",
+        "SortTime":  647.45
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
