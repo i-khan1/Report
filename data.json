@@ -329,6 +329,132 @@
         "SortTime":  276.16666666666669
     },
     {
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.23333333333335
+    },
+    {
+        "Subject":  "Daily SOD VCTY CASH File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.28333333333336
+    },
+    {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.31666666666666
+    },
+    {
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.38333333333333
+    },
+    {
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.41666666666669
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.45
+    },
+    {
+        "Subject":  "Options Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.4666666666667
+    },
+    {
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.5
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.51666666666665
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.53333333333336
+    },
+    {
+        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.7166666666667
+    },
+    {
+        "Subject":  "New Account Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.73333333333335
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.83333333333331
+    },
+    {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.85
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.91666666666669
+    },
+    {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/10/2026 5:01 AM",
+        "Status":  "Present",
+        "SortTime":  301.01666666666665
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -336,8 +462,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
