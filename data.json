@@ -602,13 +602,6 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "11/10/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.68333333333334
-    },
-    {
         "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
@@ -617,6 +610,13 @@
     },
     {
         "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/10/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.68333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
@@ -635,6 +635,20 @@
         "ReceivedTime":  "11/10/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.08333333333331
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/10/2026 6:01 AM",
+        "Status":  "Present",
+        "SortTime":  361.95
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/10/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.26666666666665
     },
     {
         "Subject":  "FAILED File Download",
