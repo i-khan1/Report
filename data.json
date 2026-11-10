@@ -945,6 +945,13 @@
         "SortTime":  1090.4166666666667
     },
     {
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "11/9/2026 8:49 PM",
+        "Status":  "Present",
+        "SortTime":  1249.0333333333333
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
         "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
@@ -982,13 +989,6 @@
     {
         "Subject":  "QDB Archive Coverage All Months Present",
         "ExpectedTime":  "3:46 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "KISA NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:47 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
