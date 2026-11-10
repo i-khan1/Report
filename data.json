@@ -602,14 +602,14 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
@@ -852,6 +852,20 @@
         "ReceivedTime":  "11/10/2026 9:32 AM",
         "Status":  "Present",
         "SortTime":  572.7166666666667
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "11/10/2026 9:57 AM",
+        "Status":  "Present",
+        "SortTime":  597.81666666666672
+    },
+    {
+        "Subject":  "Daily PTP Block List",
+        "ExpectedTime":  "4:05 AM",
+        "ReceivedTime":  "11/10/2026 9:59 AM",
+        "Status":  "Present",
+        "SortTime":  599.2833333333333
     },
     {
         "Subject":  "Tefra File Load FAILURE",
