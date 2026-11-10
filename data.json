@@ -903,8 +903,15 @@
         "SortTime":  710.81666666666672
     },
     {
-        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
-        "ExpectedTime":  "6:44 AM",
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/10/2026 12:00 PM",
+        "Status":  "Present",
+        "SortTime":  720.31666666666672
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -912,6 +919,13 @@
     {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -931,13 +945,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -952,15 +959,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
