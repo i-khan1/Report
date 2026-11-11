@@ -602,14 +602,14 @@
         "SortTime":  360.66666666666669
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/10/2026 6:00 AM",
         "Status":  "Present",
@@ -1090,6 +1090,13 @@
         "ReceivedTime":  "11/10/2026 9:56 PM",
         "Status":  "Present",
         "SortTime":  1316.5833333333333
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "11/10/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.3666666666668
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
