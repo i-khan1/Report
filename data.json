@@ -847,6 +847,34 @@
         "SortTime":  711.5333333333333
     },
     {
+        "Subject":  "Daily UNAFFIRM Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "11/11/2026 12:01 PM",
+        "Status":  "Present",
+        "SortTime":  721.91666666666663
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/11/2026 12:01 PM",
+        "Status":  "Present",
+        "SortTime":  721.93333333333339
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/11/2026 12:02 PM",
+        "Status":  "Present",
+        "SortTime":  722
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/11/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.11666666666667
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -889,15 +917,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily UNAFFIRM Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -917,6 +938,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILURE File Not Available on SFTP Secondary",
         "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "",
@@ -926,13 +954,6 @@
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
