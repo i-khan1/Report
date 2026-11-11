@@ -938,6 +938,13 @@
         "SortTime":  900.68333333333339
     },
     {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "11/11/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.55000000000007
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
