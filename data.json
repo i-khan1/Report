@@ -952,6 +952,13 @@
         "SortTime":  960.35
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "11/11/2026 4:13 PM",
+        "Status":  "Present",
+        "SortTime":  973.2
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
