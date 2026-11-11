@@ -770,6 +770,20 @@
         "SortTime":  525.63333333333333
     },
     {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/11/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.41666666666663
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/11/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.73333333333335
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
