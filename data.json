@@ -218,20 +218,83 @@
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:56 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "ExpectedTime":  "3:55 AM",
+        "ReceivedTime":  "11/11/2026 3:56 AM",
+        "Status":  "Present",
+        "SortTime":  236.95000000000002
     },
     {
-        "Subject":  "FAILED File Download",
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
+        "ReceivedTime":  "11/11/2026 3:58 AM",
+        "Status":  "Present",
+        "SortTime":  238.55
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.25
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.33333333333334
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.38333333333333
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.43333333333334
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.91666666666669
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.25
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.26666666666668
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/11/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.51666666666668
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
+        "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
