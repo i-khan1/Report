@@ -322,14 +322,14 @@
         "SortTime":  300.45
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/11/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/11/2026 5:00 AM",
         "Status":  "Present",
@@ -761,6 +761,13 @@
         "ReceivedTime":  "11/11/2026 8:33 AM",
         "Status":  "Present",
         "SortTime":  513.3
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "11/11/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.63333333333333
     },
     {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
