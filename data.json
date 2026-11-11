@@ -609,6 +609,20 @@
         "SortTime":  361.11666666666667
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/11/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.08333333333331
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/11/2026 6:02 AM",
+        "Status":  "Present",
+        "SortTime":  362.33333333333331
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
