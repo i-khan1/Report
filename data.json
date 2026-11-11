@@ -910,6 +910,20 @@
         "SortTime":  873.41666666666663
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/11/2026 2:44 PM",
+        "Status":  "Present",
+        "SortTime":  884.2833333333333
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/11/2026 2:45 PM",
+        "Status":  "Present",
+        "SortTime":  885.76666666666665
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
