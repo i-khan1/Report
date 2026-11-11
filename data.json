@@ -805,6 +805,13 @@
         "SortTime":  558.30000000000007
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "11/11/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.65
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
