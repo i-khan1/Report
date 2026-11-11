@@ -896,6 +896,13 @@
         "SortTime":  846.2166666666667
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
+        "ReceivedTime":  "11/11/2026 2:11 PM",
+        "Status":  "Present",
+        "SortTime":  851.18333333333339
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
