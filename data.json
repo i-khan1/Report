@@ -882,6 +882,13 @@
         "SortTime":  761.18333333333339
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/11/2026 1:06 PM",
+        "Status":  "Present",
+        "SortTime":  786.18333333333339
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
