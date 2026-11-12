@@ -378,7 +378,7 @@
         "SortTime":  300.91666666666669
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -392,7 +392,7 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Daily Options Reports for Capital",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -663,6 +663,13 @@
         "ReceivedTime":  "11/12/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.38333333333333
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/12/2026 7:51 AM",
+        "Status":  "Present",
+        "SortTime":  471
     },
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
