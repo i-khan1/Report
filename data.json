@@ -378,6 +378,13 @@
         "SortTime":  300.91666666666669
     },
     {
+        "Subject":  "Daily Options Reports for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/12/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
+    },
+    {
         "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
@@ -386,13 +393,6 @@
     },
     {
         "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/12/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.93333333333334
-    },
-    {
-        "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -593,6 +593,20 @@
         "ReceivedTime":  "11/12/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.9666666666667
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/12/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.15000000000003
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/12/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.26666666666665
     },
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
