@@ -385,14 +385,14 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Expired Options Assignments Velocity File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Daily Expired Options Assignments Velocity File",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -679,15 +679,43 @@
         "SortTime":  472.86666666666667
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/12/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/12/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/12/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "5:32 AM",
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -707,8 +735,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
-        "ExpectedTime":  "6:15 AM",
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -728,14 +756,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
