@@ -574,14 +574,14 @@
         "SortTime":  360.61666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/11/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/11/2026 6:00 AM",
         "Status":  "Present",
@@ -1015,13 +1015,6 @@
         "SortTime":  1090.4333333333334
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -1031,6 +1024,20 @@
     {
         "Subject":  "Daily c Report",
         "ExpectedTime":  "8:02 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1051,13 +1058,6 @@
     },
     {
         "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -1085,6 +1085,20 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue Secondary",
         "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
@@ -1094,13 +1108,6 @@
     {
         "Subject":  "FAILURE File Not Available on SFTP Secondary",
         "ExpectedTime":  "11:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
