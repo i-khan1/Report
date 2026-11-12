@@ -672,6 +672,13 @@
         "SortTime":  471
     },
     {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/12/2026 7:52 AM",
+        "Status":  "Present",
+        "SortTime":  472.86666666666667
+    },
+    {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
