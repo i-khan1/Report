@@ -1015,11 +1015,11 @@
         "SortTime":  1090.4333333333334
     },
     {
-        "Subject":  "FAILURE File Transfer Issue",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "11/11/2026 8:49 PM",
+        "Status":  "Present",
+        "SortTime":  1249
     },
     {
         "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
@@ -1036,8 +1036,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "KISA NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:47 PM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1058,13 +1065,6 @@
     },
     {
         "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
