@@ -238,14 +238,14 @@
         "SortTime":  241.58333333333334
     },
     {
-        "Subject":  "Daily OTC File to GTN America",
+        "Subject":  "Daily OTC File",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "11/12/2026 4:01 AM",
         "Status":  "Present",
         "SortTime":  241.86666666666667
     },
     {
-        "Subject":  "Daily OTC File",
+        "Subject":  "Daily OTC File to GTN America",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "11/12/2026 4:01 AM",
         "Status":  "Present",
@@ -378,7 +378,7 @@
         "SortTime":  300.91666666666669
     },
     {
-        "Subject":  "Daily Options Reports for Capital",
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -392,7 +392,7 @@
         "SortTime":  300.93333333333334
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
+        "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -616,8 +616,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -630,8 +630,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -644,8 +651,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "5:32 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
