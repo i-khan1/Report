@@ -378,13 +378,6 @@
         "SortTime":  300.91666666666669
     },
     {
-        "Subject":  "Daily Option Exercise Assignments File to Valuable",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/12/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.93333333333334
-    },
-    {
         "Subject":  "Daily Options Reports for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
@@ -393,6 +386,13 @@
     },
     {
         "Subject":  "Daily Expired Options Assignments Velocity File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/12/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.93333333333334
+    },
+    {
+        "Subject":  "Daily Option Exercise Assignments File to Valuable",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/12/2026 5:00 AM",
         "Status":  "Present",
@@ -861,6 +861,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -884,13 +891,6 @@
     {
         "Subject":  "DVP Open Items Report at Velocity Clearing",
         "ExpectedTime":  "3:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "When Issued Report for",
-        "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -924,8 +924,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Ambrus Executions",
-        "ExpectedTime":  "12:40 PM",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -938,8 +938,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
-        "ExpectedTime":  "6:15 AM",
+        "Subject":  "When Issued Report for",
+        "ExpectedTime":  "5:32 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -947,6 +947,13 @@
     {
         "Subject":  "TradeBlazer Reports",
         "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
