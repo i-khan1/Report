@@ -882,6 +882,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Options File Check",
         "ExpectedTime":  "4:55 PM",
         "ReceivedTime":  "",
@@ -910,13 +917,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "DVP Open Items Report at Velocity Clearing",
         "ExpectedTime":  "3:00 PM",
         "ReceivedTime":  "",
@@ -924,15 +924,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
-        "ExpectedTime":  "4:36 PM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -987,8 +987,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily ETB File to Trading",
-        "ExpectedTime":  "6:10 PM",
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1008,15 +1008,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily ETB File to Augustus",
-        "ExpectedTime":  "5:31 PM",
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Settlement Report csv",
-        "ExpectedTime":  "3:21 PM",
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1031,6 +1031,13 @@
     {
         "Subject":  "Daily ETB File to Eduardo",
         "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
