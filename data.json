@@ -21,6 +21,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "MAXIT Upload Report",
         "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
@@ -35,8 +42,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Success AWS Backup Server Database Date",
-        "ExpectedTime":  "2:43 AM",
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
