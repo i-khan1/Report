@@ -70,14 +70,14 @@
         "SortTime":  182.31666666666666
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
         "SortTime":  182.31666666666666
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
@@ -119,15 +119,15 @@
         "SortTime":  196.21666666666667
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "11/16/2026 3:16 AM",
         "Status":  "Present",
         "SortTime":  196.23333333333335
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP Secondary",
-        "ExpectedTime":  "11:15 AM",
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "11/16/2026 3:16 AM",
         "Status":  "Present",
         "SortTime":  196.23333333333335
@@ -322,15 +322,15 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "11/16/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/16/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
@@ -343,15 +343,29 @@
         "SortTime":  317.11666666666667
     },
     {
-        "Subject":  "Daily SOD to JBAM FUND",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Backnine Expiring Options File for",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "11/16/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.15000000000003
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD to JBAM FUND",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -385,14 +399,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
