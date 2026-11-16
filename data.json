@@ -938,6 +938,13 @@
         "SortTime":  1051.2166666666667
     },
     {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "11/16/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.3333333333333
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present",
         "ExpectedTime":  "3:46 PM",
         "ReceivedTime":  "",
