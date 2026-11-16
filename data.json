@@ -63,6 +63,13 @@
         "SortTime":  182.28333333333333
     },
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/16/2026 3:02 AM",
+        "Status":  "Present",
+        "SortTime":  182.31666666666666
+    },
+    {
         "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
@@ -71,13 +78,6 @@
     },
     {
         "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "11/16/2026 3:02 AM",
-        "Status":  "Present",
-        "SortTime":  182.31666666666666
-    },
-    {
-        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
@@ -208,6 +208,13 @@
         "ReceivedTime":  "11/16/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.25
+    },
+    {
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "11/16/2026 4:20 AM",
+        "Status":  "Present",
+        "SortTime":  260.31666666666666
     },
     {
         "Subject":  "Daily SOD to JBAM FUND",
