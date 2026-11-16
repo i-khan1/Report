@@ -637,6 +637,13 @@
         "SortTime":  481.56666666666666
     },
     {
+        "Subject":  "Daily SOD to BitDelta Limited",
+        "ExpectedTime":  "8:05 AM",
+        "ReceivedTime":  "11/16/2026 8:05 AM",
+        "Status":  "Present",
+        "SortTime":  485.13333333333333
+    },
+    {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
