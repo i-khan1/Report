@@ -322,15 +322,15 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "11/16/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/16/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
@@ -593,6 +593,13 @@
         "ReceivedTime":  "11/16/2026 7:22 AM",
         "Status":  "Present",
         "SortTime":  442.1
+    },
+    {
+        "Subject":  "OPNSACOB",
+        "ExpectedTime":  "7:30 AM",
+        "ReceivedTime":  "11/16/2026 7:30 AM",
+        "Status":  "Present",
+        "SortTime":  450.28333333333336
     },
     {
         "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
