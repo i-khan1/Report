@@ -567,8 +567,29 @@
         "SortTime":  426.11666666666667
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "11/16/2026 7:15 AM",
+        "Status":  "Present",
+        "SortTime":  435.11666666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/16/2026 7:16 AM",
+        "Status":  "Present",
+        "SortTime":  436.43333333333334
+    },
+    {
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -581,20 +602,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Guardians Report",
-        "ExpectedTime":  "7:11 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Tefra File Load SUCCESS",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -602,15 +609,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -630,8 +630,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
