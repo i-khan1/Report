@@ -672,6 +672,20 @@
         "SortTime":  503.41666666666669
     },
     {
+        "Subject":  "BONY Posision File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/16/2026 8:29 AM",
+        "Status":  "Present",
+        "SortTime":  509.78333333333336
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/16/2026 8:29 AM",
+        "Status":  "Present",
+        "SortTime":  509.8
+    },
+    {
         "Subject":  "Fixed Income Inteliclear Trial Balance",
         "ExpectedTime":  "8:30 AM",
         "ReceivedTime":  "11/16/2026 8:31 AM",
@@ -686,15 +700,15 @@
         "SortTime":  511.26666666666665
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "11/16/2026 8:34 AM",
+        "Status":  "Present",
+        "SortTime":  514.48333333333335
     },
     {
-        "Subject":  "Eventus Upload Status",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -707,15 +721,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "BONY Posision File",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -728,15 +735,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
-        "ExpectedTime":  "5:30 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
