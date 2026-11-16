@@ -63,7 +63,7 @@
         "SortTime":  182.28333333333333
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily SOD Files to MECO Markets Limited",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
@@ -77,7 +77,7 @@
         "SortTime":  182.31666666666666
     },
     {
-        "Subject":  "Daily SOD Files to MECO Markets Limited",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
@@ -91,15 +91,15 @@
         "SortTime":  182.33333333333334
     },
     {
-        "Subject":  "Daily SOD Files MMCD",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
+        "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
         "SortTime":  182.36666666666667
     },
     {
-        "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "Daily SOD Files MMCD",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "11/16/2026 3:02 AM",
         "Status":  "Present",
         "SortTime":  182.36666666666667
@@ -322,15 +322,15 @@
         "SortTime":  315.43333333333334
     },
     {
-        "Subject":  "Daily Cust Short file to Exante",
-        "ExpectedTime":  "9:06 AM",
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "11/16/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
     },
     {
-        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
         "ReceivedTime":  "11/16/2026 5:15 AM",
         "Status":  "Present",
         "SortTime":  315.45
@@ -642,6 +642,13 @@
         "ReceivedTime":  "11/16/2026 8:05 AM",
         "Status":  "Present",
         "SortTime":  485.13333333333333
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/16/2026 8:09 AM",
+        "Status":  "Present",
+        "SortTime":  489.63333333333333
     },
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
