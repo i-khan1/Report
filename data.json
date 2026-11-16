@@ -889,6 +889,13 @@
         "SortTime":  960.35
     },
     {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -896,15 +903,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
+        "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
+        "ExpectedTime":  "4:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -917,8 +924,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
-        "ExpectedTime":  "2:06 PM",
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
