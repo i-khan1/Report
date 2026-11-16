@@ -917,6 +917,13 @@
         "SortTime":  1015.6833333333334
     },
     {
+        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
+        "ExpectedTime":  "4:17 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "QDB Archive Coverage All Months Present",
         "ExpectedTime":  "3:46 PM",
         "ReceivedTime":  "",
@@ -931,15 +938,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Archive Monthly Counts REVIEW REQUIRED UNVERIFIED MONTHS",
-        "ExpectedTime":  "4:17 PM",
+        "Subject":  "QDB Archive Monthly Counts MONTHLY COUNTS AVAILABLE COMPLETENESS NOT VERIFIED",
+        "ExpectedTime":  "4:54 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -959,8 +959,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Archive Monthly Counts MONTHLY COUNTS AVAILABLE COMPLETENESS NOT VERIFIED",
-        "ExpectedTime":  "4:54 PM",
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
