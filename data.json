@@ -658,6 +658,13 @@
         "SortTime":  494.23333333333335
     },
     {
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "11/16/2026 8:19 AM",
+        "Status":  "Present",
+        "SortTime":  499.86666666666667
+    },
+    {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
