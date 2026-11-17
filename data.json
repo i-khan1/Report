@@ -672,14 +672,14 @@
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "11/17/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.38333333333333
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "11/17/2026 6:15 AM",
         "Status":  "Present",
@@ -700,8 +700,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "RE Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "6:23 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -716,6 +716,13 @@
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
