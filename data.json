@@ -595,14 +595,14 @@
         "SortTime":  360.26666666666665
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/17/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.58333333333331
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/17/2026 6:00 AM",
         "Status":  "Present",
@@ -978,6 +978,13 @@
         "ReceivedTime":  "11/17/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.88333333333333
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "11/17/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.36666666666667
     },
     {
         "Subject":  "DVP Open Items Report for",
