@@ -882,6 +882,13 @@
         "SortTime":  666.16666666666663
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
+        "ReceivedTime":  "11/17/2026 11:25 AM",
+        "Status":  "Present",
+        "SortTime":  685.06666666666672
+    },
+    {
         "Subject":  "ACATS SUCCESS Batch",
         "ExpectedTime":  "10:52 AM",
         "ReceivedTime":  "",
@@ -896,6 +903,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "RE Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
         "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
@@ -903,15 +917,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
-        "ExpectedTime":  "8:38 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "RE Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "6:23 AM",
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -931,21 +938,14 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
+        "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FAILED File Download",
+        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
