@@ -63,14 +63,14 @@
         "SortTime":  180.23333333333335
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.26666666666668
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
@@ -168,6 +168,34 @@
         "SortTime":  195.51666666666668
     },
     {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/17/2026 3:25 AM",
+        "Status":  "Present",
+        "SortTime":  205.98333333333335
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/17/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.05
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/17/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.43333333333334
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/17/2026 3:26 AM",
+        "Status":  "Present",
+        "SortTime":  206.53333333333333
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -176,13 +204,6 @@
     },
     {
         "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
