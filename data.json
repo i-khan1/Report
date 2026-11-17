@@ -938,6 +938,13 @@
         "SortTime":  786.23333333333335
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "4:37 PM",
+        "ReceivedTime":  "11/17/2026 2:05 PM",
+        "Status":  "Present",
+        "SortTime":  845.75
+    },
+    {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
