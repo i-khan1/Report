@@ -672,14 +672,14 @@
         "SortTime":  375.25
     },
     {
-        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "11/17/2026 6:15 AM",
         "Status":  "Present",
         "SortTime":  375.38333333333333
     },
     {
-        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
         "ExpectedTime":  "6:15 AM",
         "ReceivedTime":  "11/17/2026 6:15 AM",
         "Status":  "Present",
@@ -1027,6 +1027,13 @@
         "ReceivedTime":  "11/17/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.3333333333334
+    },
+    {
+        "Subject":  "Options File Check",
+        "ExpectedTime":  "4:55 PM",
+        "ReceivedTime":  "11/17/2026 4:55 PM",
+        "Status":  "Present",
+        "SortTime":  1015.6333333333333
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
