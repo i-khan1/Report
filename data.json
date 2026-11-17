@@ -987,6 +987,13 @@
         "SortTime":  917.36666666666667
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/17/2026 3:50 PM",
+        "Status":  "Present",
+        "SortTime":  950.41666666666674
+    },
+    {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
@@ -1001,8 +1008,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "ACATS GENERATED Batch",
-        "ExpectedTime":  "10:51 AM",
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1022,15 +1029,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
-        "ExpectedTime":  "6:44 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1050,8 +1050,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
