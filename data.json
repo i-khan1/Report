@@ -63,14 +63,14 @@
         "SortTime":  180.23333333333335
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.26666666666668
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
@@ -700,13 +700,6 @@
         "SortTime":  393.51666666666665
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -714,8 +707,22 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "RE Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
