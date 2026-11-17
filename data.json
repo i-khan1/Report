@@ -525,6 +525,41 @@
         "SortTime":  332.26666666666665
     },
     {
+        "Subject":  "Daily Cust Short Int file for VCBY",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "11/17/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.26666666666665
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Valuable",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "11/17/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.6
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "11/17/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.61666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for Alta",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "11/17/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.66666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "ExpectedTime":  "5:45 AM",
+        "ReceivedTime":  "11/17/2026 5:45 AM",
+        "Status":  "Present",
+        "SortTime":  345.8
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -539,6 +574,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -546,8 +588,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Current Day SOD files of GDN VCBB VCGP VCWC VCEL VCVT VCTY TPVC VCVS VCIT TTTG VCPS VCIN VCEX and Compared Overnight Position file",
+        "ExpectedTime":  "5:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
