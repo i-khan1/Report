@@ -1001,6 +1001,20 @@
         "SortTime":  954.11666666666667
     },
     {
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
+        "ReceivedTime":  "11/17/2026 3:58 PM",
+        "Status":  "Present",
+        "SortTime":  958.85
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "11/17/2026 4:00 PM",
+        "Status":  "Present",
+        "SortTime":  960.16666666666674
+    },
+    {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
