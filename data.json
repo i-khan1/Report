@@ -63,14 +63,14 @@
         "SortTime":  180.23333333333335
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.26666666666668
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
@@ -145,5 +145,47 @@
         "ReceivedTime":  "11/17/2026 3:06 AM",
         "Status":  "Present",
         "SortTime":  186.83333333333334
+    },
+    {
+        "Subject":  "SUCCESS File Download",
+        "ExpectedTime":  "5:44 AM",
+        "ReceivedTime":  "11/17/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.21666666666667
+    },
+    {
+        "Subject":  "FAILURE File Not Available on SFTP",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "11/17/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.41666666666666
+    },
+    {
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "11/17/2026 3:15 AM",
+        "Status":  "Present",
+        "SortTime":  195.51666666666668
+    },
+    {
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed Secondary",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
     }
 ]
