@@ -63,14 +63,14 @@
         "SortTime":  180.23333333333335
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.26666666666668
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
@@ -810,6 +810,13 @@
         "ReceivedTime":  "11/17/2026 8:30 AM",
         "Status":  "Present",
         "SortTime":  510.25
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "11/17/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.86666666666667
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
