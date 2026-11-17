@@ -63,14 +63,14 @@
         "SortTime":  180.23333333333335
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.26666666666668
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
@@ -455,6 +455,41 @@
         "SortTime":  305.15000000000003
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/17/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.16666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/17/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.45
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "11/17/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.4666666666667
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/17/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.5
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -469,15 +504,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
