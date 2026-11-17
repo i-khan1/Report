@@ -63,14 +63,14 @@
         "SortTime":  180.23333333333335
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.26666666666668
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/17/2026 3:00 AM",
         "Status":  "Present",
@@ -747,6 +747,41 @@
         "ReceivedTime":  "11/17/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.2166666666667
+    },
+    {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.25
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.33333333333337
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "11/17/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.38333333333333
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "11/17/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.08333333333337
     },
     {
         "Subject":  "Tefra File Load FAILURE",
