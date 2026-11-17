@@ -1057,6 +1057,20 @@
         "SortTime":  1050.2333333333333
     },
     {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/17/2026 5:47 PM",
+        "Status":  "Present",
+        "SortTime":  1067.8833333333334
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/17/2026 5:48 PM",
+        "Status":  "Present",
+        "SortTime":  1068.6
+    },
+    {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
         "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
@@ -1071,8 +1085,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
+        "Subject":  "iClear PROD to UAT Account Sync Completed",
+        "ExpectedTime":  "11:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1092,15 +1106,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "iClear PROD to UAT Account Sync Completed",
-        "ExpectedTime":  "11:46 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FIX SEDOL Security Profile Report",
-        "ExpectedTime":  "5:10 PM",
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1120,6 +1127,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -1129,13 +1143,6 @@
     {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
