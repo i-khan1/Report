@@ -322,14 +322,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
+        "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
