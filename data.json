@@ -497,14 +497,14 @@
         "SortTime":  346.68333333333334
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/18/2026 5:46 AM",
         "Status":  "Present",
         "SortTime":  346.98333333333335
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/18/2026 5:46 AM",
         "Status":  "Present",
@@ -567,14 +567,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
@@ -749,14 +749,14 @@
         "SortTime":  480.31666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
@@ -917,6 +917,20 @@
         "SortTime":  786.2
     },
     {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/18/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.13333333333333
+    },
+    {
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
+        "ReceivedTime":  "11/18/2026 2:06 PM",
+        "Status":  "Present",
+        "SortTime":  846.2166666666667
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -931,6 +945,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -938,15 +959,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
-        "ExpectedTime":  "8:38 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -966,22 +980,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "FAILURE File Not Available on SFTP Secondary",
         "ExpectedTime":  "11:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
