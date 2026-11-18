@@ -63,13 +63,6 @@
         "SortTime":  180.21666666666667
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "11/18/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.25
-    },
-    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
@@ -77,14 +70,21 @@
         "SortTime":  180.25
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/18/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.25
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.28333333333333
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
@@ -749,14 +749,14 @@
         "SortTime":  480.31666666666666
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
@@ -824,6 +824,13 @@
         "ReceivedTime":  "11/18/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.83333333333337
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "11/18/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.15
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
