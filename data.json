@@ -1085,6 +1085,13 @@
         "SortTime":  1248.7
     },
     {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "11/17/2026 9:55 PM",
+        "Status":  "Present",
+        "SortTime":  1315
+    },
+    {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
         "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
