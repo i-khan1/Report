@@ -63,13 +63,6 @@
         "SortTime":  180.21666666666667
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "11/18/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.25
-    },
-    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
@@ -77,14 +70,21 @@
         "SortTime":  180.25
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/18/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.25
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.28333333333333
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
@@ -285,6 +285,13 @@
         "ReceivedTime":  "11/18/2026 4:05 AM",
         "Status":  "Present",
         "SortTime":  245.28333333333333
+    },
+    {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "11/18/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.15000000000003
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
