@@ -749,14 +749,14 @@
         "SortTime":  480.31666666666666
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
@@ -852,6 +852,20 @@
         "ReceivedTime":  "11/18/2026 10:06 AM",
         "Status":  "Present",
         "SortTime":  606.2166666666667
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/18/2026 10:53 AM",
+        "Status":  "Present",
+        "SortTime":  653.31666666666672
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/18/2026 10:53 AM",
+        "Status":  "Present",
+        "SortTime":  653.31666666666672
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
