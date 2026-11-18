@@ -749,14 +749,14 @@
         "SortTime":  480.31666666666666
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
@@ -903,8 +903,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -917,15 +924,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Not Available on SFTP Secondary",
-        "ExpectedTime":  "11:15 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
