@@ -63,13 +63,6 @@
         "SortTime":  180.21666666666667
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "11/18/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.25
-    },
-    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
@@ -77,14 +70,21 @@
         "SortTime":  180.25
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/18/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.25
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.28333333333333
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
@@ -567,14 +567,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
@@ -607,6 +607,20 @@
         "ReceivedTime":  "11/18/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.2
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/18/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.13333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/18/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.40000000000003
     },
     {
         "Subject":  "SUCCESS File Download Completed",
