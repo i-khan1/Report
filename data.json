@@ -882,7 +882,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
+        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -896,8 +896,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
+        "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -910,8 +917,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
