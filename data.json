@@ -567,14 +567,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
@@ -838,6 +838,13 @@
         "ReceivedTime":  "11/18/2026 9:23 AM",
         "Status":  "Present",
         "SortTime":  563.2833333333333
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "11/18/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.2833333333333
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
