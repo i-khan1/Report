@@ -567,14 +567,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
@@ -726,6 +726,13 @@
         "ReceivedTime":  "11/18/2026 7:51 AM",
         "Status":  "Present",
         "SortTime":  471.2166666666667
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/18/2026 7:52 AM",
+        "Status":  "Present",
+        "SortTime":  472.7
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
