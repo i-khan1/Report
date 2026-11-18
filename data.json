@@ -749,14 +749,14 @@
         "SortTime":  480.31666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
@@ -831,6 +831,13 @@
         "ReceivedTime":  "11/18/2026 9:16 AM",
         "Status":  "Present",
         "SortTime":  556.15
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/18/2026 9:23 AM",
+        "Status":  "Present",
+        "SortTime":  563.2833333333333
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
