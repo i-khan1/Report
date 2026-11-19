@@ -588,14 +588,14 @@
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/19/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/19/2026 6:00 AM",
         "Status":  "Present",
@@ -614,6 +614,20 @@
         "ReceivedTime":  "11/19/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.1
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/19/2026 6:05 AM",
+        "Status":  "Present",
+        "SortTime":  365.81666666666666
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/19/2026 6:06 AM",
+        "Status":  "Present",
+        "SortTime":  366.08333333333331
     },
     {
         "Subject":  "SUCCESS File Download Completed",
