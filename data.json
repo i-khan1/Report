@@ -63,13 +63,6 @@
         "SortTime":  180.21666666666667
     },
     {
-        "Subject":  "Daily SOD Files for Bull Markets",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "11/18/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.25
-    },
-    {
         "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
@@ -77,14 +70,21 @@
         "SortTime":  180.25
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily SOD Files for Bull Markets",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/18/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.25
+    },
+    {
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.28333333333333
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
@@ -1055,6 +1055,13 @@
         "ReceivedTime":  "11/18/2026 8:48 PM",
         "Status":  "Present",
         "SortTime":  1248.55
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "11/18/2026 9:46 PM",
+        "Status":  "Present",
+        "SortTime":  1306.9333333333334
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
