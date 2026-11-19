@@ -63,13 +63,6 @@
         "SortTime":  180.21666666666667
     },
     {
-        "Subject":  "Success Master Account Profile File",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "11/18/2026 3:00 AM",
-        "Status":  "Present",
-        "SortTime":  180.25
-    },
-    {
         "Subject":  "Daily SOD Files for Bull Markets",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
@@ -77,14 +70,21 @@
         "SortTime":  180.25
     },
     {
-        "Subject":  "Daily ETB to GTN Middle East",
+        "Subject":  "Success Master Account Profile File",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "11/18/2026 3:00 AM",
+        "Status":  "Present",
+        "SortTime":  180.25
+    },
+    {
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.28333333333333
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/18/2026 3:00 AM",
         "Status":  "Present",
@@ -511,14 +511,14 @@
         "SortTime":  346.98333333333335
     },
     {
-        "Subject":  "Daily Cust Short Int file for VCBY",
+        "Subject":  "Daily Cust Short Int file for KR Bond",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/18/2026 5:47 AM",
         "Status":  "Present",
         "SortTime":  347.01666666666665
     },
     {
-        "Subject":  "Daily Cust Short Int file for KR Bond",
+        "Subject":  "Daily Cust Short Int file for VCBY",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/18/2026 5:47 AM",
         "Status":  "Present",
@@ -567,14 +567,14 @@
         "SortTime":  360.68333333333334
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/18/2026 6:00 AM",
         "Status":  "Present",
@@ -749,14 +749,14 @@
         "SortTime":  480.31666666666666
     },
     {
-        "Subject":  "Daily Exercise and Assignment of GDN",
+        "Subject":  "Daily c Report",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.36666666666667
     },
     {
-        "Subject":  "Daily c Report",
+        "Subject":  "Daily Exercise and Assignment of GDN",
         "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/18/2026 8:00 AM",
         "Status":  "Present",
@@ -1080,6 +1080,13 @@
     {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
