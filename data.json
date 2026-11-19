@@ -308,15 +308,15 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Daily CBRS Confirmation to Taxes",
-        "ExpectedTime":  "4:12 PM",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily CBRS Confirmation to Taxes",
+        "ExpectedTime":  "4:12 PM",
         "ReceivedTime":  "11/19/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.53333333333336
@@ -705,6 +705,13 @@
         "ReceivedTime":  "11/19/2026 7:06 AM",
         "Status":  "Present",
         "SortTime":  426.15000000000003
+    },
+    {
+        "Subject":  "Exercise and Assignment file for VCLT",
+        "ExpectedTime":  "7:21 AM",
+        "ReceivedTime":  "11/19/2026 7:21 AM",
+        "Status":  "Present",
+        "SortTime":  441.75
     },
     {
         "Subject":  "SUCCESS File Download Completed",
