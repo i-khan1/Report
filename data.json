@@ -938,6 +938,27 @@
         "SortTime":  951.51666666666665
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/19/2026 3:53 PM",
+        "Status":  "Present",
+        "SortTime":  953.0333333333333
+    },
+    {
+        "Subject":  "ACATS ALERT Invalid confirmation Batch",
+        "ExpectedTime":  "3:54 PM",
+        "ReceivedTime":  "11/19/2026 3:54 PM",
+        "Status":  "Present",
+        "SortTime":  954.61666666666667
+    },
+    {
+        "Subject":  "ACATS RECOVERED Batch",
+        "ExpectedTime":  "3:55 PM",
+        "ReceivedTime":  "11/19/2026 3:55 PM",
+        "Status":  "Present",
+        "SortTime":  955.08333333333337
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
