@@ -721,6 +721,41 @@
         "SortTime":  450.23333333333335
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.25
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.26666666666665
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.36666666666667
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "11/19/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.38333333333333
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "11/19/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.31666666666666
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
