@@ -588,14 +588,14 @@
         "SortTime":  360.7
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/19/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.81666666666666
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/19/2026 6:00 AM",
         "Status":  "Present",
@@ -817,6 +817,13 @@
         "ReceivedTime":  "11/19/2026 9:10 AM",
         "Status":  "Present",
         "SortTime":  550.81666666666672
+    },
+    {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "11/19/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.15
     },
     {
         "Subject":  "SUCCESS File Download Completed",
