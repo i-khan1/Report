@@ -1022,6 +1022,13 @@
         "SortTime":  896.26666666666665
     },
     {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "11/20/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.81666666666672
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
