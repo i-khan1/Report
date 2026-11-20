@@ -1078,6 +1078,13 @@
         "SortTime":  1010.2
     },
     {
+        "Subject":  "Options File Check",
+        "ExpectedTime":  "4:55 PM",
+        "ReceivedTime":  "11/20/2026 4:55 PM",
+        "Status":  "Present",
+        "SortTime":  1015.65
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
