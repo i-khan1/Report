@@ -119,15 +119,15 @@
         "SortTime":  181.33333333333334
     },
     {
-        "Subject":  "Daily VCPS Position to Ambrus",
-        "ExpectedTime":  "3:01 AM",
+        "Subject":  "MAXIT Upload Report for Capital",
+        "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "11/20/2026 3:01 AM",
         "Status":  "Present",
         "SortTime":  181.35
     },
     {
-        "Subject":  "MAXIT Upload Report for Capital",
-        "ExpectedTime":  "5:59 AM",
+        "Subject":  "Daily VCPS Position to Ambrus",
+        "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "11/20/2026 3:01 AM",
         "Status":  "Present",
         "SortTime":  181.35
@@ -327,6 +327,13 @@
         "ReceivedTime":  "11/20/2026 4:20 AM",
         "Status":  "Present",
         "SortTime":  260.35
+    },
+    {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "11/20/2026 4:36 AM",
+        "Status":  "Present",
+        "SortTime":  276.16666666666669
     },
     {
         "Subject":  "FAILED Egret File Upload",
