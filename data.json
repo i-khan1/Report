@@ -966,6 +966,13 @@
         "SortTime":  824.76666666666665
     },
     {
+        "Subject":  "Daily SOD to Usmart Capital LLC",
+        "ExpectedTime":  "11:50 AM",
+        "ReceivedTime":  "11/20/2026 1:54 PM",
+        "Status":  "Present",
+        "SortTime":  834.66666666666663
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
