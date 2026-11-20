@@ -581,14 +581,14 @@
         "SortTime":  360.4666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
@@ -873,6 +873,13 @@
         "ReceivedTime":  "11/20/2026 9:17 AM",
         "Status":  "Present",
         "SortTime":  557.95
+    },
+    {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "11/20/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.38333333333333
     },
     {
         "Subject":  "SUCCESS File Download Completed",
