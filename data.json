@@ -581,14 +581,14 @@
         "SortTime":  360.4666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
@@ -880,6 +880,13 @@
         "ReceivedTime":  "11/20/2026 9:30 AM",
         "Status":  "Present",
         "SortTime":  570.38333333333333
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/20/2026 9:43 AM",
+        "Status":  "Present",
+        "SortTime":  583.68333333333339
     },
     {
         "Subject":  "SUCCESS File Download Completed",
