@@ -413,14 +413,14 @@
         "SortTime":  300.55
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.56666666666666
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
@@ -581,13 +581,6 @@
         "SortTime":  360.4666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
-        "ExpectedTime":  "6:00 AM",
-        "ReceivedTime":  "11/20/2026 6:00 AM",
-        "Status":  "Present",
-        "SortTime":  360.7166666666667
-    },
-    {
         "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
@@ -595,14 +588,21 @@
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily OPEXP File VCPS",
+        "ExpectedTime":  "6:00 AM",
+        "ReceivedTime":  "11/20/2026 6:00 AM",
+        "Status":  "Present",
+        "SortTime":  360.7166666666667
+    },
+    {
+        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.75
     },
     {
-        "Subject":  "Daily Exercise Assignment MECO Markets Limited",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
@@ -1069,6 +1069,13 @@
         "ReceivedTime":  "11/20/2026 4:35 PM",
         "Status":  "Present",
         "SortTime":  995.6
+    },
+    {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "11/20/2026 4:50 PM",
+        "Status":  "Present",
+        "SortTime":  1010.2
     },
     {
         "Subject":  "FAILED Egret File Upload",
