@@ -581,14 +581,14 @@
         "SortTime":  360.4666666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
@@ -1111,6 +1111,13 @@
         "ReceivedTime":  "11/20/2026 5:30 PM",
         "Status":  "Present",
         "SortTime":  1050.3
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "11/20/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.2333333333333
     },
     {
         "Subject":  "FAILED Egret File Upload",
