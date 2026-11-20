@@ -385,13 +385,6 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Compliance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/20/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.51666666666665
-    },
-    {
         "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
@@ -399,14 +392,21 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Compliance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/20/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.51666666666665
+    },
+    {
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
@@ -1097,6 +1097,20 @@
         "ReceivedTime":  "11/20/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.3333333333333
+    },
+    {
+        "Subject":  "Daily ETB File to Augustus",
+        "ExpectedTime":  "5:31 PM",
+        "ReceivedTime":  "11/20/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.25
+    },
+    {
+        "Subject":  "Daily ETB File to Eduardo",
+        "ExpectedTime":  "5:30 PM",
+        "ReceivedTime":  "11/20/2026 5:30 PM",
+        "Status":  "Present",
+        "SortTime":  1050.3
     },
     {
         "Subject":  "FAILED Egret File Upload",
