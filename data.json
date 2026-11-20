@@ -637,6 +637,20 @@
         "SortTime":  364
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/20/2026 6:07 AM",
+        "Status":  "Present",
+        "SortTime":  367.7
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/20/2026 6:09 AM",
+        "Status":  "Present",
+        "SortTime":  369.40000000000003
+    },
+    {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
