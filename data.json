@@ -385,14 +385,14 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Compliance Reports",
+        "Subject":  "Margin Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Margin Reports",
+        "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
@@ -1041,6 +1041,20 @@
         "ReceivedTime":  "11/20/2026 3:50 PM",
         "Status":  "Present",
         "SortTime":  950.88333333333333
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/20/2026 3:53 PM",
+        "Status":  "Present",
+        "SortTime":  953.26666666666665
+    },
+    {
+        "Subject":  "ACATS SUCCESS Batch",
+        "ExpectedTime":  "10:52 AM",
+        "ReceivedTime":  "11/20/2026 3:54 PM",
+        "Status":  "Present",
+        "SortTime":  954.76666666666665
     },
     {
         "Subject":  "FAILED Egret File Upload",
