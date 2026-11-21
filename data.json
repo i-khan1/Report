@@ -42,6 +42,13 @@
         "SortTime":  220.20000000000002
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "11/21/2026 3:50 AM",
+        "Status":  "Present",
+        "SortTime":  230.4
+    },
+    {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -51,13 +58,6 @@
     {
         "Subject":  "Success AWS Backup Server Database Date",
         "ExpectedTime":  "2:43 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "MAXIT Upload Report",
-        "ExpectedTime":  "2:47 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
