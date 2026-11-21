@@ -385,13 +385,6 @@
         "SortTime":  300.4666666666667
     },
     {
-        "Subject":  "Margin Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/20/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.51666666666665
-    },
-    {
         "Subject":  "Compliance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
@@ -399,14 +392,21 @@
         "SortTime":  300.51666666666665
     },
     {
-        "Subject":  "Risk Reports",
+        "Subject":  "Margin Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/20/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.51666666666665
+    },
+    {
+        "Subject":  "New Account Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.55
     },
     {
-        "Subject":  "New Account Reports",
+        "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/20/2026 5:00 AM",
         "Status":  "Present",
@@ -581,14 +581,14 @@
         "SortTime":  360.4666666666667
     },
     {
-        "Subject":  "Daily OPEXP File VCPS",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.7166666666667
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily OPEXP File VCPS",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/20/2026 6:00 AM",
         "Status":  "Present",
@@ -1120,8 +1120,8 @@
         "SortTime":  1090.2333333333333
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "KISA NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:47 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1136,6 +1136,13 @@
     {
         "Subject":  "DVP Open Items Report for",
         "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
