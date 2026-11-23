@@ -770,13 +770,6 @@
         "SortTime":  720.31666666666672
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -784,36 +777,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "DVP Open Items Report at Velocity Clearing",
-        "ExpectedTime":  "3:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Guardians Report",
-        "ExpectedTime":  "7:11 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
-        "ExpectedTime":  "8:38 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
-        "ExpectedTime":  "2:06 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -826,6 +791,41 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
+        "ExpectedTime":  "2:06 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Ambrus Executions",
         "ExpectedTime":  "12:40 PM",
         "ReceivedTime":  "",
@@ -833,8 +833,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -847,8 +847,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -861,8 +868,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
