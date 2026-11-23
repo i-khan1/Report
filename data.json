@@ -301,14 +301,14 @@
         "SortTime":  300.61666666666667
     },
     {
-        "Subject":  "BONY Posision File",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/23/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.73333333333335
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "BONY Posision File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/23/2026 5:00 AM",
         "Status":  "Present",
@@ -399,14 +399,14 @@
         "SortTime":  345.75
     },
     {
-        "Subject":  "Daily Cust Short Int file for VCBY",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/23/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.76666666666665
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for VCBY",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/23/2026 5:45 AM",
         "Status":  "Present",
@@ -530,6 +530,34 @@
         "ReceivedTime":  "11/23/2026 6:09 AM",
         "Status":  "Present",
         "SortTime":  369.38333333333333
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/23/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.16666666666669
+    },
+    {
+        "Subject":  "Velocity Fixed Income Net Cap Repo",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/23/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.2
+    },
+    {
+        "Subject":  "Velocity Fixed Income Repo Daily P L",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/23/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.28333333333336
+    },
+    {
+        "Subject":  "Velocity Fixed Income Risk and Credit Daily Report",
+        "ExpectedTime":  "6:15 AM",
+        "ReceivedTime":  "11/23/2026 6:15 AM",
+        "Status":  "Present",
+        "SortTime":  375.40000000000003
     },
     {
         "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
