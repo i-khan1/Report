@@ -49,14 +49,14 @@
         "SortTime":  180.18333333333334
     },
     {
-        "Subject":  "Success Master Account Profile File",
+        "Subject":  "SUCCESS Egret File Upload",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/23/2026 3:00 AM",
         "Status":  "Present",
         "SortTime":  180.20000000000002
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
+        "Subject":  "Success Master Account Profile File",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "11/23/2026 3:00 AM",
         "Status":  "Present",
@@ -224,6 +224,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily SOD Files to Andes Investments Group",
+        "ExpectedTime":  "2:33 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Reconciliation Portfolio Margin COB",
         "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
@@ -231,8 +238,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD Files to Andes Investments Group",
-        "ExpectedTime":  "2:33 AM",
+        "Subject":  "Seaman SRE and IClear Daily Reconciliation",
+        "ExpectedTime":  "4:20 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
