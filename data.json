@@ -602,13 +602,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load FAILURE",
-        "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -616,8 +609,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to Acumen Global",
-        "ExpectedTime":  "7:00 AM",
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Tefra File Load FAILURE",
+        "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -637,14 +637,21 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD VCPS Files For Navcon",
+        "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
+        "Subject":  "Daily SOD to Acumen Global",
+        "ExpectedTime":  "7:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily SOD VCPS Files For Navcon",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
