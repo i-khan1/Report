@@ -399,14 +399,14 @@
         "SortTime":  345.75
     },
     {
-        "Subject":  "Daily Cust Short Int file for VCBY",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/23/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.76666666666665
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for VCBY",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/23/2026 5:45 AM",
         "Status":  "Present",
@@ -747,6 +747,13 @@
         "ReceivedTime":  "11/23/2026 10:45 AM",
         "Status":  "Present",
         "SortTime":  645.58333333333337
+    },
+    {
+        "Subject":  "DO File Check",
+        "ExpectedTime":  "7:06 AM",
+        "ReceivedTime":  "11/23/2026 11:06 AM",
+        "Status":  "Present",
+        "SortTime":  666.2
     },
     {
         "Subject":  "Tefra File Load FAILURE",
