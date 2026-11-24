@@ -791,15 +791,15 @@
         "SortTime":  480.35
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/24/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "11/24/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
@@ -1069,6 +1069,13 @@
         "ReceivedTime":  "11/24/2026 5:31 PM",
         "Status":  "Present",
         "SortTime":  1051.9333333333334
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "11/24/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.2166666666667
     },
     {
         "Subject":  "iClear PROD to UAT Account Sync Completed",
