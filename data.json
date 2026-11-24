@@ -350,14 +350,14 @@
         "SortTime":  294.23333333333335
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.23333333333335
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
@@ -910,6 +910,13 @@
         "SortTime":  666.26666666666665
     },
     {
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "ACATS SUCCESS Batch",
         "ExpectedTime":  "10:52 AM",
         "ReceivedTime":  "",
@@ -917,15 +924,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "ACATS GENERATED Batch",
-        "ExpectedTime":  "10:51 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
-        "ExpectedTime":  "6:44 AM",
+        "Subject":  "iClear PROD to UAT Account Sync Completed",
+        "ExpectedTime":  "11:46 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -940,6 +940,13 @@
     {
         "Subject":  "RE Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
