@@ -770,43 +770,8 @@
         "SortTime":  720.31666666666672
     },
     {
-        "Subject":  "Guardians Report",
-        "ExpectedTime":  "7:11 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
-        "ExpectedTime":  "2:06 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DVP Open Items Report at Velocity Clearing",
-        "ExpectedTime":  "3:00 PM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "NHIS gross and net different direction EOD",
-        "ExpectedTime":  "8:17 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -819,8 +784,50 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Guardians Report",
+        "ExpectedTime":  "7:11 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "NHIS gross and net different direction EOD",
+        "ExpectedTime":  "8:17 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "FIS File Delivered VCC cp security n",
+        "ExpectedTime":  "11:52 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "KISA NHIS gross and net different direction EOD",
         "ExpectedTime":  "8:47 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Archive Coverage All Months Present Not Reconciled",
+        "ExpectedTime":  "2:06 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -938,8 +945,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "AllFunds Symbol Validation Report",
+        "ExpectedTime":  "7:28 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -952,8 +959,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FIS File Delivered VCC cp security n",
-        "ExpectedTime":  "11:52 AM",
+        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
+        "ExpectedTime":  "4:36 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -966,22 +973,22 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "AllFunds Symbol Validation Report",
-        "ExpectedTime":  "7:28 PM",
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "Fixed Income Bloomberg Risk Compliance Violations",
-        "ExpectedTime":  "4:36 PM",
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -989,6 +996,13 @@
     {
         "Subject":  "Eventus Upload Status",
         "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
