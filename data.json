@@ -1057,8 +1057,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1080,6 +1080,13 @@
     {
         "Subject":  "RE Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
