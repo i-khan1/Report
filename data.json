@@ -966,6 +966,13 @@
         "SortTime":  846.15
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "4:37 PM",
+        "ReceivedTime":  "11/24/2026 2:11 PM",
+        "Status":  "Present",
+        "SortTime":  851.6
+    },
+    {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
         "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
