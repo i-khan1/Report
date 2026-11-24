@@ -994,6 +994,13 @@
         "SortTime":  896.45
     },
     {
+        "Subject":  "DVP Open Items Report at Velocity Clearing",
+        "ExpectedTime":  "3:00 PM",
+        "ReceivedTime":  "11/24/2026 3:00 PM",
+        "Status":  "Present",
+        "SortTime":  900.86666666666667
+    },
+    {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
         "ExpectedTime":  "6:44 AM",
         "ReceivedTime":  "",
