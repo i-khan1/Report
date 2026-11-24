@@ -546,14 +546,14 @@
         "SortTime":  345.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.85
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/24/2026 5:45 AM",
         "Status":  "Present",
@@ -999,6 +999,13 @@
         "ReceivedTime":  "11/24/2026 3:00 PM",
         "Status":  "Present",
         "SortTime":  900.86666666666667
+    },
+    {
+        "Subject":  "Daily Settlement Report csv",
+        "ExpectedTime":  "3:21 PM",
+        "ReceivedTime":  "11/24/2026 3:17 PM",
+        "Status":  "Present",
+        "SortTime":  917.68333333333339
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
