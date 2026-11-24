@@ -1,5 +1,12 @@
 ﻿[
     {
+        "Subject":  "SUCCESS Egret File Upload",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "SUCCESS File Download Completed Secondary",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -14,8 +21,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -35,8 +42,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS Egret File Upload",
-        "ExpectedTime":  "3:00 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -84,13 +91,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Success AWS Backup Server Database Date",
-        "ExpectedTime":  "2:43 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily ETB to GTN Middle East",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
@@ -133,6 +133,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily SOD to ITG Bahamas Inc",
+        "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
@@ -154,13 +161,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily SOD to ITG Bahamas Inc",
-        "ExpectedTime":  "3:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "Daily SOD Files MMCD",
         "ExpectedTime":  "3:01 AM",
         "ReceivedTime":  "",
@@ -170,6 +170,13 @@
     {
         "Subject":  "Daily VCPS Position to Ambrus",
         "ExpectedTime":  "3:01 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
