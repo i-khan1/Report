@@ -350,14 +350,14 @@
         "SortTime":  294.23333333333335
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.23333333333335
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
@@ -511,14 +511,14 @@
         "SortTime":  317.15000000000003
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Backnine Expiring Options File for",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/24/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.38333333333333
     },
     {
-        "Subject":  "Backnine Expiring Options File for",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/24/2026 5:30 AM",
         "Status":  "Present",
@@ -943,6 +943,13 @@
         "ReceivedTime":  "11/24/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.2166666666667
+    },
+    {
+        "Subject":  "Ambrus Executions",
+        "ExpectedTime":  "12:40 PM",
+        "ReceivedTime":  "11/24/2026 12:40 PM",
+        "Status":  "Present",
+        "SortTime":  760.31666666666672
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
