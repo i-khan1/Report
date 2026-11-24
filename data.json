@@ -791,15 +791,15 @@
         "SortTime":  480.35
     },
     {
-        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
-        "ExpectedTime":  "3:43 PM",
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
         "ReceivedTime":  "11/24/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
     },
     {
-        "Subject":  "Daily c Report",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
         "ReceivedTime":  "11/24/2026 8:00 AM",
         "Status":  "Present",
         "SortTime":  480.4666666666667
@@ -838,6 +838,13 @@
         "ReceivedTime":  "11/24/2026 8:30 AM",
         "Status":  "Present",
         "SortTime":  510.35
+    },
+    {
+        "Subject":  "AVSC Journal File",
+        "ExpectedTime":  "8:45 AM",
+        "ReceivedTime":  "11/24/2026 8:45 AM",
+        "Status":  "Present",
+        "SortTime":  525.68333333333339
     },
     {
         "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
