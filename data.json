@@ -350,14 +350,14 @@
         "SortTime":  294.23333333333335
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.23333333333335
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
@@ -1043,6 +1043,20 @@
         "SortTime":  1015.65
     },
     {
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "11/24/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.6166666666668
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/24/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.2666666666667
+    },
+    {
         "Subject":  "iClear PROD to UAT Account Sync Completed",
         "ExpectedTime":  "11:46 AM",
         "ReceivedTime":  "",
@@ -1057,8 +1071,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession Options File Check",
-        "ExpectedTime":  "5:07 PM",
+        "Subject":  "DVP Open Items Report for",
+        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -1080,13 +1094,6 @@
     {
         "Subject":  "RE Goldman s daily Assignment and Exercise File",
         "ExpectedTime":  "6:23 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "DVP Open Items Report for",
-        "ExpectedTime":  "12:00 PM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
