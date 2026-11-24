@@ -546,14 +546,14 @@
         "SortTime":  345.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.85
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/24/2026 5:45 AM",
         "Status":  "Present",
@@ -840,6 +840,13 @@
         "SortTime":  510.35
     },
     {
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
         "ReceivedTime":  "",
@@ -847,8 +854,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "VEL SEC DB Transaction Availability REVIEW REQUIRED Through",
+        "ExpectedTime":  "8:38 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -861,8 +868,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
-        "ExpectedTime":  "6:44 AM",
+        "Subject":  "FAILED File Download",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
