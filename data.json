@@ -511,14 +511,14 @@
         "SortTime":  317.15000000000003
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Backnine Expiring Options File for",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/24/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.38333333333333
     },
     {
-        "Subject":  "Backnine Expiring Options File for",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/24/2026 5:30 AM",
         "Status":  "Present",
@@ -546,14 +546,14 @@
         "SortTime":  345.41666666666669
     },
     {
-        "Subject":  "Daily Cust Short Int file for Alta",
+        "Subject":  "Daily Cust Short Int file for Vaticine",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/24/2026 5:45 AM",
         "Status":  "Present",
         "SortTime":  345.85
     },
     {
-        "Subject":  "Daily Cust Short Int file for Vaticine",
+        "Subject":  "Daily Cust Short Int file for Alta",
         "ExpectedTime":  "5:45 AM",
         "ReceivedTime":  "11/24/2026 5:45 AM",
         "Status":  "Present",
@@ -777,22 +777,43 @@
         "SortTime":  450.48333333333335
     },
     {
+        "Subject":  "Eventus Upload Status",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.31666666666666
+    },
+    {
+        "Subject":  "Daily Exercise and Assignment of GDN",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.35
+    },
+    {
+        "Subject":  "Matrix TradeBlazer Fixed Income c Stock Record",
+        "ExpectedTime":  "3:43 PM",
+        "ReceivedTime":  "11/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.4666666666667
+    },
+    {
+        "Subject":  "Daily c Report",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/24/2026 8:00 AM",
+        "Status":  "Present",
+        "SortTime":  480.4666666666667
+    },
+    {
+        "Subject":  "Moneyline Report",
+        "ExpectedTime":  "8:01 AM",
+        "ReceivedTime":  "11/24/2026 8:01 AM",
+        "Status":  "Present",
+        "SortTime":  481.63333333333333
+    },
+    {
         "Subject":  "Tefra File Load FAILURE",
         "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
-        "ExpectedTime":  "6:44 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "RE Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "6:23 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -805,6 +826,27 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "RE Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "6:23 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "QDB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "6:44 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Open SD Fails Report for Capital",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
@@ -812,15 +854,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
