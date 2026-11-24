@@ -350,14 +350,14 @@
         "SortTime":  294.23333333333335
     },
     {
-        "Subject":  "Daily DIVFT DIVNRA Activity",
+        "Subject":  "Daily SOD VCTY CASH File",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.23333333333335
     },
     {
-        "Subject":  "Daily SOD VCTY CASH File",
+        "Subject":  "Daily DIVFT DIVNRA Activity",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/24/2026 5:00 AM",
         "Status":  "Present",
@@ -1034,6 +1034,13 @@
         "ReceivedTime":  "11/24/2026 4:50 PM",
         "Status":  "Present",
         "SortTime":  1010.2833333333333
+    },
+    {
+        "Subject":  "Options File Check",
+        "ExpectedTime":  "4:55 PM",
+        "ReceivedTime":  "11/24/2026 4:55 PM",
+        "Status":  "Present",
+        "SortTime":  1015.65
     },
     {
         "Subject":  "iClear PROD to UAT Account Sync Completed",
