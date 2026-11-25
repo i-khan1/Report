@@ -385,14 +385,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
@@ -476,14 +476,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.5
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
@@ -826,6 +826,20 @@
         "SortTime":  550.83333333333337
     },
     {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "11/25/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.2166666666667
+    },
+    {
+        "Subject":  "TradeBlazer Reports",
+        "ExpectedTime":  "8:00 AM",
+        "ReceivedTime":  "11/25/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.91666666666663
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -833,7 +847,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
+        "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -847,15 +861,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
+        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -868,15 +875,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
     },
     {
-        "Subject":  "TradeBlazer Reports",
-        "ExpectedTime":  "8:00 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
