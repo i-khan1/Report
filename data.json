@@ -385,14 +385,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
@@ -796,6 +796,20 @@
         "ReceivedTime":  "11/25/2026 8:45 AM",
         "Status":  "Present",
         "SortTime":  525.7166666666667
+    },
+    {
+        "Subject":  "Daily RMS Audit History File",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/25/2026 9:00 AM",
+        "Status":  "Present",
+        "SortTime":  540.33333333333337
+    },
+    {
+        "Subject":  "Daily NTA File For Vaticine",
+        "ExpectedTime":  "9:00 AM",
+        "ReceivedTime":  "11/25/2026 9:01 AM",
+        "Status":  "Present",
+        "SortTime":  541.01666666666665
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
