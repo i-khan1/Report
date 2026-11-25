@@ -931,6 +931,13 @@
         "SortTime":  846.2166666666667
     },
     {
+        "Subject":  "VEL SEC DB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "4:37 PM",
+        "ReceivedTime":  "11/25/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.5
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
