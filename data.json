@@ -476,14 +476,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.5
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
@@ -614,6 +614,13 @@
         "ReceivedTime":  "11/25/2026 6:01 AM",
         "Status":  "Present",
         "SortTime":  361.26666666666665
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/25/2026 6:05 AM",
+        "Status":  "Present",
+        "SortTime":  365.41666666666669
     },
     {
         "Subject":  "SUCCESS File Download Completed",
