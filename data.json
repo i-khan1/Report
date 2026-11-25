@@ -385,14 +385,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
@@ -476,14 +476,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.5
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
@@ -1006,6 +1006,13 @@
         "ReceivedTime":  "11/25/2026 5:10 PM",
         "Status":  "Present",
         "SortTime":  1030.3166666666666
+    },
+    {
+        "Subject":  "Daily ETB File to Trading",
+        "ExpectedTime":  "6:10 PM",
+        "ReceivedTime":  "11/25/2026 6:10 PM",
+        "Status":  "Present",
+        "SortTime":  1090.2
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
