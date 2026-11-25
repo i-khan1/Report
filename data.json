@@ -476,14 +476,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.5
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
@@ -868,7 +868,7 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILED File Download",
+        "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
@@ -882,8 +882,15 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
+        "Subject":  "FAILED File Download",
         "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily Open SD Fails Report for Capital",
+        "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -896,8 +903,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Open SD Fails Report for Capital",
-        "ExpectedTime":  "5:00 AM",
+        "Subject":  "FAILURE File Not Available on SFTP Secondary",
+        "ExpectedTime":  "11:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
