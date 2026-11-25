@@ -385,14 +385,14 @@
         "SortTime":  300.76666666666665
     },
     {
-        "Subject":  "Daily Exercise and Assignment File VCPS",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.83333333333331
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Daily Exercise and Assignment File VCPS",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/25/2026 5:00 AM",
         "Status":  "Present",
@@ -467,6 +467,34 @@
         "ReceivedTime":  "11/25/2026 5:17 AM",
         "Status":  "Present",
         "SortTime":  317.16666666666669
+    },
+    {
+        "Subject":  "Backnine Expiring Options File for",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "11/25/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.3
+    },
+    {
+        "Subject":  "Succession daily Audit Trail Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "11/25/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.5
+    },
+    {
+        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "ExpectedTime":  "5:30 AM",
+        "ReceivedTime":  "11/25/2026 5:30 AM",
+        "Status":  "Present",
+        "SortTime":  330.5
+    },
+    {
+        "Subject":  "Need To Borrow Report and REGSHO PDF",
+        "ExpectedTime":  "9:29 AM",
+        "ReceivedTime":  "11/25/2026 5:31 AM",
+        "Status":  "Present",
+        "SortTime":  331.33333333333331
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
