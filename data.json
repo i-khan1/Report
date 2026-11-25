@@ -476,14 +476,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.5
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
@@ -712,6 +712,13 @@
         "ReceivedTime":  "11/25/2026 7:30 AM",
         "Status":  "Present",
         "SortTime":  450.26666666666665
+    },
+    {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/25/2026 7:51 AM",
+        "Status":  "Present",
+        "SortTime":  471.28333333333336
     },
     {
         "Subject":  "SUCCESS File Download Completed",
