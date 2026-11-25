@@ -224,6 +224,55 @@
         "SortTime":  236.73333333333335
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.71666666666667
+    },
+    {
+        "Subject":  "Daily OTC File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.75
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Blackwell Global Investments",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.76666666666668
+    },
+    {
+        "Subject":  "Daily SOD ETB File to GTN America",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:00 AM",
+        "Status":  "Present",
+        "SortTime":  240.86666666666667
+    },
+    {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241
+    },
+    {
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.26666666666668
+    },
+    {
+        "Subject":  "Reconciliation Portfolio Margin COB",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "11/25/2026 4:01 AM",
+        "Status":  "Present",
+        "SortTime":  241.55
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
