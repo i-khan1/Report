@@ -903,6 +903,13 @@
         "SortTime":  726.35
     },
     {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/25/2026 12:07 PM",
+        "Status":  "Present",
+        "SortTime":  727.7
+    },
+    {
         "Subject":  "FAILURE File Transfer Issue",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
