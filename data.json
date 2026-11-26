@@ -183,7 +183,7 @@
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:51 AM",
+        "ExpectedTime":  "3:56 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -191,6 +191,13 @@
     {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:51 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -231,6 +238,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily OTC File",
+        "ExpectedTime":  "3:50 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily SOD Files to Andes Investments Group",
         "ExpectedTime":  "2:33 AM",
         "ReceivedTime":  "",
@@ -239,7 +253,7 @@
     },
     {
         "Subject":  "Daily OTC File",
-        "ExpectedTime":  "3:50 AM",
+        "ExpectedTime":  "3:55 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
