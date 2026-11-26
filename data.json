@@ -161,6 +161,13 @@
         "SortTime":  210.35
     },
     {
+        "Subject":  "VCVW OvernightSilexxPosition File Status SUCCESS",
+        "ExpectedTime":  "4:28 AM",
+        "ReceivedTime":  "11/26/2026 3:35 AM",
+        "Status":  "Present",
+        "SortTime":  215.25
+    },
+    {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
