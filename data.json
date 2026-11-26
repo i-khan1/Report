@@ -140,6 +140,13 @@
         "SortTime":  195.51666666666668
     },
     {
+        "Subject":  "MAXIT Upload Report",
+        "ExpectedTime":  "2:47 AM",
+        "ReceivedTime":  "11/26/2026 3:19 AM",
+        "Status":  "Present",
+        "SortTime":  199.48333333333335
+    },
+    {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
