@@ -588,6 +588,13 @@
         "SortTime":  556.23333333333335
     },
     {
+        "Subject":  "Daily AVSC Lifecycle File of Succession",
+        "ExpectedTime":  "9:30 AM",
+        "ReceivedTime":  "11/26/2026 9:30 AM",
+        "Status":  "Present",
+        "SortTime":  570.2833333333333
+    },
+    {
         "Subject":  "Daily RMS Audit History File",
         "ExpectedTime":  "9:00 AM",
         "ReceivedTime":  "",
