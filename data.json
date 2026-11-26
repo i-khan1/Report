@@ -252,13 +252,6 @@
         "SortTime":  300.28333333333336
     },
     {
-        "Subject":  "Finance Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/26/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.31666666666666
-    },
-    {
         "Subject":  "Risk Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
@@ -266,14 +259,21 @@
         "SortTime":  300.31666666666666
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "Finance Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.31666666666666
+    },
+    {
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
         "Status":  "Present",
@@ -614,6 +614,20 @@
         "ReceivedTime":  "11/26/2026 12:06 PM",
         "Status":  "Present",
         "SortTime":  726.83333333333337
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/26/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.0333333333333
+    },
+    {
+        "Subject":  "Daily VCLT Reports",
+        "ExpectedTime":  "6:09 AM",
+        "ReceivedTime":  "11/26/2026 12:08 PM",
+        "Status":  "Present",
+        "SortTime":  728.23333333333335
     },
     {
         "Subject":  "SUCCESS File Download Completed",
