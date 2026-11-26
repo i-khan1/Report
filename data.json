@@ -266,14 +266,14 @@
         "SortTime":  300.31666666666666
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
         "Status":  "Present",
@@ -607,6 +607,13 @@
         "ReceivedTime":  "11/26/2026 11:06 AM",
         "Status":  "Present",
         "SortTime":  666.2
+    },
+    {
+        "Subject":  "ACATS MONITOR ERROR",
+        "ExpectedTime":  "12:06 PM",
+        "ReceivedTime":  "11/26/2026 12:06 PM",
+        "Status":  "Present",
+        "SortTime":  726.83333333333337
     },
     {
         "Subject":  "SUCCESS File Download Completed",
