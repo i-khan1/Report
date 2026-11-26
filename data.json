@@ -252,13 +252,6 @@
         "SortTime":  300.28333333333336
     },
     {
-        "Subject":  "Risk Reports",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "11/26/2026 5:00 AM",
-        "Status":  "Present",
-        "SortTime":  300.31666666666666
-    },
-    {
         "Subject":  "Finance Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
@@ -266,14 +259,21 @@
         "SortTime":  300.31666666666666
     },
     {
-        "Subject":  "OIR and REGSHO Reports",
+        "Subject":  "Risk Reports",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/26/2026 5:00 AM",
+        "Status":  "Present",
+        "SortTime":  300.31666666666666
+    },
+    {
+        "Subject":  "Options Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
         "Status":  "Present",
         "SortTime":  300.35
     },
     {
-        "Subject":  "Options Reports",
+        "Subject":  "OIR and REGSHO Reports",
         "ExpectedTime":  "5:00 AM",
         "ReceivedTime":  "11/26/2026 5:00 AM",
         "Status":  "Present",
@@ -642,6 +642,13 @@
         "ReceivedTime":  "11/26/2026 2:06 PM",
         "Status":  "Present",
         "SortTime":  846.13333333333333
+    },
+    {
+        "Subject":  "VEL SEC DB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "4:37 PM",
+        "ReceivedTime":  "11/26/2026 2:10 PM",
+        "Status":  "Present",
+        "SortTime":  850.75
     },
     {
         "Subject":  "FIS File Delivered VCC cp security n",
