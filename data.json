@@ -147,6 +147,20 @@
         "SortTime":  199.48333333333335
     },
     {
+        "Subject":  "Daily SOD ETB File to QUICK CAPITAL LLC",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "11/26/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.3
+    },
+    {
+        "Subject":  "Daily SOD ETB File to Galloway Capital LP",
+        "ExpectedTime":  "3:30 AM",
+        "ReceivedTime":  "11/26/2026 3:30 AM",
+        "Status":  "Present",
+        "SortTime":  210.35
+    },
+    {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
