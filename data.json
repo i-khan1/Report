@@ -476,14 +476,14 @@
         "SortTime":  330.3
     },
     {
-        "Subject":  "Daily Cash Account and Reg SHO Report",
+        "Subject":  "Succession daily Audit Trail Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
         "SortTime":  330.5
     },
     {
-        "Subject":  "Succession daily Audit Trail Report",
+        "Subject":  "Daily Cash Account and Reg SHO Report",
         "ExpectedTime":  "5:30 AM",
         "ReceivedTime":  "11/25/2026 5:30 AM",
         "Status":  "Present",
@@ -1041,6 +1041,20 @@
         "ReceivedTime":  "11/25/2026 9:42 PM",
         "Status":  "Present",
         "SortTime":  1302.3333333333333
+    },
+    {
+        "Subject":  "Daily Dreyfus Rate",
+        "ExpectedTime":  "10:02 PM",
+        "ReceivedTime":  "11/25/2026 9:58 PM",
+        "Status":  "Present",
+        "SortTime":  1318.4
+    },
+    {
+        "Subject":  "Daily Activity to Tradepro",
+        "ExpectedTime":  "10:00 PM",
+        "ReceivedTime":  "11/25/2026 10:00 PM",
+        "Status":  "Present",
+        "SortTime":  1320.1333333333334
     },
     {
         "Subject":  "FAILURE File Transfer Issue",
