@@ -175,6 +175,13 @@
         "SortTime":  220.3
     },
     {
+        "Subject":  "DAILY CASH ACCT SD REPORT",
+        "ExpectedTime":  "3:45 AM",
+        "ReceivedTime":  "11/26/2026 3:45 AM",
+        "Status":  "Present",
+        "SortTime":  225.9
+    },
+    {
         "Subject":  "Daily SOD ETB File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "3:00 AM",
         "ReceivedTime":  "",
