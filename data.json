@@ -539,14 +539,14 @@
         "SortTime":  360.78333333333336
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.8
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/27/2026 6:00 AM",
         "Status":  "Present",
@@ -852,6 +852,13 @@
         "ReceivedTime":  "11/27/2026 2:06 PM",
         "Status":  "Present",
         "SortTime":  846.11666666666667
+    },
+    {
+        "Subject":  "VEL SEC DB Transaction Availability ALL MONTHS MATCHED Through",
+        "ExpectedTime":  "4:37 PM",
+        "ReceivedTime":  "11/27/2026 2:13 PM",
+        "Status":  "Present",
+        "SortTime":  853
     },
     {
         "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
