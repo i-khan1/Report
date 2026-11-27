@@ -938,6 +938,27 @@
         "SortTime":  1015.6666666666667
     },
     {
+        "Subject":  "Succession Options File Check",
+        "ExpectedTime":  "5:07 PM",
+        "ReceivedTime":  "11/27/2026 5:08 PM",
+        "Status":  "Present",
+        "SortTime":  1028.65
+    },
+    {
+        "Subject":  "FIX SEDOL Security Profile Report",
+        "ExpectedTime":  "5:10 PM",
+        "ReceivedTime":  "11/27/2026 5:10 PM",
+        "Status":  "Present",
+        "SortTime":  1030.35
+    },
+    {
+        "Subject":  "SUCCESS File Download Completed",
+        "ExpectedTime":  "3:15 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "MAXIT Upload Report for Capital",
         "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
@@ -945,8 +966,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "VCVW OvernightSilexxPosition File Status SUCCESS",
-        "ExpectedTime":  "4:28 AM",
+        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
+        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -959,8 +980,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "SUCCESS File Download Completed",
-        "ExpectedTime":  "3:15 AM",
+        "Subject":  "FAILED Egret File Upload",
+        "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -973,8 +994,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Succession Options File Check",
-        "ExpectedTime":  "5:07 PM",
+        "Subject":  "VCVW OvernightSilexxPosition File Status SUCCESS",
+        "ExpectedTime":  "4:28 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -982,20 +1003,6 @@
     {
         "Subject":  "Tefra File Load SUCCESS",
         "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "FAILED Egret File Upload",
-        "ExpectedTime":  "3:40 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "AWS CLEARING BACKUP SERVER Data Coverage TRNS vs V TRNS",
-        "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
