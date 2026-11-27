@@ -770,6 +770,13 @@
         "SortTime":  550.75
     },
     {
+        "Subject":  "Daily Activity Report to Ambrus Sundial",
+        "ExpectedTime":  "9:16 AM",
+        "ReceivedTime":  "11/27/2026 9:16 AM",
+        "Status":  "Present",
+        "SortTime":  556.11666666666667
+    },
+    {
         "Subject":  "MAXIT Upload Report for Capital",
         "ExpectedTime":  "5:59 AM",
         "ReceivedTime":  "",
