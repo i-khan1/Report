@@ -539,14 +539,14 @@
         "SortTime":  360.78333333333336
     },
     {
-        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
+        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/27/2026 6:00 AM",
         "Status":  "Present",
         "SortTime":  360.8
     },
     {
-        "Subject":  "Daily Exercise Assignment File to QUICK CAPITAL LLC",
+        "Subject":  "Daily Exercise Assignment File to GALLOWAY CAPITAL LP",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "11/27/2026 6:00 AM",
         "Status":  "Present",
@@ -915,6 +915,20 @@
         "ReceivedTime":  "11/27/2026 4:35 PM",
         "Status":  "Present",
         "SortTime":  995.43333333333339
+    },
+    {
+        "Subject":  "Daily Activity Report for Kallpa SAB SA",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "11/27/2026 4:50 PM",
+        "Status":  "Present",
+        "SortTime":  1010.2333333333333
+    },
+    {
+        "Subject":  "Daily Activity Report for IEB",
+        "ExpectedTime":  "4:50 PM",
+        "ReceivedTime":  "11/27/2026 4:50 PM",
+        "Status":  "Present",
+        "SortTime":  1010.4666666666667
     },
     {
         "Subject":  "SUCCESS File Download Completed",
