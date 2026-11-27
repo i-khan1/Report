@@ -392,6 +392,34 @@
         "SortTime":  302.41666666666669
     },
     {
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/27/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.23333333333335
+    },
+    {
+        "Subject":  "Daily Cust Short file to Evergreen Capital Management LLC and Greenle Partners LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/27/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.41666666666669
+    },
+    {
+        "Subject":  "Daily Cust Short file to Hexstone Capital LLC",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/27/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.43333333333334
+    },
+    {
+        "Subject":  "Daily Cust Short file to Exante",
+        "ExpectedTime":  "9:06 AM",
+        "ReceivedTime":  "11/27/2026 5:15 AM",
+        "Status":  "Present",
+        "SortTime":  315.48333333333335
+    },
+    {
         "Subject":  "SUCCESS File Download Completed",
         "ExpectedTime":  "3:15 AM",
         "ReceivedTime":  "",
@@ -427,6 +455,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Daily OCC LOPR Files",
+        "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "Daily Exercise Assignment Report for Capital",
         "ExpectedTime":  "5:05 AM",
         "ReceivedTime":  "",
@@ -441,15 +476,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily BMSY Activity File",
-        "ExpectedTime":  "3:31 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Daily OCC LOPR Files",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Daily Cust Short file to Augustus Stock Loan Interest",
+        "ExpectedTime":  "5:15 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -457,6 +485,13 @@
     {
         "Subject":  "Daily Activity File to Ambrus",
         "ExpectedTime":  "4:00 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
+        "Subject":  "Daily BMSY Activity File",
+        "ExpectedTime":  "3:31 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
