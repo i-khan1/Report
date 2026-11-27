@@ -861,6 +861,13 @@
         "SortTime":  853
     },
     {
+        "Subject":  "ACATS GENERATED Batch",
+        "ExpectedTime":  "10:51 AM",
+        "ReceivedTime":  "11/27/2026 2:51 PM",
+        "Status":  "Present",
+        "SortTime":  891.05000000000007
+    },
+    {
         "Subject":  "Daily Exercise Assignment File to STRATOSPHERE CAPITAL LLC",
         "ExpectedTime":  "6:00 AM",
         "ReceivedTime":  "",
@@ -889,13 +896,6 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Tefra File Load SUCCESS",
-        "ExpectedTime":  "4:36 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
         "Subject":  "ACATS SUCCESS Batch",
         "ExpectedTime":  "10:52 AM",
         "ReceivedTime":  "",
@@ -910,6 +910,13 @@
         "SortTime":  999999
     },
     {
+        "Subject":  "Tefra File Load SUCCESS",
+        "ExpectedTime":  "4:36 AM",
+        "ReceivedTime":  "",
+        "Status":  "Missing",
+        "SortTime":  999999
+    },
+    {
         "Subject":  "FAILED Egret File Upload",
         "ExpectedTime":  "3:40 AM",
         "ReceivedTime":  "",
@@ -917,8 +924,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "ACATS GENERATED Batch",
-        "ExpectedTime":  "10:51 AM",
+        "Subject":  "FAILURE File Transfer Issue Secondary",
+        "ExpectedTime":  "11:18 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -952,8 +959,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
+        "Subject":  "Success AWS Backup Server Database Date",
+        "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -966,8 +973,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "FAILURE File Transfer Issue Secondary",
-        "ExpectedTime":  "11:18 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
@@ -975,13 +982,6 @@
     {
         "Subject":  "Daily OCC LOPR Files",
         "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Success AWS Backup Server Database Date",
-        "ExpectedTime":  "2:43 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
