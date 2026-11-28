@@ -91,11 +91,18 @@
         "SortTime":  406.93333333333334
     },
     {
-        "Subject":  "Daily Activity File to Ambrus",
-        "ExpectedTime":  "4:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
+        "Subject":  "Locate Vs GS Comparison File",
+        "ExpectedTime":  "5:15 AM",
+        "ReceivedTime":  "11/28/2026 6:51 AM",
+        "Status":  "Present",
+        "SortTime":  411.8
+    },
+    {
+        "Subject":  "Goldman s daily Assignment and Exercise File",
+        "ExpectedTime":  "5:00 AM",
+        "ReceivedTime":  "11/28/2026 6:52 AM",
+        "Status":  "Present",
+        "SortTime":  412.56666666666666
     },
     {
         "Subject":  "MAXIT Upload Report for Capital",
@@ -105,15 +112,8 @@
         "SortTime":  999999
     },
     {
-        "Subject":  "Goldman s daily Assignment and Exercise File",
-        "ExpectedTime":  "5:00 AM",
-        "ReceivedTime":  "",
-        "Status":  "Missing",
-        "SortTime":  999999
-    },
-    {
-        "Subject":  "Locate Vs GS Comparison File",
-        "ExpectedTime":  "5:15 AM",
+        "Subject":  "Daily Activity File to Ambrus",
+        "ExpectedTime":  "4:00 AM",
         "ReceivedTime":  "",
         "Status":  "Missing",
         "SortTime":  999999
